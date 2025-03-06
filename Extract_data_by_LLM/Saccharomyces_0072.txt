@@ -1,0 +1,964 @@
+BIOTECHNOLOGICAL PRODUCTS AND PROCESS ENGINEERING
+D-Galacturonic acid reduction by S. cerevisiae for L-galactonate
+production from extracted sugar beet press pulp hydrolysate
+J. Wagner1&D. Schäfer1&N. von den Eichen1&C. Haimerl1&S. Harth2&M. Oreb2&J. P. Benz3&D. Weuster-Botz1
+Received: 22 March 2021 / Revised: 3 June 2021 / Accepted: 25 June 2021
+#The Author(s) 2021
+Abstract
+Pectin-rich residues are considered as promising feedstocks for sustainable production of platform chemicals. Enzymatic hydro-
+lysis of extracted sugar beet press pulp (SBPP) releases the main constituent of pectin, D-galacturonic acid ( D-GalA). Using
+engineered Saccharomyces cerevisiae ,D-GalA is then reduced to L-galactonate ( L-GalOA) with sorbitol as co-substrate. The
+current work addresses the combination of enzymatic hydrolysis of pectin in SBPP with a consecutive optimized biotransfor-
+mation of the released D-GalA to L-GalOA in simple batch processes in stirred-tank bioreactors. Process conditions were first
+identified with synthetic media, where a product concentration of 9.9 g L-1L-GalOA was obtained with a product selectivity of
+99% (L-GalOA D-GalA-1) at pH 5 with 4% (w/v) sorbitol within 48 h. A very similar batch process performance with a product
+selectivity of 97% was achieved with potassium citrate buffered SBPP hydrolysate, demonstrating for the first time direct
+production of L-GalOA from hydrolyzed biomass using engineered S. cerevisiae . Combining the hydrolysis process of extracted
+SBPP and the biotransformation process with engineered S. cerevisiae paves the way towards repurposing pectin-rich residues as
+substrates for value-added chemicals.
+Key points
+Efficient bioreduction of D-GalA with S. cerevisiae in stirred-tank reactors
+Batch production of L-GalOA by engineered S. cerevisiae with high selectivity
+Direct L-GalOA production from hydrolyzed sugar beet press pulp
+Keywords Extractedsugarbeetpresspulp .Pectin .Enzymatichydrolysis .D-Galacturonicacid .L-Galactonate .Saccharomyces
+cerevisiae
+Introduction
+The bioconversion of agricultural residues into second-
+generation biofuels has been well studied and extensively
+reviewed (Kuivanen et al. 2019 ; Hortsch and Corvo 2020 ;Jansen et al. 2017 ; Lin and Tanaka 2006 ). The hydrolysis of
+lignocellulosic plant residues is industrially established, and
+hydrolysates are used for bioethanol production (Cardona and
+Sánchez 2007 ; Erdei et al. 2012 ; Gírio et al. 2010 ). Plant
+residues rich in pectin, such as extracted citrus fruits or sugar
+*D. Weuster-Botz
+dirk.weuster-botz@tum.de
+J. Wagner
+jacqueline.wagner@tum.de
+M. Oreb
+m.oreb@bio.uni-frankfurt.de
+J. P. Benz
+benz@hfm.tum.de1Institute of Biochemical Engineering, Technical University of
+Munich, Boltzmannstr. 15, D-85748 Garching, Germany
+2Faculty of Biological Sciences, Institute of Molecular Biosciences,
+Goethe University Frankfurt, Max-von-Laue Straße 9,
+D-60438 Frankfurt am Main, Germany
+3TUM School of Life Sciences, Professorship of Fungal
+Biotechnology in Wood Science, Technical University of Munich,
+Hans-Carl-von-Carlowitz-Platz 2, D-85354 Freising, Germanyhttps://doi.org/10.1007/s00253-021-11433-5
+/ Published online: 16 July 2021Applied Microbiology and Biotechnology (2021) 105:5795–5807beet pulps, have sparked interest in recent years as novel feed-
+stocks with high potential for bioconversions (Edwards and
+Doran-Peterson 2012 ). More than 250 million tons of citrus
+fruits and sugar beets are harvested annually for juicing and
+sugar refining (FAO 2020 ;K u i v a n e ne ta l . 2019 ). The residual
+d r yp u l pc o n s i s t so f2 0 –40% (w/w) pectin, a
+heteropolysaccharide comprised mainly of an α-1,4-linked
+D-galacturonic acid backbone (Mohnen 2008 ). Depending
+on the pectic subtype, D-GalA is alternated with L-rhamnose
+monomers in the backbone, additionally being substitutedwith different mono- and oligosaccharide side chains
+(Micard et al. 1996 ; Schmitz et al. 2019 ). Usually, the extract-
+ed and dried pulps are used energetically or as animal feed
+additive (Richard and Hilditch 2009 ;Z e m ae ta l . 2018 ).
+To access monomeric
+D-GalA from pectic residues, either
+chemical or enzymatic pre-treatment is necessary. Chemicalpre-treatment seems favorable for degradation of the strong
+cellulose and hemicellulose network surrounding the pectin inplant cell walls. However, formation of non-fermentable and
+toxic byproducts for microorganisms during chemical hydro-
+lysis, like furfural or hydroxymethylfurfural (HMF), favorsthe utilization of enzymes for the degradation of pectic resi-
+dues (Palmqvist and Hahn-Hägerdal 2000 ). Though less effi-
+cient compared to the chemical breakdown, fewer potentiallyinhibitory components are formed (Martins et al. 2020 ).
+Natively, fungi can hydrolyze this complex
+heteropolysaccharide with a toolbox of different pectinase en-
+zymes (Garg et al. 2016 ; Hassan et al. 2019 ; Kashyap et al.
+2001 ;J a y a n ie ta l . 2005 ). Leijdekkers et al. ( 2013 )r e p o r t e da
+hydrolysis yield of 79% resulting in 11.8 g L
+-1D-GalA after
+48 h from extracted sugar beet press pulp using different com-
+mercially available enzyme mixtures. Recently, non-optimized Aspergillus niger strains were evaluated for their
+pectinase activity to depolymerize different pectinaceous ag-ricultural residues (Schäfer et al. 2020 ). The resulting enzyme
+cocktail was used for sodium acetate buffered hydrolysis of
+extracted sugar beet press pulp at pH 4.5 in a batch process. In
+total, 8.0 g L
+-1of monomeric D-GalA could be released within
+48 h with a yield of 36.4% (w/w).
+Recent approaches to valorize low-value pectin-rich resi-
+dues used microorganisms to produce higher value productsfrom
+D-GalA. While Kuivanen et al. ( 2012 ) exploited deletion
+mutants of A. niger for the reduction of D-GalA in batch pro-
+cesses to produce up to 8.7 g L-1ofL-galactonate ( L-GalOA)
+in 144 h, Protzko et al. ( 2018 ) used recombinant S. cerevisiae
+for the oxidation of D-GalA. Up to 8 g L-1ofmeso- galactaric
+acid were formed by the yeast cells in batch processes withglucose as co-substrate. Both biotransformation products have
+potential applications as a pharmaceutical conjugate or chela-
+tor in the industry (Kuivanen et al. 2019). Especially
+L-
+GalOA, being physico-chemically similar to D-gluconic acid,
+may be applied as an alternative chelating agent in the cos-metic and food industries (Kuivanen et al. 2012 ). Its lactonicform,
+L-galactono-1,4-lactone, is the precursor of vitamin C
+(Kuivanen et al. 2015 ; Sauer et al. 2004 ) and an analog of
+glucono- δ-lactone (E575), an acidifier applied in various
+foodstuffs. While the application of filamentous fungi natively
+producing L-GalOA might appear advantageous, the yeast
+S. cerevisiae , being the microbial workhorse of bio-industry
+(Hong and Nielsen 2012 ; Nielsen et al. 2013 ), surpasses the
+fungus in fast genetic manipulation for metabolic engineering.
+Furthermore, high growth rates resulting in shorter fermenta-tion processes and the production of utilizable byproducts
+such as ethanol lower operating costs and the risk of potential
+contamination by other microbes (van Maris et al. 2006 ).
+S. cerevisiae has been engineered for the reduction of
+D-
+GalA, given that this yeast is natively unable to metabolize D-
+GalA (van Maris et al. 2006 ). One auspicious metabolic engi-
+neering approach was the expression of transporters from
+A. niger orNeurospora crassa inS. cerevisiae enabling the
+efficient uptake of D-GalA in yeast cells (Benz et al. 2014 ;
+Harth et al. 2020 ; Protzko et al. 2018 ). Consecutively, D-GalA
+is reduced with overexpressed NAD(P)H-dependent oxido-
+reductases in the yeast cells (Richard and Hilditch 2009 ).
+Biz et al. ( 2016 ) demonstrated the consumption of only 1 g
+L-1D-GalA with engineered yeast strains expressing four
+genes of the reductive D-GalA pathway from A. niger to pro-
+duce ethanol in the presence of 80 g L-1fructose in 24 h. The
+low conversion of D-GalA was ascribed to the higher oxida-
+tion state of D-GalA compared to other hexoses, such as fruc-
+tose, and an intracellula r lack of reducing factors.
+Conclusively, the authors suggested the introduction of en-zymes to regenerate NAD(P)H in a stoichiometric manner
+for
+D-GalA reduction. This hypothesis is further supported
+by Protzko et al. ( 2018 ), who showed preferred expression
+of the NAD(P)H utilizing D-GalA reductase GaaA from
+A. niger inS. cerevisiae in enrichment experiments with D-
+GalA as the sole carbon source. Jeong et al. (2020)
+approached this assumed lack of reducing equivalents by ex-
+pressing enzymes from Ambrosiozyma monospora ,Pichia
+stipitis , and T. reesei for the co-utilization of the pentoses
+xylose and arabinose in yeast strains carrying different fungalenzymes from A. niger andT. reesei for the reduction of
+D-
+GalA. Fermentation of these sugars involves NAD(P)H gen-
+erating pathways, and growth of engineered S. cerevisiae was
+made possible with consumption of 33.7 g L-1xylose, 25.9 g
+L-1arabinose, and 15.3 g L-1D-GalA as the sole carbon
+sources, thereby overcoming the redox problem of D-GalA
+catabolism in yeast. Lastly, Harth et al. ( 2020 ) described a
+fully functional, redox-ba lanced enzyme system in
+S. cerevisiae expressing the D-galacturonic acid transporter
+from A. niger , AnGar1, an NADPH-dependent reductase from
+A. niger , for the reduction of D-GalA to L-GalOA and an
+NADP-dependent sorbitol dehydrogenase from Yarrowia
+lypolytica (YlSdr) with sorbitol as the co-substrate to regener-
+ate the reducing factors. In t his constellation, NADPH is5796 Appl Microbiol Biotechnol (2021) 105:5795–5807regenerated when sorbitol is oxidized to fructose achieving a
+nearly complete conversion of D-GalA into 4.4 g L-1L-GalOA
+within 8 days in batch processes with synthetic medium
+(Harth et al. 2020 ).
+With the engineered S. cerevisiae strain of Harth et al.
+(2020 )a th a n d( S. cerevisiae SiHY001), the utilization of en-
+zymatically hydrolyzed pectinaceous residues for L-GalOA
+production seems feasible. Still, process conditions that favorthe enzymatic hydrolysis of sugar beet press pulp (SBPP) withpectinases from A. niger , as described by Schäfer et al. ( 2020 ),
+do not necessarily support biotransformation conditions forthe recombinant yeast strain. Especially, the unique composi-tion and processing of pectinaceous hydrolysates may bear
+unknown inhibitory substances for yeast (Martins et al.
+2020 ). Therefore, we firstly studied the effects of pH, initial
+sorbitol, and
+D-GalA concentrations on L-GalOA production
+with S. cerevisiae SiHY001 in simple batch processes in con-
+trolled stirred-tank bioreactors with defined medium to adaptthe bioreduction process to the previous enzymatic hydrolysis
+(Schäfer et al. 2020 ). Secondly, we adapted the enzymatic
+hydrolysis process of SBPP for
+D-GalA release to enable a
+direct subsequent whole-cell biotransformation withS. cerevisiae SiHY001.
+Materials and methods
+Unless stated otherwise, all chemicals were purchased from
+Carl Roth GmbH or Sigma-Aldrich.
+Microbial strains
+Biotransformation of D-GalA to L-GalOA was studied with
+S. cerevisiae SiHY001, which was earlier described to be
+able to reduce D-GalA to L-GalOA with sorbitol as co-
+substrate for growth and cofactor regeneration (Harthet al. 2020). S. cerevisiae SiHY001 contains expression
+cassettes with the genes for (i) the endogenous sorbitol
+transporter HXT13, (ii) the sorbitol dehydrogenase YlSdr
+(UniProtKB —Q6CEE9) from Yarrowia lipolytica , (iii) the
+D-galacturonic acid reductase AnGar1 (UniProtKB-
+A2R7U3) from A. niger ,a sw e l la s( i v )t h e D-galacturonic
+acid transporter AnGatA (UniProtKB —A2R3H2) fromA. niger . Cassettes were integrated into the URA3 locus
+of the parental strain S. cerevisiae EBY.VW4000, an auxo-
+trophic, hexose-transporter deficient strain (Wieczorkeet al. 1999). The cells were maintained in 25% (v/v) glyc-
+erol stocks at –80 °C with a cell dry weight (CDW) con-
+centration of 0.5 g L
+-1(Table 1).
+Seed cultures
+For the inoculation of stirred-tank bioreactors, seed cul-tures were grown 72 h in autoclaved (121 °C, 20 min)
+1000-mL shake flasks with 100 mL of SC medium con-
+t a i n i n g1 . 7gL
+-1BD™Difco™yeast nitrogen base with-
+out amino acids and ammonium sulfate (Fisher Scientific
+GmbH, Schwerte, Germany) and sterile filtered (0.22 μm,
+Steritop, Merck KGaA, Darmstadt, Germany) amino acid
+mix (0.056 g L-1adenine, 0.192 g L-1arginine, 0.192 g L-1
+methionine, 0.072 g L-1tyrosine, 0.288 g L-1isoleucine,
+0.323 g L-1lysine*H 2O, 0.240 g L-1phenylalanine,
+0.288 g L-1valine, 0.288 g L-1threonine, 0.096 g L-1ura-
+c i l ,0 . 0 9 6gL-1histidine, 0.095 g L-1tryptophan, 0.288 g
+L-1leucine), 10 g L-1ammonium sulfate, 10 g L-1sorbitol,
+and 5 g L-1D-galacturonic acid at 30 °C and 180 rpm
+(Multitron, Infors HT, Bottmingen, Switzerland). Shakeflasks were inoculated with 500 μL glycerol stocks of
+S. cerevisiae strain SiHY001.
+Preparation of inoculum for stirred-tank bioreactors
+Inoculums for stirred-tank bioreactors were prepared by
+centrifuging cells from seed cultures at 3000 g within
+10 min at 4 °C (Rotixa 50 RS, Andreas Hettich GmbH &Co.KG, Tuttlingen, Germany) and washing the pellet twice
+with sterile phosphate buffered saline (8 g L
+-1NaCl, 0.2 g L-1
+KCl, 1.44 g L-1Na2HPO 4,0 . 2 4gL-1KH 2PO4, pH 7.4). After
+re-suspension in 5 mL sterile SC medium, bioreactors wereinoculated with an amount equivalent to 0.25 g L
+-1cell dry
+weight (CDW).
+Medium preparation
+The medium for pH variations was identical to the medium of
+the seed cultures. For batch processes with varying medium
+Table 1 Genotype of the parental S. cerevisiae EBY.VW4000 and the engineered S. cerevisae SiHY001 used in this study. Prefixes “p”and “t”
+indicate promoters and terminators for genes, respectively
+S. cerevisiae Genotype Reference
+EBY.VW4000 MATa leu2-3,112 ura3-52 trp1-289 his3-1 MAL2-8c SUC2 Δhxt1-17 Δgal2Δstl1::loxP Δagt1::loxP
+Δmph2::loxP Δmph3::loxP(Wieczorke et al. 1999 )
+SiHY001 EBY.VW4000 Δura3::pCCW12-AnGATA-tPGK1-pPGK1-AnGAR1-tENO1-pTDH3-
+HXT13-tSSA1-pTEF2-YlSDR-tADH1-pAgTEF-kanMX-tAgTEF(Harth et al. 2020 ).5797 Appl Microbiol Biotechnol (2021) 105:5795–5807composition, 17 g L-1solid medium component (BD ™
+Difco™yeast nitrogen base without amino acids and ammo-
+nium sulfate, Fisher Scientific GmbH, Schwerte, Germany)
+was used with a two-fold of amino acid concentrations as
+described in 2.2. Buffer sensitivity experiments were per-
+formed in identical medium as seed cultures, except that pHadjusted buffers (1 M, pH 5) substituted aqueous proportions
+of the medium for the respective concentrations of sodium
+acetate, citrate potassium acetate, or citrate.
+Extracted, pre-dried, and milled SBPP with a particle size <
+1 mm (Südzucker AG, Obrigheim, Germany) was hydrolyzedwith an enzyme mix produced from cultivation with A. niger.
+Methods for pectinase production and pectinase (PGase) ac-
+tivity measurements are described in detail by Schäfer et al.
+(2020 ). For hydrolysis of residues, 70 g L
+-1SBPP suspended
+in 100 mM potassium citrate buffer was autoclaved (121 °C,
+20 min). Sterile-filtered fermentation supernatant containing
+the produced enzyme mixture equivalent to 57 U PGase/gSBPP was added afterwards together with kanamycin
+(34μgm L
+-1). Batch hydrolysis of 5 L SBPP suspension was
+performed in stirred-tank reactors (Labfors 3, Infors HT,
+Bottmingen, Switzerland) controlled at pH 4.5, 30 °C and
+continuous stirring with two 3-blade segment impellers with
+65 mm in diameter (Infors HT, Bottmingen, Switzerland) at
+700 min-1for 169 h. The hydrolysate was harvested by cen-
+trifugation for 60 min at 3260 rcf, and subsequently sterile-
+filtrated applying filters with different pore sizes of 2.5 μm,
+0.45μm, and 0.22 μm( W h a t m a n ™filter paper grade 5, 55
+mm, GE Healthcare Life Science, Freiburg, Germany, andMillipore Express® PLUS 0.45 μmo r0 . 2 2 μmP E S ,4 7
+mm, Merck Millipore, Darmstadt, Germany).
+Batch processes in parallel stirred-tank bioreactors at
+10 mL-scale
+Sterile single-use bioreactors with baffles and with DO
+and pH sensors (BZ1002, 2mag AG, Munich, Germanyand sensor spots for DO (PST3-HG) and pH (LG1),
+PreSens Precision Sensing GmbH, Regensburg,
+Germany) were operated with gas-inducing stirrers and10 mL reaction volume in a parallel bioreactor system
+(bioreactor48, 2mag AG, Munich, Germany), embedded
+in a liquid handling system for sampling (MICROLABSTAR
+TMLetM, Hamilton Bonaduz AG, Switzerland).
+Immobilized sensors for DO and pH monitoring wereequilibrated at least 30 min with sterile medium prior tosterile inoculation of each b ioreactor. Batch processes
+were performed at 30 °C and 0.1 L min
+-1of sterile air
+with an impeller speed of 2000 rpm. Evaporation compen-sation was achieved by setting the headspace cooling of
+the reactors to 20 °C and pre-saturating the inlet air with
+water.Batch processes in parallel stirred-tank bioreactors at
+600 mL-scale
+Batch processes were performed with a parallelized lab-scale
+stirred-tank bioreactor system (DASGIP® Parallel Bioreactor
+System, Eppendorf AG, Hamburg, Germany) applying aworking volume of 0.6 L. Each stirred-tank reactor was
+equipped with probes for tem perature, dissolved oxygen
+(DO) concentration, and pH, as well as feed lines for pH
+control (1 M KOH, 0.5 M H
+2SO4), 2 six-blade Rushton tur-
+bines, and a gas mixing unit. Waste gas concentrations of O 2
+and CO 2were monitored separately online with a gas analyzer
+(EasyLine, ABB, Zurich, Switzerland) for each reactor. Prior
+to inoculation, two-point DO calibration was performed at 2
+vvm and 600 rpm by stripping the medium first with nitrogengas until DO = 0% air saturation was achieved and afterwards
+with air until DO = 100% air saturation was achieved in the
+fermentation medium at 30 °C. Aeration, temperature, and pHwere kept constant at 0.5 vvm, 30 °C and pH 5 except for pH
+variation experiments. DO concentration was kept above 30%
+air saturation by the controlled increase of the stirrer speedfrom initially 200 rpm to 800 rpm at the maximum.
+Offline analytics
+Optical density for the determination of cell densities wasperformed at a wavelength of 600 nm (OD
+600) in 10-mm
+cuvettes using a single beam photometer (Genesys 10S UV –
+VIS, Thermo Scientific, Neuss, Germany) or with a micro-plate reader (Multiscan
+TMFC, Thermo Fisher Scientific,
+Waltham, USA). Values obtained from the microplate reader
+(MultiscanTMFC, Thermo Fisher Scientific, Waltham, USA)
+were correlated to the single beam photometer (OD 600)w i t ha
+second order polynomial (OD 600=−3.6522 x2+3 . 9 7 5x+
+0.0032; R2=0 . 9 9 9 8 ) .
+For the determination of cell dry weight (CDW) concentra-
+tions, pre-dried (24 h, 80 °C) and pre-weighted reaction tubeswere filled with 2 mL cell suspension and centrifuged for
+10 min at 13,000 g. The supernatant was discarded, and thecell pellet dried for 24 h at 80°C. CDW was determined gravi-
+metrically and correlated to optical densities (OD
+600),
+resulting in a linear correlation factor of 0.61 g L-1.
+Maximum growth rates were estimated by linear regression
+after plotting the logarithm of the CDW concentrations during
+exponential growth as a function of the process time.
+Metabolites in the fermentation broth were determined
+with high-performance liquid chromatography (Agilent1100, Agilent Technologies Inc., Santa Clara, USA or
+Shimadzu Prominence-i LC-2030C Plus, Shimadzu
+Scientific Instruments, Inc., Japan) equipped with an RI de-tector (Agilent 1200, Agilent Technologies Inc., Santa Clara,
+USA or Shimadzu RID-20A, Shimadzu Scientific
+Instruments, Inc., Japan), an UV detector at 210 nm5798 Appl Microbiol Biotechnol (2021) 105:5795–5807(integrated in Shimadzu Prominence-i LC-2030C Plus,
+Shimadzu Scientific Instruments, Inc., Japan), and a thermo-
+stat. Samples for analysis were centrifuged for 10 min at13,000 g and filtered (0.22 μmp o r es i z e ,C h r o m a f i lR C 2 0 /
+15 MS, Macherey-Nagel GmbH & Co.KG, Düren, Germany).Separation of substrates was achieved with an Aminex HPX-87H column (Biorad, Munich, Germany) at 60 °C using a
+flow rate of 0.5 mL min
+-1mobile phase with 5 mM sulfuric
+acid.
+Results
+Biotransformations at varying pH
+Pectinolytic enzymes favor acidic pH for hydrolysis of pecti-naceous residues (Kashyap et al. 2001 ). To avoid a different
+pH for hydrolysis and biotransformation, five standardized
+batch processes wer e performed with S. cerevisiae
+SiHY001 at pH set points between pH 3 and pH 5 with SCmedium in stirred-tank bioreactors at 600 mL-scale. Initial
+D-
+GalA concentrations of 5 g L-1were chosen based on the
+reported D-GalA concentrations measured after enzymatic hy-
+drolysis (Schäfer et al. 2020 ). While similar final biomass
+concentrations of 4.1 –5.0 g L-1CDW were observed at all
+pH set points, final L-GalOA concentrations varied greatly
+between 1.1 and 3.6 g L-1(Fig. 1). The highest product con-
+centration and product yield Y P/Sorbitol was observed at pH 5
+with 3.6 g L-1L-GalOA, and 0.49 ± 0.04 mol L-GalOA mol-1
+sorbitol, respectively. A nearly stoichiometric biotransforma-tion yield Y
+P/Ewas observed within the estimation error
+(0.92 –1.02 mol L-GalOA mol-1D-GalA) independent of the
+pH (Table 2), indicating the absence of any further metabo-
+lism of either D-GalA or L-GalOA by the yeast cells.
+At all pH set points studied, growth of S. cerevisiae
+SiHY001 was finished after ~ 3 days and the remainingsorbitol was further consumed by the resting cells (mainte-
+nance metabolism). No biotransformation activities were ob-
+served with the resting cells at pH < 4.0, whereas considerablebiotransformation activity was observed at pH 4.5 and pH 5.0
+(Fig. 1) in the stationary phase. Notably, the growth-coupled
+biotransformation activity of S. cerevisiae SiHY001 contrib-
+uted predominantly to
+L-GalOA production (85% at pH 4.5,
+and 79% at pH 5.0, respectively). Based on the observed best
+biotransformation results with S. cerevisiae SiHY001 at pH
+5.0, this pH was chosen as the set point for further studies.
+Biotransformations with varying initial sorbitol
+concentrations
+To avoid any co-substrate limitations in the batch biotransfor-
+mation processes, three standardized batch processes were
+performed with S. cerevisiae SiHY001 with increasing initial
+sorbitol concentrations at pH 5 with SC medium in stirred-
+tank bioreactors at 600 mL-scale keeping the initial D-GalA
+concentration constant at 5.2 g L-1. At 1% (w/v) sorbitol, a
+final biomass concentration of 3.8 g L-1was reached com-
+pared to 4.8 g L-1a n d7 . 6gL-1at 2% (w/v) and 4% (w/v)
+sorbitol, respectively (Fig. 2). The final product concentra-
+tions were improved as well with increasing initial sorbitol
+concentrations (3.6 g L-1L-GalOA with 1% (w/v) sorbitol,
+4 . 3gL-1L-GalOA with 2% (w/v) sorbitol, and 5.2 g L-1L-
+GalOA with 4% (w/v) sorbitol, respectively). Unfortunately,
+D-GalA was already consumed after 2 days with 4% (w/v)
+sorbitol, so that the increased concentration of the
+S. cerevisiae SiHY001 biocatalysts could not be used to full
+capacity during further batch processing. On the other hand, L-
+GalOA space-time yield (0.1 g L-1h-1) was very much im-
+proved with 4% (w/v) sorbitol at full conversion of D-GalA
+after a process time of 2 days compared to the other batch
+processes, in which full conversion was not even reached after
+7d a y s( F i g .2 ).
+Due to the increased consumption of sorbitol for biomass
+formation with increasing initial sorbitol concentrations, thefinal
+L-GalOA yield Y P/Sorbitol decreased from 0.45 mol L-
+GalOA mol-1sorbitol at the lowest initial sorbitol concentra-
+tion, to 0.26 mol L-GalOA mol-1sorbitol at twice as much
+initial sorbitol and to 0.13 mol L-GalOA mol-1sorbitol at the
+four-fold of initial sorbitol. Additionally, an increased pro-
+duction of non-respiratory metabolites like acetate, glycerol,
+and especially ethanol was observed with increasing initial
+sorbitol concentrations (0.0 g L-1EtOH with 1% (w/v) sor-
+bitol, 1.0 g L-1EtOH with 2% (w/v) sorbitol, and 4.1 g L-1
+EtOH with 4% (w/v) sorbitol, respectively). To avoid anylimitation caused by co-substrate supply, further batch pro-cesses were performed with 4% initial sorbitol concentration
+(Table 3).Table 2 Biomass concentrations c X,L-GalOA concentrations c P,L-
+GalOA yields Y P/Sorbitol ,a n d L-GalOA biotransformation yields Y P/Ein
+batch processes with S. cerevisiae SiHY001 at varying pH set-points after
+160 h (stirred-tank reactors, V = 600 mL, T = 30 °C, DO > 30% air
+saturation, c Sorbitol,0 =1 0gL-1,c D-GalA,0 =5gL-1;Fair= 0.5 vvm).
+Different letters indicate significant differences within the displayed data
+groups (p < 0.05) using a one-way ANOVA followed by a Tukey ’sp o s t
+hoc test
+pH c X
+gL-1cP
+gL-1YP/Sorbitol ,
+mol mol-1YP/E,
+mol mol-1
+3.0 (a) 4.07 ± 0.35 1.32 ± 0.20de0.14 ± 0.00de1.01 ± 0.08
+3.5 (b) 4.53 ± 0.30 1.46 ± 0.02de0.19 ± 0.02de1.02 ± 0.07
+4.0 (c) 4.66 ± 1.26 1.98 ± 0.29e0.23 ± 0.00de0.93 ± 0.08
+4.5 (d) 5.04 ± 0.03 2.70 ± 0.21abe0.35 ± 0.04abce1.00 ± 0.08
+5.0 (e) 4.56 ± 0.96 3.75 ± 0.33abcd0.49 ± 0.04abcd0.92 ± 0.015799 Appl Microbiol Biotechnol (2021) 105:5795–5807Growth of S. cerevisiae SiHY001 with varying buffer
+components
+The first biotransformation of hydrolyzed SBPP was studied
+at pH 5 with 4% (w/v) sorbitol in a stirred-tank bioreactor. No
+growth, no sorbitol consumption, no D-GalA consumption,
+and no L-GalOA production were observed with
+S. cerevisiae SiHY001 (data not shown). Enzymatic hydroly-
+sis of SBPP had been performed in 100 mM sodium acetate
+buffer (Schäfer et al. 2020 ). As acetic acid is known to affect
+the metabolism of S. cerevisiae already at concentrations as
+low as 3 mM (Sousa et al. 2012 ), growth of S. cerevisiae
+SiHY001 was studied in miniaturized single-use stirred tank
+reactors with diverse buffers and buffer concentrations at pH5.0 in SC medium (sodium acetate, sodium citrate, potassium
+acetate, and potassium citrate). No growth was observed with
+acetate buffered media at all concentrations (data not shown).Increasing sodium citrate concentrations resulted in reduced
+maximum growth rates in batch processes, whereas potassium
+citrate had no effect on the maximum growth rate at 200 mMand above (Fig. 3). Consequently, the sodium acetate buffer
+was replaced by 100 mM potassium citrate buffer at pH 5.0 forall further enzymatic hydrolyses of SBPP.
+Biotransformation with sugar beet press pulp
+hydrolysate
+SBPP prepared with 100 mM potassium citrate buffer was
+used for biotransformations at pH 5 in stirred-tank bioreactors.
+Initial sugar concentrations after medium preparation with
+SBPP hydrolysate were 40 g L-1sorbitol, 5 g L-1D-GalA,
+9.4 g L-1glucose, 13.9 g L-1arabinose, and 3.2 g L-1xylose/
+mannose/galactose, respectively. Batch process performanceofS. cerevisiae SiHY001 was very similar to processes with
+Fig. 1 Biotransformation studies
+with S. cerevisiae SiHY001 at
+varying pH. Concentrations of
+sorbitol (circle), D-GalA
+(diamond), L-GalOA (square) and
+CDW (triangle) in batch operated
+stirred-tank bioreactors as a func-
+tion of process time (V = 600 mL,
+T = 30 °C, DO > 30% air satura-tion, F
+air=0 . 5v v m )5800 Appl Microbiol Biotechnol (2021) 105:5795–5807SC medium (Fig. 4). CDW concentrations of 7.9 g L-1were
+achieved within 2 days. No significant growth could be ob-
+served afterwards, although 5.5 g L-1sorbitol were present in
+SC medium, and 3.0 g L-1sorbitol in SBPP hydrolysate me-
+dium, respectively. Biotransformation of D-GalA was already
+finished within 1.5 days with nearly stoichiometric biotrans-
+formation yield Y P/Eof 0.99 mol L-GalOA mol-1D-GalA with
+SC medium and 0.94 ± 0.04 mol L-GalOA mol-1D-GalA with
+SBPP hydrolysate medium. Product yield Y P/sorbitol was im-
+proved with SBPP hydrolysate medium compared to SC me-dium (0.16 ± 0.01 mol
+L-GalOA mol-1sorbitol, and 0.13 mol
+L-GalOA mol-1sorbitol, respectively).
+CO 2concentrations in the off-gas differed considerably
+between the biotransformation processes (Fig. 4). SBPP hy-
+drolysate resulted in increased CO 2production between a
+process time of 1 –2.2 days. This might result from the con-
+sumption of initial acetate (1.0 g L-1) provided with SBPP
+hydrolysate and the re-consumption of ethanol duringbiotransformation within the first 2 days. Re-consumptionof ethanol was very much delayed in the biotransformation
+with SC medium.
+Glycerol accumulation of up to nearly 6 g L
+-1was only
+observed with SBPP hydrolysate (Fig. 4), presumably a reac-
+tion of S. cerevisiae to components of the hydrolysate
+(Nielsen and Arneborg 2007 ;S c a n e se ta l . 1998 ). No fermen-
+tation of other hexoses in SBPP hydrolysate, namely galactoseand mannose, could be observed due to the strain ’s inability to
+consume these sugars (Wieczorke et al. 1999 ).
+Biotransformations with increased initial d-GalA
+concentrations
+Theoretically, higher initial D-GalA concentrations of up to 15 g
+L-1should be accessible after enzymatic hydrolysis of SBPP.
+AsD-GalA reduction by S. cerevisiae SiHY001 occurs predom-
+inantly growth-coupled and the maximum CDW concentration
+w a sa r o u n d8gL-1in batch processes with initial 40 g L-1
+sorbitol and final sorbitol conve rsions of 87%, the initial con-
+centrations of the trace elements , vitamins, and salts were in-
+creased in biotransformations with 15 g L-1D-GalA to avoid
+any limitation. Increased initial a mino acid concentrations in the
+medium resulted in no significant alterations of the batch pro-cesses with the auxotrophic yeast strain (data not shown).
+Considerably higher biomass concentrations (11.6 g L
+-1)
+were achieved with a ten-fold initial increase of the concen-trations of trace elements, vitamins, and salts in the SC medi-
+um (10-fold SC medium) (Fig. 5). This resulted in an in-
+creased product yield Y
+P/sorbitol (0.28 ± 0.01 mol L-GalOA
+Fig. 2 Biotransformation studies
+with S. cerevisiae SiHY001 at
+varying initial sorbitol
+concentrations. Concentrations of
+sorbitol (circle), D-GalA
+(diamond), L-GalOA (square) and
+CDW (triangle) in batch operated
+stirred-tank bioreactors as func-
+tion of process time (V = 600 mL,T = 30 °C, DO > 30% air satura-
+tion, F
+air=0 . 5v v m )
+Table 3 Biomass concentrations c X,L-GalOA concentrations c P,L-
+GalOA yields Y P/Sorbitol ,a n d L-GalOA biotransformation yields Y P/Ein
+batch processes with S. cerevisiae SiHY001 at varying initial sorbitol
+concentrations after 160 h (stirred-tank reactors, V = 600 mL, T = 30
+°C, DO > 30% air saturation, pH = 5, c D-GalA,0 =5gL-1;Fair=0 . 5v v m )
+CSorbitol
+gL-1cX
+gL-1cP
+gL-1YP/Sorbitol ,
+mol mol-1YP/E,
+mol mol-1
+10 3.8 3.6 0.45 0.91
+20 4.8 4.3 0.26 0.94
+40 7.6 5.2 0.13 1.035801 Appl Microbiol Biotechnol (2021) 105:5795–5807mol-1sorbitol compared to 0.13 mol L-GalOA mol-1sorbitol)
+and biomass yield Y X/sorbitol (0.29 ± 0.1 g biomass g-1sorbitol
+compared to 0.17 g biomass g-1sorbitol). Ethanol and acetate
+accumulation was increased as well during the first 25 h, butboth were readily reconsumed within 24 h thereafter. Glycerol
+accumulation was solely observed with the 10-fold SC medi-
+um up to 2.34 ± 0.03 g L-1and reconsumption of glycerol was
+not finished after 3.5 days.
+Fig. 3 Growth studies with S. cerevisiae SiHY001 at varying buffer
+concentrations. Maximum growth rates in batch operated stirred-tank
+bioreactors as function of process time with SC medium and 5 g L-1D-
+GalA and 10 g L-1sorbitol with sodium citrate (gray), potassium citrate
+(white) and a control (light gray) without buffer(V = 10 mL, pH = 5.0, T =30 °C, DO > 30% air saturation). Error bars represent the standard de-
+viation of three parallel batch experiments. Different letters indicate sig-nificant differences within the displayed data groups (p < 0.05) using aone-way ANOVA followed by a Tukey ’s post hoc test
+Fig. 4 Biotransformation studies
+with S. cerevisiae SiHY001 with
+sugar beet press pulp (SBPP) hy-
+drolysate (gray) compared to SC
+medium (white symbols/blackline). Concentrations of sorbitol,CDW,
+D-GalA , L-GalOA, etha-
+nol, glycerol, acetate, and CO 2in
+off-gas as function of the processtime in batch operated stirred-tank
+bioreactors (V = 600 mL, T = 30
+°C, DO > 30% air saturation, F
+air
+= 0.5 vvm). CDW concentrationswere estimated via OD
+600mea-
+surements. Error bars represent
+the min –max values of two in-
+dividual batch experiments withSBPP hydrolysate in stirred-tank
+bioreactors and may appear
+smaller than symbols5802 Appl Microbiol Biotechnol (2021) 105:5795–5807Growth-associated biotransformation of D-GalA was im-
+proved with 10-fold SC medium. Up to 9.9 ± 0.10 g L-1L-
+GalOA were formed from 15 g L-1D-GalA (conversion of
+61%), but biotransformation stopped after 48 h for unknown
+reasons. The remaining 7.8 g L-1sorbitol were consumed
+subsequently for growth of the yeast cells until the batch pro-cess was finished after 4 days. This suggests that the initial
+D-
+GalA concentrations should not be higher than 10 g L-1to
+achieve full conversion to L-GalOA within 48 h in the batch
+biotransformat ion process with S. cerevisiae SiHY001
+(Table 4).Discussion
+Valorization of pectin-rich residues has moved into focus inrecent years. The simultaneous hydrolysis of pectin in extract-ed SBPP and subsequent direct biotransformation of the re-
+leased monomer
+D-GalA would reduce production costs.
+Enzymatic hydrolysis of pectin in SBPP was reported to bebest at pH 4.5 (Schäfer et al. 2020 ). Although S. cerevisiae is
+known for high tolerance towards low pH (Narendranath and
+Power 2005 )a n d S. cerevisiae growth kinetics are not affected
+by pH 3.5 –6.0 (Carmelo et al. 1996 ), the best overall perfor-
+mance of the biotransformation of
+D-GalA to L-GalOA with
+S. cerevisiae SiHY001 was observed at pH 5, the maximum
+pH under study. The previously suggested passive D-GalA
+uptake by S. cerevisiae at low pH was not observed in our
+experiments (Souffriau et al. 2012 ) and low pH did not con-
+tribute to enhanced L-GalOA production. D-GalA conversion
+to ethanol or meso -galactaric acid was so far studied solely
+without pH control in shake flasks (Biz et al. 2016 ; Jeong et al.
+2020 ; Protzko et al. 2018 ). For the direct combination of hy-
+drolysis and biotransformation, a compromise is needed be-tween the best pH for enzymatic hydrolysis of the pectin in
+SBPP (pH 4.5) and the best pH for biotransformation of
+D-
+GalA to L-GalOA with S. cerevisiae SiHY001 (pH 5.0).
+Fig. 5 Biotransformation studies
+with S. cerevisiae SiHY001 with
+increased initial D-GalA
+concentrations applying 10-fold
+SC medium (gray) compared tothe standard SC medium (whitesymbols/black line).
+Concentrations of sorbitol, CDW,
+D-GalA, L-GalOA, ethanol, glyc-
+erol, acetate and CO 2in off-gas as
+function of the process time in
+batch operated stirred-tank biore-
+actors (V = 600 mL, T = 30 °C,
+DO > 30% air saturation, F air=
+0.5 vvm). CDW concentrations
+were estimated via OD 600mea-
+surements. Error bars represent
+the min –max values of two in-
+dividual batch experiments with10-fold SC medium in stirred-
+tank bioreactors and may appearsmaller than symbols
+Table 4 Biomass concentrations c X,L-GalOA concentrations c P,L-
+GalOA yields Y P/Sorbitol , and biomass yields Y X/Sorbitol in batch
+processes with S. cerevisiae SiHY001 with increased initial D-GalA con-
+centrations and medium components (SC) after 88 h (stirred-tank reac-tors, V = 600 mL, T = 30 °C, DO > 30% air saturation, pH = 5, c
+Sorbitol,0 =
+40 g L-1;Fair= 0.5 vvm)
+Medium c X
+gL-1cP
+gL-1YP/Sorbitol ,
+mol mol-1YX/Sorbitol ,
+gg-1
+1-fold SC 7.7 5.0 0.13 0.17
+10-fold SC 11.6 ± 0.6 9.9 ± 0.10 0.28 ± 0.1 0.29 ± 0.15803 Appl Microbiol Biotechnol (2021) 105:5795–5807High initial substrate concentrations are necessary in batch
+biotransformation processes at full conversion to reduce the
+total costs of biotransformation processes, including down-stream processing. At high glucose concentrations, repression
+of respiration and formation of fermentative by-products is
+observed with S. cerevisiae due to the so-called Crabtree ef-
+fect (De Deken 1966 ; Pfeiffer and Morley 2014 ). Although
+not specifically described for sorbitol, it was suggested thatglycolysis-derived hexose phosphates induce this effect(Lemus et al. 2018 ). Since sorbitol is oxidized to fructose,
+and, after phosphorylation, enters glycolysis as fructose-6-phosphate, this might account for the increased non-respiratory behavior of the strain under aerobic conditions.
+Even with residual 5.8 g L
+-1sorbitol left in the medium after
+48 h (Fig. 2and Fig. 4), ethanol is consumed. The reasons may
+be the moderate affinity of the Hxt13 transporter for sorbitol(Jordan et al. 2016) or a self-regulative mechanism of
+S. cerevisiae to avoid inhibiting concentrations of metabolites
+(Sousa et al. 2012 ). To the best of our knowledge, batch pro-
+duction of 9.9 ± 0.1 g L
+-1LGalOA within 48 h (space-time
+yield of 0.19±0.0 g L-1h-1) with 4% (v/w) sorbitol is the
+highest concentration and space-time yield reported withS. cerevisiae in the literature and even exceeds the
+L-GalOA
+production with filamentous fungi reported so far (Kuivanenet al. 2014 ).
+S. cerevisiae is described to withstand harsh conditions and
+stresses at the industrial scale (Hong and Nielsen 2012 )a n d
+has been used for the fermentation of hydrolyzed pectinaceous
+residues to produce ethanol (Martins et al. 2020 ). One of the
+main challenges in the utilization of agro-industrial residues
+remain the release of weak organic acids and other com-
+pounds during hydrolysis (van Maris et al. 2006 )t h a tm a y
+inhibit growth of S. cerevisiae . Enzymatic hydrolysis of
+pretreated agro-industrial residues, however, requires an ade-quate buffer system for optimal performance of hydrolyticenzymes. The prior hydrolysis of SBPP with pectinases was
+initially performed in 100 mM sodium acetate buffer (Schäfer
+et al. 2020 ). It has been widely described that the main inhi-
+bition of S. cerevisiae by acetic acid is its intracellular accu-
+mulation (Mira et al. 2010 ; Sousa et al. 2012 ). Acetic acid
+diffuses across the cytoplasm membrane and dissociates intoacetate and H
+3O+due to the higher cytosolic pH compared to
+the extracellular environment, resulting in intracellular acetateaccumulation (Pampulha and Loureiro-Dias 1989 ) and affect-
+ing various intracellular mechanisms that lead to reduced or
+stalled cell growth (Sousa et al. 2012 ). In contrast, citric acid/
+citrate does not have this effect on S. cerevisiae while it can be
+growth-inhibiting at higher pH due to its ability to chelatecations (Nielsen and Arneborg 2007 ). Accordingly, we ob-
+served no significant difference in growth rates up to
+200 mM potassium citrate buffer in our medium (Fig. 3).
+Concerning the buffer ’s ionic component, sodium affects cell
+growth negatively when present in the medium. Unlikepotassium ions, high extracellular concentrations of sodium
+ions may disrupt osmotic regulation of the cell and hence
+induce stress, which results in reduced growth (Ariño et al.2010 ;H o h m a n n 2002 ).
+To the best of our knowledge, SBPP hydrolysate has not
+been used before for
+L-GalOA production by recombinant
+S. cerevisiae . Reports on the fermentation of pectin-rich resi-
+dues such as citrus peel or SBPP were mainly motivated forbioethanol production (Edwards et al. 2011 ; Martins et al.
+2020 ) or towards whole pectin utilization as carbon source
+for growth (Huisjes et al. 2012 ; Jeong et al. 2020 ; Protzko
+et al. 2018 ;Y a n ge ta l . 2020). Process performance of
+S. cerevisiae SiHY001 with SBPP hydrolysate was very sim-
+ilar to the performance with synthetic complete medium (SCmedium). However, increased production of glycerol could beobserved with SBPP hydrolysate and with 10-fold SC medi-
+um compared to SC medium. With otherwise identical pro-
+cess conditions, the higher glycerol concentrations cannot beaccounted for solely to glycerol being formed as an NADH
+sink during fermentative growth as a result of the Crabtree
+effect (Nevoigt and Stahl 1997 ). More likely, glycerol acts
+as a response to hyperosmotic stress in 10-fold SC medium
+(Nevoigt and Stahl 1997 ). The salty components (sodium
+chloride, calcium chloride, magnesium sulfate, and potassiumphosphate) accumulated in 10-fold SC medium to a total of
+0.142 M. Although not as high as reported to induce “mild
+osmotic stress” for yeast with 0.4 M sodium chloride
+(Babazadeh et al. 2017 ), glycerol formation might neverthe-
+less be induced. The much higher glycerol production withSBPP can, however, be explained by an upregulation of pro-
+teins involved in glycerol biosynthesis as a stress response of
+S. cerevisiae to citric acid (Lawrence et al. 2004 ; Nielsen and
+Arneborg 2007 ). Further environmental factors might as well
+synergistically contribute to an overall higher glycerol levelwith SBPP (Remize et al. 2000 ). Unlike with synthetic com-
+plete medium, 26.5 g L
+-1non-fermentable monomeric sugars
+(0.07 M) from SBPP hydroly sate remain in the medium
+throughout the batch process, since the yeast strain lacks mul-tiple hexose transporter genes to transport these sugars
+(Wieczorke et al. 1999 ). Also, a considerable amount of crude
+protein is present in SBPP hydrolysate (Edwards and Doran-
+Peterson 2012 ), potentially acting as nitrogen source that in-
+duces glycerol formation (Scanes et al. 2017 ).
+All previous findings show highest product formation dur-
+ing exponential growth and prolonging this phase is therefore
+desirable .Since we were using an auxotrophic strain, the ini-
+tial approach was to increase the concentration of required
+amino acids to overcome limitations (Pronk 2002 ). This did
+not result in improved biomass formation or biotransforma-tion activity. However, increasing the concentration of vita-mins, trace elements, and salts in the medium resulted in both
+a significantly higher biomass concentration (Fig. 5)a n d
+slightly increased growth rat e, consequently improving5804 Appl Microbiol Biotechnol (2021) 105:5795–5807biotransformation activity and L-GalOA formation within the
+first 48 h of the batch process. From our results, we cannot
+derive which medium component positively affected growth.Since addition of amino acids did not lead to a different
+growth behavior of S. cerevisiae , the strain ’s auxotrophies
+are not the bottleneck .However, our results reflect findings
+from other studies (Roberts et al. 2020 ). Here, a higher num-
+ber of cells was reached by increasing the concentration of all
+components of the synthetic defined medium. Still, biotrans-formation was stalled within 48 h, even though sufficient sor-
+bitol and
+D-GalA were present in the medium (Fig. 5). From
+our results, we cannot pinpoint the reason for this. It was
+described earlier that low sorbitol levels lead to slower trans-
+port kinetics of the Hxt13 transporter (Jordan et al. 2016 ),
+possibly limiting supply of NADPH for the reduction of D-
+GalA. This might be overcome by applying a fed-batch pro-cess to maintain sorbitol levels above this threshold, but re-
+peated sorbitol additions were also not successful (data notshown).
+To access a wider NADPH-pool for
+D-GalA reduction,
+different genetic engineering approaches could be applied.Kim et al. ( 2018 ) increased NADPH levels by replacing sev-
+eral NAD
++-utilizing enzymes from the acetate and ammonium
+assimilation and pentose phosphate pathways in yeast with
+equivalent NADPH-generating enzymes. A similar approach
+was chosen by Verho et al. ( 2003 ) to overcome NADPH re-
+quirements for pentose fermentation in yeast. They expressed
+af u n g a lN A D P+-dependent glyceraldehyde-3-phosphate de-
+hydrogenase to generate NADPH. Attempts have also been
+made to address the redox problem by side directed mutagen-
+esis of the respective D-GalA reductase to achieve a higher
+acceptance of NADH as reducing factor (Harth et al. 2020 ),
+widening the pool of utilizable reducing factors for the pro-duction of
+L-GalOA. Furthermore, strategies should be de-
+ployed to valorize as many monomeric sugars from SBPP
+hydrolysate (Jeong et al. 2020 ) as possible. The presented
+biotransformation process paves the way for integratedbioprocess development (hydrolysis, biotransformation, and
+L-GalOA isolation) towards repurposing pectin-rich residues
+for the production of value-added chemicals. This eventuallyrequires the integration of all genes enabling biotransforma-tion of
+D-GalA in a robust industrial S. cerevisiae strain (Pronk
+2002 ) and also the development of a cost-efficient down-
+stream process. Isolation of the product might be achievedby similar methods as described by Zhou et al. ( 2018 ).
+Acknowledgements We would like to acknowledge Melanie Knesebeck
+and Lorenz Panzl (Institute of Biochemical Engineering, TUM,
+Germany) for assisting with fermentations. Additionally, we want tothank the Südzucker AG, Obrigheim, Germany, for kindly providingthe sugar beet press pulp. The support of Jacqueline Wagner, Dominik
+Schäfer, and Nikolas von den Eichen by the TUM Graduate School is
+acknowledged as well.Code availability Not applicable.
+Author contribution J. W., M.O., J.P.B., and D.W.-B. contributed to the
+conception and design of the studies and the interpretation of the data;J.W., D.S. N.v.d.E., and C.H. performed the experiments; J.W. analyzed
+the experimental data; S.H. and M.O. provided the engineered strain and
+advice; M.O., J.P.B., and D.W.-B. acquired funding; J.W. and D.W.-B.wrote the manuscript. All authors contributed to the critical revision and
+final approval of the manuscript.
+Funding Open access funding enabled and organized by Projekt DEAL.
+This work was supported by the German Federal Ministry of Education
+and Research [grant number 031B0342A-C].
+Data availability The authors will make available all data (underlying the
+described findings) without restriction upon request.
+Declarations
+Ethics approval Not applicable.
+Consent to participate Not applicable.
+Consent for publication Not applicable.
+Conflict of interest The authors declare no competing interests.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing, adap-
+tation, distribution and reproduction in any medium or format, as long asyou give appropriate credit to the original author(s) and the source, pro-vide a link to the Creative Commons licence, and indicate if changes were
+made. The images or other third party material in this article are included
+in the article's Creative Commons licence, unless indicated otherwise in acredit line to the material. If material is not included in the article's
+Creative Commons licence and your intended use is not permitted by
+statutory regulation or exceeds the permitted use, you will need to obtainpermission directly from the copyright holder. To view a copy of thislicence, visit http://creativecommons.org/licenses/by/4.0/ .
+References
+Ariño J, Ramos J, Sychrová H (2010) Alkali metal cation transport and
+homeostasis in yeasts. Microbiol Mol Biol Rev 74:95 –120. https://
+doi.org/10.1128/mmbr.00042-09
+Babazadeh R, Lahtvee PJ, Adiels CB, Goksör M, Nielsen JB, Hohmann
+S (2017) The yeast osmostress response is carbon source dependent.Sci Rep 7:1 –11.https://doi.org/10.1038/s41598-017-01141-4
+Benz JP, Protzko RJ, Andrich JM, Bauer S, Dueber JE, Somerville CR
+(2014) Identification and characterization of a galacturonic acidtransporter from Neurospora crassa and its application for
+Saccharomyces cerevisiae fermentation processes. Biotechnol
+Biofuels 7:20. https://doi.org/10.1186/1754-6834-7-20
+Biz A, Sugai-Guérios MH, Kuivanen J, Maaheimo H, Krieger N,
+Mitchell DA, Richard P (2016) The introduction of the fungal d-galacturonate pathway enables the consumption of d-galacturonicacid by Saccharomyces cerevisiae . Microb Cell Factories 15:144.
+https://doi.org/10.1186/s12934-016-0544-15805 Appl Microbiol Biotechnol (2021) 105:5795–5807Cardona CA, Sánchez ÓJ (2007) Fuel ethanol production: process design
+trends and integration opportunities. Bioresour Technol 98:2415 –
+2457. https://doi.org/10.1016/j.biortech.2007.01.002
+Carmelo V, Bogaerts P, Sá-Correia I (1996) Activity of plasma mem-
+brane H+-ATPase and expression of PMA1 and PMA2 genes in
+Saccharomyces cerevisiae cells grown at optimal and low pH.
+Arch Microbiol 166:315 –320. https://doi.org/10.1007/
+s002030050389
+De Deken RH (1966) The Crabtree effect: a regulatory system in yeast. J
+Gen Microbiol 44:149 –156. https://doi.org/10.1099/00221287-44-
+2-149
+Edwards MC, Doran-Peterson J (2012) Pectin-rich biomass as feedstock
+for fuel ethanol production. Appl Microbiol Biotechnol 95:565 –
+575. https://doi.org/10.1007/s00253-012-4173-2
+Edwards MC, Henriksen EDC, Yomano LP, Gardner BC, Sharma LN,
+Ingram LO, Peterson JD (2011) Addition of genes for cellobiase and
+pectinolytic activity in Escherichia coli for fuel ethanol production
+from pectin-rich lignocellulosic biomass. Appl Environ Microbiol
+77:5184 –5191. https://doi.org/10.1128/AEM.05700-11
+Erdei B, Franká B, Galbe M, Zacchi G (2012) Separate hydrolysis and co-
+fermentation for improved xylose utilization in integrated ethanol
+production from wheat meal and wheat straw. Biotechnol Biofuels
+5:12. https://doi.org/10.1186/1754-6834-5-12
+FAO (2020) World Food and Agriculture - Statistical Yearbook 2020.
+FAO, Rome, Italy
+Garg G, Singh A, Kaur A, Singh R, Kaur J, Mahajan R (2016) Microbial
+pectinases: an ecofriendly tool of nature for industries. 3. Biotech 6:1–13.https://doi.org/10.1007/s13205-016-0371-4
+Gírio FM, Fonseca C, Carvalheiro F, Duarte LC, Marques S, Bogel-
+Łukasik R (2010) Hemicelluloses for fuel ethanol: a review.
+Bioresour Technol 101:4775 –4800. https://doi.org/10.1016/j.
+biortech.2010.01.088
+Harth S, Wagner J, Botz DW, Oreb M (2020) Engineering cofactor sup-
+ply and NADH - dependent
+D- galacturonic acid reductases for
+redox - balanced production of L-g a l a c t o n a t ei n Saccharomyces
+cerevisiae . Sci Rep 10:19021. https://doi.org/10.1038/s41598-020-
+75926-5
+Hassan N, Rafiq M, Rehman M, Sajjad W, Hasan F, Abdullah S (2019)
+Fungi in acidic fire: a potential source of industrially important en-zymes. Fungal Biol Rev 33:58 –71.https://doi.org/10.1016/j.fbr.
+2018.08.002
+Hohmann S (2002) Osmotic stress signaling and osmoadaptation in
+yeasts. Microbiol Mol Biol Rev 66:300 –372. https://doi.org/10.
+1128/mmbr.66.2.300-372.2002
+Hong KK, Nielsen J (2012) Metabolic engineering of Saccharomyces
+cerevisiae : a key cell factory platform for future biorefineries. Cell
+Mol Life Sci 69:2671 –2690. https://doi.org/10.1007/s00018-012-
+0945-1
+Hortsch R, Corvo P (2020) The biorefinery concept: producing cellulosic
+ethanol from agricultural residues. Chemie-Ingenieur-Technik 92:
+1803 –1809. https://doi.org/10.1002/cite.202000203
+Huisjes EH, Luttik MAH, Almering MJH, Bisschops MMM, Dang
+DHN, Kleerebezem M, Siezen R, van Maris AJA, Pronk JT
+(2012) Toward pectin fermentation by Saccharomyces cerevisiae :
+expression of the first two steps of a bacterial pathway for D-
+galacturonate metabolism. J Biotechnol 162:303 –310. https://doi.
+org/10.1016/j.jbiotec.2012.10.003
+Jansen MLA, Bracher JM, Papapetridis I, Verhoeven MD, de Bruijn H,
+de Waal PP, van Maris AJA, Klaassen P, Pronk JT (2017)
+Saccharomyces cerevisiae strains for second-generation ethanol
+production: from academic exploration to industrial implementation.
+FEMS Yeast Res 17. https://doi.org/10.1093/femsyr/fox044
+Jayani RS, Saxena S, Gupta R (2005) Microbial pectinolytic enzymes: a
+review. Process Biochem 40:2931 –2944. https://doi.org/10.1016/j.
+procbio.2005.03.026Jeong D, Ye S, Park H, Kim SR (2020) Simultaneous fermentation of
+galacturonic acid and five-carbon sugars by engineered
+Saccharomyces cerevisiae . Bioresour Technol 295:122259. https://
+doi.org/10.1016/j.biortech.2019.122259
+Jordan P, Choe J-Y, Boles E, Oreb M (2016) Hxt13, Hxt15, Hxt16 and
+Hxt17 from Saccharomyces cerevisiae represent a novel type of
+polyol transporters. Sci Rep 6:23502
+Kashyap DR, Vohra PK, Chopra S, Tewari R (2001) Applications of
+pectinases in the commercial sector: a review. Bioresour Technol
+77:215 –227. https://doi.org/10.1016/S0960-8524(00)00118-8
+Kim JE, Jang IS, Sung BH, Kim SC, Lee JY (2018) Rerouting of
+NADPH synthetic pathways for increased protopanaxadiol produc-
+tion in Saccharomyces cerevisiae .S c iR e p8 : 1 –11.https://doi.org/
+10.1038/s41598-018-34210-3
+Kuivanen J, Mojzita D, Wang Y, Hilditch S, Penttilä M, Richard P,
+Wiebe MG (2012) Engineering filamentous fungi for conversion
+of d-galacturonic acid to L-ga lactonic acid. Appl Environ
+Microbiol 78:8676 –8683. https://doi.org/10.1128/AEM.02171-12
+Kuivanen J, Dantas H, Mojzita D, Mallmann E, Biz A, Krieger N,
+Mitchell D, Richard P (2014) Conversion of orange peel to L-
+galactonic acid in a consolidated process using engineered strainsofAspergillus niger . AMB Express 4:1 –8.https://doi.org/10.1186/
+s13568-014-0033-z
+Kuivanen J, Penttilä M, Richard P (2015) Metabolic engineering of the
+fungal D-galacturonate pathway for L-ascorbic acid production.Microb Cell Factories 14:2. https://doi.org/10.1186/s12934-014-
+0184-2
+Kuivanen J, Biz A, Richard P (2019) Microbial hexuronate catabolism in
+biotechnology. AMB Express 9:1 –11
+ .https://doi.org/10.1186/
+s13568-019-0737-1
+Lawrence CL, Botting CH, Antrobus R, Coote PJ (2004) Evidence of a
+new role for the high-osmolarity glycerol mitogen-activated proteinkinase pathway in yeast: regulating adaptation to citric acid stress.Mol Cell Biol 24:3307 –3323. https://doi.org/10.1128/mcb.24.8.
+3307-3323.2004
+Leijdekkers AGM, Bink JPM, Geutjes S, Schols HA, Gruppen H (2013)
+Bioresource technology enzymatic saccharification of sugar beetpulp for the production of galacturonic acid and arabinose: a studyon the impact of the formation of recalcitrant oligosaccharides.Bioresour Technol 128:518 –525. https://doi.org/10.1016/j.
+biortech.2012.10.126
+Lemus MR, Roussarie E, Hammad N, Mougeolle A, Ransac S, Issa R,
+Mazat JP, Uribe-Carvajal S, Rigoulet M, Devin A (2018) The role ofglycolysis-derived hexose phosphates in the induction of theCrabtree effect. J Biol Chem 293:12843 –12854. https://doi.org/10.
+1074/jbc.RA118.003672
+Lin Y, Tanaka S (2006) Ethanol fermentation from biomass resources:
+current state and prospects. Appl Microbiol Biotechnol 69:627 –642.
+https://doi.org/10.1007/s00253-005-0229-x
+Martins LC, Monteiro CC, Semedo PM, Sá-Correia I (2020) Valorisation
+of pectin-rich agro-industrial residues by yeasts: potential and chal-lenges. Appl Microbiol Biotechnol 104:6527 –6547. https://doi.org/
+10.1007/s00253-020-10697-7
+Micard V, Renard CMGC, Thibault JF (1996) Enzymatic saccharification
+of sugar-beet pulp. Enzym Microb Technol 19:162 –170.https://doi.
+org/10.1016/0141-0229(95)00224-3
+Mira NP, Teixeira MC, Sá-Correia I (2010) Adaptive response and toler-
+ance to weak acids in Saccharomyces cerevisiae : a genome-wide
+view. OMICS 14:525 –540. https://doi.org/10.1089/omi.2010.0072
+Mohnen D (2008) Pectin structure and biosynthesis. Curr Opin Plant Biol
+11:266 –277. https://doi.org/10.1016/j.pbi.2008.03.006
+Narendranath NV, Power R (2005) Relationship between pH and medi-
+um dissolved solids in terms of growth and metabolism of
+lactobacilli andSaccharomyces cerevisiae during ethanol produc-
+tion. Appl Environ Microbiol 71:2239 –2243. https://doi.org/10.
+1128/AEM.71.5.2239-2243.20055806 Appl Microbiol Biotechnol (2021) 105:5795–5807Nevoigt E, Stahl U (1997) Osmoregulation and glycerol metabolism in
+the yeast Saccharomyces cerevisiae . FEMS Microbiol Rev 21:231 –
+241. https://doi.org/10.1016/S0168-6445(97)00058-2
+Nielsen MK, Arneborg N (2007) The effect of citric acid and pH on
+growth and metabolism of anaerobic Saccharomyces cerevisiae
+andZygosaccharomyces bailii cultures. Food Microbiol 24:101 –
+105. https://doi.org/10.1016/j.fm.2006.03.005
+Nielsen J, Larsson C, van Maris A, Pronk J (2013) Metabolic engineering
+of yeast for production of fuels and chemicals. Curr Opin Biotechnol
+24:398 –404. https://doi.org/10.1016/j.copbio.2013.03.023
+Palmqvist E, Hahn-Hägerdal B (2000) Fermentation of lignocellulosic
+hydrolysates. II: inhibitors and mechanisms of inhibition.
+Bioresour Technol 74:25 –33.https://doi.org/10.1016/S0960-
+8524(99)00161-3
+Pampulha ME, Loureiro-Dias MC (1989) Combined effect of acetic acid,
+pH and ethanol on intracellula rp Ho ff e r m e n t i n gy e a s t .A p p l
+Microbiol Biotechnol 31:547 –550. https://doi.org/10.1007/
+BF00270792
+Pfeiffer T, Morley A (2014) An evolutionary perspective on the Crabtree
+effect. Front Mol Biosci 1:1 –6.https://doi.org/10.3389/fmolb.2014.
+00017
+Pronk JT (2002) Auxotrophic yeast strains in fundamental and applied
+research. Appl Environ Microbiol 68:2095 –2100. https://doi.org/10.
+1128/AEM.68.5.2095-2100.2002
+Protzko RJ, Latimer LN, Martinho Z, de Reus E, Seibert T, Benz JP,
+Dueber JE (2018) Engineering Saccharomyces cerevisiae for co-
+utilization of d-galacturonic acid and d-glucose from citrus peelwaste. Nat Commun 9:5059. https://doi.org/10.1038/s41467-018-
+07589-w
+Remize F, Sablayrolles JM, Dequin S (2000) Re-assessment of the influ-
+ence of yeast strain and environmental factors on glycerol produc-tion in wine. J Appl Microbiol 88:371 –378.https://doi.org/10.1046/
+j.1365-2672.2000.00964.x
+Richard P, Hilditch S (2009) D-Galacturonic acid catabolism in micro-
+organisms and its biotechnologi cal relevance. Appl Microbiol
+Biotechnol 82:597– 604. https://doi.org /10.1007/s00253-009-
+1870-6
+Roberts TM, Kaltenbach HM, Rudolf F (2020) Development and opti-
+misation of a defined high cell density yeast medium. Yeast 37:336 –
+347. https://doi.org/10.1002/yea.3464
+Sauer M, Branduardi P, Valli M, Porro D (2004) Production of L-ascorbic
+acid by metabolically engineered Saccharomyces cerevisiae and
+Zygosaccharomyces bailii . Appl Environ Microbiol 70:6086 –
+6091. https://doi.org/10.1128/AEM.70.10.6086-6091.2004
+Scanes KT, Hohrnann S, Prior B (1998) Glycerol production by the yeast
+Saccharomyces cerevisiae and its relevance to wine: a review. S Afr
+J Enol Vitic 19:8. https://doi.org/10.21548/19-1-2239Schäfer D, Schmitz K, Weuster-Botz D, Benz JP (2020) Comparative
+evaluation of Aspergillus niger strains for endogenous pectin-
+depolymerization capacity and suitability for d-galacturonic acidproduction. Bioprocess Biosyst Eng 43:1549 –1560. https://doi.org/
+10.1007/s00449-020-02347-z
+Schmitz K, Protzko R, Zhang L, Benz JP (2019) Spotlight on fungal
+pectin utilization —from phytopathogenicity to molecular recogni-
+tio
+n and industrial applications. Appl Microbiol Biotechnol 103:
+2507 –2524. https://doi.org/10.1007/s00253-019-09622-4
+Souffriau B, Den Abt T, Thevelein JM (2012) Evidence for rapid uptake
+of d-galacturonic acid in the yeast Saccharomyces cerevisiae by a
+channel-type transport system. FEBS Lett 586:2494 –2499. https://
+doi.org/10.1016/j.febslet.2012.06.012
+Sousa MJ, Ludovico P, Rodrigues F, Leao C, Côrte-Real M (2012) Stress
+and cell death in yeast induced by acetic acid. In: Cell Metabolism -Cell Homeostasis and Stress Response. InTech
+van Maris AJA, Abbott DA, Bellissimi E, van den Brink J, Kuyper M,
+Luttik MAH, Wisselink HW, Scheffers WA, van Dijken JP, PronkJT (2006) Alcoholic fermentation of carbon sources in biomass hy-
+drolysates by Saccharomyces cerevisiae : current status. Antonie
+Van Leeuwenhoek 90:391 –418. https://doi.org/10.1007/s10482-
+006-9085-7
+Verho R, Londesborough J, Penttilä M, Richard P (2003) Engineering
+redox cofactor regeneration for improved pentose fermentation in
+Saccharomyces cerevisiae . Appl Environ Microbiol 69:5892 –5897.
+https://doi.org/10.1128/AEM.69.10.5892-5897.2003
+Wieczorke R, Krampe S, Weierstall T, Freidel K, Hollenberg CP, Boles E
+(1999) Concurrent knock-out of at least 20 transporter genes is re-
+quired to block uptake of hexoses in Saccharomyces cerevisiae .
+FEBS Lett 464:123 –128. https://doi.org/10.1016/S0014-5793(99)
+01698-1
+Yang G, Tan H, Li S, Zhang M, Che J, Li K, Chen W, Yin H (2020)
+Application of engineered yeast strain fermentation for
+oligogalacturonides production from pectin-rich waste biomass.
+Bioresour Technol 300:122645. https://doi.org/10.1016/j.biortech.
+2019.122645
+Zema DA, Calabrò PS, Folino A, Tamburino V, Zappia G, Zimbone SM
+(2018) Valorisation of citrus processing waste: a review. Waste
+Manag 80:252 –273. https://doi.org/10.1016/j.wasman.2018.09.024
+Zhou X, Hua X, Zhou X, Xu Y (2018) Process for the successive pro-
+duction of calcium galactonate crystals by Gluconobacter oxydans .
+Bioresour Technol 261:458 –460. https://doi.org/10.1016/j.biortech.
+2018.04.043
+Publisher ’sn o t e Springer Nature remains neutral with regard to jurisdic-
+tional claims in published maps and institutional affiliations.5807 Appl Microbiol Biotechnol (2021) 105:5795–5807

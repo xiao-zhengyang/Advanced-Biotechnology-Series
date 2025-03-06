@@ -1,0 +1,773 @@
+Bioresource Technology 370 (2023) 128580
+Available online 3 January 2023
+0960-8524/© 2023 Elsevier Ltd. All rights reserved.Highly efficient neutralizer-free L-malic acid production using engineered 
+Saccharomyces cerevisiae 
+Li Suna,b, Quanwei Zhanga,b, Xiao Konga,b, Yanfeng Liua,b, Jianghua Lia,b, Guocheng Dua,b, 
+Xueqin Lva,b, Rodrigo Ledesma-Amaroc, Jian Chena,b, Long Liua,b,* 
+aKey Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education, Jiangnan University, Wuxi 214122, China 
+bScience Center for Future Foods, Jiangnan University, Wuxi 214122, China 
+cDepartment of Bioengineering and Centre for Synthetic Biology, Imperial College London, London SW7 2AZ, UK   
+HIGHLIGHTS GRAPHICAL ABSTRACT 
+≡The S. cerevisiae mutant TAMC was ob-
+tained with a low pH tolerance (pH 2.3). 
+≡A cell factory was constructed for the 
+synthesis of L-malic acid by TAMC 
+strain. 
+≡The transporter engineering signifi -
+cantly increased L-malic acid 
+production. 
+≡Without adding neutralizer, the L-malic 
+acid titer was 232.9 g/L in 3-L 
+fermenter.  
+ARTICLE INFO  
+Keywords: 
+Acid tolerance 
+Saccharomyces cerevisiae 
+Transporter engineering 
+L-malic acid 
+Neutralizer-free bioproduction ABSTRACT  
+In industrial bioproduction of organic acids, numerous neutralizers are required which substantially increases 
+production costs and burdens the environment. To address this challenge, a Saccharomyces cerevisiae mutant 
+(named TAMC) with a low pH tolerance (pH 2.3) was isolated by adaptive laboratory evolution. Taking the 
+synthesis of L-malic acid as an example, the malate dehydrogenase 3 without signal peptide (MDH ΔSKL) and 
+pyruvate carboxylase 2 (PYC2) were overexpressed in cytoplasmic synthesis pathway, and the L-malic acid titer 
+increased 5.6-fold. Subsequently, the malic acid transporter SpMae1 was designed, and the extracellular L-malic 
+acid titer was increased from 7.3 to 73.6 g/L. Furthermore, by optimizing the synthesis of the precursor pyruvate, 
+the titer reached 81.8 g/L. Finally, without any neutralizer, the titer in the 3-L bioreactor reached 232.9 g/L, the 
+highest L-malic acid titer reported to date. Herein, the engineered L-malic acid overproducer paves the way for 
+the large-scale green production of L-malic acid.   
+*Corresponding author. 
+E-mail address: longliu@jiangnan.edu.cn (L. Liu).  
+Contents lists available at ScienceDirect 
+Bioresource Technology 
+u{�~zkw! s{yo|kr o>!ÐÐÐ1ow�o �to~1m{y2w{m k�o2lt{~� oms!
+https://doi.org/10.1016/j.biortech.2023.128580 
+Received 4 December 2022; Received in revised form 1 January 2023; Accepted 3 January 2023   Bioresource Technology 370 (2023) 128580
+21.Introduction 
+As an important chemical raw material, organic acid has been widely 
+used in the biomedicine, food additives, and material industries (Liu 
+et al., 2018; Liu et al., 2017b). Recently, using microbial fermentation to 
+produce organic acids has been regarded as a promising approach. 
+However, during the bioproduction of organic acids, the pH decreases 
+markedly due to the overproduction of their own acidic products, which 
+severely inhibits the metabolic activity of cells and the production ef-
+ficiency (Ullah et al., 2012). Currently, the main strategy for addressing 
+this key issue is to add neutralizers (calcium carbonate [CaCO 3], mag-
+nesium carbonate [MgCO 3], sodium hydroxide [NaOH], or ammonium 
+hydroxide [NH 3⋅H2O]), which not only complicates the downstream 
+purification process but also pollutes the environment (Chen et al., 
+2016; Chen & Nielsen, 2016). For example, to produce 59.0 g/L malate 
+by Saccharomyces cerevisiae, 150.0 g/L CaCO 3 was used (Zelle et al., 
+2008). Moreover, the production of 40 g/L fumaric acid by Aspergillus 
+oryzae fermentation required the addition of more than 40.0 g/L CaCO 3 
+(Papadaki et al., 2018). These processes are common during the mi-
+crobial production of other organic acids as well (Baek et al., 2016; He 
+et al., 2020; Liu et al., 2015; Marinho et al., 2016; Xu et al., 2013). 
+Therefore, enhancing the tolerance of microorganisms to low pH to 
+avoid the use of neutralizers is essential to achieve large-scale green 
+production of organic acids. 
+According to previous studies, many microorganisms have been used 
+to synthesize organic acids, including S. cerevisiae, Escherichia coli, 
+Aspergillus flavus, A. oryzae, and Rhizopus delemar (Liu et al., 2017b; Yin 
+et al., 2015). Among them, S. cerevisiae is the main microbial chassis for 
+bioproduction owing to its short growth cycle, high fermentation ability, 
+and good large-scale performance (Cravens et al., 2019; Liu et al., 2019; 
+Zhang et al., 2022). In yeast, the pathways to synthesize L-malic acid 
+include cytoplasmic pathway, mitochondrial pathway (TCA cycle), 
+cyclic-glyoxylate cycle, and noncyclic-glyoxylate cycle (Brown et al., 
+2013). The highest synthesis rate of L-malic acid was cytoplasmic 
+pathway. In the above pathway, two key enzymes contribute to the 
+synthesis of L-malic acid: pyruvate carboxylase 2 (PYC2) and malate 
+dehydrogenase 2 (MDH2). However, MDH2 is inactivated by glucose 
+catabolism in the cytoplasm, which largely limits L-malic acid synthesis 
+(Zelle et al., 2008). Therefore, it is important to obtain the MDH2 
+isoenzyme to alleviate inhibition of glucose for L-malic acid synthesis in 
+S. cerevisiae. In addition, it was previously reported that the transport 
+rate of L-malic acid through the plasma membrane was very low in 
+S. cerevisiae (Volschenk et al., 2003). Therefore, improving the transport 
+efficiency of L-malic acid transporter is critical to the efficient synthesis 
+of L-malic acid by S. cerevisiae. 
+Recently, the acid resistance of microorganisms has been studied and 
+several strategies have been revealed. Based on the characteristics of 
+adaptive laboratory evolution (ALE) method with strong selection 
+pressure, the target strains can be acquired more efficiently (Pereira 
+et al., 2020; Sandberg et al., 2014). The ALE has been an indispensable 
+tool to explore microorganism adaptation to a specific environment. For 
+example, through ALE, Pereira et al. obtained a strain that could tolerate 
+aromatic acids (pH 3.5), and the evaluation of the acid tolerance 
+mechanism revealed that the overexpression of the aromatic acid 
+transporter ESBP6 was the key factor for the improved tolerance to low 
+pH (Pereira et al., 2020). In addition, the proton pump (Fernandes & Sa- 
+Correia, 2003; Hou et al., 2020; Lee et al., 2017) or other ATP-binding 
+cassette transporters (Godinho et al., 2018; Nygard et al., 2014) were 
+involved in the regulation of acid tolerance; however, they could only 
+improve microorganism tolerance to weak acids (pH 4.0–5.8). However, 
+in the industrial bioproduction process, the fermentation medium pH is 
+often lower than 3.0. These low pH environments typically induce 
+oxidative stress of cells to produce multitudinous reactive oxygen spe-
+cies, which have fatal toxicity to cells (Imlay, 2013; Tomanek, 2015). 
+Therefore, the current acid tolerance of yeast is insufficient to meet the 
+preferred bioproduction requirements. Table 1 
+Strains and plasmids used in this study.  
+Strains/Plasmids Description Source 
+Strains   
+WT WT strain, S. cerevisiae CEN.PK2-1C (Xu et al., 
+2022) 
+E. coli JM109 The strain for plasmid construction This Lab 
+TAMC WT strain derivate, S. cerevisiae, which can 
+tolerate a low pH of 2.3 This study 
+TAMC-A01 TAMC derivate, 416d:: TEF1p-MDH2- 
+ADH1t This study 
+TAMC-A02 TAMC derivate, 416d:: TEF1p-MDH3- 
+ADH1t This study 
+TAMC-A03 TAMC derivate, 416d:: TEF1p-MDH3ΔSKL- 
+ADH1t This study 
+TAMC-A04 TAMC derivate, 416d:: TDH3p-PYC2-CYC1t This study 
+TAMC-A05 TAMC derivate, 416d:: TEF1p-MDH3ΔSKL- 
+ADH1t, TDH3p-PYC2-CYC1t This study 
+TAMC-A06 TAMC-A05 derivate, 1309a:: TEF1p- 
+SpMae1-CYC1t This study 
+TAMC-B1 TAMC derivate, pY15-TEF1p-MalR This study 
+TAMC-B2 TAMC derivate, pY13-TEF1p-GFP This study 
+TAMC-B3 TAMC derivate, pY13-TEF1Dp-GFP This study 
+TAMC-B4 TAMC-B1 derivate, pY13-TEF1p-GFP This study 
+TAMC-B5 TAMC-B1 derivate, pY13-TEF1Dp-GFP This study 
+TAMC-B6 TAMC-B5 derivate, pY16-TEF1p-MalK This study 
+TAMC-B7 TAMC-A5 derivate, TEF1Dp-MalR-ADH1t, 
+pY13-TEF1Dp-GFP This study 
+TAMC-B8 TAMC-B7 derivate, 1309a:: TEF1p-SpMae1 
+mutants-CYC1t This study 
+TAMC-A07 TAMC-A05 derivate, 1309a:: TEF1p- 
+SpMae1F253C-CYC1t This study 
+TAMC-A08 TAMC-A05 derivate, 1309a:: TEF1p- 
+SpMae1F253A-CYC1t This study 
+TAMC-A09 TAMC-A08 derivate, 1622b:: TEF1p-PYK- 
+ADH1t This study 
+TAMC-A10 TAMC-A08 derivate, 1622b:: TEF1p-PYK- 
+ADH1t, TDH3p-CYB2-CYC1t This study 
+TAMC-G1 TAMC derivate, pY13-TEF1p-MDH2-GFP This study 
+TAMC-G2 TAMC derivate, pY13-TEF1p-MDH3-GFP This study 
+TAMC-G3 TAMC derivate, pY13-TEF1p-MDH3ΔSKL- 
+GFP This study 
+TAMC-G4 TAMC derivate, pY13-TEF1p-SpMae1-GFP This study 
+TAMC-G5 TAMC derivate, pY13-TEF1p-SpMae1F253A- 
+GFP This study 
+TAMC-G6 TAMC derivate, pY13-TEF1p-SpMae1F253C- 
+GFP This study 
+SPMae1-m6 TAMC-A5 derivate, containing SpMae1F253C 
+mutant This study 
+SPMae1-m11 TAMC-A5 derivate, containing SpMae1F253A 
+mutant This study 
+Plasmids   
+pY13-TEF1p Low copies plasmid with His and Amp 
+marker. This Lab 
+pY15-TEF1p Low copies plasmid with Leu and Amp 
+marker. This Lab 
+pY13-TEF1p-MDH2- 
+GFP pY13-TEF1p harboring cassette TEF1p- 
+MDH2-GFP This study 
+pY13-TEF1p-MDH3- 
+GFP pY13-TEF1p harboring cassette TEF1p- 
+MDH3-GFP This study 
+pY13-TEF1p- 
+MDH3ΔSKL-GFP pY13-TEF1p harboring cassette TEF1p- 
+MDH3ΔSKL-GFP This study 
+pY13-TEF1p- 
+SpMae1-GFP pY13-TEF1p harboring cassette TEF1p- 
+SpMae1-GFP This study 
+pY15-TEF1p-MalR pY15-TEF1p harboring cassette TEF1p- 
+MalR-GFP This study 
+pY13-TEF1p-GFP pY13-TEF1p harboring cassette TEF1p-GFP This study 
+pY13-TEF1Dp-GFP pY13-TEF1p-GFP derivate, containing MalR 
+box in the downstream of TEF1p This study 
+pY13-TEF1p- 
+SpMae1F253C-GFP pY13-TEF1p harboring cassette TEF1p- 
+SpMae1F253C-GFP This study 
+pY13-TEF1p- 
+SpMae1F253A-GFP pY13-TEF1p harboring cassette TEF1p- 
+SpMae1F253A-GFP This study  L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+3This study aimed to utilize ALE to isolate an acid-resistant mutant to 
+enhance the tolerance of microorganisms to low pH. The stability of the 
+mutant for stable generation and broad-spectrum acid tolerance was 
+analyzed. The application of the mutant was verified in terms of its 
+ability to efficiently synthesize L-malic acid at low pH without adding 
+nonrenewable, environmentally detrimental neutralizers. The use of an 
+acid-responsive regulatory system to optimize transporters and improve 
+the precursor pyruvate for efficient synthesis was explored. These pro-
+cesses were incorporated to construct a highly efficient organic acid- 
+producing cell factory, which would lay the foundation for future in-
+dustrial development of bio-based acid products for neutralizer-free 
+sustainable green bioproduction. 
+2.Material and methods 
+2.1. Strains and culture conditions. 
+The wild-type (WT) yeast used was S. cerevisiae CEN.PK2-1C (Lab 
+stock), while the acid-tolerant S. cerevisiae (produced in this study) is 
+referred to as TAMC. TAMC was used as the host for the construction of 
+L-malic acid bioproduction strains. The medium yeast extract peptone 
+dextrose (YPD) was used for the cultivation of S. cerevisiae . The culture 
+conditions were an agitation rate of 220 rpm and a temperature of 30 •C. 
+In the process of laboratory evolution screening and cultivation, L-malic 
+acid and citric acid were used as stressors. As previously reported by this 
+laboratory, using synthetic dropout (SD) agar plates with auxotroph 
+markers selected the transformants strains (Xu et al., 2022 ). All strains 
+and plasmids were listed in Table 1. 
+2.2. ALE screening 
+The WT strain was selected for the ALE, and the process was divided 
+into two stages. L-malic acid was used as the selection pressure in the 
+first stage. Direct evolution screening resulted in a lower pH-tolerant 
+mutant strain of S. cerevisiae . During the evolution process, the growth 
+of each replica was monitored regularly. The acid concentration was 
+slowly increased at each pH until the growth was stable and the pH was 
+gradually decreased. By adding different malic acid concentrations, the 
+pH was decreased in a step-wise controlled manner (starting from pH 
+6.0, the addition amount of exogenous malic acid was 4.6 g/L). After 
+cells at each pH level had evolved to be able to grow in those conditions, 
+they were cultured in parallel for enrichment and proceeded to the next 
+pH level decrease. For example, the process of decrease in pH from the 
+initial pH of 6.0 to 4.0 was divided into 10 spans, and each span was a 
+decrease in pH by 0.2; from pH 4.0 to 3.5, it was divided into five spans, 
+and each span was a decrease in pH by 0.1; from pH 3.5 to 3.0, each span 
+was a decrease in pH by 0.05; from pH 3.0 to 2.8, each span was a 
+decrease in pH by 0.02; and finally, at pH D2.8, the pH span of each 
+level was a decrease in pH by 0.01. 
+S. cerevisiae TAMC was obtained after 810 continuous generations, 
+and it could tolerate 86.6 g/L L-malic acid (maximum solubility is 100 g/ 
+L) in a culture medium of pH 2.4. In the second stage, TAMC continued 
+to be acclimatized with citric acid as the selection pressure. After 1710 
+generations, S. cerevisiae TAMC could tolerate 29.5 g/L citric acid at pH 
+2.3. 
+2.3. Growth assay 
+The growth of the evolution mutants and engineered strains were 
+assayed in 250-mL shake flasks with 50 mL culture, an agitation rate of 
+220 rpm, a temperature of 30 •C, and an initial optical density (OD) 600 of 
+0.08. Anaerobic incubation flasks were used for cultivation under 
+anaerobic conditions, and cell densities were monitored by measuring 
+the OD600. The pH was adjusted with L-malic acid and citric acid as 
+needed. 2.4. Colony spot assay 
+For the spot assay, the cells were cultured in YPD medium to mid-log 
+phase at pH 2.3 or 7.0 at 30 •C. A tenfold continuously diluted cell 
+suspension was prepared for spot assay. 
+2.5. Construction and expression of key genes 
+All primers were designed based on the S. cerevisiae S288C genome 
+sequence (see supplementary material s). The genes encoding malate 
+dehydrogenase 2 (MDH2), malate dehydrogenase 3 (MDH3), malate 
+dehydrogenase 3 without signal peptide (MDH3 ΔSKL), pyruvate 
+carboxylase 2 (PYC2), pyruvate kinase (PYK), and cytochrome b2 
+(CYB2) were cloned from the S. cerevisiae S288C. In addition, the 
+Schizosaccharomyces pombe malate transporter SpMae1 and mutants 
+were used to mediate the export of L-malic acid. All modifications were 
+integrated into the genome using amino acids (uracil, tryptophan, his-
+tidine, and leucine) as screening tags. DNA manipulation and trans -
+formation was performed as previously reported (Shao et al., 2009 ). 
+Promoters and integration sites in this study were selected based on 
+previous work (Reider et al., 2017 ). 
+2.6. MDH activity assays 
+The four strains TAMC, TAMC-A01, TAMC-A02, and TAMC-A03 
+were centrifuged in the mid-log phase and 200 µL of extract (BC1045, 
+Solarbio Science & Technology) was added (for every 1000,000 cells). 
+The cells were disrupted by sonication (power, 20 %; ultrasonic wave, 3 
+s; interval, 10 s; repetition, 30 times) and centrifuged at 8000 ×g (10 
+min, 4 •C). NAD-MDH catalyzes the reduction of oxaloacetic acid by 
+NADH to generate L-malic acid, resulting in the change of absorption at 
+340 nm. The kit manufacturer ’s protocol was used to measure the 
+enzyme activity of MDH (BC1045, Solarbio Science & Technology). In 
+addition, the U (unit) is 1 nmol of NADH per minute consumed by every 
+10,000 cells in the reaction system and is defined as an enzyme activity 
+unit. 
+2.7. Structural prediction of SpMae1 
+The AlphaFold2 prediction software was used to generate the tertiary 
+structure of SpMae1 and the PyMoL software was used for visualization 
+analysis (Liu et al., 2022 ). The channel was completed using the CAVER 
+3.0 software, and the substrate channel of SpMae1 was predicted from 
+the catalytic center. 
+2.8. High-throughput screening of SpMae1 mutagenesis library 
+The SpMae1 mutant libraries were constructed using error-prone 
+PCR (Takara Bio) to obtain random mutagenesis in the transporters 
+(Nasu et al., 2021 ). Subsequently, the above saturated mutants were 
+introduced into the strain TAMC-B7 (carrying the L-malic acid response 
+system) to construct the TAMC-B8 strain with the mutant library of 
+transporter SpMae1 for sorting via flow cytometry. A total of 2000 
+strains with a fluorescence intensity lower than 1000 were screened and 
+cultured in 96-well black plates with shaking for 36 h (30 •C, 1000 rpm). 
+The fluorescence (Ex 490 nm; Em 528 nm) was directly detected 
+using a microplate reader (BioTek). Next, 192 strains with a fluores -
+cence intensity that met the screening requirements were selected for re- 
+screening verification in 96-well black plates. 
+Based on the data of microplate reader measurement, the 15 mutant 
+strain with the lower fluorescence density were identified from the 
+SpMae1 mutant library, which were named SpMae1-m1, SpMae1-m2, 
+SpMae1-m3, SpMae1-m4, SpMae1-m5, SpMae1-m6, SpMae1-m7, 
+SpMae1-m8, SpMae1-m9, SpMae1-m10, SpMae1-m11, SpMae1-m12, 
+SpMae1-m13, SpMae1-m14, and SpMae1-m15. These above strains 
+were also verified via shaking flask fermentation, and L-malic acid L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+4concentration in the cell precipitation and fermentation broth were 
+determined. SpMae1 genes of the strains with the most obvious increase 
+in L-malic acid concentration in the SpMae1 mutant library were 
+sequenced. Subsequently, the SpMae1 mutant (F253 mutants) was 
+introduced into the TAMC-A5 to generate the engineering strains, which 
+were then cultured in a shake flask for L-malic acid production. 
+2.9. Shake flask cultivation 
+Seed culture was performed in 5-mL culture tubes containing 2 mL of 
+YPD broth with shacking for 28 h (30 •C, 220 rpm). L-malic acid pro-
+duction tests were performed in 250-mL shake flasks containing 30 mL 
+of the medium (10 g yeast extract, 120 g glucose, 30 g soy peptone, 2 g 
+sodium glutamate, 15 g (NH4) 2SO4, 0.72 g ZnSO 4⋅7H2O, 8 g KH2PO4, 
+0.15 g methionine, and 6 g MgSO 4⋅7H2O, per 1 L), with 3 % (v/v) seed 
+culture. Cultures were inoculated at an initial OD600 of 0.08 with 
+shaking at 220 rpm in an orbital incubator (30 •C, 120 h). The engineered strains were cultured in the orbital incubator with an initial 
+OD600 of 0.08 by shaking at 220 rpm (30 •C, 120 h). 
+2.10. Fed-batch culture in a 3-L bioreactor 
+The preparation of fermentation medium for fed batch culture is 
+consistent with that of shake flask medium, except for the initial sugar 
+concentration (60 g/L glucose). 
+In addition, vitamin solution and trace metal solution were added in 
+fermentation medium (Westfall et al., 2012 ). Seed culture was con-
+ducted in 500-mL flasks containing 100 mL YPD medium and incubated 
+for 36 h (30 •C, 220 rpm). 
+The seed culture was inoculated into a 3-L fermenter (T&J Bio- 
+engineering (Shanghai) Co., ltd) with an initial 1.1 L of fermentation 
+medium. The range of agitation rates were 700 ~ 800 rpm, and the 
+aeration was 1.5 v/v/m. In addition, the pH was not controlled, and the 
+temperature was 30 •C. The sugar concentration for feeding was 600 g/ 
+Fig. 1.Adaptive laboratory evolution strategy to improve acid tolerance in Saccharomyces cerevisiae . (A) Acid tolerance analysis of WT (S. cerevisiae CEN.K2-1C). 
+Four organic acids, including acetic, L-lactic, L-malic, and citric acids, were selected, and their pH was 6.0, 5.0, 4.0, and 3.0, respectively. (B) Schematic diagram 
+of the ALE strategy. At each pH, the strains were grown for parallel passage until stable growth and then transferred to the next low pH level. (C) Continuous passage 
+of acid-tolerant yeast. (D and E) A spot test of the WT and TAMC. The effects of pH 7.0 (D) and pH 2.3 (E) on yeast survival are shown. The filled black triangles 
+represent the cell dilution titer from 100 to 10 4. L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+5L. To verify whether low pH affects the production performance of the L- 
+malic acid, the strain TAMC-A10 was also cultured in 3-L fermenter with 
+constant pH 6.5 by adding neutralizer CaCO 3, and other conditions were 
+the same as the above fermentation (without neutralizer). 
+2.11. Metabolite analysis 
+The L-malic acid titer was measured via high-performance liquid 
+chromatography (HPLC) as previously studied by this laboratory (Liu 
+et al., 2018 ). Approximately 1.5 mL of the fermentation liquid was 
+centrifuged at 10,000 ×g for 15–20 min, and the supernatant was 
+collected to measure the extracellular L-malic acid concentration using 
+HPLC. When detecting the intracellular concentration, the above 
+centrifuged cell precipitation was used for ultrasonic crushing (the total 
+volume of ultrasonic crushing solution is equivalent to the volume of the 
+fermentation liquid), and the content of L-malic acid was measured by 
+HPLC. 
+2.12. Statistical analysis 
+GraphPad Prism9 (version 9.0.0, San Diego, CA, USA) and OriginPro 
+2022 (OriginLab, Northampton, MA, USA) were used for statistical an-
+alyses. All experiments were repeated three independent replicates. Statistical significance is indicated as *(p D0.05), **(p D0.01), and *** 
+(p D0.001). 
+3.Results and discussion 
+3.1. ALE to improve acid tolerance of S. Cerevisiae 
+To obtain an S. cerevisiae strain with tolerance to extremely low pH, 
+L-malic acid and citric acid were used as selective pressures for ALE, 
+because they have high industrial value, wide application, and better 
+solubility. The native tolerance of S. cerevisiae CEN.PK2-1C (WT) to 
+organic acids was examined. Results showed that growth inhibition 
+began when the pH of the medium was D6.0 (Fig. 1A). Next, the ALE 
+process was divided into two stages (Fig. 1B and C), with the selective 
+pressure of L-malic acid used in the first stage (pH reduction from 6.0 to 
+2.4, with 86.6 g/L L-malic acid) and citric acid used in the second stage 
+(pH reduction from 2.4 to 2.3, with 29.5 g/L citric acid) to obtain the 
+strain TAMC (mutant with a pH tolerance of 2.3). Compared with the 
+WT, the colony-forming units of the TAMC at pH 2.3 increased by 
+104–105 times (Fig. 1D and E). Compared with previous reports (Guar-
+agnella & Bettiga, 2021; Kildegaard et al., 2014 ), the pH of 2.3 tolerated 
+by the TAMC strain is the lowest pH reportedly tolerated by S. cerevisiae 
+to date. 
+Fig. 2.Effects of pH and different organic acids on growth. Fifteen acids were selected, including hydrochloric, phosphoric, pyruvic, fumaric, citric, L-malic, glu-
+conic, muconic, formic, itaconic, L-lactic, succinic acid, 3-hydroxypropionic, acetic, and propionic acids. For each organic acid, five different concentrations (0, 100, 
+200, 400, and 800 mM) were used for acid tolerance analysis. The TAMC strain showed different degrees of tolerance to test acids. The pH corresponding to the 
+tolerance concentration of fumaric acid, gluconic acid, muconic acid, itaconic acid, L-lactic acid, succinic acid, and propionic acid are 2.8, 2.5, 2.6, 3.2, 2.5, 3.0, 3.2, 
+respectively. L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+63.2. Analysis of the acid tolerance stability of the TAMC strain and its 
+resistance to various acids 
+To analyze the acid tolerance stability of the TAMC strain, the strain 
+was cultured for 100 consecutive generations at pH 2.3 and found that it 
+had stable acid resistance. The culture of evolutionary clones of each 
+acid was analyzed by HPLC to determine whether the evolutionary 
+phenotype relied on the degradation of the acids. As shown in (see 
+supplementary material s), with the addition of 86.6 g/L L-malic acid and 
+29.5 g/L citric acid in the culture medium, the remaining L-malic acid 
+and citric acid concentration were stable at 85.4 g/L (p 0.36) and 29.0 
+g/L (p 0.45), respectively after 120 h of fermentation. This indicates 
+that the evolved trait of the TAMC strain depended on physiological 
+adaptation to tolerate acids, rather than acid degradation. 
+To explore the potential of the TAMC strain to produce organic acids 
+and other industrially acidic chemicals, the growth of the WT and TAMC 
+strains in the presence of 15 acids (based on their wide applications and 
+production practicality) was compared. The following acids (listed in 
+the order of increasing pKa values) were used: HCl, H3PO4, pyruvic acid, 
+fumaric acid, citric acid, malic acid, gluconic acid, muconic acid, formic 
+acid, itaconic acid, L-lactic acid, succinic acid, 3-hydroxypropionic acid, 
+acetic acid, and propionic acid. Based on the pH value selected in the 
+previous experiment, five different concentrations (0, 100, 200, 400, 
+and 800 mM) were selected to assess the effect of the abovementioned acids on the growth of the strains. Compared with the WT, TAMC 
+exhibited improved tolerance to 12 of the 15 acids tested; the exceptions 
+were formic, acetic, and 3-hydroxypropionic acids (Fig. 2). Due to the 
+pKa values of various acids, the tolerance of strains may be different, 
+which is a common phenomenon (Pham et al., 2017 ). Overall, the TAMC 
+strain has a broad-spectrum acid tolerance and thus has considerable 
+potential to be used as a microbial cell to produce acid compounds. 
+3.3. Remodeling of the L-malic acid cytoplasmic synthesis pathway in the 
+TAMC strain 
+Taking L-malic acid as an example, the application of the TAMC 
+strain in the synthesis of organic acids was verified. L-malic acid can be 
+synthesized from pyruvate in the cytoplasm of S. cerevisiae using a two- 
+step reaction, which including two key enzymes: MDH2 and PYC2 (Zelle 
+et al., 2008 ). However, MDH2 is inactivated by glucose catabolism in the 
+cytoplasm, which largely limits L-malic acid synthesis. To address this 
+limitation, the isozyme MDH3 derived from peroxisomes was selected 
+and the end-positioning tripeptide SKL (MDH 3ΔSKL) was removed 
+(Fig. 3A). Using GFP as an indicator, fluorescence microscopy revealed 
+that MDH3-GFP exhibited a “punctate ” distribution (presumed to be 
+peroxisomes), whereas MDH3 ΔSKL was freely distributed in the cyto-
+plasm, similar to MDH2-GFP (see supplementary material s). To verify 
+whether MDH3 ΔSKL was active in the cytoplasm, MDH activity was 
+Fig. 3.Remodeling of L-malic acid cytoplasmic synthesis pathway in TAMC strain. (A) Illustration of the L-malic acid biosynthesis pathways in S. cerevisiae . PYC: 
+pyruvate carboxylase, MDH (MDH2, MDH3): Malate dehydrogenase, MDH3 ΔSKL: removal of three amino acid residues from the MDH3 C-terminal. (B) The MDH 
+activity in the TAMC strain and three MDH transformants. (C) The L-malic acid concentrations in the TAMC strain and five transformants. Orange boxes represent 
+overexpressed genes. L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+7determined. These results showed that the enzyme activity in the re-
+combinant strain TAMC-A3 (overexpression of mdh3ΔSKL in TAMC 
+strain) was 1.6-fold that in strain TAMC-A1 (overexpression of mdh2 in 
+TAMC strain) (Fig. 3B) and equivalent to that in strain TAMC-A2 
+(overexpression of mdh3 in TAMC strain) (Fig. 3B, p 0.9). Mean -
+while, the L-malic acid titer in strain TAMC-A3 was 4.2 g/L, which was 
+3.6-fold that in strain TAMC-A1 (Fig. 3C). 
+Subsequently, the gene PYC2 was severally overexpressed in strain 
+TAMC and TAMC-A3 to obtain the strain TAMC-A4 and TAMC-A5, and 
+the titers were 2.2 g/L and 7.3 g/L in the fermentation supernatant 
+(Fig. 3C). 
+3.4. Molecular engineering of SpMae1 for improved transport efficiency 
+To further increase the L-malic acid titer in the fermentation super -
+natant, the malic acid transporter SpMae1 from S. pombe was intro-
+duced. First, the SpMae1 successfully anchors to the membrane in TAMC 
+(see supplementary material s). Next, SpMae1 was overexpressed in strain TAMC-A5, yielding the strain TAMC-A6. The L-malic acid titer of 
+TAMC-A6 strain was further improved to 24.0 g/L in the fermentation 
+supernatant, but the accumulation was still 5.8 g/L in the cell precipitate 
+(see supplementary material s), implying that the transport efficiency of 
+SpMae1 was insufficient. 
+To screen transporters with highly efficient transport, a high- 
+throughput screening method (a biosensor sensitive to malic acid) was 
+designed for the optimization of SpMae1. MalR is a response regulator 
+for L-malic acid (Krause et al., 2012 ). With the low intracellular malate 
+concentration, MalR binds to its binding sequence (TTAATTTA- 
+AACAAAAA) to suppress the transcription of the downstream gene. On 
+the contrary, with the high intracellular malate concentration, the DNA- 
+binding activity of MalR is inhibited, which enables the transcription of 
+downstream genes. (Zhang et al., 2021 ). MalR was heterologous 
+expressed in the TAMC strain, thereby generating strain TAMC-B1. A 
+hybrid promoter that contained the MalR-binding site (MalR box) in the 
+promoter TEF1 region was constructed, which expressed GFP as an in-
+dicator, to obtain the strain TAMC-B3 (WT TEF1 promoter expressing 
+Fig. 4.Molecular engineering of SpMae1 for improved transport efficiency. (A) Construction of L-malic acid biosensor. The strength of promoter TEF1 in strains with 
+or without MalR (above). Schematic diagram of a biosensor sensitive to malic acid (below). I: the absence of L-malic acid. II: the presence of L-malic acid. L-MA, L- 
+malic acid. (B) The response range of L-malic acid concentration was measured by fluorescence intensity. The concentration of L-malic acid is set from 0 to 30 g/L. (C) 
+The 15 SpMae1 mutants were further confirmed by culture assays in 250-mL flasks. (D) The L-malic acid titer in fermentation broth and cell precipitate in 250-mL 
+flasks. (E) The application of SpMae1 mutants for synthesize L-malic acid. L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+8GFP to generate strain TAMC-B2 as the control). The activity of the 
+promoter TEF1 with or without the MalR box was determined by placing 
+it in front of the GFP sequence. The strength of the hybrid promoter 
+TEF1D (with the MalR box) was reduced 4.8-fold that of the original 
+promoter TEF1 (Fig. 4A). These results indicated that MalR was able to 
+markedly suppress the transcription of TEF1D and further bind to DNA 
+to inhibit transcription in S. cerevisiae . 
+To detect the L-malic acid response range, the exogenous MalK was 
+introduced to generate a TAMC-B6 strain to assist the response to L-malic 
+acid signal. MalK (malate sensor histidine kinase) able to communicate 
+with MalR through phosphate transfer, after MalK receives the signal of 
+malic acid (Fig. 4A) (Krause et al., 2012; Zhang et al., 2021 ). As shown in 
+Fig. 4B, the maximum threshold of the malic acid response was 
+approximately 2.0–20.0 g/L, which can satisfy the intracellular residual 
+concentration of L-malic acid. These results indicate that this biosensor 
+can respond to changes in intracellular malic acid concentration, which 
+in turn can be effectively applied for the improvement and optimization 
+of SpMae1. 
+Based on the abovementioned results, a SpMae1 mutant library was 
+constructed using error-prone PCR to obtain transporters with random 
+mutagenesis. Then the L-malic acid response system was introduced into 
+the TAMC-A5 strain to obtain the TAMC-B7 strain, which was used to 
+screen SpMae1 mutants. The mixed SpMae1 mutants were preliminarily 
+screened according to fluorescence intensity (see supplementary mate-
+rials), and 15 mutants were obtained (Fig. 4C). The 15 mutants were 
+further confirmed using culture assays in 250-mL flasks, and the results 
+showed that the L-malic acid titers of 4 mutants (SpMae1-m4, SpMae1- 
+m6, SpMae1-m11, and SpMae1-m15) were significantly improved 
+compared with the control (TAMC-A6, including WT SpMae1) in the fermentation broth; the titers were 38.7, 59.3, 58.6, and 40.0 g/L, 
+respectively, with the titers in the cell precipitate being 4.0, 2.4, 2.6, and 
+4.9 g/L, respectively (Fig. 4D). Compared with the TAMC-A6 strain 
+(containing WT SpMae1), the L-malic acid titer ratios in the fermentation 
+broth of strains SpMae1-m6 and SpMae1-m11 were significantly 
+increased and significantly reduced in the cell precipitates (Fig. 4D). 
+3.5. Functional analysis of SpMae1 for the improvement of transport 
+efficiency 
+Based on the above results, the SpMae1 mutants were sequenced, 
+and two positive mutants, F253C and F253A, were identified in strains 
+SpMae1-m6 and SpMae1-m11, respectively. Because the F253 mutants 
+significantly increased the L-malic acid accumulation in the fermenta -
+tion broth, to further verify mutant effect on the transport efficiency, 
+SpMae1F253C and SpMae1F253A was severally overexpressed in strain 
+TAMC-A5 to generate strains TAMC-A7 and TAMC-A8. As shown in 
+Fig. 4E, the L-malic acid titer in the fermentation supernatant was 67.4 
+g/L in the TAMC-A7 strain and 73.6 g/L in the TAMC-A8 strain at 120 h, 
+and the L-malic acid titer in the cell precipitate was reduced to 1.8 and 
+1.3 g/L in the TAMC-A7 and TAMC-A8 strains, respectively. Surpris -
+ingly, SpMae1 mutants did not negatively affect the membrane location 
+(see supplementary material s). These results suggest that overexpression 
+of SpMae1F253C and SpMae1F253A can potentially improve the L-malic 
+acid transport efficiency and lead to its synthesis and accumulation in 
+the fermentation supernatant (at least 37 times than that in the cell 
+precipitate). Compared with the previous report (Zelle et al., 2008 ), 
+SpMae1F253A not only increased the L-malic acid accumulation in the 
+fermentation supernatant by 25 %, but also shortened the fermentation 
+Fig. 5.Structural prediction and analysis of transporter SpMae1 and SpMae1 mutants. (A) Structural prediction in WT SpMae1. (B) The structural changes of SpMae1 
+after phenylalanine was replaced by cysteine. (C) The structural changes of SpMae1 after phenylalanine was replaced by alanine. L-MA, L-malic acid. L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+9time from 192 h to 120 h. 
+To determine the reason for the improvement in transporter effi-
+ciency in mutant F253, the molecular docking between the SpMae1 and 
+L-malic acid was analyzed, and the result showed that the molecule of L- 
+malic acid located within the transport channel. The transport channel 
+was closed by residues containing phenyl rings (Fig. 5A). The mutants 
+SpMae1F253A or SpMae1F253C had widened channels (Fig. 5B, 5C), which 
+might be essential for transporter activity. The size of the substrate 
+combination pocket of the WT SpMae1 is approximately 67 Å3, whereas 
+the combination pockets of SpMae1F253C and SpMae1F253A are expanded 
+to sizes of 135 Å3 and 188 Å3, respectively (Fig. 5B, 5C). In a previous 
+study, two conserved aromatic residues located within the access tun-
+nels were identified and proven to play key roles in the substrate activity 
+of 1,2,3-trichloropropane (Pavlova et al., 2009 ). In another study, the 
+size and shape of haloalkane dehalogenases entrance tunnel with 
+different structures could be significantly affect the substrate specificity 
+of these enzymes (Chaloupkova et al., 2003 ). 
+3.6. Enhanced precursor substances for the efficient synthesis of L-malic 
+acid 
+To further improve the L-malic acid production, increasing the sup-
+ply of precursors is an effective strategy. One of the important precursors 
+of L-malic acid in cytoplasmic synthesis pathway is pyruvic acid (Liu 
+et al., 2018; Xu et al., 2020a ). PYK, a major rate-limiting enzyme in the 
+glycolytic process, is the key enzyme that catalyzes the production of 
+pyruvic acid from phosphoenolpyruvate (Liu et al., 2017a; Liu et al., 
+2017b ). As shown in Fig. 6A, the strain TAMC-A9 overexpressing PYK 
+produced 75.5 g/L of L-malic acid in a 250-mL shake flask without any neutralizer added. This result shows that the strengthening precursor 
+supply module of pyruvic acid is required to enhance the synthesis of L- 
+malic acid. 
+In addition, CYB2, a L-lactate dehydrogenase, could convert lactate 
+to pyruvate, and its disruption usually improves lactate production in 
+yeast (Ookubo et al., 2008 ). The CYB2 expression was enhanced to in-
+crease the concentration of pyruvate and reduce that of the by-product 
+lactic acid. Then, overexpression of CYB2 in strain TAMC-A9 to generate 
+the strain TAMC-A10. As shown in Fig. 6A, without adding any 
+neutralizer, the content of L-malic acid was 81.8 g/L in the TAMC-A10 
+strain at 120 h, and the lactate titer was 1.3 g/L, which was reduced 
+to 10 % of the yield in TAMC-A8 strain. These results shows that the 
+CYB2 overexpression not only can significantly reduce the accumulation 
+of by-product lactic acid, but also potentially increased synthesis of L- 
+malic acid. 
+3.7. Scale-up of L-malic acid production in a 3-L fermenter 
+According to the encouraging L-malic acid titer achieved in flask 
+culture, the stability in a large-scale bioreactor was tested. The engi-
+neering strain TAMC-A10 was used to produce L-malic acid by a fed- 
+batch culture in a 3-L fermenter. The results shown that the maximum 
+L-malic acid titer was 232.9 g/L at 144 h, the yield per glucose was 0.66 
+g/g and the productivity was 1.62 g/L/h, with the final fermentation 
+broth pH was D3.0 (Fig. 6B). In addition, the concentration of the by- 
+products in the fermentation supernatant, including fumaric acid, cit-
+ric acid, lactic acid, succinic acid, ethanol, were 2.6, 1.8, 1.1, 1.2, and 
+0.6 g/L, respectively (see supplementary material s). 
+To further verify whether low pH (without any neutralizer) affects 
+Fig. 6.Enhanced metabolic flux for efficient synthesis of L-malic acid. (A) The target product L-malic acid and L-lactic acid in strains overexpressing PYK or CYB2. 
+Orange boxes represent overexpressed genes. (B) The time curve of L-malic acid production in a 3-L fermenter without neutralizer. (C) The time curve of L-malic acid 
+production in a 3-L fermenter with neutralizer. The pH of fermentation process was controlled about 6.5. L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+10the production performance of the L-malic acid, the above engineering 
+strain TAMC-A10 was also cultured in 3-L fermenter with constant pH 
+6.5 by the addition of neutralizer calcium carbonate. The results showed 
+that the maximum L-malic acid titer was 227.5 g/L (the yield per glucose 
+was 0.62 g/g and the productivity was 1.58 g/L/h) (Fig. 6C). These 
+findings indicated that the production performance of the engineering 
+strain was not affected at low pH. 
+In previous studies, more than 150.0 g/L neutralizer was added, 
+yielding considerable L-malate titers in some microbial platforms 
+(Brown et al., 2013; Xu et al., 2020b ). Compared with previously re-
+ported methods (Liu et al., 2018; Zelle et al., 2008 ), the abovementioned 
+process for the generation of fermentation strains in this study did not 
+require the addition of neutralizers. These findings further suggest that 
+the S. cerevisiae mutant TAMC strain can be widely used for neutralizer- 
+free sustainable bioproduction of industrial acid products. 
+4.Conclusions 
+In summary, a S. cerevisiae mutant TAMC strain with low pH toler-
+ance of 2.3 was isolated using ALE. The microbial platform for the 
+biosynthesis of L-malic acid was established by the TAMC strain. This 
+study is the first to present the synthesis of L-malic acid in S. cerevisiae 
+without neutralizers, which provides a green alternative method for 
+producing L-malic acid. To sum up, this study constructed an acid 
+resistant yeast chassis with potential for highly efficient bioproduction 
+of L-malic acid without neutralizer, and the generated microbial cell 
+factory may be extended for the bioproduction of other organic acids. 
+Chovancova et al. (2012) . 
+CRediT authorship contribution statement 
+Li Sun: Methodology, Investigation, Writing – original draft, Formal 
+analysis. Quanwei Zhang: Data curation. Xiao Kong: Data curation. 
+Yanfeng Liu: Supervision. Jianghua Li: Supervision. Guocheng Du: 
+Supervision. Xueqin Lv: Writing – review & editing. Rodrigo Ledesma- 
+Amaro: Writing – review & editing. Jian Chen: Project administration. 
+Long Liu: Writing – review & editing, Supervision, Validation. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+Acknowledgements 
+This work was financially supported by the National Key R&D Pro-
+gram of China (2021YFD2101000/2021YFD2101002), the National 
+Natural Science Foundation of China (32021005,32100439, 32070085), 
+and the Fundamental Research Funds for the Central Universities 
+(JUSRP622004, JUSRP222007). 
+Appendix A.Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.biortech.2023.128580 . 
+References 
+Baek, S.H., Kwon, E.Y., Kim, Y.H., Hahn, J.S., 2016. Metabolic engineering and adaptive 
+evolution for efficient production of D-lactic acid in Saccharomyces cerevisiae . Appl 
+Microbiol Biotechnol 100 (6), 2737 –2748 . Brown, S.H., Bashkirova, L., Berka, R., Chandler, T., Doty, T., McCall, K., McCulloch, M., 
+McFarland, S., Thompson, S., Yaver, D., Berry, A., 2013. Metabolic engineering of 
+Aspergillus oryzae NRRL 3488 for increased production of l-malic acid. Appl 
+Microbiol Biotechnol 97 (20), 8903 –8912 . 
+Chaloupkova, R., Sykorova, J., Prokop, Z., Jesenska, A., Monincova, M., Pavlova, M., 
+Tsuda, M., Nagata, Y., Damborsky, J., 2003. Modification of activity and specificity 
+of haloalkane dehalogenase from Sphingomonas paucimobilis UT26 by engineering of 
+its entrance tunnel. J Biol Chem 278 (52), 52622 –52628 . 
+Chen, Y., Nielsen, J., 2016. Biobased organic acids production by metabolically 
+engineered microorganisms. Curr Opin Biotechnol 37, 165–172. 
+Chen, P., Tao, S., Zheng, P., 2016. Efficient and repeated production of succinic acid by 
+turning sugarcane bagasse into sugar and support. Bioresour Technol 211, 406–413. 
+Chovancova, E., Pavelka, A., Benes, P., Strnad, O., Brezovsky, J., Kozlikova, B., Gora, A., 
+Sustr, V., Klvana, M., Medek, P., Biedermannova, L., Sochor, J., Damborsky, J., 
+Prlic, A., 2012. CAVER 3.0: A Tool for the Analysis of Transport Pathways in 
+Dynamic Protein Structures. PLoS Comput Biol 8 (10), e1002708 . 
+Cravens, A., Payne, J., Smolke, C.D., 2019. Synthetic biology strategies for microbial 
+biosynthesis of plant natural products. Nat Commun 10 (1), 2142 . 
+Fernandes, A.R., Sa-Correia, I., 2003. Transcription patterns of PMA1 and PMA2 genes 
+and activity of plasma membrane H-ATPase in Saccharomyces cerevisiae during 
+diauxic growth and stationary phase. Yeast 20 (3), 207–219. 
+Godinho, C.P., Prata, C.S., Pinto, S.N., Cardoso, C., Bandarra, N.M., Fernandes, F., Sa- 
+Correia, I., 2018. Pdr18 is involved in yeast response to acetic acid stress 
+counteracting the decrease of plasma membrane ergosterol content and order. Sci 
+Rep 8 (1), 7860 . 
+Guaragnella, N., Bettiga, M., 2021. Acetic acid stress in budding yeast: From molecular 
+mechanisms to applications. Yeast 38 (7), 391–400. 
+He, F., Qin, S., Yang, Z., Bai, X., Suo, Y., Wang, J., 2020. Butyric acid production from 
+spent coffee grounds by engineered Clostridium tyrobutyricum overexpressing 
+galactose catabolism genes. Bioresour Technol 304, 122977 . 
+Hou, J., Daniels, P.N., Burke, M.D. 2020. Small Molecule Channels Harness Membrane 
+Potential to Concentrate Potassium in trk1Δtrk2Δ Yeast. ACS Chem Biol, 15(6), 
+1575-1580. 
+Imlay, J.A., 2013. The molecular mechanisms and physiological consequences of 
+oxidative stress: lessons from a model bacterium. Nat Rev Microbiol 11 (7), 
+443–454. 
+Kildegaard, K.R., Hallstrom, B.M., Blicher, T.H., Sonnenschein, N., Jensen, N.B., 
+Sherstyk, S., Harrison, S.J., Maury, J., Herrgard, M.J., Juncker, A.S., Forster, J., 
+Nielsen, J., Borodina, I., 2014. Evolution reveals a glutathione-dependent 
+mechanism of 3-hydroxypropionic acid tolerance. Metab Eng 26, 57–66. 
+Krause, J.P., Polen, T., Youn, J.-W., Emer, D., Eikmanns, B.J., Wendisch, V.F., 2012. 
+Regulation of the malic enzyme gene malE by the transcriptional regulator MalR in 
+Corynebacterium glutamicum . J Biotechnol 159 (3), 204–215. 
+Lee, Y., Nasution, O., Lee, Y.M., Kim, E., Choi, W., Kim, W., 2017. Overexpression of 
+PMA1 enhances tolerance to various types of stress and constitutively activates the 
+SAPK pathways in Saccharomyces cerevisiae . Appl Microbiol Biotechnol 101 (1), 
+229–239. 
+Liu, J., Li, J., Shin, H.D., Du, G., Chen, J., Liu, L., 2017a. Biological production of L- 
+malate: recent advances and future prospects. World J Microbiol Biotechnol 34 (1), 
+6. 
+Liu, J., Li, J., Shin, H.D., Liu, L., Du, G., Chen, J., 2017b. Protein and metabolic 
+engineering for the production of organic acids. Bioresour Technol 239, 412–421. 
+Liu, J., Li, J., Liu, Y., Shin, H.D., Ledesma-Amaro, R., Du, G., Chen, J., Liu, L., 2018. 
+Synergistic Rewiring of Carbon Metabolism and Redox Metabolism in Cytoplasm and 
+Mitochondria of Aspergillus oryzae for Increased l-Malate Production. ACS Synth Biol 
+7 (9), 2139 –2147 . 
+Liu, S., Wu, K., Chen, C., 2022. Obtaining protein foldability information from 
+computational models of AlphaFold2 and RoseTTAFold. Comput Struct Biotechnol J 
+20, 4481 –4489 . 
+Liu, Q., Yu, T., Li, X., Chen, Y., Campbell, K., Nielsen, J., Chen, Y., 2019. Rewiring carbon 
+metabolism in yeast for high level production of aromatic chemicals. Nat Commun 
+10 (1), 4976 . 
+Liu, L., Zhuge, X., Shin, H.D., Chen, R.R., Li, J., Du, G., Chen, J., 2015. Improved 
+production of propionic acid in Propionibacterium jensenii via combinational 
+overexpression of glycerol dehydrogenase and malate dehydrogenase from Klebsiella 
+pneumoniae . Appl Environ Microbiol 81 (7), 2256 –2264 . 
+Marinho, G.S., Alvarado-Morales, M., Angelidaki, I., 2016. Valorization of macroalga 
+Saccharina latissima as novel feedstock for fermentation-based succinic acid 
+production in a biorefinery approach and economic aspects. Algal Research 16, 
+102–109. 
+Nasu, Y., Murphy-Royal, C., Wen, Y., Haidey, J.N., Molina, R.S., Aggarwal, A., Zhang, S., 
+Kamijo, Y., Paquet, M.E., Podgorski, K., Drobizhev, M., Bains, J.S., Lemieux, M.J., 
+Gordon, G.R., Campbell, R.E., 2021. A genetically encoded fluorescent biosensor for 
+extracellular L-lactate. Nat Commun 12 (1), 7058 . 
+Nygard, Y., Mojzita, D., Toivari, M., Penttila, M., Wiebe, M.G., Ruohonen, L., 2014. The 
+diverse role of Pdr12 in resistance to weak organic acids. Yeast 31 (6), 219–232. 
+Ookubo, A., Hirasawa, T., Yoshikawa, K., Nagahisa, K., Furusawa, C., Shimizu, H., 2008. 
+Improvement ofL-Lactate Production by CYB2 Gene Disruption in a Recombinant 
+Saccharomyces cerevisiae Strain under Low pH Condition. Biosci Biotechnol Biochem 
+72 (11), 3063 –3066 . 
+Papadaki, A., Papapostolou, H., Alexandri, M., Kopsahelis, N., Papanikolaou, S., de 
+Castro, A.M., Freire, D.M.G., Koutinas, A.A., 2018. Fumaric acid production using 
+renewable resources from biodiesel and cane sugar production processes. Environ 
+Sci Pollut Res Int 25 (36), 35960 –35970 . 
+Pavlova, M., Klvana, M., Prokop, Z., Chaloupkova, R., Banas, P., Otyepka, M., Wade, R. 
+C., Tsuda, M., Nagata, Y., Damborsky, J., 2009. Redesigning dehalogenase access L. Sun et al.                                                                                                                                                                                                                                      Bioresource Technology 370 (2023) 128580
+11tunnels as a strategy for degrading an anthropogenic substrate. Nat Chem Biol 5 
+(10), 727–733. 
+Pereira, R., Mohamed, E.T., Radi, M.S., Herrgard, M.J., Feist, A.M., Nielsen, J., Chen, Y., 
+2020. Elucidating aromatic acid tolerance at low pH in Saccharomyces cerevisiae 
+using adaptive laboratory evolution. Proc Natl Acad Sci U S A 117 (45), 
+27954–27961. 
+Pham, H.L., Wong, A., Chua, N., Teo, W.S., Yew, W.S., Chang, M.W., 2017. Engineering a 
+riboswitch-based genetic platform for the self-directed evolution of acid-tolerant 
+phenotypes. Nature Communications 8 (1). 
+Reider, A.A., d’Espaux, L., Wehrs, M., Sachs, D., Li, R.A., Tong, G.J., Garber, M., 
+Nnadi, O., Zhuang, W., Hillson, N.J., Keasling, J.D., Mukhopadhyay, A., 2017. 
+A Cas9-based toolkit to program gene expression in Saccharomyces cerevisiae. Nucleic 
+Acids Res 45 (1), 496–508. 
+Sandberg, T.E., Pedersen, M., LaCroix, R.A., Ebrahim, A., Bonde, M., Herrgard, M.J., 
+Palsson, B.O., Sommer, M., Feist, A.M., 2014. Evolution of Escherichia coli to 42 
+degrees C and subsequent genetic engineering reveals adaptive mechanisms and 
+novel mutations. Mol Biol Evol 31 (10), 2647–2662. 
+Shao, Z., Zhao, H., Zhao, H., 2009. DNA assembler, an in vivo genetic method for rapid 
+construction of biochemical pathways. Nucleic Acids Res 37 (2), e16. 
+Tomanek, L., 2015. Proteomic responses to environmentally induced oxidative stress. 
+J Exp Biol 218 (Pt 12), 1867–1879. 
+Ullah, A., Orij, R., Brul, S., Smits, G.J., 2012. Quantitative analysis of the modes of 
+growth inhibition by weak organic acids in Saccharomyces cerevisiae. Appl Environ 
+Microbiol 78 (23), 8377–8387. 
+Volschenk, H., van Vuuren, H.J., Viljoen-Bloom, M., 2003. Malo-ethanolic fermentation 
+in Saccharomyces and Schizosaccharomyces. Curr Genet 43 (6), 379–391. 
+Westfall, P.J., Pitera, D.J., Lenihan, J.R., Eng, D., Woolard, F.X., Regentin, R., 
+Horning, T., Tsuruta, H., Melis, D.J., Owens, A., Fickes, S., Diola, D., Benjamin, K.R., 
+Keasling, J.D., Leavell, M.D., McPhee, D.J., Renninger, N.S., Newman, J.D., 
+Paddon, C.J., 2012. Production of amorphadiene in yeast, and its conversion to dihydroartemisinic acid, precursor to the antimalarial agent artemisinin. Proc Natl 
+Acad Sci U S A 109 (3), E111–E118. 
+Xu, G., Chen, X., Liu, L., Jiang, L., 2013. Fumaric acid production in Saccharomyces 
+cerevisiae by simultaneous use of oxidative and reductive routes. Bioresour Technol 
+148, 91–96. 
+Xu, X., Li, X., Liu, Y., Zhu, Y., Li, J., Du, G., Chen, J., Ledesma-Amaro, R., Liu, L., 2020a. 
+Pyruvate-responsive genetic circuits for dynamic control of central metabolism. 
+Nature Chemical Biology 16 (11), 1261–1268. 
+Xu, Y., Zhou, Y., Cao, W., Liu, H., 2020b. Improved Production of Malic Acid in 
+Aspergillus niger by Abolishing Citric Acid Accumulation and Enhancing Glycolytic 
+Flux. ACS Synth Biol 9 (6), 1418–1425. 
+Xu, Y., Wang, X., Zhang, C., Zhou, X., Xu, X., Han, L., Lv, X., Liu, Y., Liu, S., Li, J., Du, G., 
+Chen, J., Ledesma-Amaro, R., Liu, L., 2022. De novo biosynthesis of rubusoside and 
+rebaudiosides in engineered yeasts. Nat Commun 13 (1), 3040. 
+Yin, X., Li, J., Shin, H.-D., Du, G., Liu, L., Chen, J., 2015. Metabolic engineering in the 
+biotechnological production of organic acids in the tricarboxylic acid cycle of 
+microorganisms: Advances and prospects. Biotechnol Adv 33 (6), 830–841. 
+Zelle, R.M., de Hulster, E., van Winden, W.A., de Waard, P., Dijkema, C., Winkler, A.A., 
+Geertman, J.-M.-A., van Dijken, J.P., Pronk, J.T., van Maris, A.J.A., 2008. Malic Acid 
+Production by Saccharomyces cerevisiae : Engineering of Pyruvate Carboxylation, 
+Oxaloacetate Reduction, and Malate Export. Appl Environ Microbiol 74 (9), 
+2766–2777. 
+Zhang, Y., Li, Y., Xiao, F., Wang, H., Zhang, L., Ding, Z., Xu, S., Gu, Z., Shi, G., 2021. 
+Engineering of a Biosensor in Response to Malate in Bacillus licheniformis. ACS Synth 
+Biol 16 (10(7)), 1775–1784. 
+Zhang, Y., Cortez, J.D., Hammer, S.K., Carrasco-Lopez, C., Garcia Echauri, S.A., 
+Wiggins, J.B., Wang, W., Avalos, J.L., 2022. Biosensor for branched-chain amino 
+acid metabolism in yeast and applications in isobutanol and isopentanol production. 
+Nat Commun 13 (1), 270. L. Sun et al.                                                                                                                                                                                                                                      

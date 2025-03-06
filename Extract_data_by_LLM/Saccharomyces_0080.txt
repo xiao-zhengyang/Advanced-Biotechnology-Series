@@ -1,0 +1,524 @@
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=tent20
+Download by:  [Cornell University Library] Date:  12 September 2016, At: 03:00
+Environmental Technology
+ISSN: 0959-3330 (Print) 1479-487X (Online) Journal homepage: http://www.tandfonline.com/loi/tent20
+Batch and Fed-Batch Simultaneous
+Saccharification and Fermentation of Primary
+Sludge from Pulp and Paper Mills
+Cátia V.T. Mendes, Jorge M.S. Rocha, Fabr ícia F. Menezes & Maria Gra ça V.S.
+Carvalho
+To cite this article:  Cátia V.T. Mendes, Jorge M.S. Rocha, Fabr ícia F. Menezes & Maria
+Graça V.S. Carvalho (2016): Batch and Fed-Batch Simultaneous Saccharification and
+Fermentation of Primary Sludge from Pulp and Paper Mills, Environmental Technology, DOI:
+10.1080/09593330.2016.1235230
+To link to this article:  http://dx.doi.org/10.1080/09593330.2016.1235230
+Accepted author version posted online: 09
+Sep 2016.
+Published online: 09 Sep 2016.
+Submit your article to this journal 
+Article views: 1
+View related articles 
+View Crossmark data
+1 
+ Publisher: Taylor & Francis & Informa UK Limite d, trading as Taylor & Francis Group 
+Journal: Environmental Technology 
+DOI: 10.1080/09593330.2016.1235230 
+ 
+Batch and Fed-Batch Simultaneous Saccharification and Fermentation of 
+Primary Sludge from Pulp and Paper Mills 
+Cátia Vanessa Teixeira Me ndes, Jorge Manuel dos Santos Rocha*, Fabrícia 
+Farias de Menezes†, Maria da  Graça Videira Sousa Carvalho 
+CIEPQPF, Department of Chemical Engineerin g, Faculty of Sciences and Technology, 
+University of Coimbra, Pólo II, Rua S ílvio Lima, 3030-790 Coimbra, Portugal. Email 
+address: catvan@eq.uc.pt, jrocha@eq.uc.pt , fabriciaffm@gmail.com, mgc@eq.uc.pt 
+ 
+*Corresponding author: Address: Department of Chemical Engineering, University of 
+Coimbra, R. Sílvio Lima - Pólo II, 3030- 790 Coimbra, Portugal. Tel.: +351 239 798 700/731; 
+fax: +351 239 798 703. Email address: jrocha@eq.uc.pt 
+ 
+Affiliation where the research was conducted 
+CIEPQPF, Department of Chemical Engineerin g, Faculty of Sciences and Technology, 
+University of Coimbra, Pólo II, Rua Sílvio Lima, 3030-790 Coimbra, Portugal 
+ 
+                                                 
+*Corresponding Author: Address: Department of Chem ical Engineering, University of Coimbra, R. 
+Sílvio Lima - Pólo II, 3030-790 Coimbra, Portugal. Tel.: +351 239 798 700/731; fax: +351 239 
+798 703. Email address: jrocha@eq.uc.pt 
+ 
+†FEQ, LOPCA, School of Chemical Engineering, St ate University of Campinas (UNICAMP), Albert 
+Einstein Avenue, 500 – Cidade Universitária, Campinas, SP – Brazil, 13083-852. Email address: 
+fabriciaffm@feq.unicamp.br (n ew co-author affiliation)  
+ 
+2 
+  
+Batch and Fed-Batch Simultaneous Saccharification and Fermentation of 
+Primary Sludge from Pulp and Paper Mills 
+ 
+Cátia V.T. Mendes, Jorge M.S. Rocha*, Fabrícia F. Menezes, Ma ria Graça V.S. Carvalho 
+CIEPQPF, Department of Chemical Engineerin g, Faculty of Sciences and Technology, 
+University of Coimbra, Pólo II, Rua S ílvio Lima, 3030-790 Coimbra, Portugal. Email 
+address: catvan@eq.uc.pt, jrocha@eq.uc.pt , fabriciaffm@gmail.com, mgc@eq.uc.pt 
+ 
+Acknowledgements 
+Cátia Mendes is grateful for the research  grant provided – Project EMSURE (CENTRO-07-
+0224-FEDER-002004). 
+ 
+Funding 
+This work has been framed under the Initiative Energy for Sustainability of the University of 
+Coimbra and supported by the project Energy and Mobility for Sustainable Regions - 
+EMSURE (CENTRO-07-0224-FEDER-002004). 
+                                                 
+*Corresponding Author: Address: Department of Chem ical Engineering, University of Coimbra, R. 
+Sílvio Lima - Pólo II, 3030-790 Coimbra, Portugal. Tel.: +351 239 798 700/731; fax: +351 239 
+798 703. Email address: jrocha@eq.uc.pt 
+3 
+ Primary sludge from a Portuguese pulp and paper mill, containing 60 % of 
+carbohydrates, and unbleached pulp (as reference material), with 93% of carbohydrates, were used to produce et hanol by simultaneous saccharification and 
+fermentation (SSF). SSF was performed in ba tch or fed-batch conditions without the 
+need of a pretreatment. Cellic
+® CTec2 was the cellulolytic enzymatic complex used and 
+Saccharomyces cerevisiae  (baker’s yeast or ATCC 26602 strain) or the thermotolerant 
+yeast Kluyveromyces marxianus NCYC 1426 were employed. Primary sludge was 
+successfully converted to ethanol and the best results in SSF efficiency were obtained with S. cerevisiae . An ethanol concentration of 22.7 g L
+-1 was produced using a content 
+of 50 g L-1 of carbohydrates from primary sludge, in batch conditions, with a global 
+conversion yield of 81 % and a production rate of 0.94 g L-1 h-1. Fed-batch operation 
+enabled higher solids content (total carbohydrate concentration of 200 g L-1, equivalent 
+to a consistency of 33 %) and a reduction of three quarters of cellulolytic enzyme load, 
+leading to an ethanol concentration of 40.7 g L-1, although with lower yield and 
+productivity. Xylitol with a concentration up to 7 g L-1 was also identified as by-
+product in the primary sludge bioconversion process. 
+Keywords: batch; ethanol; fed-batch; pr imary sludge; simultaneous saccharification 
+fermentation  
+Introduction 
+The Portuguese pulp and paper industry generates nearly 350 000 tons of sludge per year.[1] 
+This sludge is, in general, disposed of by incineration or landfill ing. Finding alternative 
+solutions to manage this solid residue woul d decrease environmental and economic impacts 
+[2]. Primary sludge, generated in the primary wastewater treatment, is rich in cellulosic fibres 
+that can be valorised and used as feedstock to  produce a wide range of value-added products 
+(e.g. second generation ethanol). For that purpose, this lignoc ellulosic residue becomes a 
+potential raw-material, since it is readily available, abundant, re newable and has high 
+carbohydrate and low lignin contents compared to natural lignocellulosi c materials.[3-5] Two 
+important economic benefits are also associated  to the utilization of primary sludge: i) it has 
+no purchase costs; and ii) the bi oconversion total cost is able to be reduced since the common 
+4 
+ stage of biomass pretreatment can be eliminate d. The fibres in the primary sludge are screen 
+rejects of both the pulp and paper production. They are shor t, show a well-dispersed structure 
+and thus have an easy enzymatic digestion.[5] However, primary sludge has also a high ash 
+content (mostly calcium carbonate, CaCO 3) that can difficult its bioconversion. Wang et al. 
+[6] reported that a significant CaCO 3 content was the key factor  affecting the enzymatic 
+hydrolysis efficiency of paper based solid wa stes. This compound limits the solid loading 
+capacity in the bioreactor and increases the pH  of sludge suspensions (7-10), thus affecting 
+the enzymatic hydrolysis yield, catalysed by cellulases which have higher enzymatic activity when pH is near 5.[5, 6] For the bioconvers ion of lignocellulosic biomass by separate 
+hydrolysis and fermentation (SHF) or simultane ous saccharification and fermentation (SSF), 
+many authors have reported the need for a pr etreatment, using an acid to neutralize CaCO
+3 
+and adjust pH before enzymatic hydrolysis.[5-9] In previous studies , a pretreatment was 
+needed to remove CaCO 3 and adjust pH before enzymatic  hydrolysis, when primary sludge 
+was converted to ethanol using a SHF configurat ion.[10] Other advanced strategies are also 
+being studied, such as the uti lization of a consolidated biop rocessing system or the use of 
+efficient engineered bacteria  instead of yeasts [11].  
+The present work studies th e simultaneous saccharificati on and fermentation (SSF) of 
+primary sludge to produce ethanol, without us ing a previous treatment. The SSF experiments 
+were performed in batch and fed-batch conditions . The latter was used to increase the solids 
+content in the bioreactor and, consequently, the ethanol concentration. The performances of a 
+common and mesophilic industr ial-producing yeast strain, Saccharomyces cerevisiae  (at 38 
+ºC) and a thermotolerant yeast, Kluyveromyces marxianus NCYC 14226 (at 38 and 42 ºC) 
+were compared. 
+5 
+ Methods 
+Lignocellulosic Materials 
+Primary sludge (PS) and unbleached pulp (UP) were provided by a local Portuguese kraft 
+pulp mill which uses Eucalyptus globulus wood as raw-material. The lignocellulosic residue 
+was collected from the primary wastewater clar ifier unit. Unbleached pulp has similar lignin 
+content and lower ash content compared to pr imary sludge, and therefore it was used as a 
+reference material. Moisture (and total solids), total ash and total lignin were analyzed 
+according to the National Renewable Energy Labo ratory (NREL) standa rd procedures.[12] 
+Total carbohydrates content wa s determined by difference. Calcium carbonate was calculated 
+from the total ash content and the results obta ined by igniting a dry sample at 900 ºC. On a 
+dry weight basis, primary sludge contained 4.8 % of total lignin, 34.8 % of ash and 60.4 % of 
+total carbohydrates (CH). Unbleached pulp consisted of 2.1 % total lignin, 1.1 % ash and 93.4 % total carbohydrates. CaCO
+3 was 26.7 % and 0.1 % in prim ary sludge and unbleached pulp, 
+respectively. 
+Enzymes and Microorganisms 
+The enzymatic extract used in SSF assays, Cellic® CTec2, is a mixture of cellulases, β-
+glucosidades and hemicellula ses and it was a kind gift fr om Novozymes. The corresponding 
+cellulase activity was 200.7 FPU mL-1 (filter paper assay), as measured according to the 
+NREL standard procedure [12], at pH 5.0 and 50 ºC (optimal pH and temperature values). 
+The enzymatic activity determined at 38 and 42 ºC was 45 and 59 FPU mL-1. 
+Baker’s yeast Saccharomyces cerevisiae, provided by a local wine producer, and 
+Kluyveromyces marxianus NCYC 1426, acquired from the National Collection of Yeast 
+Cultures (NCYC, Britain) were the mi croorganisms employed. Another strain, 
+Saccharomyces cerevisiae ATCC 26602 (American Type Cultu re Collection, Virginia, USA)  
+6 
+ was also used in some assays. Optimal pH and temperature for S. cerevisiae  is 4.5-5.5 and 30 
+ºC, respectively. Accordi ng to the producer, optimal and ma ximum temperature for growth of 
+K. marxianus  NCYC 1426 is 40 and 42 °C, respec tively, and optimal pH is 4.5-5.0. The 
+yeasts were kept in agar slants, wi th the Yeast Medium (YM) plus 15 g L-1 agar (HiMedia 
+Laboratories), at 4 °C.  The YM consisted of 3 g L-1 yeast extract, 3 g L-1 malt extract, 5 g L-1 
+peptone (all from Fluka) and 10 g L-1 glucose (Riedel de-Haën).  
+Simultaneous Saccharification and Fermentation (SSF) 
+All SSF experiments were performed in 250 mL Erlenmeyer flasks. Batch and fed-batch SSF 
+were performed with S. cerevisiae at 38 ºC and K. marxianus  NCYC 1426 at 38 or 42 ºC. A 
+fresh yeast inoculum amount of 10 % of total working volume (100 mL) was added, together 
+with an enzyme loading of 35 FPU g CH-1 (concerning the carbohydrat e content added at t=0 
+h) and a supplement of 3 g L-1 yeast extract, 3 g L-1 malt extract, 5 g L-1 peptone and 5 g L-1 
+of glucose. In batch SSF, primary sludge or unbleached pulp suspended in 0.05 M citrate 
+buffer was added such that the total carbohydrat es content (in their polymeric form) in the 
+bioreactor was c.a 25 or 50 g L-1. In fed-batch conditions, prim ary sludge or unbleached pulp 
+was loaded in the flasks periodically (4 tim es at t=0 h and every 24 h), each time with the 
+amount of 25 or 50 g L-1 of carbohydrates. Therefore, a total of 100 or 200 g L-1 of 
+carbohydrates were added, respectively. SSF experi ments were carried ou t at 150 rpm in the 
+orbital shaker (Stuart SI50, UK). Samples we re withdrawn from SSF culture broth and 
+centrifuged at 3500 rpm for 10 min (Hettich, Germany). The first samples in the assays with 50 g L
+-1 of carbohydrates were withdrawn only after 3 h of reaction, when initial liquefaction 
+of solid substrates was observed. Fermentation controls (without li gnocellulosic material) 
+were also performed in order to eliminate th e contribution of external sugars (from the 
+enzyme, glucose and extracts solutio ns) in the production of ethanol. 
+7 
+ Analytical Methods for SSF Samples 
+Samples from SSF experiments were analysed for pH, sugars, ethanol and by-products. 
+Reducing sugars were determined by the colo rimetric DNS method.[13] Individual sugars, 
+ethanol and by-products were evaluated by high performance liquid chromatography (HPLC) 
+after the samples were filtrated  with a 0.2 µm syringe filter membrane (Whatman). HPLC 
+system consisted of a Knauer model K-301 with a refractive inde x (RI) detector. The 
+components were analysed with an Agilent Hi -Plex Ca (8 µm × 300 mm) column maintained 
+at 80-85 ºC. The eluent used  was ultra-pure water at a flow rate of 0.6 mL min-1, previously 
+filtered with a 0.2 µm filter membrane and dega ssed. Ethanol yield (Y) was calculated by Eq. 
+(1), were: [EtOH] t is the ethanol concentration (g EtOH L-1) at time t (h); 0.51 is the mass 
+conversion factor of sugar to ethanol (g EtOH gsug-1); f is the fraction of  carbohydrates in dry 
+weight lignocellulosic biomass (dwb) (g CH gdwb-1); [Biomass] is the concentration of dry 
+weight lignocellulosic biomass, initial in batc h operation and total added until the time of 
+ethanol evaluation, for fed-batch operation (g dwb L-1); and 1.1 is the global mass conversion 
+of carbohydrates to monomeric sugars (g sug gCH-1). Ethanol productivity (P) was determined 
+according to Eq. (2).[12,14]    
+ Y (%) = [EtOH]t 
+0.51 × (f × [Biomass] × 1.1)×100 (1) 
+ P (g L-1h-1) = [EtOH]t  
+t  (2) 
+Results and Discussion 
+SSF in Batch Conditions  
+Table 1 shows the results of maximum ethanol  concentration produced by baker’s yeast S. 
+cerevisiae or K. marxianus  NCYC 1426 in the SSF of prim ary sludge or unbleached pulp in 
+8 
+ batch conditions [Table 1 near here].  In the SSF of unbleached pulp, the ethanol 
+concentration and productivity in creased with the ini tial carbohydrate content, whilst ethanol 
+yield decreased. When primary sludge was us ed, all SSF parameters increased when the 
+initial carbohydrate content was increased. For the higher ini tial carbohydrate content (50 g 
+L-1, corresponding to a primary sludge consistenc y of 8.3 %), an ethanol concentration of 
+22.7 g L-1 was obtained from primary sludge, sligh tly higher than the one produced from 
+unbleached pulp (20.8 g L-1). The conversion yield of carbohydr ates from primary sludge into 
+ethanol was 80.6 % and ethanol was obtained with a production rate of 0.94 g L-1 h-1. In the 
+case of the reference material, ethanol yi eld and productivity were 74.3 % and 0.87 g L-1 h-1. 
+Figure 1 compares the profiles of glucose, xylos e and ethanol concentrations obtained in the 
+SSF of the two lignocellulosic materials (50 g L-1 of carbohydrates), when S. cerevisiae was 
+used [Figure 1 near here]. For the first hours of  SSF (at least 6 h), the enzymatic hydrolysis of 
+the carbohydrates was the prevailing process, producing glucose and xylose (more evident in 
+Figure 1a). The rate of conversion of carbohydrates to monomeric sugars by Cellic® CTec2 
+was higher than the rate of sugars consumption by S. cerevisiae. Therefore, fermentable 
+sugars were accumulated in the SSF culture brot h and low levels of ethanol were produced. 
+During this period of time, the liquefaction of the initial mixture was well visible. With the 
+increase of the solids charge, more time was n eeded for the mixture to liquefy. Between 6 and 
+24 h of SSF, glucose was sharply consumed and ethanol was produced. Other authors had 
+observed similar behaviours.[4,14]   After reaching its maximum value, ethanol concentration 
+remained constant till the e nd of the SSF of unbleached pulp (Figure 1a) and it slightly 
+decreased in the SSF of primar y sludge (Figure 1b). The results obtained in the SSF of 
+untreated primary sludge (or unbleached pulp) with baker’s yeast S. cerevisiae in this work 
+compares well with the ones obtained by Kang et al. [5], using S. cerevisiae ATCC 200062 
+(SSF performed at 37 ºC with 15 FPU of cellulase Spezyme CP and 30 CBU of glucosidase 
+9 
+ Novozym 188 per gram of glucan). These auth ors obtained an ethanol concentration of 13.6 g 
+L-1 from 3 % glucan loading, either in the SSF of untreated primary sludge (with an ash 
+content up to 36 %) or hardwood pulp, with appr oximately 80 % of conversion yield. When 
+glucan loading was increased to 6 %,  an ethanol concentration of 25.5 g L-1 was achieved, 
+reaching 75 % of the maximum theoretical yield.  In other study where paper sludge was used 
+as raw-material for bioethanol production wi thout any pretreatment , Dwiarti et al. [15] 
+obtained 11.8 g L-1 of ethanol from 50 g L-1 of paper sludge, with a conversion yield of 80 % 
+based on consumed glucose.  
+The profiles for the SSF of 50 g L-1 of carbohydrates from unbleached pulp or 
+primary sludge, with K. marxianus  NCYC 1426, at 38 or 42 ºC, are showed in Figure 2 
+[Figure 2 near here]. In the SSF of unbleached  pulp, ethanol concentration and yield were 
+improved with the increase of temperatur e (38 to 42 ºC). In the SSF of 50 g L-1 of 
+carbohydrates of unbleached pulp at 38 ºC (Table 1), an ethanol  concentration of 15.2 g L-1 
+was produced (yield of 54.6 % and productivity of 2.53 g L-1 h-1), compared to 16.5 g L-1 of 
+ethanol achieved at 42 ºC (yield of 58.8 % and productivity of 2.75 g L-1 h-1). In the SSF of 
+primary sludge, the increase of temperature did not improve the process performance. The 
+carbohydrates (50 g L-1) from primary sludge were converted to 20.7 g L-1 of ethanol at 38 ºC 
+(yield of 73.7 % and productivity of 0.86 g L-1 h-1) and 15.1 g L-1 at 42 ºC (yield of 53.7 % 
+and productivity of 0.63 g L-1 h-1). Similar results on ethanol  production were obtained by 
+Ballesteros et al. [16], reporting values in the range of 16.2-19 g L-1 in the SSF of different 
+steam explosion pretreated lignocellulosic subs trates (10 % substrate concentration), using K. 
+marxianus  CECT 10875 and 15 FPU of Celluclast 1.5L per gram of substrate, at 42 ºC.  
+In the present work, K. marxianus  NCYC 1426 produced lower ethanol 
+concentrations than S. cerevisiae, generally with lower convers ion yields, in the same SSF 
+conditions (Table 1). In the l iterature it can be found similar or different observations. For 
+10 
+ instance, Faga et al. [14] compared five Kluyveromyces marxianus IMB thermotolerant yeast 
+strains and S. cerevisiae D5A in the SSF of hydrothermolys is pretreated switchgrass, under 
+different conditions. The authors reported that ethanol yield for S. cerevisiae  D5A was 
+greater than all of the K. marxianus  IMB strains, except one whic h showed similar results. On 
+the other hand, Kádár et al. [4] observed no significant differences between K. marxianus  
+Y01070 and baker’s yeast S. cerevisiae  in the batch SSF of paper sl udge, carried out at 40 ºC, 
+with 15 FPU of cellulase and 15 IU of Novozym 188 per gram  of dry substrate. Ethanol 
+concentrations of 8.8-9 g L-1 with conversion yields of 58-60 % were obtained in the SSF of 6 
+% of paper sludge. 
+It should be highlighted that  the SSF experiments were carri ed out in the present study 
+with success without the need of the sludge pretreatment to remove CaCO 3, or to adjust the 
+alkaline sludge pH. However, the ethanol c oncentration is low for an economic separation. 
+To increase ethanol concentr ation in the fermentation brot h, higher carbohydrate contents 
+must be used in the process. A maximum value of 8.3 % was here used for the solids content. 
+However, the increase of substrate concentr ation may decrease ethanol yields.[9,17,18] Many 
+authors have employed initial substr ate concentrations up to 7.5 % in SSF 
+configurations.[4,5,8,16] High solids consistency in batch systems causes mixing and heat 
+transfer difficulties and/or e nd-products inhibition effects. Si nce high amounts of fermentable 
+sugars are needed to produce high ethanol c oncentrations, a high amount of primary sludge 
+would have to be added in the assay. Howe ver, mixing difficulties would be observed. To 
+overcome such problems, fed-batch can be appl ied to maintain low solid levels, but still 
+increasing the sugars available for ethanol production.[17,19-22] 
+SSF in Fed-Batch Conditions  
+The application of fed-batch conditions was test ed with the two lignocellulosic materials in 
+11 
+ order to increase the amount of total availabl e carbohydrates and consequently to increase the 
+ethanol concentration. In addi tion, this operation mode enable d a reduction of 75 % of the 
+enzymatic load, compared to the above describe d batch operation. The resu lts obtained in the 
+SSF of unbleached pulp or primary sludge in fed- batch conditions are showed in Table 2. 
+Two different total concentrations of carbohydrates were tested (100 and 200 g L-1, gradually 
+added). The assays started w ith an initial carbohy drate concentration and when the mix 
+became more fluid (after partia l saccharification) more primar y sludge was added to reach the 
+final carbohydrate concentrations . As observed in Table 2, the strategy was efficient for 
+ethanol concentration increase [T able 2 near here]. However th e conversion yield was lower, 
+indicating that i) a significant amount of carbohydrates were not hydrolysed to fermentable 
+sugars, ii) the fermentable sugars were not meta bolized by yeast or iii) the fermentable sugars 
+were not used to ethanol production pathway. Fi gure 3 shows that xylose was produced from 
+the eucalyptus hemicelluloses but was not si gnificantly consumed, remaining essentially 
+constant during the process [Figure 3 near here ]. In contrast, glucose was totally consumed. 
+Figure 3 also shows the similarity of glucose,  xylose and ethanol profiles between the SSF of 
+unbleached pulp and primary sludge (same amount of total carbohydrates, 200 g L-1). It can 
+be observed that is redundant  to extend a SSF process beyon d 75 h of reaction, using the 
+conditions described in this work. An ethanol concentration of 45.6 g L-1 was achieved, when 
+a total of 200 g L-1 of carbohydrates was gradually added in the SSF of unbleached pulp with 
+S. cerevisiae  (Table 2). The ethanol was pr oduced with a rate of 0.63 g h-1 L-1 and the 
+conversion yield was 52.9 %. In the SSF of  primary sludge good results in ethanol 
+concentration was also achieved (40.7 g L-1). An ethanol yield and productivity of 32.4 % and 
+0.52 g h-1 L-1 were determined, respectively. The tota l solids load based on dry primary 
+sludge was 33 %. 
+12 
+ As also showed in Table 2, the baker’s yeast S. cerevisiae had similar performance to 
+that of S. cerevisiae ATCC 26602 strain in the fed-batc h SSF of primary sludge, concerning 
+to ethanol concentration and productivity, confirming the reliability  of its use.   
+In comparison with the batch operation, Kang et  al. [5] reported the same pattern, that 
+is, a lower ethanol yield in the fed-batch SSF of primary sludge. This result was related to the 
+cellulase reaction, mainly affected by the high so lid content in the bioreactor. These authors 
+carried out fed-batch SSF runs with untreat ed kraft paper mill sludge, performing two 
+additional feedings (a total of 18 % glucan lo ading). A final ethanol concentration of 45 g L-1 
+was produced with a conversion yield of 70 % (based on glucan), although requiring a longer 
+reaction time (120 h). Prasetyo et  al. [22] also produced etha nol from primary sludge by SSF 
+without any pretreatment, in batch or fed-batch operati on. The author reported mixing 
+problems caused by high paper sludge concentrations (> 110 g L-1 based on organic material). 
+In fed-batch mode, an ethanol concentration of 40 g L-1 was obtained after 72 h, with a 
+conversion yield of 23 % for paper sl udge concentrations up to 160 g L-1 (added in portions). 
+In the present work, a higher ethanol yield was achieved.  
+As depicted in Table 2, the ethanol concen trations obtained in the SSF assays with K. 
+marxianus  NCYC 1426 were lower than  the ones achieved with S. cerevisiae . Despite of 
+being known for its thermotolerance, the use of that yeast at a higher temperature (increased 
+from 38 to 42 ºC) did not lead to a better effici ency. In general, and as observed in Figure 4, a 
+high amount of glucose remained, as non-consumed, indicating that yeast metabolism was somehow inhibited [Figure 4 near here]. It was observed that, either using S. cerevisiae or K. 
+marxianus  NCYC 1426, the last ca rbohydrate amount added had a very small effect on 
+ethanol concentration, surely lowering the ethanol yield.  
+Ballesteros et al. [19] used a recycled paper-derived feedstock to produce ethanol by 
+SSF with K. marxianus  CECT 10875 at 42 ºC, in batch or fed-batch, testing several substrate 
+13 
+ concentrations and enzyme loadings. A maximu m value of 10 % was used for substrate load 
+in fed-batch operation, leading to an  ethanol concentration of 17.7 g L-1 with a conversion 
+yield of 79.7 %, higher than  the results obtained with K. marxianus  NCYC 1426 in the 
+present work. 
+pH and By-products  
+The pH of primary sludge suspensions is around 8. Its alkalinity is due to CaCO 3 presence. In 
+SSF of primary sludge (batch or fed-batch), pH value decreased from nearly 8.1 to 5.8 during 
+the process. During ethanolic fermentation proc esses, pH gradually decreases due to the 
+formation of carbonic acid and othe r organic acids, such as acetic  acid. Therefore, in SSF of 
+untreated primary sludge, the existing CaCO 3 can be partially neutralized by the acids 
+formed, acting afterwards as a buffer to stabilize pH, promoting carbohydrates conversion to 
+fermentable sugars [5]. In SSF of unbleached pul p, small pH variations were registered (5.3 – 
+4.4). Cellobiose, acetic acid or glycerol were detected and quantified by HPLC during the SSF assays. The concentration of these by-produ cts varied, depending on the SSF conditions. 
+In the SSF assays with S. cerevisiae (which showed better results ), maximum concentrations 
+of 6.5, 0.6 and 4.8 g L
+-1 of cellobiose, glycerol and acetic acid, respectively, were observed in 
+batch conditions. In fed-batch SSF with the same yeast, 7.4 g L-1 of cellobiose and 11.0 g L-1 
+of acetic acid were produced, with no traces  of glycerol. The higher amount of fermentable 
+sugars metabolized in fed-batch SSF has led to higher by-products concentrations, such as the 
+one of acetic acid. Xylitol produc tion was also observed in batc h or fed-batch SSF, whether 
+the yeast used was S. cerevisiae  or K. marxianus NCYC 1426. Xylitol co ncentration in the 
+SSF varied between 5.0 and 7.0 g L-1. S. cerevisiae  had been shown that is unable to ferment 
+pentoses, namely xylose. However, it was reported that S. cerevisiae is able to reduce xylose 
+into xylitol in the pres ence of co-substrates, such as glucose or ethanol.[23,24] In fact, 
+14 
+ parallel studies were conducted in this work to confirm the production of xylitol, as well as 
+ethanol, in the presence of a sugar mixture and S. cerevisiae. The yeast was grown in 50 g L-1 
+of glucose, producing an etha nol concentration of 20 g L-1. No xylitol was detected in the 
+broth culture. When it was grown in 50 g L-1 of xylose, no ethanol was produced and 4 g L-1 
+of xylitol was obtained. At the end of fermentation, a xylose concentration of 44 g L-1 
+remained unused. In a medium consisted of 40 g L-1 of glucose and 10 g L-1 of xylose, S. 
+cerevisiae produced nearly 17 g L-1 of ethanol and a xylitol  concentration of 10 g L-1 was 
+quantified. At the end of fermentation no glucos e or xylose was detected (data not shown). 
+Conclusions  
+Primary sludge from Portuguese pulp and paper mills without any previous treatment can be 
+converted into value-added products, such as ethanol, by SSF. S. cerevisiae  (baker’s yeast 
+and ATCC 26602 strain) showed a better pe rformance than the thermotolerant K. marxianus 
+NCYC 1426. For batch operation, 22.7 g L-1 of ethanol was obtained with a carbohydrates-to-
+ethanol conversion yield of 81 %, using 50 g L-1 of carbohydrates. Fed-batch operation 
+enabled high solids content (reaching a primar y sludge consistency of 33 %) and a reduction 
+of 75 % of cellulolytic enzyme load. Et hanol concentration was improved (40.7 g L-1), 
+although with a decrease of the yield (32 %).  Xylitol with a concentration up to 7 g L-1 was 
+also identified as by-product in the primary sludge bioc onversion process. 
+References 
+[1] Portuguese Paper Industry Association (CELPA). 2014. Solid Residu es. In: Statistical 
+Bulletin – Portuguese Paper Industry, p. 63. 
+[2] Orozco AM, Al-Muhtaseb AH, Rooney D, et  al. Fermentable sugars recovery from 
+lignocellulosic waste-news paper by catalytic hydrol ysis. Environ Technol. 
+2013;34:3005-3016. 
+15 
+ [3] Lark N, Xia Y, Qin C-G, et al. Production of ethanol from recycl ed paper sludge using 
+cellulase and yeast, Kluyveromyces marxianus . Biomass Bioenergy 1996;12:135-143. 
+[4] Kádár  Zs, Szengyel Zs, Réczey K. Simulta neous saccharification and fermentation (SSF) 
+of industrial wastes for the production  of ethanol. Ind Crops Prod. 2004;20:103-110.  
+[5] Kang L, Wang W, Lee YY. Bioconversion of kraft paper mill sludges to ethanol by SSF 
+and SSCF. Appl Biochem Biotechnol. 2010;161:53-66. 
+[6] Wang X, Song A, Li L, et al. Effect of calcium carbonate in waste office paper on 
+enzymatic hydrolysis efficiency and enha ncement procedures. Korean J Chem Eng. 
+2011;28:550-556. 
+[7] Fan Z, Lynd RL. Conversion of paper sludge to ethanol, II: process design and economic 
+analysis. Bioprocess Biosyst Eng. 2007;30:35-45. 
+[8] Marques S, Alves L, Roseiro JC, et al. C onversion of recycled paper sludge to ethanol by 
+SHF and SSF using Pichia stipitis . Biomass Bioenergy. 2008;32:400-406. 
+[9] Li H, Kim N-J, Jiang M, Kang JW, et al . Simultaneous saccharification and fermentation 
+of lignocellulosic residues pr etreated with phosphoric ac id-acetone for bioethanol 
+production. Bioresour Technol. 2009;100:3245-3251. 
+[10] Mendes CVT, Rocha JMS, Carvalho MGVS. Valorization of residual streams from pulp 
+and paper mills: pretreatment and bioconversion of primary sludge to bioethanol. Ind 
+Eng Chem Res. 2014;53:19398-19404. 
+[11] Tamaru Y, Miyake H, Kuroda K, et al. Comparative genomics of the mesophilic 
+cellulosome-producing Clostridium cellulovorans and its applica tion to biofuel 
+production via consolidates bioproc essing. Environ Technol. 2010;31:889-903. 
+[12] National Renewable Energy Laborato ry (NREL). 2008. Laboratory Analytical 
+Procedures (LAPs).  
+[13] Miller GL. Use of dinitrosalicylic acid reagent for determination of reducing sugar. Anal 
+Chem. 1959;31:426-428. 
+[14] Faga BA, Wilkins MR, Banat IM . Ethanol production through simultaneous 
+saccharification and fermentation of switchgrass using Saccharomyces cerevisiae  
+D5A and thermotolerant Kluyveromyces marxianus IMB strains. Bioresour Technol. 
+2010;101:2273-2279. 
+[15] Dwiarti L, Boonchird C, Harashima S,  et al. Simultaneous saccharification and 
+fermentation of paper sludge without pretreatment using cellulase from Acremonium 
+16 
+ cellulolyticus  and thermotolerant Saccharomyces cerevisiae . Biomass Bioenergy. 
+2012:42:114-122.  
+[16] Ballesteros M, O liva JM, Manzanares P, et al. Etha nol from lignocellulosic materials by 
+a simultaneous saccharification and fermentation process (SFS) with Kluyveromyces 
+marxianus  CECT 10875. Process Bi ochem. 2004;39:1843-1848. 
+[17] Krishna SH, Reddy TJ, C howdary GV. Simultaneous sacch arification and fermentation 
+of lignocellulosic wastes to ethanol using a thermotolerant  yeast. Bioresour Technol. 
+2001;77:193-196. 
+[18] Chen H, Han Y, Xu J. Simultaneous saccharification and fermentation of steam 
+exploded wheat straw pretreated with alkaline peroxide. Process Biochem. 
+2008;43:1462-1466.  
+[19] Ballesteros M, O liva JM, Manzanares P, Negro MJ, et al. Ethanol production from paper 
+material using a simultaneous saccharificati on and fermentation system in a fed-batch 
+basis. World J Microbio l Biotechnol. 2002;18:559-561. 
+[20] Zhang X, Qin W, Paice MG, et al. High consistency en zymatic hydrolysis of hardwood 
+substrates. Bioresour Technol. 2009;100:5890-5897.  
+[21] Kuhad RC, Mehta G, Gupta R, et al. Fed-batch enzymatic sacchari ﬁcation of newspaper 
+cellulosics improves the sugar content in the hydrolysates and eventually the ethanol 
+fermentation by Saccharomyces cerevisiae. Biomass Bioenergy. 2010;34:1189-1194. 
+[22] Prasetyo J, Naruse K, Kato T, et al . Bioconversion of paper sludge to biofuel by 
+simultaneous saccharification and fermenta tion using a cellulase of paper sludge 
+origin and thermotolerant Saccharomyces cerevisiae  TJ14. Biotechnol Biofuels. 
+2011;4:35-48.  
+[23] Latif F, Rajoka MI. Production of ethanol and xylitol from corn cobs by yeasts. 
+Bioresour Technol. 2001;77:57-63. 
+[24] Lebeau T, Jouenne T, Junter G-A. Fe rmentation of D-xylose by free and immobilized 
+Saccharomyces cerevisiae. Biotechnol Lett. 1997;9:615-618. 
+ 
+  
+17 
+ TABLES  
+ 
+Table 1. Ethanol concentration and the corres ponding ethanol yield and productivity obtained 
+in SSF of unbleached pulp and prim ary sludge in batch conditions. 
+Yeast and Temperature Lignocellulosic 
+biomass [CH] total
+(g L-1) Consistency (%) [EtOH]  (g L
+-1) time *  
+(h) Y #,§   
+(%) P §   
+(g L-1 h-1) 
+S. cerevisiae        
+38 ºC Unbleached Pulp 25 2.7 13.8 ±0.9 30 98.2 0.46 
+50 5.3 20.8 ±1.3 24 74.3 0.87 
+Primary sludge 25 4.1 9.0 ±1.0 30 64.1 0.30 
+ 50 8.3 22.7 ±1.2 24 80.6 0.94 
+K. marxianus  NCYC 1426        
+38 ºC Unbleached Pulp 25 2.7 10.5 ±1.2 6 74.9 1.75 50 5.3 15.2 ±1.3 6 54.6 2.53 
+Primary sludge 25 4.1 6.1 ±1.5 6 43.4 1.02 
+50 8.3 20.7 ±2.5 24 73.7 0.86 
+42 ºC Unbleached Pulp 25 2.7 13.6 ±1.0 24 97.0 0.57 
+50 5.3 16.5 ±1.3 6 58.8 2.75 
+Primary sludge 25 4.1 6.9 ±1.1 6 49.0 1.15 
+50 8.3 15.1 ±3.0 24 53.7 0.63 
+* – time of maximum ethanol concentration; # – repo rted to the theoretical value; § – evaluated at 
+time of maximum ethanol concentration      
+18 
+ Table 2. Ethanol concentration and the corres ponding ethanol yield and productivity obtained 
+in SSF of unbleached pulp and primary sludge in fed-batch conditions. 
+Yeast and temperature Lignocellulosic 
+biomass [CH] total 
+(g L-1) Consistency (%) [EtOH]  (g L
+-1) time * 
+(h) Y #,§ 
+(%) P § 
+(g L-1 h-1) 
+S. cerevisiae        
+38 ºC Unbleached Pulp 100 10.8 23.0 ±0.7 72 53.4 0.32 
+200 21.2 45.6 ±1.2 72 52.9 0.63 
+Primary sludge 100 16.4 20.9 ±1.0 78 32.5 0.27 200 33.2 40.7 ±0.9 78 32.4 0.52 
+S. cerevisiae  ATCC 26602        
+38 ºC Unbleached Pulp 200 21.2 55.3 ±0.3 79 64.9 0.70 
+Primary sludge 200 33.2 40.7 ±1.1 79 48.0 0.52 
+K. marxianus  NCYC 1426        
+38 ºC Unbleached Pulp 100 10.8 23.0 ±1.1 54 46.6 0.43 
+200 21.2 23.0 ±1.2 6 80.0 3.83 
+Primary sludge 100 16.4 18.1 ±2.3 75 26.8 0.23 200 33.2 24.2 ±3.1 78 18.8 0.31 
+42 ºC Unbleached Pulp 100 10.8 20.4 ±1.3 72 47.3 0.28 
+200 21.2 25.6 ±1.2 48 44.5 0.53 
+Primary sludge 100 16.4 13.6 ±1.7 78 21.1 0.17 
+200 33.2 30.4 ±3.5 168 23.6 0.18 
+* – time of maximum ethanol concentration; # – repo rted to the theoretical value; § – evaluated at 
+time of maximum ethanol concentration     
+ 
+19 
+ FIGURE LEGENDS  
+ 
+Figure 1. Batch SSF of 50 g L-1 of carbohydrates from a) unbl eached pulp and b) primary 
+sludge, with Cellic® CTec2 (35 FPU g CH-1) and S. cerevisiae (38 ºC, 100 mL, 150 rpm). 
+ 
+Figure 2. Batch SSF of 50 g L-1 of carbohydrates from unbleached  pulp (a, c) and primary 
+sludge (b, d), with Cellic® CTec2 (35 FPU g CH-1) and K. marxianus  NCYC 1426, at different 
+temperatures (100 mL, 150 rpm).  Figure 3. Fed-batch SSF of 200 g L
+-1 (4×50 g L-1) of carbohydrates from a) unbleached pulp 
+and b) primary sludge, with Cellic® CTec2 (35 FPU g CH-1) and S. cerevisiae  (38 ºC, 100 mL, 
+150 rpm). The grey vertical gr inds correspond to SSF feeding.  
+ Figure 4. Fed-batch SSF of 200 g L
+-1 (4×50 g L-1) of carbohydrates from unbleached pulp (a, 
+c) and primary sludge (b, d), with Cellic® CTec2 (35 FPU g CH-1) and K. marxianus  NCYC 
+1426, at different temperatures (100 mL, 150 rpm). The grey vert ical grinds correspond to 
+SSF feeding. 
+ 
+20 
+  
+21 
+  
+22 
+  
+23 
+  

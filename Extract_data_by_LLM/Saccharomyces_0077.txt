@@ -1,0 +1,602 @@
+Process optimization to convert forage and sweet sorghum bagasse to ethanol based
+on ammonia ﬁber expansion (AFEX) pretreatment
+Bing-Zhi Lia, Venkatesh Balanb,*, Ying-Jin Yuana,*, Bruce E. Daleb
+aKey Laboratory of Systems Bioengineering, Ministry of Education, Department of Pharmaceutical Engineering, School of Chemical Engineering and Technology,
+Tianjin University, P.O. Box 6888, Tianjin 300072, PR China
+bBiomass Conversion Research Lab (BCRL), Department of Chemical Engineering and Materials Science, Michigan State University, 3900 Collins Road,
+MBI International Building, Lansing, MI 48910, USA
+article info
+Article history:
+Received 18 March 2009
+Received in revised form 1 September 2009
+Accepted 10 September 2009Available online 6 October 2009
+Keywords:
+Ammonia ﬁber expansion pretreatmentForage sorghumSweet sorghum bagasseCellulosic ethanolFermentationabstract
+With growing demand for bio-based fuels and chemicals, there has been much attention given to the per-
+formance of different feedstocks. We have optimized the ammonia ﬁber expansion (AFEX) pretreatment
+and fermentation process to convert forage and sweet sorghum bagasse to ethanol. AFEX pretreatment
+was optimized for forage sorghum and sweet sorghum bagasse. Supplementing xylanase with cellulaseduring enzymatic hydrolysis increased both glucan and xylan conversion to 90% at 1% glucan loading. Highsolid loading hydrolyzates from the optimized AFEX conditions were fermented using Saccharomyces cere-
+visiae 424A (LNH-ST) without any external nutrient supplementation or detoxiﬁcation. The strain was bet-
+ter able to utilize xylose at pH 6.0 than at pH 4.8, but glycerol production was higher for the former pH thanthe latter. The maximum ﬁnal ethanol concentration in the fermentation broth was 30.9 g/L (forage sor-
+ghum) and 42.3 g/L (sweet sorghum bagasse). A complete mass balance for the process is given.
+/C2112009 Elsevier Ltd. All rights reserved.
+1. Introduction
+The development of alternatives to fossil fuels is receiving in-
+creased attention as it becomes an urgent global priority due to
+the growing concern over the effect of green house gases on the
+environment and security of the global liquid fuel supply (Rubin,
+2008 ). Cellulosic ethanol could be a key alternative fuel, but several
+types of feedstocks that grow well in different climatic conditionsare needed to make this fuel source viable. C4 plants, such as corn
+(Zea mays L.), sorghum ( Sorghum sp.) and sugarcane ( Saccharum
+sp.), are promising candidates for energy plants because of theirhigh photosynthetic efﬁciency and higher biomass yield per hect-
+are (Rubin, 2008 ). Based on a recent economic analysis, sweet sor-
+ghum is considered to be one of the most drought resistant cropsand has higher biomass yield and lower production costs than
+many other plants ( Corredor et al., 2009 ). Forage sorghum, which
+is typically grown for animal feed as silage, has a very short grow-ing period (about 60 days), much shorter than the growing period
+required for corn or other kinds of sorghum (no less than
+120 days), including grain sorghum and sweet sorghum (Table 1 ).
+Research has provided some basis for improving the sugar con-
+tent in sweet sorghum by controlling the planting conditions
+(Almodares and Sharif, 2007 ). Solid-state fermentation of sweetsorghum stems has been developed due to their high sugar content
+(Gibbons et al., 1986; Kargi et al., 1985; Kargi and Curme, 1985; Yu
+et al., 2008 ). However, scale-up of solid-state fermentation is at a
+bottleneck because of engineering problems associated with the
+process ( Holker and Lenz, 2005 ). Another approach to utilizing
+sweet sorghum is processing the harvested plant into juice and ba-gasse. Sweet sorghum juice contains high concentrations of sugar
+and could be used directly as a substrate for ethanol production.
+Liu and Shen showed promising results for the conversion of sweet
+sorghum juice to ethanol by immobilized yeast cells (Liu and Shen,
+2008 ). Due to the similarity between sweet sorghum and sugar-
+cane, large scale industrial bio-reﬁneries producing ethanol fromsweet sorghum juice can learn much from sugarcane-based etha-
+nol production. A huge amount of sweet sorghum bagasse will re-
+sult from the large scale production of sweet sorghum juice. There
+are several techniques to utilizing sweet sorghum bagasse such as
+burning, converting to methane and converting to ethanol (Gnan-
+sounou et al., 2005; Stamatelatou et al., 2003 ).
+Ammonia ﬁber expansion (AFEX) is one of the most promising
+pretreatment methods for lignocellulosic biomass when compared
+to other leading pretreatment processes (Eggeman and Elander,
+2005 ). AFEX pretreatment is a dry-to-dry process (i.e., there is no
+liquid stream produced during pretreatment) which makes it quitedifferent from and potentially less costly than other pretreatment
+methods, such as dilute-acid and steam-explosion. Recent research
+indicates that AFEX pretreatment also has the potential to reduce
+the mean ethanol selling price by about 60% below previous
+0960-8524/$ - see front matter /C2112009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.biortech.2009.09.044*Corresponding authors. Fax: +1 517 336 4615 (V. Balan), +86 22 27403888 (Y.-J.
+Yuan).
+E-mail addresses: balan@msu.edu (V. Balan), yjyuan@tju.edu.cn (Y.-J. Yuan).Bioresource Technology 101 (2010) 1285–1292
+Contents lists available at ScienceDirect
+Bioresource Technology
+journal homepage: www.elsevi er.com/locate/biortech
+estimates ( Sendich et al., 2008 ). AFEX pretreatment has led to
+higher conversions of several different kinds of cellulosic biomass,
+including corn stover ( Teymouri et al., 2005 ), switchgrass ( Ali-
+zadeh et al., 2005 ),Miscanthus (Chinese silver grass) (Murnen
+et al., 2007 ) and rice straw ( Balan et al., 2008 ).
+The objective of this paper is to optimize the bioreﬁning process
+for both forage sorghum and sweet sorghum bagasse, including
+AFEX pretreatment, hydrolysis using commercial enzymes and eth-
+anol fermentation using Saccharomyces cerevisiae 424A (LNH-ST)
+without any external nutrient supplementation or detoxiﬁcation.
+2. Methods
+2.1. Biomass source
+Whole forage sorghum was received from Florida, USA. Sweet
+sorghum was from Binzhou in Shandong Province, China. Sweet
+sorghum stems were stripped from the leaves and squeezed by a
+three-roller mill in Key Laboratory of Systems Bioengineering in
+Tianjin University. The residual bagasse was dried until the mois-
+ture content was between 5% and 10% based on the total weight.
+Both forage sorghum and sweet sorghum bagasse were ground
+using a Wiley mill with a 5-mm diameter sieve and then stored
+at 4/C176C in zip-lock bags until further use.
+2.2. Washing protocol
+In order to remove residual soluble sugars from sweet sorghum
+bagasse, about 400 mL of water was used to wash 100 g of dry ba-gasse three times. The washed biomass was squeezed by hand
+using cheese cloth to remove residual water. Then the bagasse
+was placed under a fume hood until the moisture content ap-
+proached 120% (dry weight basis; all moisture percentages were
+based on dry weight throughout the study). The wash stream
+was collected and stored at /C020/C176C until further use.
+2.3. Composition analysis
+The National Renewable Energy Laboratory (NREL) LAP-004 pro-
+tocol was used to determine the composition of biomass and extrac-
+tives ( http://www.nrel.gov/biomass/analytical_procedures.html ).
+2.4. AFEX pretreatment
+For quick optimization of AFEX pretreatment conditions, exper-
+iments were done in parallel 22-mL stainless steel reactors accord-ing to the method outlined previously by Teymouri et al. (2005) .
+Large scale AFEX pretreatment for fermentation experiments wasconducted in a 2-L stainless steel reactor. AFEX pretreated biomass
+was kept under the fume hood overnight to remove residual
+ammonia, and then stored at 4 /C176C until further use.
+2.5. Enzymatic hydrolysis
+The NREL standard protocol (LAP-009) was followed for enzy-
+matic hydrolysis. Both commercial cellulase (Spezyme CP) and
+xylanase (Multifect xylanase) were generous gifts from Genencor
+(Palo Alto, CA). A b-glucosidase (Novo 188) was purchased from
+Sigma–Aldrich (St. Louis, MO). Experiments at 1% glucan loadingwere conducted with 15-mL reaction volume in 20-mL scintillation
+vials, with the necessary commercial cellulase (31.3 mg/g glucan)
+andb-glucosidase (17.1 mg/g glucan) at 50 /C176C and 150 rpm. About
+0.05 M citrate buffer (pH 4.8) with 30 mg/L cycloheximide and40 mg/L tetracycline were used in enzymatic hydrolysis. Certain
+samples were also hydrolyzed using additional commercial xylan-
+ases (0–32.2 mg/g glucan). The samples were taken during enzy-
+matic hydrolysis as previously described in Balan et al. (2008) .
+The samples were frozen at /C020/C176C for subsequent HPLC sugar
+analysis. The protein concentrations of the enzymes were deter-mined by the BCA protein assay (Pierce, Rockford, IL). The protein
+concentrations of the respective enzymes were as follows: Spe-
+zyme CP (123 mg/mL; 59 FPU/mL; where FPU stands for ﬁlter pa-
+per units), b-glucosidase (67 mg/mL; 250 pNPGU/mL; pNPGU
+stands forp-nitrophenyl
+-glucoside units), and Multifect xylanase
+(42 mg/mL).
+High solid loading enzymatic hydrolysis prior to fermentation
+and the mass balance experiments were conducted in 2000 or
+250 mL ﬂasks, respectively. High solid loading enzymatic hydroly-
+sis was performed with 40 mg/L tetracycline addition, at 50 /C176C and
+at pH 4.8 with 250 rpm shaking. Half of the biomass and enzymeswere used to start the hydrolysis, with the second half added into
+the ﬂask after 3 h. Cellulase was supplemented with xylanase as
+described above. The hydrolyzate was ﬁltered against a 0.2
+lm ﬁl-
+ter prior to fermentation.
+The glucan and xylan conversion was calculated based on the
+theoretical sugar release from biomass, i.e., 1.11 g glucose/g glucanand 1.14 g xylose/g xylan.
+2.6. Ethanol fermentation
+S. cerevisiae 424A (LNH-ST) genetically engineered to ferment
+xylose ( Ho et al., 2000 ), and provided by Dr. Nancy Ho at PurdueTable 1
+Comparison of different sorghum plants to that of corn plants.
+Grain sorghumaSweet sorghumbForage sorghumcCorn stoverd
+Growth (days) 90–120 115–125 45–60 85–145
+Climate (temperature) Average temperatures > 80 F and
+day-time temperatures > 90 FTolerant of drought Tolerate drought Base 50 F (Max 86 F, Min 50 F)
+Soil condition More tolerant of wet soils andﬂooding as well as droughtAdapted to a wide range of soils pH > 5.5, optimum
+6.0–6.5.Silt-loam and sandy-loam soilspH > 5.5
+Yield 300–2000 kg/ha of grain in India andAfrica, 4500–6500 kg/ha in theUnited States25,000–75,000 kg/ha of green matter 10,000–30,000 kg/
+ha of dry matter9661 kg/ha of grain, 4830 kg/haof dry stover (in United States)
+Fertilizer 112 kg/ha of nitrogen, 15.7 kg/ha ofphosphorous, and 15.7 kg/ha ofpotassium100 kg/ha of nitrogen, 50 kg/ha ofphosphorous and 40 kg/ha ofpotassium67–134 kg/ha ofnitrogen148 kg/ha of nitrogen, 47 kg/haof phosphorous, and 54 kg/ha ofpotassium
+Water consumption Low Medium Low High
+aData sources: http://www.hort.purdue.edu/newcrop/afcm/sorghum.html ;http://www.ag.ndsu.nodak.edu/carringt/agalerts/milo.htm .
+bNational sweet sorghum producers and processors association ( http://www.ca.uky.edu/nssppa/sorghumfaqs.html ).
+chttp://www.ext.vt.edu/pubs/forage/418-004/418-004.html ;http://www.hort.purdue.edu/newcrop/AFCM/forage.html .
+dhttp://www.ag.ndsu.edu/pubs/plantsci/rowcrops/a1173/a1173w.htm ; GREET 1.8b, National Agricultural Statistics Services (NASS) and Agricultural Statistics Board, US
+Department of Agriculture.1286 B.-Z. Li et al. / Bioresource Technology 101 (2010) 1285–1292University, was used to ferment sweet sorghum bagasse and forage
+sorghum hydrolyzates.
+A single colony of S. cerevisiae 424A (LNH-ST) was picked from a
+YEPD-Agar plate (10 g/L yeast extract, 20 g/L peptone, 50 g/L glu-
+cose, and 20 g/L agar), inoculated into a 250-mL ﬂask with 50-mL
+YEPD media (10 g/L yeast extract, 20 g/L peptone and 50 g/L glu-
+cose), and incubated overnight at 150 rpm and 30 /C176C as the seed
+for fermentation.
+The fermentation was carried out in 250-mL ﬂasks with 60-mL
+hydrolyzate at 150 rpm and 30 /C176C. The initial cell density of the fer-
+mentation was OD600 = 0.5 (about 0.275 g dry cell/L). The fermen-
+tation broth was sampled (0.9 mL) at regular intervals to
+determine cell density, sugar and ethanol present in the broth.
+All the fermentation experiments were done without any external
+nutrient supplementation or detoxiﬁcation. Ethanol yield was esti-mated based on total consumed sugars. The theoretical maximum
+yield was 0.51 g EtOH/g sugar.
+2.7. Monomeric sugar and ethanol analysis using HPLC
+Sugar and ethanol analysis was performed using a HPLC-RI
+detector system. This system consisted of a Waters (Milford, MA)
+515 Pump connected to a Waters 410 refractive index detector.
+An Aminex HPX-87P carbohydrate analysis column (Bio-rad, Her-
+cules, CA) equipped with a deashing guard cartridge (Bio-rad)
+was used for quantifying sugars in hydrolyzate. Degassed HPLC
+grade water was used as the mobile phase at 0.6 mL/min at a col-
+umn temperature of 85 /C176C. The injection volume was 10
+lL with a
+run time of 20 min. An Aminex HPX-87H column (Bio-rad) wasused to quantify both sugar and ethanol concentrations for fer-
+mentation samples and acid hydrolyzed samples. The temperature
+of the HPX-87H column was maintained at 50 /C176C. The mobile phase
+used for this column was 5 mM sulfuric acid (H
+2SO4) at a ﬂow rate
+of 0.6 mL/min.
+2.8. Error analysis
+The hydrolysis and fermentation were performed in duplicate,
+and the composition analysis was done in triplicate. Error bars rep-
+resent the standard deviation of the replicates. For all signiﬁcance
+tests, a student t-test was used requiring a probability p< 0.05 to
+be signiﬁcant.
+3. Results
+3.1. Composition analysis
+Both forage and sweet sorghum bagasse were extracted with
+water and 95% ethanol using an ASE2000 (Accelerated Solvent
+Extractor, DIONEX, CA) to remove extractives before acid hydroly-
+sis. HPLC results showed that there were no free monomeric sugars
+in the extractives for forage sorghum, while a considerable amount
+of monomeric sugar was found in sweet sorghum bagasse (Fig. 1 ).
+The composition analysis (Table 2 ) showed 35.6% and 38.3% of glu-
+can and 18.4% and 18.2% of xylan for forage and washed sweet sor-
+ghum bagasse, respectively.
+3.2. Effect of sweet sorghum bagasse washing and AFEX pretreatment
+After AFEX pretreatment the free glucose content decreased to
+1.5 from 5 g/L, which indicates that free monomeric sugars were
+degraded to other products during pretreatment (Fig. 1 A). High
+concentrations of free sugars were found in unwashed sweet sor-ghum bagasse due to residual sugar left after removing sugar juice
+from the stems. The free sugar was subsequently removed usingtriple water washing. About fourfold increases in both glucanand xylan conversion could be seen in AFEX treated washed sweet
+sorghum bagasse samples when compared to untreated washed
+samples. These results indicate that AFEX pretreatment facilitates
+enzymatic hydrolysis and enhances glucan/xylan conversion in
+the hydrolysis ( Bradshaw et al., 2007; Teymouri et al., 2005 ).
+3.3. Optimization of AFEX conditions
+Four parameters for AFEX pretreatment were varied in the opti-
+mization of the conditions for both sweet sorghum bagasse and
+forage sorghum, including: biomass moisture content, the ratio
+of ammonia to dry biomass loading, reaction temperature, and res-
+idence time. The glucan/xylan conversion of untreated sweet sor-
+ghum bagasse and forage sorghum was very low; 9.9% and 21.8%
+glucan conversion and 6.6% and 13.1% xylan conversion, respec-
+tively. For both sweet sorghum bagasse and forage sorghum, AFEX
+pretreatment signiﬁcantly increases the monomeric sugars after
+enzymatic hydrolysis. In addition, glucan/xylan conversions were
+consistently higher at 2:1 ammonia to biomass loading than at
+1:1 loading.
+Fig. 1. The effect of AFEX pretreatment on sweet sorghum bagasse before (A) and
+after (B) washing. Hydrolysis experiments were done at 50 /C176C and 150 rpm using 1%
+glucan loading with 31.3 mg cellulase/g glucan and 17.1 mg b-glucosidase/g glucan.
+The corresponding glucose concentration (white shade) and xylose concentration
+(gray shade) after 72 h in the hydrolysates are shown. Here, UT-NE, untreated
+sample without enzymes loading; UT-E, untreated sample with enzymes loading;AFEX-NE, AFEX treated sample without enzymes loading; AFEX-E, AFEX treatedsample with enzymes loading. AFEX condition was 2:1 ammonia loading to biomassloading, 120% moisture content and 140 /C176C for 5 min. Standard deviations are
+calculated based on duplicate experiments.B.-Z. Li et al. / Bioresource Technology 101 (2010) 1285–1292 1287For washed sweet sorghum bagasse, by varying AFEX pretreat-
+ment followed by enzymatic hydrolysis (31.3 mg/g glucan of cellu-
+lase, 17.1 mg/g glucan of b-glucosidase, 50 /C176C, 150 rpm, 1% glucan
+loading), it was found that there was no signiﬁcant increase in glu-can/xylan conversion beyond 2:1 ammonia to biomass loading and
+beyond 120% moisture. On the other hand, increasing the pretreat-
+ment temperature from 100 to 140 /C176C increases both glucan and
+xylan conversions signiﬁcantly. The residence time had very littleimpact on both glucan and xylan conversions. Based on these
+experiments, the optimal AFEX conditions for washed sweet sor-
+ghum bagasse are 120% moisture content, 2:1 ammonia to biomass
+loading, 140 /C176C and 30 min residence time. Under these conditions,
+glucan and xylan conversion reached about 80% and 90%, respec-tively, during enzyme hydrolysis.
+For forage sorghum, three different temperatures (100, 120 and
+140/C176C) and three different moisture contents (60%, 120% and 233%)
+were used for two different ammonia to biomass loading (1:1 and2:1) conditions. At 1:1 ammonia to dry biomass loading, glucan/xy-
+lan conversions after enzymatic hydrolysis were higher at 60%
+moisture, while, at 2:1 ammonia loading, glucan/xylan conversions
+were highest at 120% moisture. This difference could be due to the
+chemical reaction that occurs between ammonia and water during
+the pretreatment process. At 2:1 ammonia loading, higher glucan
+conversions were obtained at the higher temperature (140 /C176C),
+but at low ammonia loading, the effect of temperature was not sopronounced and seemed to depend on the moisture content. Based
+on both glucan and xylan conversions, the optimal AFEX conditions
+for forage sorghum were 2:1 ammonia to biomass loading, 120%
+moisture, 140 /C176C and 5 min for residence time.
+3.4. Optimization of xylanase loading
+Using standard enzymatic hydrolysis conditions (31.3 mg/g glu-
+can of cellulase and 17.1 mg/g glucan of b-glucosidase), the effect
+of xylanase loading on glucan/xylan conversion was investigated
+at 1% glucan loading with different xylanase loadings (0, 7.8, 15.6
+and 32.2 mg/g glucan). Based on proteomic analysis and activity
+assays we found that there is very little xylanase in Spezyme CP
+(data not shown). Previous reports have shown that adding xylan-
+ase to cellulase improved both glucan and xylan conversion (Chun-
+dawat et al., 2007 ). For AFEX-treated forage sorghum samples,
+varying the xylanase loading improved both the glucan and xylanconversion by about 3% and 7%, respectively.
+3.5. Fermentation of hydrolyzates
+Fermentation results for both sweet sorghum bagasse and for-
+age sorghum are summarized in Table 3 . The concentrations of glu-
+cose, xylose, ethanol and glycerol in the fermentation broth as a
+function of time are given in Fig. 2 . For sweet sorghum bagasse,
+only hydrolyzate with 6% glucan loading was used and ethanol fer-mentation was performed using S. cerevisiae at pH 6.0 with andwithout the water wash stream ( Fig. 2 IA and IB). For forage sor-
+ghum, two different hydrolyzates were prepared for fermentation
+(1% or 6% glucan loading) and ethanol fermentations were done
+at two different pH (4.8 and 6.0) conditions (Fig. 2 IIA-D).
+In the case of sweet sorghum bagasse, the initial glucose con-
+centration in the hydrolyzates was 54.3 g/L without the wash
+stream and 66.6 g/L with the wash stream. The volume recovery
+of the hydrolyzate with 6% glucan loading after centrifugation
+was 79% (v/v). The supernatant was removed from unhydrolyzed
+solids by centrifugation at 16,000 rpm for 30 min. The glucan and
+xylan conversions at 6% glucan loading were found to be 64.5%
+and 74.3% (without wash stream) and 66% and 82.4% (with wash
+stream), respectively. The ﬁnal concentration of ethanol without
+the wash stream was 29.4 g/L, while it was 42.3 g/L with wash
+stream. The xylose utilization during fermentation was found tobe 55.6% (with wash stream) and 51.3% (without wash stream).
+Glycerol, one of the side products, was also found in the fermenta-
+tion broth and tended to increase as a function of time. However,
+the amount of xylitol produced in the fermentation broth with
+the wash stream was greater than the amount produced without
+the wash stream. It is interesting to note that cell density in the
+hydrolysis with the wash stream was higher than the one without
+the wash stream ( Fig. 3 A). One can see a logarithmic increase in
+cell density in the ﬁrst 24 h, after which it levels off. As we can
+see in Fig.2,
+ glucose was consumed within the ﬁrst 24 h of fermen-
+tation while it took a longer time for the xylose to be consumed.
+The ethanol yield was found to be 96.9% (for hydrolyzate with
+wash stream) and 82.2% (for hydrolyzate without wash stream).
+For forage sorghum hydrolyzates, the ﬁnal ethanol concentra-
+tions were found to be 3.9 g/L (1% glucan loading, pH 4.8), 30.3 g/
+L (6% glucan loading, pH 4.8), 4.1 g/L (1% glucan loading, pH 6.0)
+and 30.9 g/L (6% glucan loading, pH 6.0) (Fig. 2IIA and B). Here
+again, glucose was consumed within the ﬁrst 12 h (1% glucan load-ing) and 24 h (6% glucan loading) during the fermentation of
+hydrolyzates, while it took longer to consume xylose. Glycerol
+was also produced during fermentation and the ﬁnal concentration
+of glycerol was higher at pH 6.0 than that at pH 4.8. About 40%
+more glycerol was produced during fermentation at pH 6.0 than
+that at pH 4.8.
+Cell density was found to be higher at pH 6.0 when compared to
+pH 4.8 for 6% glucan loading hydrolyzates, while no signiﬁcant dif-
+ference was noticed for the 1% glucan loading hydrolyzates
+(Fig. 3 B). For 6% glucan loading hydrolyzates, unutilized xylose lev-
+els were about 17.7 g/L (pH 4.8) and 13.0 g/L (pH 6.0) (i.e., onlyabout 40% of the available xylose was consumed in the fermenta-
+tion at pH 4.8, while more than 50% of the available xylose was
+consumed at pH 6.0).
+3.6. Mass balance
+A mass balance was developed for the complete conversion of
+both sweet sorghum bagasse and forage sorghum to ethanol based
+on enzymatic hydrolysis at 6% glucan loading (Fig. 4 ). There is no
+evident mass loss during AFEX pretreatment, which is a dry-to-dry process. The conversions during enzymatic hydrolysis for for-
+age sorghum were 74% for glucan and 73% for xylan; 29.2 g of glu-
+cose and 15.2 g of xylose were obtained with 6% glucan loading
+using 100 g of AFEX-treated forage sorghum. The initial cell density
+ofS. cerevisiae in the fermentation was OD600 = 0.5. The ethanol
+concentration produced from the fermentation was 30.8 g/L at96 h. After 96 h of inoculation, all of the glucose and 53% of the xy-
+lose was consumed. From 100 g of dry forage sorghum, 17.1 g eth-
+anol was produced, giving a 90.0% ethanol yield from the
+fermentation ( Fig. 4 A).
+The conversion for sweet sorghum bagasse enzymatic hydroly-
+sis was 67% for glucan and 76% for xylan without wash stream whileTable 2
+Composition of forage sorghum (FS) and sweet sorghum bagasse (SSB).
+Composition FS(UWUT
+a)SSB(UWUT
+a)SSB(WUT
+b)
+Glucan 35.6 ± 0.8 27.3 ± 0.4 38.3 ± 0.3
+Xylan 18.4 ± 0.5 13.1 ± 0.1 18.2 ± 0.3
+Arobilan 1.8 ± 0.1 1.4 ± 0.0 1.8 ± 0.1
+Lignin 18.2 ± 0.2 14.3 ± 0.2 19.7 ± 1.1
+Extractives 18.7 ± 0.1 32.3 ± 0.7 14.5 ± 1.0
+All data represent the percentage based on dry weight and are means of theduplicates ± standard deviation.
+aUnwashed and untreated.
+bWashed and untreated.1288 B.-Z. Li et al. / Bioresource Technology 101 (2010) 1285–1292Table 3
+Summary of the fermentation performance for both forage sorghum (FS) and sweet sorghum bagasse (SSB).
+Biomass Glucan loading (g/mL) Fermentation pH cglya(g/L) cethb(g/L) cxylc(g/L) cons xyld(%) Yethe(%)
+FS 1% 4.8 0.3 ± 0.0 3.9 ± 0.3 0.7 ± 0.0 85.4 ± 0.6 61.6 ± 5.3
+FS 6% 4.8 2.6 ± 0.4 30.3 ± 0.1 17.7 ± 2.5 38.0 ± 2.5 96.0 ± 0.4
+FS 1% 6.0 0.3 ± 0.0 4.1 ± 0.1 0.6 ± 0.0 88.9 ± 0.7 66.9 ± 1.4
+FS 6% 6.0 3.6 ± 0.0 30.9 ± 0.1 13.0 ± 0.2 57.0 ± 1.1 86.2 ± 0.2
+SSB1f6% 6.0 6.1 ± 0.2 42.3 ± 0.3 15.0 ± 0.6 55.6 ± 2.7 96.9 ± 0.7
+SSB2g6% 6.0 3.5 ± 0.0 29.3 ± 1.0 14.6 ± 0.7 51.3 ± 2.8 82.4 ± 2.7
+All data are means of the duplicates ± standard deviation.
+aConcentration of glycerol produced in the fermentation.
+bConcentration of ethanol produced in the fermentation.
+cConcentration of xylose left at the end of fermentation.
+dXylose consumption based on the initial concentration of xylose.
+eEthanol yield based on the theoretical ethanol production of the consumed sugars.
+fWith wash stream.
+gWithout wash stream.
+Fig. 2. Ethanol fermentation of both sweet sorghum bagasse and forage sorghum biomass hydrolyzates using genetically modiﬁed Saccharomyces cerevisiae 424A (LNH-ST).
+Here IA, sweet sorghum bagasse hydrolyzate without wash stream fraction and IB, sweet sorghum bagasse hydrolyzates (1% glucan loading) with water washed fraction; IIAand IIC, Forage sorghum hydrolyzates (1% and 6% glucan loading, respectively) at pH 4.8; IIB and IID, forage sorghum hydrolyzates (1% and 6% glucan loading, respectively) atpH 6.0. All the fermentations were done in duplicates and the average data from those experiments are presented here. The standard deviations were less than 2%.B.-Z. Li et al. / Bioresource Technology 101 (2010) 1285–1292 128968% for glucan and 88% for xylan with wash stream. About 20.4 g
+(25.0 g) of glucose and 11.3 g (12.7 g) of xylose were obtained with
+6% glucan loading using 100 g of AFEX treated sweet sorghum ba-
+gasse without (with) wash stream in the hydrolyzates. From
+100 g of dry pretreated sweet sorghum bagasse, 11.0 g (15.9 g) eth-
+anol was produced with 82.2% (96.9%) ethanol yield in the fermen-
+tation using the hydrolyzates without (with) the wash stream.
+4. Discussion
+4.1. AFEX pretreatment and enzymatic hydrolysis
+AFEX is an efﬁcient pretreatment method that improves the su-
+gar release from cellulose and hemicellulose (Chundawat et al.,
+2007 ). For forage sorghum, the glucan conversion after enzymatic
+hydrolysis was 80% for AFEX-treated biomass and 20% for untreatedmaterial. Xylan conversion increased to 83% for treated biomass
+from 13% for the untreated material. Similar improvements for glu-
+can/xylan conversion were also found for other types of biomass,
+such as corn stover, switchgrass, Miscanthus , rice straw, reed canary-
+grass and distillers’ grains ( Alizadeh et al., 2005; Balan et al., 2008;
+Bradshaw et al., 2007; Murnen et al., 2007; Teymouri et al., 2005 ).
+The optimal AFEX conditions for forage sorghum and sweet sorghumbagasse were not the same as those for other biomass types, which
+can be explained by variation in composition as well as differences
+in the lignin/cellulose/hemicellulose matrix structure. Further stud-ies are necessary to determine the precise reasons for these differ-ences in optimal conditions. Sweet sorghum bagasse contained
+free sugars which were found to be destroyed during AFEX pretreat-
+ment. Washing the biomass prior to AFEX pretreatment was an efﬁ-
+cient way to remove the free sugars in sweet sorghum bagasse.
+Different types of biomass have different cell wall structures
+with different architectures of cellulose, hemicellulose and lignin
+(Mosier et al., 2005 ). Even for the same type of biomass, many fac-
+tors can affect the composition of the biomass, such as growth per-iod, environmental conditions (pH, temperature, availability of
+sunlight and rain), and storage conditions (Bradshaw et al., 2007;
+Weimer and Springer, 2007 ). Because of these differences, the ratios
+of the enzymes needed during hydrolysis can vary with the type ofbiomass. The most widely-used enzymes for hydrolysis of cellulose
+are commercial enzymes such as the enzymes used here: SpezymeCP, Novozym 188, and Multifect xylanase. These enzymes are not
+pure enzymes, but a mixture of several enzymes including varying
+amounts of cellulases and hemicellulases. The amount of xylanase
+in Spezyme CP is relatively low and supplementation of xylanase
+is necessary in order to improve xylan conversion (Chundawat
+et al., 2007 ). When xylanase was added to the hydrolysis system
+along with the cellulase enzymes, the glucan conversion was in-creased by about 7%. The increase in glucan conversion may also
+be due to synergistic effects between cellulase, b-glucosidase, and
+xylanase ( Murashima et al., 2003; Kumar and Wyman, 2009 ).
+4.2. Ethanol fermentation
+S. cerevisiae 424A (LNH-ST) has been shown to be an excellent
+strain for cellulosic ethanol production (Govindaswamy and Vane,2007; Lau and Dale, 2009; Zhong et al., 2009 ) because of its ability
+to consume both glucose and xylose during anaerobic fermenta-tion. We used this strain to ferment the hydrolyzates from AFEX-
+treated forage and sweet sorghum bagasse without any external
+nutrient supplementation or detoxiﬁcation. It is very important
+to keep the pH within the optimal range for yeast during the fer-
+mentation. We found that the production of glycerol, the main
+by-product in glucose consumption, was higher at pH 6.0 than at
+pH 4.8. It was shown in earlier work that higher pH could stimulate
+the biosynthesis of glycerol ( Ingledew, 1999 ). The optimal pH for
+xylose utilization was not the same as that for glucose fermenta-tion. Higher xylose conversion was observed at pH 6.0 than at pH
+4.8, as reported in previous work ( Sedlak and Ho, 2004 ). Although
+xylose conversion was much higher at pH 6.0, ethanol concentra-tion only increased slightly ( Table 3 ). This was due to increased
+glycerol production in the glucose consumption stage. More re-search is needed to ﬁnd an optimal pH point for maximum ethanolproduction from both glucose and xylose consumption.
+In the fermentation of hydrolyzates at 1% glucan loading, xylose
+was almost completely consumed at both pH 4.8 and pH 6.0
+(Fig. 2 IIA and B). This indicates that this strain has a very good abil-
+ity to utilize glucose and xylose. For the hydrolyzates from 6% glu-can loading, however, a high xylose concentration remained at the
+end of fermentation. The consumption curves for xylose show that
+the rate of xylose consumption following the glucose disappear-
+ance decreased as the fermentation progressed. These results agree
+with previously
+reported results (Lau and Dale 2009; Sedlak and
+Ho, 2004 ).
+One possible reason for the incomplete xylose utilization may
+be inhibitors in the fermentation broth. Degradation products pro-duced during AFEX pretreatment, such as various phenolic acids,
+are present in lower concentrations compared to other pretreat-
+ment methods, but they may still have negative effects on the fer-
+mentation (unpublished results). Additionally, ethanol is also
+known to inhibit the microorganism (Dasari et al., 1990).036912
+ without washing stream
+ with washing streamOD600
+Fermentation Progress (hour)A. Sweet sorghum bagasse
+0 25 50 75 100
+0 25 50 75 100 1% (pH4.8)
+ 6% (pH4.8)
+Fermentation Pro gress (hour)B. Forage sorghum OD600
+ 1% (pH6.0)
+036912
+ 6% (pH6.0)
+Fig. 3. Measurement of yeast cell density using spectrophotometer (OD 600) during
+ethanol fermentation experiments. Here, (A) Cell density of yeast in sweet sorghum
+bagasse hydrolyzate fermentation broth. (B) Cell density of yeast in forage sorghumhydrolyzate fermentation broth.1290 B.-Z. Li et al. / Bioresource Technology 101 (2010) 1285–1292The ethanol yield was very high (about 96.9%) when fermenta-
+tion was done using AFEX treated sweet sorghum bagasse hydroly-
+zate with wash stream. Many researchers believe that hydrolyzates
+from biomass are not a rich media for microorganisms (Kadam and
+Newman, 1997 ) and have added different nutrients to supplement
+the fermentation ( Kim et al., 2006; Klinke et al., 2003; Okuda et al.,
+2007 ). Our experiments have shown that this is not true; most bio-
+mass contains adequate nutrients but harsh pretreatments (suchas dilute-acid) and subsequent washing destroy or remove these
+nutrients. AFEX does not destroy these nutrients, so fermentation
+experiments using AFEX-treated biomass can be performed with-
+out any external nutrient supplementation.
+The genetic backgrounds of sweet sorghum and forage sorghum
+are quite different, and these genetic differences might affect the
+chemical components of the biomass and theoretic ethanol yield
+(Shaug and Lo, 1997; Tew et al., 2008 ). Therefore, the differences
+in the optimal AFEX conditions and fermentation performancefor the two kind feed stocks are reasonable.
+4.3. Mass balance
+From the mass balance, it is clear that glucan/xylan conversion
+during enzymatic hydrolysis and the utilization of xylose during
+ethanol fermentation were the limiting steps during conversion
+of both sweet sorghum bagasse and forage sorghum to ethanol.
+Glucan/xylan conversion during enzymatic hydrolysis depends onthe pretreatment conditions and enzymes used in the hydrolysis
+(Eijsink et al., 2008 ). Although sorghum was treated using effective
+pretreatment conditions, a better cocktail of enzymes is needed in
+order to get higher conversion of glucan and xylan (Berlin et al.,
+2007; Zhang et al., 2006 ). Although glucose and xylose were uti-
+lized by S. cerevisiae 424A (LNH-ST) during the fermentation, the
+rate of xylose consumption is much slower than that of glucose.
+In conclusion, a complete process for producing ethanol from
+forage and sweet sorghum bagasse has been reported in this work.
+AFEX conditions for forage sorghum and sweet sorghum bagasse,
+enzyme loading during hydrolysis and pH in fermentation were
+optimized in this work. The yeast strain S. cerevisiae 424A (LNH-
+ST) was used in the fermentation of hydrolyzates from AFEX-trea-ted forage and sweet sorghum bagasse without nutrient supple-
+mentation or detoxiﬁcation. Wash stream from sweet sorghum
+bagasse was proved to be an efﬁcient supplementation for the fer-
+mentation of the hydrolyzates from cellulosic biomass. Xylose con-
+sumption was slow and not complete during fermentation and
+further microbial improvements are needed to consume both glu-
+cose and xylose rapidly and completely.
+Acknowledgements
+The authors thank Rebecca Garlock and Tiffany Draut for their
+assistance during the editing and revision process and Leonardo
+da costa Sousa and Ming W. Lau for their help while carrying out
+Fig. 4. Complete mass balances for the entire process (pretreatment, hydrolysis and fermentation). (A) Forage sorghum; (B) sweet sorghum bagasse without wash steam and
+(C) sweet sorghum bagasse with wash stream.B.-Z. Li et al. / Bioresource Technology 101 (2010) 1285–1292 1291the experiments. The authors are grateful for the ﬁnancial support
+from Michigan State University Research Foundation, National
+Natural Science Foundation of China (Key Program Grant No.
+20736006), the National Basic Research Program of China (‘‘973”
+Program: 2007CB714301), the International Collaboration Project
+of MOST (2006DFA62400) and key projects in the National Science
+and Technology Pillar Program (No. 2007BAD42B02). This work
+was also funded in part by the DOE Great Lakes Bioenergy Research
+Center (DOE Ofﬁce of Science BER DE-FC02-07ER64494). We also
+thank Nancy Ho, Purdue University for generously providing us S.
+cerevisiae 424A (LNH-ST) strain.
+References
+Alizadeh, H., Teymouri, F., Gilbert, T.I., Dale, B.E., 2005. Pretreatment of switchgrass
+by ammonia ﬁber explosion (AFEX). Appl. Biochem. Biotechnol. 121–124, 1133–
+1141.
+Almodares, A., Sharif, M.E., 2007. Effects of irrigation water qualities on biomass and
+sugar contents of sugar beet and sweet sorghum cultivars. J. Environ. Biol. 28,
+213–218.
+Balan, V., da Costa Sousa, L., Chundawat, S.P., Vismeh, R., Jones, A.D., Dale, B.E., 2008.
+Mushroom spent straw: a potential substrate for an ethanol-based bioreﬁnery.J. Ind. Microbiol. Biotechnol. 35, 293–301.
+Berlin, A., Maximenko, V., Gilkes, N., Saddler, J., 2007. Optimization of enzyme
+complexes for lignocellulose hydrolysis. Biotechnol. Bioeng. 97, 287–296.
+Bradshaw, T.C., Alizadeh, H., Teymouri, F., Balan, V., Dale, B.E., 2007. Ammonia ﬁber
+expansion pretreatment and enzymatic hydrolysis on two different growthstages of reed canarygrass. Appl. Biochem. Biotechnol. 137–140, 395–405.
+Chundawat, S.P., Balan, V., Dale, B.E., 2007. Effect of particle size based separation of
+milled corn stover on AFEX pretreatment and enzymatic digestibility.
+Biotechnol. Bioeng. 96, 219–231.
+Corredor, D.Y., Salazar, J.M., Hohn, K.L., Bean, S., Bean, B., Wang, D., 2009. Evaluation
+and characterization of forage sorghum as feedstock for fermentable sugarproduction. Appl. Biochem. Biotechnol. 158, 164–179.
+Dasari, G., Worth, M.A., Connor, M.A., Pamment, N.B., 1990. Reasons for the
+apparent difference in the effects of produced and added ethanol on culture
+viability during rapid fermentation by Saccharomyces cerevisiae . Biotechnol.
+Bioeng. 20–35, 109–122.
+Eggeman, T., Elander, R.T., 2005. Process and economic analysis of pretreatment
+technologies. Bioresour. Technol. 96, 2019–2025.
+Eijsink, V.G., Vaaje-Kolstad, G., Varum, K.M., Horn, S.J., 2008. Towards new enzymes
+for biofuels: lessons from chitinase research. Trends Biotechnol. 26, 228–235.
+Gibbons, W.R., Westby, C.A., Dobbs, T.L., 1986. Intermediate-scale, semicontinuous
+solid-phase fermentation process for production of fuel ethanol from sweet
+sorghum. Appl. Environ. Microbiol. 51, 115–122.
+Gnansounou, E., Dauriat, A., Wyman, C., 2005. Reﬁning sweet sorghum to ethanol
+and sugar: economic trade-offs in the context of North China. Bioresour.Technol. 96, 985–1002.
+Govindaswamy, S., Vane, L.M., 2007. Kinetics of growth and ethanol production on
+different carbon substrates using genetically engineered xylose-fermentingyeast. Bioresour. Technol. 98, 677–685.
+Ho, N.W.Y., Chen, Z., Brainard, A.P., Sedlak, M., 2000. Genetically engineered
+Saccharomyces yeasts for conversion of cellulosic biomass to environmentally
+friendly transportation fuel ethanol. ACS Symp. 767, 142–159.
+Holker, U., Lenz, J., 2005. Solid-state fermentation – are there any biotechnological
+advantages. Curr. Opin. Microbiol. 8, 301–306.
+Ingledew, W.M., 1999. Alcohol Production by Saccharomyces cerevisiae : A Yeast
+Primer, in the Alcohol Textbook, third ed. Nottingham University Press, UK.
+Kadam, K.L., Newman, M.M., 1997. Development of a low-cost fermentation
+medium for ethanol production from biomass. Appl. Microbiol. Biotechnol.
+47, 625–629.Kargi, F., Curme, J.A., 1985. Solid-state fermentation of sweet sorghum to ethanol in
+a rotary-drum fermentor. Biotechnol. Bioeng. 27, 1122–1125.
+Kargi, F., Curme, J.A., Sheehan, J.J., 1985. Solid-state fermentation of sweet sorghum
+to ethanol. Biotechnol. Bioeng. 27, 34–40.
+Kim, T.H., Lee, Y.Y., Sunwoo, C., Kim, J.S., 2006. Pretreatment of corn stover by low-
+liquid ammonia recycle percolation process. Appl. Biochem. Biotechnol. 133,
+41–57.
+Klinke, H.B., Olsson, L., Thomsen, A.B., Ahring, B.K., 2003. Potential inhibitors from
+wet oxidation of wheat straw and their effect on ethanol production of
+Saccharomyces cerevisiae : wet oxidation and fermentation by yeast. Biotechnol.
+Bioeng. 81, 738–747.
+Kumar, R., Wyman, C.E., 2009. Effect of enzyme supplementation at moderate
+cellulase loadings on initial glucose and xylose release from corn stover solids
+pretreated by leading technologies. Biotechnol. Bioeng. 102, 457–467.
+Lau, M.W., Dale, B.E., 2009. Cellulosic ethanol production from AFEX-treated corn
+stover using Saccharomyces cerevisiae 424A (LNH-ST). Proc. Natl. Acad. Sci. USA
+106, 1368–1373.
+Liu, R., Shen, F., 2008. Impacts of main factors on bioethanol fermentation from stalk
+juice of sweet sorghum by immobilized Saccharomyces cerevisiae (CICC 1308).
+Bioresour. Technol. 99, 847–854.
+Mosier, N., Wyman, C., Dale, B., Elander, R., Lee, Y.Y., Holtzapple, M., Ladisch, M.,
+2005. Features of promising technologies for pretreatment of lignocellulosicbiomass. Bioresour. Technol. 96, 673–686.
+Murashima, K., Kosugi, A., Doi, R.H., 2003. Synergistic effects of cellulosomal
+xylanase and cellulases from Clostridium cellulovorans on plant cell wall
+degradation. J. Bacteriol. 185, 1518–1524.
+Murnen, H.K., Balan, V., Chundawat, S.P., Bals, B., Sousa Lda, C., Dale, B.E., 2007.
+Optimization of ammonia ﬁber expansion (AFEX) pretreatment and enzymatichydrolysis of Miscanthus x giganteus to fermentable sugars. Biotechnol. Prog. 23,
+846–850.
+Okuda, N., Ninomiya, K., Takao, M., Katakura, Y., Shioya, S., 2007. Microaeration
+enhances productivity of bioethanol from hydrolysate of waste house woodusing ethanologenic Escherichia coli KO11. J. Biosci. Bioeng. 103, 350–357.
+Rubin, E.M., 2008. Genomics of cellulosic biofuels. Nature 454, 841–845.Sedlak, M., Ho, N.W.Y., 2004. Production of ethanol from cellulosic biomass
+hydrolyzates using genetically engineered Saccharomyces yeast capable of
+cofermenting glucose and xylose. Appl. Biochem. Biotechnol. 113, 403–416.
+Sendich, E.N., Laser, M., Kim, S., Alizadeh, H., Laureano-Perez, L., Dale, B., Lynd, L.,
+2008. Recent process improvements for the ammonia ﬁber expansion (AFEX)process and resulting reductions in minimum ethanol selling price. Bioresour.Technol. 99, 8429–8435.
+Shaug, S.P., Lo, K.D., 1997. Evaluation of combining ability for chemical components
+of forage sorghum. Int. Grassland Congress Symp. 17, 77–78.
+Stamatelatou, K.,
+Dravillas, K., Lyberatos, G., 2003. Methane production from sweet
+sorghum residues via a two-stage process. Water Sci. Technol. 48, 235–238.
+Tew, T.L., Cobill, R.M., Richard, E.P., 2008. Evaluation of sweet sorghum and
+sorghum /C2sudangrass hybrids as feedstocks for ethanol production. Bioenerg.
+Res. 1, 147–152.
+Teymouri, F., Laureano-Perez, L., Alizadeh, H., Dale, B.E., 2005. Optimization of the
+ammonia ﬁber explosion (AFEX) treatment parameters for enzymatic
+hydrolysis of corn stover. Bioresour. Technol. 96, 2014–2018.
+Weimer, P.J., Springer, T.L., 2007. Fermentability of eastern gamagrass, big bluestem
+and sand bluestem grown across a wide variety of environments. Bioresour.Technol. 98, 1615–1621.
+Yu, J., Zhong, J., Zhang, X., Tan, T., 2008. Ethanol production from H(2)SO(3)-steam-
+pretreated fresh sweet sorghum stem by simultaneous sacchariﬁcation and
+fermentation. Appl. Biochem. Biotechnol.. doi: 10.1007/s12010-008-8333-x.
+Zhang, Y.P., Himmel, M.E., Mielenz, J.R., 2006. Outlook for cellulase improvement:
+screening and selection strategies. Biotechnol. Adv. 24, 452–481.
+Zhong, C., Lau, M.W., Balan, V., Dale, B.E., Yuan, Y.J., 2009. Optimization of enzymatic
+hydrolysis and ethanol fermentation from AFEX-treated rice straw. Appl.Microbiol. Biotechnol. 84, 667–676.1292 B.-Z. Li et al. / Bioresource Technology 101 (2010) 1285–1292

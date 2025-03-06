@@ -1,0 +1,974 @@
+ORIGINAL PAPER
+Cellulase production from agricultural residues
+by recombinant fusant strain of a fungal endophyteof the marine sponge Latrunculia corticata for production
+of ethanol
+Ahmed M. A. El-Bondkly •
+Mervat M. A. El-Gendy
+Received: 17 April 2011 / Accepted: 23 August 2011 / Published online: 6 September 2011
+/C211Springer Science+Business Media B.V. 2011
+Abstract Several fungal endophytes of the Egyp-
+tian marine sponge Latrunculia corticata were
+isolated, including strains Trichoderma sp. Merv6,
+Penicillium sp. Merv2 and Aspergillus sp. Merv70.
+These fungi exhibited high cellulase activity using
+different lignocellulosic substrates in solid state
+fermentations (SSF). By applying mutagenesis and
+intergeneric protoplast fusion, we have obtained a
+recombinant strain (Tahrir-25) that overproducedcellulases (exo- b-1,4-glucanase, endo- b-1,4-glucan-
+ase and b-1,4-glucosidase) that facilitated complete
+cellulolysis of agricultural residues. The processparameters for cellulase production by strain Tahrir-
+25 were optimized in SSF. The highest cellulase
+recovery from fermentation slurries was achievedwith 0.2% Tween 80 as leaching agent. Enzyme
+production was optimized under the following con-
+ditions: initial moisture content of 60% (v/w),inoculum size of 10
+6spores ml-1, average substrate
+particle size of 1.0 mm, mixture of sugarcane bagasse
+and corncob (2:1) as the carbon source supplementedwith carboxymethyl cellulose (CMC) and corn steep
+solids, fermentation time of 7 days, medium pH of
+5.5 at 30 /C176C. These optimized conditions yielded 450,
+191, and 225 units/gram dry substrate (U gds-1)o f
+carboxylmethyl cellulase, ﬁlter-paperase (FPase), and
+b-glucosidase, respectively. Subsequent fermentation
+by the yeast, Saccharomyces cerevisiae NRC2, using
+lignocellulose hydrolysates obtained from the opti-
+mized cellulase process produced the highest amountof ethanol (58 g l
+-1). This study has revealed the
+potential of exploiting marine fungi for cost-effective
+production of cellulases for second generation bio-ethanol processes.
+Keywords Lignocellulosic residues /C1
+Endophytic fungi /C1Protoplast fusion /C1
+Cellulases /C1Ethanol
+Introduction
+Cellulosic biomass is the most abundant renewable
+natural product in the biosphere. It can be biocon-
+verted into fermentable sugar by a complex of
+enzyme (exo- b-1,4-glucanase, endo- b-1,4-glucanase,
+andb-1,4-glucosidase) that act synergistically in
+hydrolysis of the b-1,4-glycosidic bonds. This makes
+cellulosic biomass an enticing feedstock for alcoholicfermentations. However, the production of hydro-
+lases required to degrade lignocellulosic substratesA. M. A. El-Bondkly
+Applied Microbial Genetics Group, Geneticsand Cytology Department, National Research Centre,
+Dokki, Giza, Egypt
+e-mail: ahmed_bondkly@yahoo.com
+M. M. A. El-Gendy ( &)
+Department of Chemistry of Natural and Microbial
+Products, National Research Centre, Dokki, Giza, Egypt
+e-mail: m_morsy_70@yahoo.com
+123Antonie van Leeuwenhoek (2012) 101:331–346
+DOI 10.1007/s10482-011-9639-1currently constitute approximately 40% of the total
+cost of ethanol production. Therefore, there has been
+an extensive effort to isolate microorganisms with ahigh ability to produce hydrolytic enzymes from
+inexpensive and readily available lignocellulosic
+residues (Camassola and Dillon 2007 ; Girio et al.
+2010 ). Components of cellulase system were classi-
+ﬁed based on their structural properties. Cellulases
+are one of the largest groups in structural classiﬁca-tion of glycosyl hydrolases. Cellulases and hemicel-
+lulases make up 15 of 20 identiﬁed glycosyl
+hydrolases families and some families are stilldivided to subfamilies (Mathew et al. 2008 ).
+Egypt has abundant biomass residues from wheat,
+rice, corn, and sugarcane (El-Bondkly 2006 ;
+El-Gendy 2010 ). The use of sugarcane bagasse as a
+cellulosic ethanol feedstock provides a solution for
+the removal of this waste product while increasingthe economic yield of the process (Camassola and
+Dillon 2007 ). Whereas a large number of fungi can
+convert plant materials to fermentable sugars byenzymatic hydrolysis, only a few of them produce
+signiﬁcant quantities of cell-free hydrolases capable
+of efﬁciently hydrolyzing complex lignocelluloses.This has made the production of cost-effective
+cellulases with high homogeneity from wild-type
+strains of fungi a challenge (Bailey and Nevalainen1981 ; Lee et al. 2011 ).
+Cellulase genes and their control systems can vary
+in different species or genera of related microorgan-isms that secrete cellulases. They could be recom-
+bined through protoplast fusion and powerful
+screening techniques could then be used to choosethe better recombinant strains (Zhang et al. 2006 ).
+Protoplast fusion is also a very powerful approach for
+rapid genetic improvement when associated withmutation techniques. This has involved gene transfer
+between different Trichoderma species and Aspergil-
+lus niger through intergeneric protoplast fusion to
+convert ground rice straw to citric acid. Similar
+techniques have been used for cellulase (El-Bondkly
+2006 ), successive construction of b-glucosidase
+hyperproducers of Trichoderma harzianum using
+microbial biotechnology techniques (El-Bondklyet al. 2010 ), keratinases from a new recombinant
+fusant of marine Micromonospora (El-Bondkly and
+El-Gendy 2010 ), as well as genome shufﬂing of the
+marine-derived bacterium, Nocardia sp. ALAA 2000for improved ayamycin production (El-Gendy and
+El-Bondkly 2011 ).
+Genetic recombination was accomplished by bring-
+ing together the genomes of different mutants from the
+different genera of endophytic strains ( Trichoderma
+sp. Merv6 9Penicillium sp. Merv2 9Aspergillus sp.
+Merv70). It was carried out through protoplast fusion
+resulting in overproduction of cost-effective cellulosic
+enzymes which could address the problem of ethanolproduction from different cellulosic wastes. The
+recombinants were investigated for production of
+carboxylmethyl cellulase, ﬁlter-paperase (FPase), andb-glucosidase activities in solid-state fermentations,
+followed by evaluation of the impact of these
+pretreatments on ethanol production by yeast. Cellu-lases process parameters by the hyperproducer fusant
+were then optimized. To the best of our knowledge
+there has been no report on the production of suchcellulolytic enzymes from genetically constructed
+marine endophytic fungi for the enhancement of
+hydrolytic activity toward plant waste materials, aswell as for the production of high titers of a complete
+cellulase complex from a single organism.
+Materials and methods
+Collection of raw materials
+In this study, residue samples of rice straw, wheat
+straw, corn straw, and corncob were collected from
+ﬁelds of the Kafr El-Sheikh governorate, whereas
+sugarcane bagasse was obtained from a local sugarfactory. The samples were sun dried followed by
+overnight oven drying at 60 /C176C, ground into powder
+form and kept at 4 /C176C for further use as sole carbon
+source.
+Sponge material collection and processingHealthy specimens of the Egyptian sponge Latruncu-
+lia corticata were collected from Sharm El-Sheikh of
+the Red Sea, Egypt in plastic bags containing
+seawater, which were immediately transported inice bags for processing as described by El-Gendy
+(2010 ). Taxonomic identiﬁcation of the sponge was
+performed by the National Institute of Oceanographyand Fisheries Research Station, Hurghada, Egypt.332 Antonie van Leeuwenhoek (2012) 101:331–346
+123Isolation of marine-derived endophytic fungi
+The sponge specimen was placed on a sterile cutting
+surface, sterilized as described before (El-Gendy
+2010 ) and cut along the cross-section multiple times
+to create sections 3–5 mm in width that were washed
+three times in sterilized seawater with a sterile scalpel
+blade. Each section (about 20 pieces per medium)was placed into the centre of a Petri dish containing
+one of the different types of media used. Eight
+different media were used for isolation of fungi. Theywere glucose yeast extract-peptone agar (GYPA),
+potato dextrose agar (PDA), marine agar (MA), malt
+extract agar (MEA), Czapek’s dextrose agar (CDA),corn meal agar (CMA), Sabouraud dextrose agar
+(SDA), and carboxymethyl cellulose agar (CMCA)
+supplemented with 0.3% urea prepared in seawater.Each medium was supplemented with penicillin and
+streptomycin (40,000 units and 0.1 g in 100 ml
+medium, respectively) to inhibit bacterial growth.The plates were incubated at 30 /C176C in the dark and
+inspected daily for 4 weeks. Each distinct colony
+morphotype appearing around the sponge sections onisolation plates was picked and obtained in pure
+culture (using the medium on which colonies were
+initially isolated). Phenotypic and chemotaxonomiccharacterizations of endophytic fungal isolates were
+performed following the protocol of (Rifai 1969 ;
+Kohlmeyer and Kohlmeyer 1979 ; Samson 1979 ;
+Samson and Gams 1984 ; Bissett 1991a ,b; Blomquist
+et al. 1992 ) and (Stahl and Klug 1996 ).
+Maintenance of cellulolytic strains and inoculum
+preparation
+All cellulolytic endophytic fungal isolates were
+grown and maintained on Sabouraud dextrose agar
+(SDA) for 7 days at 30 /C176C until conidia formation.
+The spores were harvested with sterile seawater
+containing 0.1% Tween 80 and used to inoculate the
+solid-state fermentation (SSF) after adjusting thedesired spore count (10
+6spore ml-1).
+Induction of mutationFor UV-mutagenesis, spores obtained from 7-day-old
+slants of each parental strain ( Trichoderma sp.
+Merv6, Penicillium sp. Merv2, and Aspergillus sp.
+Merv70) were resuspended in 0.85% NaCl andirradiated with UV light (254 nm) from a Philips
+TUV-30 W lamp source at a distance of 25 cm for 5
+and 15 min (the amount of time necessary to kill85–95% of the cells). The treated conidia were put in
+the dark for one h and transferred to dishes of SDA
+medium containing 0.1% (v/v) Triton X-100. Theisolated mutants were screened for cellulase activities
+by the agar diffusion test on CMCA medium and
+incubated for 4 days at 30 /C176C. Triplicate sets of plates
+were prepared for each mutant. After incubation, the
+plates were stained with 0.1% Congo red dye
+(20 min), followed by destaining with 1 M NaClsolution for 20 min.
+For the isolation of antifungal-resistant and hyper-
+cellulytic mutants; the hypertonic regeneration med-ium (the same as the protoplast medium with the
+addition of 10.0 g/l CMC as carbon source instead of
+glucose) and ﬁve antifungal agents were used. Theconcentrations of the antifungal agents added were as
+follows: 5 lg/ml benomyl, 5 lg/ml miconazole,
+150lg/ml cycloheximide, and 25 lg/ml 5-ﬂuoroura-
+cil. Colonies that exhibited resistance or sensitivity to
+a speciﬁc antifungal were retested on the same
+antifungal dose to be sure of their resistance orsensitivity stability and used as markers to select the
+fusants.
+Protoplast formation and fusion
+For protoplast fusion, we used the hyperactive
+cellulolytic mutant strains TM 21, PM 45, and AM
+64, which were obtained from the wild type of
+Trichoderma sp. Merv6, Penicillium sp. Merv2, and
+Aspergillus sp. Merv70, respectively, after UV radi-
+ation. Protoplasts were prepared through enzymatic
+hydrolysis of mycelial suspensions using the proce-dure of El-Bondkly 2006 . Cultures were grown in
+liquid protoplast medium composed of (g/l distilled
+water): glucose, 80.0; NH
+4NO 3, 2.0; KH 2PO4, 10.0;
+MgSO 4/C17H2O, 0.25; FeCl 3/C16H2O, 0.02; MnSO 4, 0.14
+with an initial pH 5.0. Fifty milliliter of medium was
+dispensed into a 250-mL Erlenmeyer ﬂask for the
+development of mycelia. The ﬂasks were incubated at
+30/C176C overnight on a shaker maintained at 160 rpm
+(El-Bondkly 2006 ). After incubation, the mycelium
+were collected by centrifugation, washed twice with
+0.7 M KCl in 25 mM phosphate buffer, pH 5.8, andresuspended in phosphate buffer (50 mg/ml) contain-
+ing 0.7 M KCl and 10 mg/ml Novozyme 234. TheAntonie van Leeuwenhoek (2012) 101:331–346 333
+123lytic mixtures were incubated at 30 /C176C with gentle
+shaking for 3 h. Incubation mixtures were ﬁltered,
+and protoplasts were counted in the ﬁltered lysate.Protoplasts prepared from each of the three mutants
+were mixed and suspended in 30% (w/v) polyethyl-
+ene glycol 6,000 solution containing 0.05 M glycine-NaOH buffer, pH 7.5, and 0.05 M CaCl
+2. After
+incubation at 30 /C176C for 10 min, the suspension was
+centrifuged at 3000 rpm for 5 min. Treated protoplastpellets were resuspended in 1 ml of osmatically
+balanced phosphate buffer, diluted appropriately, and
+plated on the hypertonic selective and nonselectiveregeneration media. The hypertonic, selective, and
+regeneration medium is the same as the protoplast
+medium with the addition of 10.0 g/l CMC as carbonsource instead of glucose, 0.7 M KCl, 0.1% (v/v)
+Triton X-100, 20.0 g/l agar, and the antifungal agents
+as selectable markers. Plates were incubated at 30 /C176C
+until colonies grew on the surface of plates. The
+grown colonies were considered as complementary
+fusants. They were transplanted and subculturedseveral times onto selective and nonselective media
+before further studies. Fusion frequency was
+expressed as the ratio of the number of coloniesformed on selective and nonselective media. The
+cellulase activities of the selected parental strains,
+mutants, and fusants were determined on the differenttype of agricultural residues (sugarcane bagasse, rice
+straw, wheat straw, corn straw, and corncob).
+Production of cellulases under solid state
+and submerged fermentation
+For SSF, the fungi were cultured in Erlenmeyer ﬂasks
+(250 ml) containing 10 g of each agricultural residue
+separately as a substrate moistened with 10 ml ofmineral salts solution. The composition of the mineral
+salts solution was (g l
+-1): KCl, 0.5; MgSO 4/C17H2O, 0.5;
+NaNO 3, 3.0; NaH 2PO4, 0.5; 0.01; FeSO 4/C17H2O, and
+pH 5.0. The ﬂasks were inoculated with 106spores
+ml-1obtained from 7-day-old cultures. Flasks were
+incubated at 30 /C176C under static conditions for 7 days. In
+submerged fermentation (SMF), the composition of
+the mineral salts medium was the same as that of theSSF but 50 ml were transferred into a 250 ml Erlen-
+meyer ﬂask supplemented with 2% lignocellulosic
+substrate with an initial pH of 5.0 and inoculated with10
+6spore ml-1. The cultures were incubated on a
+rotary shaker (200 rpm) at 30 /C176C for 7 days.Optimization of cellulase parameters under SSF
+The cellulase production parameters were optimized
+under SSF and the parameters optimized earlier were
+incorporated in subsequent experiments. The param-eters optimized included, typical time course of
+cellulase production (1–14 days), enzyme recovery
+with various extractants such as Tween 80 (0.1, 0.2,and 0.3%), NaCl (1.0%), citrate buffer (pH 5.0,
+0.2 M), phosphate buffer (pH 7.0, 0.2 M), glycine-
+NaOH buffer (pH 10.0) on a rotary shaker at 150 rpmfor 120 min, initial moisture level (20, 40, 50, 60, 70,
+and 80%), particle size (0.2, 0.4, 0.6, 0.8, 1.0, 2.0, and
+3.0 mm), spore concentration (1 910
+3,19104,
+19105,19106,19107, and 1 9108spores
+ml-1), supplementation of fermentation medium with
+different ratios of bagasse and corncob (1:1, 2:1,1:2,1:3, and 3:1), nutrients (carbon source supplementa-
+tion by glucose, sucrose, lactose, avicel, or carboxy-
+methyl cellulose; and nitrogen source supplementationby yeast extract, peptone, or corn steep), initial pH
+values (4, 5, 6, 7, 8, and 9), and incubation temper-
+atures (25, 30, 35, and 40 /C176C).
+Enzyme assay
+Samples were collected every 24 h during fermenta-
+tion for the determination of cellulase activities. The
+activities of FPase and CMCase were investigated bymeasuring the production of reducing sugar by the
+dinitrosalicylic acid reducing sugar using the method
+recommended by Ghose ( 1987 ).b-Glucosidase activ-
+ity was routinely assayed with p-nitrophenyl- b-
+D-
+glucopyranoside as the substrate by using the method
+of Saha and Bothast ( 1996 ). One international unit of
+FPAase, CMCase, or b-glucosidase was deﬁned as the
+amount of enzymes that released 1 lmol of glucose
+(reducing sugar) or p-nitrophenol per min during the
+hydrolysis reaction. Enzyme activities were calcu-
+lated for 1 g of substrate dry matter (SDM). All values
+given are the average of triplicates.
+Effect of pH and temperature on enzyme activity
+and stability
+The dependency on temperature of enzyme activity
+was determined under standard conditions maintaininga constant pH at a varying temperature. For the heat
+stability measurement, the enzyme was incubated for334 Antonie van Leeuwenhoek (2012) 101:331–346
+12360 min at a temperature from 25 to 65 /C176C, followed by
+the determination of the residual cellulolytic activity.
+The optimum pH for cellulolytic activity was
+investigated by measuring the enzyme activity in
+various buffers between pH 4.0 and 10.0 (using
+0.05 M citrate buffer for pH 4.0–5.0, 0.05 M phos-phate buffer for pH 7.0–8.0, 0.2 M Tris-HCl buffer
+for pH 9.0, and 0.05 M glycine-NaOH buffer for pH
+10.0). Stability to pH was assessed by assaying theresidual activity (%) after incubating the enzyme at
+room temperature for 24 h at given pH values ranging
+from 4.0 to 10.0.
+Alcoholic fermentation
+After 7 days of the sacchariﬁcation step, fermentation
+followed using a 10% volume of Saccharomyces
+cerevisiae NRC2 in YM medium (3 g l
+-1yeast extract,
+3gl-1malt extract, 5 g l-1peptone, 10 g l-1glucose)
+for 6–10 days. After fermentation, the broth was ﬁltered
+and the amount of alcohol formed was determined bythe spectrophotometric method (Caputi et al. 1968 ).
+Results and discussion
+Isolation and identiﬁcation of endophytic marine-
+derived fungal strains
+107 fungal isolates representing nine genera were
+isolated from the inner healthy tissue of Egyptian
+marine sponge Latrunculia corticata ; 17, 13, 18, 9,
+11, 6, 9, and 24 isolates were isolated on thefollowing media: malt extract agar (MEA), glucoseyeast extract peptone agar (GYPA), potato dextrose
+agar (PDA), marine agar (MA), carboxymethylcellu-
+lose agar supplemented with 0.3% urea (CMCA),Czapek’s dextrose agar (CDA), corn meal agar
+(CMA), and Sabouraud dextrose agar (SDA), respec-
+tively. Of these isolates; 23.5, 15.4, 33.3, 11.1, 100, 0,11.1, and 41.7% were cellulolytic fermentation fungi.
+Whereas, SDA medium appeared to be the best
+medium for maximum recovery of fungi among thevarious media used, CMCA medium was the best for
+isolation of cellulolytic fungi (Table 1). The endo-
+phytic strains, according to their combined morpho-logical and biochemical approaches, belonged to nine
+fungal genera Acremonium, Phanerochaete, Drechs-
+lera,Pestalotiopsis, Fusarium ,Penicillium ,Tricho-
+derma, Rhinocladiella , and Aspergillus according to
+the protocols of Rifai ( 1969 ), Kohlmeyer and Kohl-
+meyer ( 1979 ), Samson ( 1979 ), Samson and Gams
+(1984 ), Bissett ( 1991a ,b), Blomquist et al. ( 1992 ),
+and Stahl and Klug ( 1996 ). Previous studies had
+shown that there is a wide variety of differentmicroorganisms such as bacteria and fungi associated
+with sponges or corals (Holler et al. 2000 ; El-Gendy
+2010 ; El-Bondkly and El-Gendy 2010 ).
+Among all endophytic marine fungal isolates,
+strains under the isolation numbers Merv6, Merv2,
+and Merv70 showed the highest cellulolytic activityagainst a wide range of agriculture wastes. According
+to the protocols mentioned before for the traditional
+morphological phenotypic and other chemotypicfeatures, Merv6, 2, and 70 belonged to those of
+Trichoderma ,Penicillium, and Aspergillus species,
+respectively. These hyperactive cellulolytic strainswere selected and subjected to mutation and
+Table 1 Comparative
+isolation rates of fungal
+isolates on different culturemediaIsolation
+mediaNo. of fungal
+isolatesCellulolytic
+isolates (%)Fungal related
+genera
+MEA 17 23.5 Acremonium, Phanerochaete, Drechslera
+GPYA 13 15.4 Pestalotiopsis, Fusarium, Aspergillus
+PDA 18 33.3 Penicillium, Fusarium, Trichoderma
+MBA 9 11.1 Rhinocladiella, Aspergillus
+CMCA 11 100.0 Phanerochaete, Fusarium, Trichoderma,
+Penicillium
+CDA 6 0.0 Rhinocladiella
+CMA 9 11.1 Penicillium, Fusarium
+SDA 24 41.7 Trichoderma, Penicillium, Acremonium,
+AspergillusAntonie van Leeuwenhoek (2012) 101:331–346 335
+123intergeneric protoplast fusion to obtain new recom-
+binants. The goal was to achieve potential hydrolytic
+activity toward different lignocellulosic residues ofhard structures yielding the highest level of reducing
+sugars, which could be converted into ethanol by
+S. cerevisiae NRC2 .
+Ultraviolet light (UV) mutagenicity, cellulase
+productivity, and response to antifungal agents
+UV irradiation was carried out at two different
+exposure times, 5 and 15 min at a distance of 25 cmto kill 85–95% of the spores to induce mutations in
+each of Trichoderma sp. Merv6, Penicillium sp.
+Merv2, and Aspergillus sp. Merv70. Data (not shown)
+indicated that 80 various types of mutants were
+isolated from each strain after UV irradiation. The
+most efﬁcient mutagenesis in each original strain wasconsidered to occur when a mutagen confers a high
+frequency of mutations in the range of 85–95%
+lethality. The isolated mutants were screened forcellulase activities by the agar diffusion test on
+CMCA medium, and the hypercellulolytic mutants
+were selected for further study.
+The parental strains and 15 hypercellulolytic
+mutants were studied for their resistance or sensitivity
+to the antifungal agents benomyl, miconazole, cyclo-heximide, and 5-ﬂuorouracil (data not shown). After
+application of different UV-light doses, the hypercel-
+lulolytic mutants showed different responses to anti-fungal agent concentrations. Three mutants, i.e.,
+TM21, PM45, and AM64, isolated from Trichoderma
+sp. Merv6, Penicillium sp. Merv2, and Aspergillus sp.
+Merv70 were resistant to benomyl, miconazole,
+cycloheximide, and 5-ﬂuorouracil. Although Tricho-
+derma sp. Merv6 was sensitive to benomyl, miconaz-
+ole, and cycloheximide, it showed resistance to 25 lg/
+ml of 5-ﬂuorouracil. On the other hand, its mutant
+(TM21) was sensitive to miconazole, and cyclohexi-mide, and resistant to benomyl, and 5-ﬂuorouracil.
+Penicillium sp. Merv2 and its mutant PM45 were
+resistant to miconazole, and cycloheximide at 5 and
+150lg/ml concentrations, respectively. Moreover,
+they were sensitive to 5 lg/ml of benomyl and
+25lg/ml of 5-ﬂuorouracil Aspergillus sp. Merv70
+was sensitive to benomyl and miconazole, and resis-
+tant to cycloheximide and 5-ﬂuorouracil but its mutantAM64 was resistant to miconazole and 5-ﬂuorouracil,
+as well as sensitive to benomyl and cycloheximide.Gene transfer through intergeneric protoplast
+fusion
+Gradual degradation of fungal mycelia started after the
+addition of 10 mg/ml of the Novozyme 234 enzyme.Digestion of the whole cell wall was achieved follow-
+ing incubation at 30 /C176C with gentle shaking for 3 h.
+Maximum release of protoplasts was obtained withmutant TM21 which yielded 3.2 910
+6protoplasts per
+ml. From the mycelium of mutant PM45, the highest
+yield of protoplasts, i.e., 2.0 9106was obtained after a
+three h incubation period. On the other hand,
+1.89106/ml of protoplasts were released from the
+mycelium of AM64 after 3 h incubation time.
+Insertion of genes from different genera into one
+cell by intergeneric protoplast fusion is an efﬁcient
+tool to improve the productivity and properties ofsome important industrial microorganisms (El-Bond-
+kly2006 ). This study aimed to combine cellulase
+genes from three fungi into a recombinant fusanthaving the ability to produce more cellulases with
+new properties. Based on the results of either
+resistance or sensitivity to one or more of the fourantifungal agents used in this study, the intergeneric
+protoplast fusion experiment involved three different
+mutants. These were TM21, PM45, and AM64,isolated from the three different genera of Tricho-
+derma sp. Merv6, Penicillium sp. Merv2, and Asper-
+gillus sp. Merv70, respectively, after UV-exposure.
+Equal amounts of protoplasts, prepared from young
+mycelia of each of the three mutants, were fused.
+Fusion frequency, which is the ratio of the number ofcolonies regenerating on the nonselective medium to
+the number of colonies formed on the selective
+medium, was found to be 1.4 910
+-3. Fused protop-
+lasts were spread on the selective medium containing
+antifungal agents along with CMC as the sole carbon
+source. After the incubation period, only 11 coloniesappeared after ﬁve intergeneric protoplast fusion
+experiments between the three genera. They were
+transferred onto slants and repeatedly subcultured formany generations on the selective medium to be
+tested for both true recombination and stability.
+Cellulase productivity after applying intergeneric
+protoplast fusion
+As shown in Table 2, all recombinant fusants showed
+hydrolytic activity against all agricultural residues336 Antonie van Leeuwenhoek (2012) 101:331–346
+123Table 2 Cellulase production by parental strains, their mutants and fusants from different cellulosic wastes and production of ethanol by Saccharomyces cerevisiae NRC2
+Strains Lignocellulosic waste
+Sugarcane bagasse Rice straw Wheat straw Corn straw Corncobs
+a bcda bcda bcda bcda bcd
+Parents
+P1 60.5 28.0 10.5 17.0 44.5 11.2 4.0 8.5 45.0 11.0 4.0 8.5 36.8 11.0 4.5 8.0 50.1 18.3 7.5 11.0P2 25.0 11.2 15.8 12.5 10.5 4.5 8.5 5.0 11.5 4.5 8.5 5.0 12.0 4.5 8.5 5.5 15.5 6.5 10.5 9.0
+P3 12.2 3.5 25.0 11.0 8.0 1.0 15.0 5.0 8.5 1.5 15.5 5.0 8.0 1.5 15.5 5.0 10.0 2.0 21.0 8.0
+MutantsTM21 121.0 55.1 18.0 28.9 90.8 32.0 9.5 15.8 90.0 32.0 10.2 15.8 85.0 32.0 9.5 15.0 102.5 44.2 12.4 21.3PM45 43.5 20.2 28.5 18.5 22.8 8.9 16.0 10.2 20.5 8.0 16.0 10.0 20.5 8.0 15.8 9.8 35.0 12.8 22.8 16.8AM64 20.0 5.5 49.8 16.0 14.2 2.0 30.5 9.8 14.2 2.0 30.2 9.8 14.2 2.2 30.2 9.8 18.2 3.9 40.0 12.5FusantsTahrir-1 160.5 67.2 88.5 34.2 145.0 58.2 80.0 32.9 145.0 58.2 80.0 32.9 132.8 55.0 74.6 32.7 150.8 62.5 85.8 33.8Tahrir-2 43.5 20.2 28.5 18.5 22.8 8.9 16.0 10.2 20.5 8.0 16.0 10.0 20.5 8.0 15.8 9.8 35.0 12.8 22.8 16.8Tahrir-3 20.0 5.5 49.8 16.0 14.2 2.0 30.5 9.8 14.2 2.0 30.2 9.8 14.2 2.2 30.2 9.8 18.2 3.9 40.0 12.5Tahrir-4 121.0 55.1 18.0 28.9 90.8 32.0 9.5 15.8 90.0 32.0 10.2 15.8 85.0 32.0 9.5 15.0 102.5 44.2 12.4 21.3Tahrir-5 180.8 75.0 87.0 36.5 160.8 68.3 78.8 33.2 155.5 68.3 75.7 33.0 160.0 68.3 78.8 33.2 172.0 72.0 83.2 35.9Tahrir-6 43.5 20.2 28.5 18.5 22.8 8.9 16.0 10.2 20.5 8.0 16.0 10.0 20.5 8.0 15.8 9.8 35.0 12.8 22.8 16.8Tahrir-7 160.5 67.2 88.5 34.2 145.0 58.2 80.0 32.9 145.0 58.2 80.0 32.9 132.8 55.0 74.6 32.7 150.8 62.5 85.8 33.8Tahrir-8 121.0 55.1 18.0 28.9 90.8 32.0 9.5 15.8 90.0 32.0 10.2 15.8 85.0 32.0 9.5 15.0 102.5 44.2 12.4 21.3Tahrir-9 121.0 55.1 18.0 28.9 90.8 32.0 9.5 15.8 90.0 32.0 10.2 15.8 85.0 32.0 9.5 15.0 102.5 44.2 12.4 21.3Tahrir-10 43.5 20.2 28.5 18.5 22.8 8.9 16.0 10.2 20.5 8.0 16.0 10.0 20.5 8.0 15.8 9.8 35.0 12.8 22.8 16.8
+Tahrir-25 196.1 79.1 95.5 38.5 125.5 52.6 60.5 32.8 120.0 52.0 60.0 32.0 120.0 53.0 60.5 32.5 165.5 68.9 86.9 35.8
+a: CMCase, b: FPase, and c:b-glucosidase, activities (U gds
+-1) as well as later ethanol fermentation (g/l) by Saccharomyces cerevisiae NRC2 ( d)
+Trichoderma sp. Merv6 (P1) and its mutant TM21, Penicillium sp. Merv2 (P2) and its mutant PM45 and Aspergillus sp. Merv70 (P3) and its mutant AM64Antonie van Leeuwenhoek (2012) 101:331–346 337
+123under study to different degrees of hydrolysis.
+Cellulases were produced irrespective of the sub-
+strates and there was a distinct difference between theparental fungi, their mutants and recombinants in
+ability to produce the cellulases on effective, inex-
+pensive and readily available lignocellulose sub-strates in solid-state cultivations. Whereas cellulases
+from Trichoderma sp. Merv6 (P1) showed high
+endoglucanase and exoglucanase activities withlower b-glucosidase levels, cellulases from Penicil-
+lium sp. Merv2 (P2) had promising b-glucosidase
+activity but moderate endoglucanase and exoglucan-ase activities. On the other hand, Aspergillus sp.
+Merv70 (P3) showed the highest b-glucosidase
+activity with low endoglucanase or exoglucanaseactivities, hence limited efﬁciency in cellulose hydro-
+lysis. However, the screening of recombinant fusants
+from intergeneric protoplast fusion between selectedparental mutants (TM21, PM45, and AM64) refers to
+recombinant fusants such as Tahrir-4, Tahrir-8, and
+Tahrir-9 showed cellulase pattern of mutant TM21.Some fusants had the cellulase pattern of mutant
+PM45 (Tahrir-2, Tahrir-6, and Tahrir-10) but only
+one fusant (Tahrir-3) had the cellulase pattern ofmutant AM64. The others had new patterns different
+from their parental strains, Tahrir-1, Tahrir-5, Tahrir-
+7, and Tahrir-25. Among these recombinant fusants,Tahrir-25 showed the best activity. It produced
+CMCase, FPase, and b-glucosidase at yields of
+196.1, 79.1, and 95.5 U gds
+-1as compared to the
+parental strains; Trichoderma sp. Merv6 (P1, 60.5,
+28.0, 10.5 U gds-1),Penicillium sp. Merv2 (P2, 25.0,
+11.2, and 15.8 U gds-1),Aspergillus sp Merv70 (P3,
+12.2, 3.5, and 25.0 U gds-1), their mutants (TM21,
+PM45, and AM64) or other recombinants (Table 2).
+Thus, Tahrir-25 was selected for further enzymaticstudies on complete cellulose hydrolysis of agricul-
+tural residues.
+Sugarcane bagasse was the best inducer for
+exoglucanase, endoglucanase, and b-glucosidase pro-
+duction. The suitable cellulolytic hydrolytic charac-
+teristics of the cellulase complex in the Tahrir-25
+fusant are possibly due to the high b-glucosidase
+activities generated by protoplast fusion. Therefore,genetic construction of fungal strains can be an
+effective tool in bio-subsequent ethanol production
+from agricultural byproducts by increasing the for-mation of reducing sugars and proteins of plant waste
+materials. Incorporation of cheap sugarcane bagasseinto media for the production of lignocellulose
+enzymes by fungi in SSF should contribute to a
+decrease in the costs of the production of enzymaticcomplexes. Thus, would contribute greatly to the
+economic production of bioethanol (Gutierrez-Correa
+and Tengerdy 1997 ; Camassola and Dillon 2007 ).
+Efﬁciency of intergeneric protoplast fusion
+technique on crude cellulase activities
+Data in Tables 3and 4showed that intergeneric
+protoplast fusion is a promising tool for overproduc-tion of cellulolytic enzymes with improved properties
+by the recombinant fusant Tahrir-25. For parental and
+recombinant strains, the optimum pH for cellulasesactivity ranged from 5.0 to 6.0. Activities of CMCase,
+FPase, and b-glucosidase from Trichoderma sp.
+Merv6 (P1) were higher (60.6, 28.0, and11.0 U gds
+-1) in more acidic (pH 5.0) and higher
+temperature (50 /C176C) conditions. CMCase, FPase, and
+b-glucosidase from Penicillium sp. Merv2 showed
+maximum activities (25.8, 11.2, and 16.2 U gds-1)a t
+pH 5.5–6.0 and 40–45 /C176C.Aspergillus sp. (P3)
+displayed its optimum b-glucosidase activity at pH
+5 and 40–50 /C176C. However, the enzymes of the
+recombinant fusants exhibited potent CMCase and
+FPase activities at low temperature (40 /C176C) and pH
+5.5. Moreover, b-glucosidase exhibited potent activ-
+ity (96.3 U gds-1) at pH 5.0 cellulases (CMCase;
+FPase, and b-glucosidase, of the recombinant strain
+were more stable up to 65 /C176C with pH up to 8.0 as
+compared to its parental strains (P1, P2, and P3).
+Temperature and pH characteristics proﬁle of Tahrir-25 cellulase enzymes make it very useful for
+industrial application. These results conﬁrm that
+recombinant DNA technology is useful to increaseproduction levels of enzymes and to improve the
+stability, activity, and speciﬁcity of industrial
+enzymes (Cowan 1996 ; El-Bondkly and El-Gendy
+2010 ).
+Inﬂuence of culture methods on cellulase
+activities by parental strains and their
+recombinant fusant Tahrir-25
+In this study, we eliminated the difﬁculty of com-
+parison enzyme yields in submerged and solid-statefermentations by projecting the yield values in
+relation to a substrate used. SSF supported the338 Antonie van Leeuwenhoek (2012) 101:331–346
+123Table 4 Efﬁciency of intergeneric protoplast fusion on production of CMCase, FPase, and b-glucosidase activities at different pHs
+pH Parental strains and fusant
+P1 P2 P3 Tahrir-25
+CMCase FPase b-glucosidase CMCase FPase b-glucosidase CMCase FPase b-glucosidase CMCase FPase b-glucosidase
+4 26 14.4 5 14.2 6.1 8 3.2 0 19.4 120.7 43.9 70.6
+4.5 45 19.5 7.4 17.8 9.2 11.3 5.7 0 25 152.6 59.2 82.85 60.6 28 11 20 11 14.2 12 3.6 25.2 175 65.4 96.35.5 50 28 10.2 25.8 11.2 16.2 12 4 25.1 190.5 79.2 85.76 31 22.3 9 25.8 11.2 16.2 9.4 2.9 20.9 196.4 68.1 77.36.5 20.3 17 8 22.9 10.8 14.8 5.5 0 17.3 190 67 70.27 15.8 12.7 5.9 20.1 10 11 2.7 0 10 169.3 66.4 698 9.2 9.8 4 15.6 8 7.1 1.9 0 5.9 100.4 42 549 6.5 6.7 3 12 5 4.5 0 0 0 75.9 20.5 1910 5.7 4.2 2.1 10 3.01 0 0 0 0 51.8 11 4Table 3 Efﬁciency of intergeneric protoplast fusion on production of CMCase, FPase, and b-glucosidase activities at different temperatures
+Temperature
+(/C176C)Parental strains and fusant
+P1 P2 P3 Tahrir-25CMCase FPase b-glucosidase CMCase FPase b-glucosidase CMCase FPase b-glucosidase CMCase FPase b-glucosidase
+25 9 10 2 8 3 7 0 0 12 75 19.9 25
+30 15 6 4 10 6 9 0 0 15 130 32 5735 20 9 6.1 17 8 14 4 0 17.4 168 63 8040 29 12 7.13 24.2 11.2 16 5.5 0 25 196 79 9645 43 19 9.2 25 11.2 16 9 0 25 196 79 9650 60.6 28 11 24.8 11 11 12 4 25 196 79 9655 60 15 7.5 24 10.8 9.8 7 0 15 190 63 8060 35 4 4.5 19 9.5 7.5 4.2 0 11 155 50 5765 15 3 2.9 15 7 6 0 0 8.7 120 45 38Antonie van Leeuwenhoek (2012) 101:331–346 339
+123highest CMCase, FPase, and b-glucosidase produc-
+tion. Yields of 60.5, 28.0, and 10.5 U gds-1; 25.0,
+11.2, and 15.8 U gds-1; 12.2, 3.5, and 25.0 U gds-1;
+196.1, 79.1, and 95.5 U gds-1were obtained as
+compared to 45.5, 19.8, and 4.8 U gds-1; 17.0, 7.16,
+and 11.2 U gds-1; 8.0, 1.8, and 16.0 U gds-1; 150.2,
+67.5, and 89.6 U gds-1in submerged cultivations by
+Trichoderma sp. Merv6, Penicillium sp. Merv2,
+Aspergillus sp. Merv70, and their recombinant fusant
+Tahrir-25, respectively (Table 5). This probably was
+due to the biosynthesis of cellulases in the SMF
+process being strongly affected by catabolic and by theend-product repression. A recent report describes the
+overcoming of these repressions to a signiﬁcant extent
+by the SSF system (El-Gendy 2010 ). Cellulase yields
+of 250–430 U/g were recorded in SSF of wheat straw
+representing an increase of 72% as compared to the
+yields 160–250 U/g of cellulase in liquid-state fer-mentation with Trichoderma reesei QMY-1 (Chahal
+1985 ). The overall process economy would be cheaper
+by employing SSF for enzyme production using cheapsubstrates like agricultural residues. The SSF system
+offers numerous advantages over SMF system, includ-
+ing high volumetric productivity, relatively higherconcentration of the products, less efﬂuent generation,
+simpler fermentation equipment, etc.
+Typical time course of cellulase activities
+The fermentations of sugarcane bagasse by recombi-
+nant strain Tahrir-25 and its parents were carried out
+for different incubation periods (1–14 days) in order
+to evaluate the effect on CMCase, FPase, andb-glucosidase activities at 30 /C176C and pH 5 (Fig. 1a–c).
+Whereas Aspergillus sp. Merv70 (P3) showed little
+CMCase or FPase activities during 14 days offermentation, it exhibited the highest b-glucosidase
+productivity at the 4th day of fermentation. CMCaseactivity was detected at the 2nd day of Trichoderma
+sp. Merv6 (P1) fermentation and it reached its
+maximum at the 7th day (60.5 U gds
+-1). However,
+it was not detected during the 1st and 2nd days of the
+Penicillium sp. Merv2 (P2) fermentation. Thereafter,
+the enzyme levels increased and reaching a maximumat the 9th day (32.16 U gds
+-1). However, CMCase
+activity was detected in the culture ﬁltrate of the
+potent cellulolytic recombinant strain Tahrir-25 onthe ﬁrst day of fermentation and reached its maxi-
+mum value at the 7th day of culture fermentation
+(196.5 U gds
+-1). Maximum FPase values (28.9, 16.2,
+and 80.5 U gds-1) peaked at the 7th, 9th, and 8th
+culture days with strains P1, P2, and Tahrir-25,
+respectively. Both CMCase and FPase activitiesgradually decreased at longer incubation times for
+such strains. Maximum b-glucosidase activities pro-
+duced by P1, P2, P3, and Tahrir-25 strains were 10.6,17.2, 31.2, and 114 U gds
+-1at the 7th, 9th, 4th, and
+4th days of fermentation, respectively. The optimum
+incubation period achieved by this step was ﬁxed forthe subsequent experiments. Further increase in the
+incubation period led to a decrease in the production
+of cellulase. This might be due to the depletion ofnutrients and production of other byproducts in the
+fermentation medium (Haq et al. 2006 ). Whereas
+FPase of T.harzianum T2008 achieved its maximum
+level after 5 days of fermentation, cellulase activities
+ofT. harzianum KM07 reached their maximum level
+at 72 h (Haq et al. 2006 ).
+Enzyme extraction
+One of the major technical difﬁculties in solid-state
+fermentation is the extraction or leaching of enzyme
+from fermented materials, which is critical in deter-mining the economic feasibility of enzyme produc-
+tion. In this study, citrate buffer (pH 5.0), phosphate
+Table 5 Comparison of cellulase yield in submerged and solid-state cultivations by the parental strains and their hypercellulolytic
+recombinant fusant Tahrir-25
+Enzyme (U gds-1) Parental strains and their fusant
+P1 P2 P3 Tahrir-25SMF SSF SMF SSF SMF SSF SMF SSF
+CMCase 45.5 60.5 17.0 25.0 8.0 12.2 150.2 196.1
+FPase 19.8 28.0 7.16 11.2 1.8 3.5 67.5 79.1b-Glucosidase 4.8 10.5 11.2 15.8 16.0 25.0 89.6 95.5340 Antonie van Leeuwenhoek (2012) 101:331–346
+123buffer (pH 7.0), glycine-NaOH buffer (pH 10.0), NaCl
+(1.0%), and the non-ionic surfactant Tween 80 (0.1,
+0.2, and 0.3%) were compared for extraction andrecovery of cellulases from the solid fermentedslurries. Table 6shows that the CMCase, FPase, and
+b-glucosidase recoveries were markedly enhanced to
+235, 94, and 105 U gds
+-1, respectively, when Tween
+80 (0.2%) was used as leaching agent. This non-ionic
+surfactant increases the extracellular protein accumu-
+lation in culture ﬁltrates by enhancing the export ofproteins or enzymes through the cell membrane. In this
+study, no acidic or alkaline leaching solutions gave
+good results, presamably because they adversely affectenzyme activities. This ﬁnding is in agreement with
+other studies in which maximum cellulase activities of
+Aspergillus niger andTrichoderma reesei , as well as
+keratinases from Penicillium sp.Morsy1, were
+extracted from mold bran by 0.1% (w/v) Tween 80
+(Lee et al. 2011 ; El-Gendy 2010 ). On the other hand,
+citrate-phosphate buffer of 0.05 M and pH 4.8 was the
+favored extractant for cellulases enzymes produced by
+T. harzianum KM07 (Haq et al. 2006 ).
+Effect of initial moisture content (IMC)
+of the medium on cellulase activities
+Moisture content is a critical factor for cell growth
+and enzyme production under SSF, which determinesthe outcome of the process. As shown in Table 7, the
+results indicated a positive relationship between
+cellulase production and moisture when the watercontent was lower than 80%. The optimum initial
+moisture level was 50–60, 60, and 60% for CMCase,
+FPase, and b-glucosidase production (251, 103, and
+137 U gds
+-1), respectively, by the recombinant04080120160200
+1234567891 0 1 1 1 2 1 3 1 4
+Time (day)CMCase activity (U/ gds)
+020406080100
+123456789 1 0 1 1 1 2 1 3 1 4
+Time (day)FPase activity (U/gds)Tahrir-25 P1 P2 P3
+020406080100120
+123456789 1 0 1 1 1 2 1 3 1 4
+Time (day)β-Glucosidase activity (U/gds)Tahrir-25 P1 P2 P3a
+b
+cTahrir-25 P1 P2 P3
+Fig. 1 a Typical time course of CMCase production by parental
+strains and their recombinant fusant using SSF condition.bTypical time course of FPase production by parental strains
+and their recombinant fusant under SSF condition. cTypical time
+course of b-glucosidase production by parental strains and their
+recombinant fusant using SSF processTable 6 Effect of different leaching agents on cellulase
+activities of the recombinant fusant Tahrir-25 under SSF
+conditions
+Leaching
+agentEnzyme activities (U gds-1)
+CMCase FPase b-glucosidase
+NaCl (1.0%) 200 70 82
+Citrate buffer
+(pH 5.0, 0.2 M)60 40 25
+Phosphate buffer
+(pH 7.0, 0.2 M)150 79 100
+Glycine-NaOH buffer
+(pH 10.0)30 50 40
+Tween 80 (0.1%) 220 80 95
+Tween 80 (0.2%) 235 94 105Tween 80 (0.3%) 234.5 84 100Antonie van Leeuwenhoek (2012) 101:331–346 341
+123fusant on sugarcane bagasse. Lower or higher IMC
+decreased cellulase production. The appropriate
+moisture of substrate is one of the critical factorsinﬂuencing SSF and is governed by the requirements
+of the microorganism. Lee et al. ( 2011 ) reported that
+moisture content is a crucial factor in any SSFprocess because this variable inﬂuences growth and
+biosynthesis of a microbe as well as secretion of
+different metabolites such as enzymes. They found70% (w/w) moisture content to yield the highest
+FPase activity of 2.3 U/g.
+Effect of substrate particle size
+Table 7clearly indicates that the particle size (speciﬁc
+surface area) of sugarcane bagasse was a critical
+factor in SSF for hyper-production of cellulases by the
+recombinant fusant Tahrir-25. Maximum CMCase,FPase, and b-glucosidase production 287, 122.2, and
+151 U gds
+-1, respectively, were obtained from
+1.0 mm sized particles. A similar trend was reportedfor different fungi under SSF, i.e., cellulases fromTable 7 Optimization of solid state fermentation process
+parameters for cellulase productivity (U gds-1) by the
+recombinant fusant Tahrir-25
+Cultivation
+conditionCMCase
+(U gds-1)FPase
+(U gds-1)b-Glucosidase
+(U gds-1)
+Initial moisture
+level (%)
+20 115.0 33.2 30.5
+40 170.1 54.0 61.0
+50 251.0 65.4 73.060 251.0 103.0 137.070 220.5 80.6 90.080 135.3 57.9 80.0Particle size (mm)0.2 50.3 30.1 66.60.4 100.7 55.3 75.50.6 170.4 93.2 81.40.8 238.2 110.0 112.91.0 287.0 122.2 151.02.0 200.4 100.0 100.03.0 170.5 77.9 99.0Spore concentration
+(spores g
+-1)
+19103123.0 75.0 118.9
+19104180.9 82.0 120.5
+19105230.3 120.1 141.3
+19106293.6 140.0 169.4
+19107225.2 100.4 116.9
+1910890.0 82.0 91.4
+Sugarcane
+bagasse:corncob
+ratios
+1:1 300.0 147.8 179.92:1 322.0 159.2 152.01:2 226.4 120.0 175.81:3 159.7 90.7 168.03:1 232.0 140.5 141.2Carbon source
+supplementation
+(1% w/w)
+Control 322.0 157.2 170.4Glucose 70.0 29.2 35.5Sucrose 273.2 110.0 112.2Lactose 286.0 120.0 100.0Avicel 340.0 160.2 174.2Carboxy methyl
+cellulose356.0 163.3 190.0Table 7 continued
+Cultivation
+conditionCMCase
+(U gds-1)FPase
+(U gds-1)b-Glucosidase
+(U gds-1)
+Nitrogen source
+supplementation(1% w/w)
+Peptone 357.3 170.1 189.1Yeast extract 368.0 161.2 208.2Corn-steep solid 399.4 188.0 219.0Incubation
+temperature ( /C176C)
+25 260.1 100.3 199.328 300.2 148.2 215.030 417.0 189.9 220.235 360.2 120.9 183.540 135.8 40.7 119.6pH values4 315.2 165.2 178.25 405.0 190.8 200.05.5 450.1 190.9 225.26 400.5 190.8 225.07 350.9 175.2 190.48 309.2 130.1 110.2342 Antonie van Leeuwenhoek (2012) 101:331–346
+123wheat bran (Pandey 1991 ), cellulases from coir pith of
+small particle size (Attyia and Ashour 2002 ) and
+keratinase from rice straw by Penicillium sp. Morsy1
+(El-Gendy 2010 ). Cellulases in this study were lower
+with bigger or smaller particles than 1.0 mm. With
+smaller particles, the surface area for growth is greaterbut the inter-particle porosity is less, whereas with
+large size the porosity is greater but the saturated
+surface area is less (El-Gendy 2010 ). Sugarcane
+bagasse with 1.0 mm particle size probably provided
+sufﬁcient surface area and aeration to the fungus for
+growth resulting in increased cellulase production.
+Effect of spore concentration
+Inoculum size is a very important factor affecting cell
+growth and product formation. The pattern of cellu-
+lase production with respect to inoculum sizeindicated that with an increase in inoculum size,
+Tahrir-25 strain showed the maximal CMCase,
+FPase, and b-glucosidase production (293.6, 140,
+and 169.4 U gds
+-1) at a concentration of 106spores
+g-1. Enzyme activities were sharply decreased when
+inoculum size was out of this range (Table 7). Lower
+inoculum size required a longer time for the cells to
+multiply to a sufﬁcient number to utilize the substrate
+and produce enzyme, but an increase in the number ofspores insured rapid proliferation and biomass syn-
+thesis. A proper balance between the proliferating
+biomass and available nutrients would yield anoptimum at which the enzyme synthesis would be
+maximal (Sun et al. 2010 ).
+Effect of different ratios of sugarcane bagasse
+and corncob
+Whereas production of CMCase and FPase (322 and
+159.2 U gds
+-1, respectively) was maximal when a
+mixture of sugarcane bagasse and corncob were usedas a carbon source at a ratio of 2:1, the highest yield
+ofb-glucosidase (179.9 U gds
+-1) was obtained with
+a ratio of 1:1 of sugarcane bagasse and corncob
+(Table 7). Furthermore, a decrease in the production
+of cellulase complexes resulted from the increase inthe amount of sugarcane bagasse or corncob. This
+might be due to an increase in the level of substrates
+decreasing the aeration and porosity of the mediumwhich would affect growth and production rates
+(Bigelow and Wyman 2004 ).Effect of supplementation of sugarcane bagasse
+with different carbon and nitrogen sources
+As shown in Table 7addition of glucose signiﬁcantly
+decreased CMCase, FPase, and b-glucosidase pro-
+duction to 70, 29.2, and 35.5 U gds
+-1, respectively.
+A possible reason is that glucose acted as a catabolite
+repressor and repressed enzyme formation (Sun et al.2010 ). Supplementation of carboxymethyl cellulose
+improved cellulase complex production, CMCase,
+FPase, and b-glucosidase to 356, 163.3, 190 U gds
+-1.
+Whereas lactose had a little effect on cellulose
+production, Seiboth et al. ( 2005 ) found lactose to be
+a good inducer of cellulase production by fungi.
+Different organic nitrogen sources were added to
+improve cellulase production. As shown in Table 7,a l l
+tested nitrogen sources in this study enhanced cellulaseproduction by the recombinant fusant Tahrir-25 to
+different levels. Among them, corn-steep solids were
+the most appropriate supplement yielding cellulaseactivities of 399.4, 188.0, and 219.0 U gds
+-1(CMCase,
+FPase, and b-glucosidase, respectively). Although sug-
+arcane bagasse can support the growth and cellulaseproduction of recombinant strain Tahrir-25, it may not
+provide enough nutrients needed by the organism for
+maximum enzyme production. Hence, the exogenousaddition of various nutrients to the medium may improve
+cell growth and enzyme production due to the deﬁciency
+of nitrogen sources in natural agricultural residues(El-Gendy 2010 ; El-Bondkly and El-Gendy 2010 ).
+Effect of temperature and pH on cellulase
+biosynthesis
+The correlation between cellulase production and
+incubation temperature as well as pH is shown in
+Table 7. An incubation temperature of 30 /C176Cp r o v e dt o
+be optimal for maximal CMCase, FPase, andb-glucosidase biosynthesis (417, 189.9, 220.2 U gds
+-1,
+respectively) by Tahrir-25 strain. Incubation at a
+temperature lower than 30 /C176C affected cellulase produc-
+tion negatively. This is due to the fact that incubation at
+the lower temperatures resulted in a longer time to reach
+maximum enzyme activity (Haq et al. 2006 ). The effect
+of different incubation temperatures on cellulase pro-
+duction by T.harzianum T2008 was studied by Lee et al.
+(2011 ) with a peak at 30–32 /C176C.
+Recombinant fusant Tahrir-25 yielded 450.1,
+190.9, and 225.2 U gds-1of CMCase, FPase, andAntonie van Leeuwenhoek (2012) 101:331–346 343
+123b-glucosidase, respectively, at pH 5.5. Cellulase
+levels declined thereafter according to the initial
+medium alkalinity (Table 7). This might be due to the
+organism requiring acidic pH for growth and cellu-
+lase production. Higher FPase and CMCase activities
+were obtained from Trichoderma koningii AS3 after
+84 h of incubation with an optimal moisture content
+of 50%, a pH of 5.0 and an incubation temperature of
+30/C176C (Liu and Yang 2007 ).
+Determination of recombinant fusant Tahrir-25,
+capability for formation of other hydrolyticenzymes
+Recombinant fusant Tahrir-25 was found to be
+capable of growing on agricultural residues and
+producing a signiﬁcant level of various hydrolytic
+depolymerizing enzymes. These enzymes hydrolysevarious lignocellulosic waste residues rich in cellu-
+lose, hemicellulose, starch, xylan, and pectin. Such
+enzymes could be important for the production ofsecond generation biofuels. These hydrolytic enzymes
+were determined as reported by Bansal et al. ( 2011 ).
+This enzyme cocktail, besides being a completecellulase complex, includes xylanase, mannase,
+a-amylase, glucoamylase, and pectinase (1780, 200,
+1715, 800, and 150 U gds
+-1, respectively, in SSF and
+195, 12.5, 240, 57, and 11.2 U gds-1in SMF,
+respectively). Thus, this recombinant strain is a potent
+hyper-cellulase producing strain and its hydrolyticcocktail of enzymes can be used for the complete
+hydrolysis of different polysaccharides of plant origin
+for the production of second generation biofuels. Thecoproduction of various hydrolytic enzymes in this
+study from sugarcane bagasse and corncob may be
+due to the presence of various inducing carbohydrates,including starch, xylan, glucan, arabinan, galactan,
+mannan, and lignin in agricultural residues (Palmaro-
+la-adrados et al. 2005 ). A cocktail of hydrolytic
+enzymes has been previously reported from Ther-
+momyces lanuginosus in submerged fermentation and
+Sporotricum thermophile in solid state fermentation
+(Bansal et al. 2011 ).
+Estimation of alcohol in the selected pretreated
+samples
+After 7 days of sacchariﬁcation by P1, P2, P3, and
+recombinant fusant Tahrir-25, it was followed byfermentation using a 10% volume of Saccharomyces
+cerevisiae NRC2 of YM medium (3 g l
+-1yeast
+extract, 3 g l-1malt extract, 5 g l-1peptone,
+10 g l-1glucose) and allowed to ferment for
+5–10 days at a temperature of 37 /C176C. Data in Fig. 2
+indicate that alcohol production is complete on the
+7th day. Ethanol titer was 17, 12, 11, and 58 g l-1
+after sacchariﬁcation of sugarcane bagasse by P1, P2,
+P3, and recombinant fusant Tahrir-25, respectively. A
+few studies have reported that consortia of fungalcultures or their enzyme preparations could be
+employed for sacchariﬁcation of lignocellulosic
+materials for ethanol production. In the study ofPatel et al. ( 2007 ), different fungal cultures, including
+Aspergillus niger ,Aspergillus awamori ,Trichoderma
+ressei ,Trichoderma viride ,Phanerochaete chrysos-
+porium , and Pleurotus sajor -caju were used in
+different combinations for release of sugars for
+ethanol production.
+Conclusion
+Our results show that intergeneric protoplast fusion is
+a useful tool in genetic improvement programs togenerate better cellulolytic strains. These could be
+useful to utilize different agriculture residues as a
+cheap substrate for cellulase biosynthesis. Accordingto the results obtained in this study, we recommend
+endophytic fungi and their recombinants for indus-
+trial application in combination with simultaneoushydrolysis and fermentation of lignocellulose. This
+system should certainly lower the price of ethanol
+produced from lignocellulosic biomass.0102030405060
+6789 1 0
+Time (day)Ethanol production (g/L)P1 P2 P3 Tahrir-25
+Fig. 2 Ethanol production by Saccharomyces cerevisiae
+NRC2 after pretreatment of sugarcane baggase by parentalstrains and their recombinant fusant344 Antonie van Leeuwenhoek (2012) 101:331–346
+123Optimization of the extraction process of solid
+cultures greatly inﬂuenced the amount cellulases
+released. Tween 80 proved to be the best extractantfor cellulases. Optimization of production parame-
+ters, 70% initial moisture level, particle size of 1 mm,
+spore concentration 1 910
+6spore ml-1, incubation
+temperature 30 /C176C, pH value of 5.5, and the supple-
+mentation with avicel, carboxymethyl cellulose, and
+solid corn-steep favored enzyme formation. Levelsreached were CMCase, FPase, and b-glucosidase at
+450.1, 199.9, and 225.2 U gds
+-1, respectively.
+Acknowledgments The authors would like to thank Prof.
+Arnold L. Demain (R. I. S. E., Hall of Sciences 330, Drew
+University, Madison, NJ 07940, USA) for his revision andediting of this manuscript.
+References
+Attyia SH, Ashour SM (2002) Biodegradation of agro-indus-
+trial orange waste under solid state fermentation andnatural environmental conditions. Egyptian J Biol4:23–30
+Bailey MJ, Nevalainen KMH (1981) Induction, isolation and
+testing of stable Trichoderma reesei mutant with
+improved production of solubilizing cellulase. Enzyme
+Microb Technol 3:153–157
+Bansal N, Tewari R, Gupta JK, Soni R, soni SK (2011) A novel
+strain of Aspergillus niger producing a cocktail of
+hydrolytic depolymerising enzymes for the production of
+second generation ethanol. Bioresources 6(1):552–569
+Bigelow P, Wyman E (2004) Production of cellulytic on
+bagasse pretreated with chemicals. Appl Biochem Bio-technol 102:78–82
+Bissett J (1991a) A revision of the genus Trichoderma. II.
+Infrageneric classiﬁcation. Canad J Botany 69:2357–2372
+Bissett J (1991b) A revision of the genus Trichoderma. III.
+Sect. Pachybasium. Canad J Botany 69:2373–2417
+Blomquist G, Andersson B, Andersson K, Brondz I (1992)
+Analysis of fatty acids. A new method for characterizationof moulds. J Microbiol Methods 16(1):59–68
+Camassola M, Dillon AJP (2007) Production of cellulases and
+hemicellulases by Penicillium echinulatum grown on
+pretreated sugar cane bagasse and wheat bran in solid-state fermentation. J Appl Microbiol 103:2196–2204
+Caputi AJR, Ueda M, Brown T (1968) Spectrophotometric
+determination of ethanol in wine. Am J Enol Vitic19:160–165
+Chahal DS (1985) Solid-state fermentation with Trichoderma
+reesei for cellulase production. Appl Environ Microbiol
+49(1):205–210
+Cowan D (1996) Industrial enzyme technology. Trends Bio-
+technol 14(6):177–178
+El-Bondkly AM (2006) Gene transfer between different
+Trichoderma species and Aspergillus niger through
+intergeneric protoplast fusion to convert ground rice strawto citric acid and cellulases. Appl Biochem Biotechnol
+135(2):117–132
+El-Bondkly AM, El-Gendy MMA (2010) Keratinolytic activity
+from new recombinant fusant AYA2000, an endophytic
+Micromonospora spp. Can J Microbiol 56:748–760
+El-Bondkly AM, Aboshosha AAM, Radwan NH, Dora SA
+(2010) Successive construction of b-glucosidase hyper-
+producers of Trichoderma harzianum using microbial
+biotechnology techniques. J Microbial Biochem Technol
+2(3):070–073
+El-Gendy MMA (2010) Optimization of process parameters for
+keratinase produced by endophytic Penicillium spp.
+Morsy1 under solid state fermentation. Appl Biochem
+Biotechnol 162:780–794
+El-Gendy MMA, El-Bondkly AM (2011) Genome shufﬂing of
+marine derived bacterium Nocardia sp ALAA 2000 for
+improved ayamycin production. Antonie van Leeuwen-
+hoek 99(4):773–780
+Ghose TK (1987) Measurement of cellulase activities. Pure
+Appl Chem 59:257–268
+Girio FM, Fonseca C, Carvalheiro F, Duarte LC, Marques S,
+Bogel-Łukasik R (2010) Hemicelluloses for fuel ethanol:a review. Bioresource Technol 101:4775–4800
+Gutierrez-Correa M, Tengerdy RP (1997) Production of cel-
+lulase on sugarcane bagasse by fungal mixed culture solidsubstrate fermentation. Biotechnol Lett 19:665–667
+Haq I, Shahzadi K, Hameed U, Javed MM, Qadeer MA (2006)
+Solid state fermentation of cellulases by locally isolated
+Trichoderma harzianum for the exploitation of agriculture
+byproducts. Pakistan J Biol Sci 9(9):1779–1782
+Holler U, Wright AD, Matthee GF, Konig GM, Draeger S,
+Aust HJ (2000) Fungi from marine sponges: diversity,biological activity and secondary metabolites. Mycol Res104:1354–1765
+Kohlmeyer J, Kohlmeyer E (1979) Marine mycology: the
+higher fungi. Academic Press, New York
+Lee CK, Darah I, Ibrahim CO (2011) Production and optimi-
+zation of cellulase enzyme using Aspergillus niger USM
+AI 1 and comparison with Trichoderma reesei via solid
+state fermentation system. Biotechnol Res Intern. ArticleID 658493. doi: 10.4061/2011/658493
+Liu J, Yang J (2007) Cellulase production by Trichoderma
+koningii AS3.4262 in solid-state fermentation using lig-
+nocellulosic waste from the vinegar industry. Food
+Technol Biotechnol 45(4):420–425
+Mathew GM, Sukumaran RK, Singhania RR, Pandey A (2008)
+Progress in research on fungal cellulases for lignocellulasedegradation. J Sci Indu Res 67:898–907
+Palmarola-Adrados B, Choteborska P, Galbe M, Zacchi G
+(2005) Ethanol production from non-starch carbohydrates
+of wheat bran. Bioresour Technol 96:843–850
+Pandey A (1991) Effect of particle size of substrate on enzyme
+production on solid state fermentation. Bioresour Technol
+37:169–172
+Patel SJ, Onkarappa DR, Shobha KS (2007) Fungal pretreat-
+ment studies on rice husk and bagasse for ethanol pro-
+duction. EJEAFChe 6(4):1921–1926
+Rifai MA (1969) A revision of the genus Trichoderma . Mycol
+Papers 116:1–116
+Saha BC, Bothast RJ (1996) Production, puriﬁcation, and
+characterization of a highly glucose tolerant novel b-Antonie van Leeuwenhoek (2012) 101:331–346 345
+123Glucosidase from Candida peltata . Appl Environ Micro-
+biol 62(9):3165–3170
+Samson RA (1979) A compilation of the Aspergilli described
+since 1965. Stud Mycol 18:1–38
+Samson RA, Gams W (1984) The taxonomic situation in the
+hyphomycete genera Penicillium ,Aspergillus andFusar-
+ium. Antonie Van Leeuwenhoek 50:815–824
+Seiboth B, Lukas H, Salovuori N, Karin L, Robson DG,
+Vehmaanpera ¨J, Penttila ¨ME, Kubicek CP (2005) Role of
+the bga1-encoded extracellular b-galactosidase of Hypo-
+crea jecorina in cellulase induction by lactose. Appl
+Environ Microbiol 71:851–857Stahl PD, Klug MJ (1996) Characterization and differentiation
+of ﬁlamentous fungi based on fatty acid composition.
+Appl Environ Microbiol 62(11):4136–4146
+Sun H, Ge X, Hao Z, Peng M (2010) Cellulase production by
+Trichoderma sp. on apple pomace under solid state fer-
+mentation. African J Biotechnol 9(2):163–166
+Zhang Y-HP, Himmel ME, Mielenz JR (2006) Outlook for
+cellulase improvement: screening and selection strategies.
+Biotechnol Adv 24:452–481346 Antonie van Leeuwenhoek (2012) 101:331–346
+123

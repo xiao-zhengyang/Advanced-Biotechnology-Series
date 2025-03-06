@@ -1,0 +1,658 @@
+BIOENERGY AND BIOFUELS
+Bioethanol and lipid production from the enzymatic hydrolysate
+of wheat straw after furfural extraction
+Jule Brandenburg1&Ieva Poppele2&Johanna Blomqvist1&Maris Puke4&Jana Pickova1&Mats Sandgren1&
+Alexander Rapoport2&Nikolajs Vedernikovs4&Volkmar Passoth1
+Received: 30 January 2018 / Accepted: 12 May 2018
+#The Author(s) 2018
+Abstract
+This study investigates biofuel production from wheat straw hydrolysate, from which furfural was extracted using a patented
+method developed at the Latvian State Institute of Wood Chemistry. The solid remainder after furfural extraction, correspondingto 67.6% of the wheat straw dry matter, contained 69.9% cellulose of which 4% was decomposed during the furfural extraction
+and 26.3% lignin. Enzymatic hydrolysis released 44% of the glucose monomers in the cellulose. The resulting hydrolysate
+contained mainly glucose and very little amount of acetic acid. Xylose was not detectable. Consequently, the undiluted hydro-lysate did not inhibit growth of yeast strains belonging to Saccharomyces cerevisiae ,Lipomyces starkeyi ,a n d Rhodotorula
+babjevae . In the fermentations, average final ethanol concentrations of 23.85 g/l were obtained, corresponding to a yield of
+0.53 g ethanol per g released glucose. L. starkeyi generated lipids with a rate of 0.08 g/h and a yield of 0.09 g per g consumed
+glucose. R. babjevae produced lipids with a rate of 0.18 g/h and a yield of 0.17 per g consumed glucose. In both yeasts,
+desaturation increased during cultivation. Remarkably, the R. babjevae strain used in this study produced considerable amounts
+of heptadecenoic, α,- and γ-linolenic acid.
+Keywords Wheat straw .Lignocellulose .Furfural production .Ethanol .Biodiesel
+Introduction
+Lignocellulose is very attractive as raw material for biofuel
+and chemicals ’production, as it is the most abundant biomass
+on Earth and has less impact on feed and food production and
+results in greater greenhouse gas savings compared to food
+grade, first generation s ubstrates (Gnansounou 2010 ,
+Özdenkçi et al. 2017 ). However, due to its recalcitrance, en-
+ergy intense and expensive thermo-chemical and enzymaticpretreatments are required to decompose lignocellulose into
+its basic building blocks, to make them available for further
+processing (Özdenkçi et al. 2017 ). During pretreatment, a va-
+riety of compounds such as furfural and acetic acid are formed
+that may act as inhibitors in subsequent fermentation process-
+es (Jönsson and Martin 2016 ). On the other hand, furfural has
+been identified as one of the major biomass-based platform
+chemicals for chemical industry to produce biofuels, fuel ad-ditives, and other high-value compounds. This natural dehy-
+dration product of xylose and other pentoses is industrially
+produced from hemicellulose-rich substrates such as corncobsor sugarcane bagasse.
+The global annual production of furfural at 2010 has been
+reported to be around 300,000 t (Dashtban et al. 2014 ), and it
+is expected that at 2020, the global furfural market will reach
+650,000 t (GrandViewResearch 2015 ). Currently, no technol-
+ogy for chemical synthesis of furfural does exist, and thus,furfural is the most abundant industrial chemical that is de-
+rived from lignocellulose. However, its global market volume
+is largely stagnating. This is mainly due to the inefficientprocesses of current furfural production, which makes it diffi-
+cult to compete with fossil-based chemicals. The majority of
+current industrial furfural processes are based on a technology
+Jule Brandenburg and Ieva Poppele equally contributed to this paper and
+shall both be regarded as first authors
+*V olkmar Passoth
+volkmar.passoth@slu.se
+1Department of Molecular Sciences, Swedish University ofAgricultural Sciences, P.O.-Box 7015, S-75007 Uppsala, Sweden
+2Institute of Microbiology and Biotechnology, University of Latvia,
+Jelgavas Str., 1-537, Riga LV-1004, Latvia
+3Present address: Faculty of Science and Technology, Norwegian
+University of Life Sciences, Ås, Norway
+4Latvian State Institute of Wood Chemistry, Dzerbenes Str. 27/345,Riga LV-1006, LatviaApplied Microbiology and Biotechnology
+https://doi.org/10.1007/s00253-018-9081-7that was developed in the 1920 ’sb yQ u a k e rO a t s( I o w a ,
+USA). This process does not reach 50% of the potential max-
+imum yield. Apart from this, current industrial furfural pro-duction processes tend to also damage the cellulose fraction of
+the biomass, making it very difficult to convert this polysac-
+charide to glucose and further to ethanol (Win 2005 ,L a n g ee t
+al.2012 , Cai et al. 2014 , Rapoport et al. 2014 , Machado et al.
+2016 ).
+At the Latvian State Institute of Wood Chemistry, novel
+methods of thermochemical treatment of lignocellulose have
+been developed, enabling a higher furfural yield compared to
+previously established methods. This process is based on theinjection of a strong acid and certain salts, enabling differen-
+tial catalysis of hydrolysis an d dehydration (Vedernikovs
+2011, Cai et al. 2014 ). For instance, obtaining about 80% of
+the theoretical maximum of furfural yield from birch wood
+has been reported. Moreover, most of the cellulose fraction
+remained intact (Vedernikovs et al. 2010 ). A commercial-
+scale furfural process based on this method has been
+established in 2006 in Iran (Cai et al. 2014 ). Such a process
+may enable subsequent production of biofuels, such as ethanolor microbial biodiesel from the solid residue of furfural pro-
+duction. Combined production of furfural and ethanol has
+been calculated to be very advantageous in terms of fossil
+oil replacement and greenhouse gas emission (Raman and
+Gnansounou 2015 ). However, there are only few studies in-
+vestigating biofuel production from the remainder of furfural
+extraction (Cai et al. 2014 , Yoo et al. 2012 ).
+In the present study, we investigated the potential of wheat
+straw after furfural extraction for the co-production of ethanol
+or biodiesel. After degradation of the residue by standard cel-
+lulosic enzymes, the use of the hydrolysate as a substrate foreither ethanol- or biolipid production was tested. For the
+biolipid production, we tested the production potential of
+two different oleaginous yeasts, the ascomycete Lipomyces
+starkeyi and the basidiomycete Rhodotorula babjevae ,a s
+there is a huge diversity among the oleaginous yeasts, and
+optimal yeast strains for each process still need to beestablished.
+Materials and methods
+Wheat straw hydrolysate
+Winter wheat BZentos ^straw was obtained from a local farm
+close to Riga, Latvia. Its composition and that of the solidremainder after furfural extraction was determined using stan-
+dard methods (Technical Association of the Pulp, Paper and
+Converting Industry- TAPPI): extractives (TAPPI 204), hemi-celluloses (TAPPI 203 cm-99), lignin (TAPPI 222), and ashes
+(European Standard EN 14775) (Obolenskaya et al. 1965 ,
+Zakis 2008 ). Cellulose was determined by the Kürschnerand Hoffer method (Kürschner and Hoffner 1931 ).
+Approximately 2 g of sample was treated with 100 ml of a
+1:4 (v/vnitric acide-ethanol) mixture and then raised to boiling
+for 1 h. After filtration, the insoluble residue was retreated
+twice using the same process. Finally, the solid was washed
+with distilled water until neutrality of the sewage liquid (pHpaper coloration). Then the solid was dried to constant weight
+at 105 ± 3 °C and weighed.
+From the wheat straw, furfural was extracted at the pilot
+plant at the Latvian State Institute of Wood Chemistry. Briefly,
+the straw was crushed with a Wiley-type mill (Cutting mill
+SM 100, Retsch GmbH & Co, Haan, Germany), to a particlesize 10 –20 mm and particles that could pass through a 2-mm
+sieve and then mixed with an acid catalyst solution (0.1 g
+catalyst solution per g dry weight of straw were added) usinga blade mixer. The obtained material was treated with a stream
+of water steam during 60 min at 150 °C, in a thermochemical
+processing unit. Furfural was obtained from the steam con-densate (Vedernikovs et al. 2010 ); the obtained yield was
+0.11 g furfural per g dry mass of wheat straw, which is equal
+to an extraction efficiency of 69% of the maximally possiblefurfural yield from this material. After water vapour stream
+treatment, the solid fraction containing the lignocellulosic left-
+over was washed with distilled water in the same reactor at
+1 1 0° Ca n da tap r e s s u r eo f0 . 0 5M P a .A f t e ra1 0 - m i ni n c u b a -
+tion, the liquid was removed by filtering through a sieve (meshsize 1.5 mm) in the bottom of the reactor. Washing of the
+residue was repeated four times; the total amount of water
+was 12 l per kg of solid matter. Subsequently, the material(moisture content 81 –83%) was emptied from the reactor
+and dried at room temperature to a moisture content of 7 –
+10%.
+Enzymatic hydrolysis of the solid residue after furfural
+extraction
+The solid residue from furfural extraction was treated with
+biomass degrading enzymes to obtain soluble sugar for etha-nol and lipid generation. Hydrolysis was performed in a bio-
+reactor as described earlier (Frankó et al. 2015 ) with some
+modifications: Treatment was performed with 15 filter paperunits Cellic CTec3 enzyme co cktail (Novozyme A/S,
+Bagsværd, Denmark) per g dry weight at pH 4.8.
+Yeast cultivation
+For the different fermentation experiments, the yeast strains S.
+cerevisiae J672 (industrial isolate from Agroetanol AB,
+Norrköping Sweden, Blomqvist et al. 2010 ),R. babjevae
+DBVPG 8058 (Industrial Yeasts Collection, Perugia, Italy,originally strain number J195, strain collection of the
+Department of Microbiology, Swedish University of
+Agricultural Sciences, isolated from apple), and L. starkeyiAppl Microbiol BiotechnolCBS 1807 were used. The strains were stored in glycerol
+stocks containing 50% YPD and 50% glycerol at −80 °C
+and pre-cultivated on YPD agar plates (20 g/l glucose, 20 g/lpeptone, 10 g/l yeast extract, 15 g/l agar) at 25 °C.
+For toxicity tests of the enzymatic hydrolysate and to de-
+termine the impact of addition of different levels of nitrogen,cells were cultivated at 25 °C on an orbital shaker at 125 rpm
+in 100 ml Erlenmeyer flasks in three different media: (i) 10 ml
+of hydrolysate (pure hydrolysate), (ii) 9 mL of hydrolysateplus 1 mLYNB/yeast extract (YNB: yeast nitrogen base with-
+out amino acids and ammonium sulphate, Difco ™,B e c t o n
+Dickinson & Co., Stockholm), final concentrations in the me-dium YNB 2 g/l, yeast extract, 0.75 g/l, ammonium sulphate
+(Merck, Solna, Sweden) 2 g/L; low-nitrogen variant, or (iii)
+9 mL of hydrolysate and 1 mL peptone (Merck)/yeast extract(final concentrations: peptone 20 g/L, yeast extract 10 g/L);
+high-nitrogen variant. The pH was adjusted to 5.0 using 1 M
+NaOH. Every 24 h, samples were taken for determining opti-cal density at 600 nm (OD
+600) (Biochrom WPA CO8000 Cell
+density meter), pH, and the concentrations of sugar and
+ethanol.
+Fermentation experiments for testing the ethanol potential
+were performed in triplicates, for testing the lipid production,
+potential fermentations were performed in duplicates, in 0.7-L
+bioreactors (Multifors, Bottmingen, Switzerland) in 300-ml
+hydrolysate at 30 °C. To determine the ethanol productionpotential of the hydrolysate, fermentations were run with S.
+cerevisiae , at an oxygen tension of 0%. The fermenter was
+flushed with N
+2before inoculation; during fermentation, the
+gas flow was switched off. For lipid production, oxygen ten-
+sion was adjusted to 20%, and fermentations were performed
+with either L. starkeyi orR. babjevae .S. cerevisiae was inoc-
+ulated to an initial OD 600of 1, both oleaginous yeasts to an
+OD 600of 10. To obtain the inoculum, the yeasts were pre-
+grown in liquid YPD at 25 °C and 130 rpm on an orbitalshaker in baffled 500-ml shake flasks containing 100-ml me-
+dia.S. cerevisiae was pre-cultivated for 24 h. L. starkeyi was
+grown for 72 h and R. babjevae for 48 h; before inoculation,
+the cells were washed twice with saline (9 g/l NaCl solution).
+The oleaginous yeasts were adapted to nitrogen limitation in
+YNB media (70 g/L glucose, 1.7 g/L YNB, 2 g/L ammoniumsulphate, 0.75 g/L yeast extract) over night at the same condi-
+tions as described above.
+Analytical methods
+Yeast cell biomass was quantified by OD measurements or
+direct in 2-mL samples by drying as described in
+Brandenburg et al. ( 2016). Correlations were established for
+OD and dry matter. For S. cerevisiae , 1 OD corresponded to a
+dry matter of 0.37 g, as described earlier (Blomqvist et al.
+2010). For L. starkeyi , 1 OD corresponded to a dry matter of
+0.19 g; for R. babjevae , 1 OD corresponded to 0.16 g. The cellswere harvested by centrifugation at 17,000 g, washed twice
+with distilled water, and dried at 105 °C for 48 h. Glucose,
+acetic acid, glycerol, and eth anol were determined by HPLC
+as previously described (Fredlund et al. 2004). For a rapid test-
+ing, glucose concentration of the medium was measured using
+Medi-Test Glucose strips (Macherey-Nagel, Düren, Germany)as described earlier (Blomqvist et al. 2012). Lipids of the ole-
+aginous yeasts were extracted using a modified Bligh & Dyer
+method (Brandenburg et al. 2016, Folch et al. 1957). One hun-
+dred milligrams of freeze-dried yeast cells were suspended in
+1 ml 1 M HCl, soaked for 15 min and incubated for 1 h at
+75 °C. Five milliliters of chloroform:methanol (2:1, v/v)w a s
+added, and the tube was vortexed for 15 min at highest speed.
+The solution was centrifuged at 5000 g for 3 min at room
+temperature, and the lipid layer was transferred to a pre-weighted tube. The remaining c ontent of the sample was re-
+extracted by adding 2.5 ml chloroform, mixing by 1min-
+vortexing and centrifugation at 3000 g for 5 min. The lipidphase was added to the first extraction, and the solvent was
+evaporated under N
+2. Lipids were quantified gravimetrically.
+As lipid extraction is laborious and requires a substantialamount of fermentation medium and because it was not the
+purpose of this study to follow t he kinetics of lipid formation,
+lipid concentration was only de termined at the beginning and
+end of each fermentation with the oleaginous yeasts. For deter-
+mination of the fatty acid composition, the fatty acids weremethylated by addition of BF
+3according to Appelqvist
+(1968), and the methyl esters were analysed by gas chromatog-
+raphy (GC) as recently described (Olstorpe et al. 2014 ,
+Brandenburg et al. 2016). Fatty acids were identified according
+to standard mixture 68A (Nu-Check, Elysian, MN) and reten-
+tion times. The double binding or unsaturation index (UI) wascalculated as UI[%] = [%16:1 + %17:1 + %18:1 + (%18:2)·2 +
+(%18:3)·3]/100.
+Nitrogen in the hydrolysate was quantified by Kjeldahl
+analysis, using Cu as catalyst (Kjeldahl 1883 ). Analysis was
+performed at Swedish University of Agricultural Sciences,
+Department of Animal Nutrition and Management. Standarddeviation of the analysis was stated as maximum 0.9% of the
+totally determined concentration.
+Results
+Composition of wheat straw and the residue
+after furfural extraction
+The wheat straw used in the experiments contained (see
+Materials and Methods) 29.4% (± 0.3) hemicellulose, 47.2%
+(± 0.4) cellulose, and 17.8% (± 0.6) lignin. After furfural ex-traction (resulting in 110 g furfural per kg total straw dry
+matter), a solid residue was obtained, corresponding to
+67.6% of the wheat straw dry matter.Appl Microbiol BiotechnolAnalysis of the solid residue identified that it mainly
+consisted of cellulose (69.9%) of which 4% was decomposed
+during the furfural extraction process, and lignin (26.3%).
+Enzymatic digest of the solid residue of furfural
+extraction
+Enzymatic degradation of the solid residue was performed,
+with a final concentration of water insoluble solids (WIS) of145 g/L. The final glucose concentration from enzymatic hy-
+drolysis was 44.6 g/L, corresponding to 44% of the cellulose
+present in the solid residue. There were almost no other com-pounds found in the hydrolysate; no xylose was found, and
+acetic acid concentration was below 0.1 g/L. The nitrogen
+content was 82 mg N/L.
+Growth of yeasts on the enzymatic hydrolysate
+To check the hydrolysate for inhibitory characteristics, and to
+check whether an addition of nitrogen is required in the sub-
+sequent fermentation steps, the ethanol production yeast S.
+cerevisiae and the oleaginous yeasts L. starkeyi and R.
+babjevae were tested for growth in the hydrolysate at different
+nitrogen additions. All tested strains were able to grow inundiluted hydrolysate. S. cerevisiae consumed all sugar dur-
+ing the first 24 h of cultivation under all three different nitro-
+gen supplies. However, there were differences in the finaloptical density. In pure hydrolysate, S. cerevisiae reached a
+maximum OD
+600of 12 (± 0.3), at low-nitrogen addition 20 (±
+0), and at high-nitrogen addition 40 (± 0). The oleaginousyeasts consumed the glucose slower than S. cerevisiae .L.
+starkeyi had consumed all sugar after 48 h in the two cultiva-
+tions with nitrogen addition and after 72 h in the pure hydro-lysate. R. babjevae consumed all sugar after 48 h in the culti-
+vation with high nitrogen addition; in hydrolysate with lownitrogen addition and in pure hydrolysate, complete sugar
+consumption was monitored after 72 h. The maximum obtain-
+ed OD
+600was for L. starkeyi 17.3 (± 1.1), 20 (± 0), and 40 (±
+0) in pure hydrolysate, and hydrolysate with low- and high-
+nitrogen addition, respectively. R. babjevae reached 15.7 (±
+1.8), 20 (± 0), and 60 (± 0), respectively.
+Ethanol production from the hydrolysate
+Ethanol production from undiluted hydrolysate was tested in a
+bioreactor under low-oxygen conditions. The medium was
+first sparged with N 2, and then S. cerevisiae was added to
+the fermentation broth to an initial OD of 1.0. The fermenta-
+tion was followed until the glucose was finished, which hap-
+pened within 27 h (Fig. 1). The ethanol yield was calculated
+from the final ethanol concentration divided by the consumed
+glucose (100% of the glucose was consumed and no ethanol
+assimilation was observed). In the fermentations, average finalethanol concentrations of 23.85 g/L were obtained, corre-
+sponding to a yield of 0.53 g ethanol per g released glucose
+(± 0.01). This is above the theoretical maximum of the ethanolyield from glucose. Probably, some oligosaccharide residues
+were still present in the fermentation broth, together with
+some cellulase enzyme, which released additional sugarmonomers during fermentation.
+Lipid production from the hydrolysate
+Lipid production was tested using two oleaginous yeast spe-cies, the ascomycete L. starkeyi and the basidiomycete R.
+babjevae . Both yeasts were after pre-cultivation pre-grown
+in low-nitrogen medium, to induce the metabolic pathways
+resulting in lipid accumulation. Lipid formation was calculat-ed from the difference between the amounts of lipids in the
+yeast cell biomass at the start of the cultivation and after the
+01234
+01020304050
+0 5 10 15 20 25
+Biomass [g/l]Glucose, Glycerol, Ethanol [g/l] Time [h]S. cerevisiae J672
+Glucose Glycerol Ethanol BiomassFig. 1 Growth and ethanol
+production kinetics obtained from
+pretreated remainder after furfural
+extraction. Three independentfermentation experiments wereperformed; mean values and
+standard deviations are presentedAppl Microbiol Biotechnoltotal consumption of glucose. Cultures were run in duplicates,
+in undiluted enzymatic hydrolysate. The cultures were inocu-
+lated to a dry matter content of 1.95 g/L. Initial lipid content ofthe cells of L. starkeyi was 10.7% of dry matter, corresponding
+to an initial lipid concentration in the cultures of 0.21 g/L.
+Glucose was consumed within 48 h; dry matter increased to11.72 ± 0.46 g/L with a lipid content of 31.89 ± 0.6% (Fig. 2).
+Thus, a lipid amount of 3.48 ± 0.18 g/L was produced. This
+corresponds to a total production rate of 0.08 ± 0.01 g/L h anda lipid yield of 0.09 ± 0.01 g per g consumed glucose. The
+final production of lipid per solid residue was thus 24 g per
+kg solid residue.
+R. babjevae consumed the glucose already within 40 h. The
+initial biomass in the parallels was 1.1 g/L, with a lipid content
+of 10.95%. Thus, the initial lipid concentration in the culturewas 0.12 g/L. After 40 h, biomass dry matter was 16.48 ±
+0.4 g/L, with a lipid content of 43.9 ± 1.32% (Fig. 3). This
+corresponded to an amount of produced lipids of 7.14 ±0.02 g/L, a lipid production rate of 0.18 ± 0.0 g/h, and a lipid
+yield of 0.17 ± 0.0 g per g consumed glucose. Thus, when
+using R. babjevae to convert the hydrolysate to lipids, 49.2 g
+lipids per kg solid residue were obtained.
+Fatty acid profiles of L. starkeyi and R. babjevae
+The fatty acid profiles of the two oleaginous yeasts at the start
+and the end of the fermentations are shown in Table 1.B o t h
+yeasts showed substantial differences in their overall fatty acidcomposition. At the beginning of the cultivation, the major
+fatty acid was oleic acid (C18:1) in both yeast, but in R.
+babjevae , this fatty acid contributed more than 60.0% of all
+fatty acids, while it was 44.1% in L. starkeyi . Other substantial
+fatty acids in L. starkeyi at the beginning of fermentation were
+palmitic acid (C16:0, 32%), palmitoleic acid (C16:1, 5.2%),
+stearic acid (C18:0, 6.8%), and linoleic acid (C18:2, 9.2%).
+After cultivation of L. starkeyi in the hydrolysate, a variety ofchanges in the fatty acid profile were observed. There was a
+slight decrease in the number of saturated and monounsaturat-
+ed fatty acids, while the proportion of linoleic acid increasedto 18.9%. Moreover, a detectable amount of α-linolenic acid
+(C18:3 n-3, 2.6%) was observed.
+InR. babjevae , at the beginning of the cultivation apart
+from the dominating oleic acid (63.4%), palmitic acid
+(16.0%), stearic acid (4.5%), and linoleic acid (7.1%) were
+found in noteworthy proportions. After a 40-h cultivation,the proportion of oleic acid had substantially decreased and
+was with 23.3% in the range of heptadecenoic acid (C17:1,
+21.8%). C17:1 was the fatty acid with the largest increase, as itwas only present with a very low proportion (1.5%) at the
+beginning of the cultivation. Also in the basidiomycetous
+yeast, there was a tendency that the proportion of saturatedfatty acids and most of the single unsaturated (except C17:1)
+decreased. Polyunsaturated fatty acids increased, including
+linoleic acid, α-a n d γ-linolenic acid, and the latter up to a
+proportion of more than 10% (Table 1).
+Discussion
+Current industrial methods for furfural production tend to
+damage the cellulose fraction of the residual material, whichmakes it impossible to produce biofuels from these residues
+(Cai et al. 2014 , Machado et al. 2016 ). In this study, we in-
+vestigated the biofuel potential of the cellulosic residue afterfurfural extraction, using the method developed at the Latvian
+Institute of Wood Chemistry (Vedernikovs 2011), where 110 g
+furfural have been extracted per kg wheat straw. Enzymatictreatment hydrolysed 44% of total cellulose. This can be as-
+sumed as a good proportion, compared to other studies on
+wheat straw. From wheat straw pretreated with diluted acid,
+only 25% of the cellulose co u l db ed e g r a d e dt og l u c o s e
+(Pedersen et al. 2011). In experiments of integrated storage
+0102030405060
+01020304050
+0 1 02 03 04 0
+Lipid content [%]Glucose, Biomass [g/l]
+Time [h]L. starkeyi CBS1807
+Glucose Biomass Lipid contentFig. 2 Growth and lipid
+production kinetics obtained from
+pretreated remainder after furfural
+extraction, when using L. starkeyi
+CBS1807. Two independentcultivations were performed; the
+figure shows mean values and
+deviation from the mean valueAppl Microbiol Biotechnoland microbial pretreatment, 25 –50% of the cellulose was con-
+verted to glucose (Passoth et al. 2013 ). Probably, even higher
+values of cellulose degradation might be possible when using
+simultaneous saccharification and fermentation, to avoid feed-back inhibition of cellulase, and in general, by using improved
+enzyme cocktails (Atreya et al. 2016 ).
+The enzymatic hydrolysate had almost no inhibitory potential
+on the yeasts used in this study. Obviously, the furfural extraction
+and the washing step at the end of the thermochemical treatment
+had removed most fermentation inhibitors. Accordingly, all three
+yeasts, including the two more in hibitor sensitive oleaginous
+species could grow on undiluted hydrolysate. In earlier experi-ments, hydrolysate had to be diluted by a factor of 3 –10, to get
+non-adapted yeasts to grow (Blomqvist et al. 2011, Tiukova et al.
+2014, Brandenburg et al. 2016). In the ethanol fermentation, the
+theoretical maximum of ethanol production was reached; in fact,
+slightly more ethanol was produced than it could be expected
+according to the measured amount of glucose in the medium.This was probably due to some cellulase activity present in the
+hydrolysate, and due to this, sugar releases during fermentation.
+Our study, apart from testing the ethanol potential, repre-
+sents the first attempt to generate lipids from the solid residue
+of furfural production. We found considerable differences be-
+tween the two tested yeast strains when grown on the testedsubstrate, with R. babjevae (lipid yield 0.17 and production
+rate 0.18 g/L h) being superior over L. starkeyi (0.09 and
+0.08 g/L h). The physiological basis of this difference on the
+same substrate is not clear; however, it fits well to results onother lignocellulose hydrolysate, where L. starkeyi -strains pro-
+duced rather low lipid amounts compared to other oleaginous
+yeasts (Slininger et al. 2016). The order of magnitude of the
+lipid yield of L. starkeyi was similar to a recent study in our
+group, where we obtained the highest lipid yield from hemicel-
+lulose hydrolysate that has been reported so far (Brandenburg
+et al. 2016). Between the two tested species, R. babjevae seems
+to be the yeast of choice in terms of further research for biofuelproduction from lignocellulose. The obtained lipid yield- and -
+production rate were also relatively high compared to other
+oleaginous yeasts, cultivated on either lignocellulosic hydroly-sate or a glucose-based model substrate (Slininger et al. 2016,
+Shen et al. 2013). In recent system analyses, we pointed out that
+rapid conversion of the substrate to lipids has great impact onthe sustainability of the conversion, because aerobic cultiva-
+tions, as required for lipid production, require much energy,
+implying that a faster fermentation will largely improve processefficiency (Karlsson et al. 2016, Karlsson et al. 2017).
+The fatty acid profiles changed during the cultivation; es-
+pecially an increase of the unsaturation index (UI)- reflecting
+Table 1 Fatty acid profile and unsaturation index (UI) of Lipomyces starkeyi andRhodotorula babjevae during growth on hydrolysate at the beginning
+and the end of the fermentation (fermentation was ended when the glucose was depleted)
+Species, incubation time [h] Fatty acids, proportion [%] of the total amount of fatty acids (numbers in parentheses represent standard deviations) U I
+C16:0 C16:1 C17:1 C18:0 C18:1 C18:2 C18:3 (n-6) C18:3 (n-3)
+L. starkeyi , 0 32.0 (± 1.2) 5.2 (± 1.7) 1.5 (± 0.7) 6.8 (± 3.5) 44.1 (± 2.3) 9.2 (± 4.4) b.d.ab.d.a0.69
+L. starkeyi , 48 27.0 (± 2.1) 3.7 (± 0.9) 0.9 (± 0.1) 4.0 (± 1.9) 40.9 (± 0.8) 18.9 (± 3.8) b.d.a2.6 (± 0.7) 0.91
+R. babjevae , 0 16.0 (± 0.6) 1.3 (± 0.0) 0.3 (± 0.2) 4.5 (± 0.2) 63.4 (± 0.4) 7.1 (± 0.3) b.d.a2.6 (± 0.7) 0.87
+R. babjevae , 40 10.3 (± 0.7) 0.7 (± 0.1) 21.8 (± 1.5) 1.6 (± 0.1) 23.3 (± 0.9) 17.0 (± 0.7) 13.3 (± 1.1) 5.0 (± 0.3) 1.35
+aBelow detection limit01020304050
+01020304050
+01 0 2 0 3 0 4 0
+Lipid content [%]Glucose, Biomass [g/l]
+Time [h]R. babjevae DBVPG 8058
+Glucose Biomass Lipid contentFig. 3 Growth and lipid
+production kinetics obtained frompretreated remainder after furfural
+extraction, when using R.
+babjevae DBVPG 8058. Two
+independent cultivations wereperformed; the figure shows mean
+values and deviation from the
+mean valueAppl Microbiol Biotechnolthe desaturation of fatty acids was observed. Previous studies
+have shown an increase of the UI as a response to lowered
+cultivation temperatures, which is keeping the membrane flu-idity on an according level (e.g. Beltran et al. 2008 , Rossi et al.
+2009 ,A m a r e t t ie ta l . 2010 ,O l s t o r p ee ta l . 2014 ). However, in
+our experiments, the cultivation temperature was 30 °C, andthus low temperature cannot be the reason for increased
+desaturation. Moreover, in oleaginous yeasts, membrane
+lipids represent only a small proportion of the total lipid con-tent; most of the lipids must thus have been storage lipids. It is
+unclear why the proportion of unsaturated fatty acids in-
+creased in both yeasts, but since both yeasts belong to differ-ent fungal phyla and have a very high phylogenetic distance,
+this increase seems to be a conserved response. There was also
+a remarkable increase of heptadecenoic acid, C17:1 in R.
+babjevae during growth on hydrolysate. The occurrence of
+this fatty acid in yeasts has rarely been reported (Beltran et
+al.2008 , Rossi et al. 2009 , Tronchoni et al. 2012 ); however,
+we have recently found considerable amounts in the ascomy-
+cetes Blastobotrys adeninivorans and Wickerhamomyces
+anomalus (Olstorpe et al. 2014 ). In the present study, we
+found detectable amounts of this fatty acid which were present
+in both L. starkeyi and R. babjevae . The background and
+physiological importance of the strong increase of C17:1 in
+R. babjevae are not clear. Odd numbered fatty acids are pro-
+duced by using propionyl-CoA in the initial step of fatty acidsynthesis (Tehlivets et al. 2007 ). Very recently, it has been
+reported that the synthesis of C17:1 increased in yeasts, in-
+cluding in the close relative to R. babjevae ,Rhodotorula
+glutinis , when carbon sources with odd numbers of carbon
+atoms were provided, compared to those with even numbers.
+There was also a slight increase during growth on acetic acid(Rezanka et al. 2015 ). However, in our experiments, the con-
+centration of carbon sources with odd numbers of carbon
+atoms should be rather low, and also the amount of acetic acidwas much lower than that of glucose. Nevertheless, the in-
+crease in C17:1 might open another interesting application
+ofR. babjevae , since this fatty acid may have a variety of
+applications in pharmacy or as antimicrobial agent (Rezanka
+et al. 2015 ).
+In both oleaginous yeasts studied, the linolenic acid
+(C18:3) content increased when grown on hydrolysate.
+L. starkeyi formed only C18:3 n-3 ( α-linolenic acid),
+while R. babjevae formed both C18:3 n-3 and –n-6 (γ-
+linolenic acid). Formation of linolenic acid (not specified
+whether α-o rγ-linolenic acid) has been observed in L.
+starkeyi as a response to low cultiv ation temperatures
+( S u u t a r ie ta l . 1996 ). In R. glutinis , highest production
+of linolenic acid has been observed under non-nitrogen
+limiting conditions (i.e. under conditions where no lipid
+was accumulated) or at lowered growth temperatures (25
+vs. 30 °C) (Granger et al. 1992 ). Our experiments were
+running at 30 °C, and the fact that the lipid content of thecells more than doubled during the cultivation argues
+against a missing nitrogen limitation. Production of
+C18:3 up to 5% of total fatty acids has been reportedforR. babjevae grown on glycerol (Munch et al. 2015 ).
+Production of both α-a n d γ-linolenic acid was much
+higher in strain R. babjevae DBVPG 8058 grown on the
+residue of furfural production from wheat straw. When
+producing biodiesel, a high degree of saturation is desir-
+able, except when the diesel is made for utilisation in lowtemperatures (Knothe 2005 ). If the lipids are produced as
+food or feed additives, polyuns aturated fatty acids such as
+α-linolenic acid are often regarded advantageous (Das
+2006 ). Further investigation is required to understand the
+mechanisms regulating desaturation in oleaginous yeasts
+when growing on lignocellulose hydrolysates.
+Only few reports about lipid production in yeasts dif-
+ferentiate between α-a n d γ-linolenic acid. Granger et al.
+(1992 ) only reported α- linolenic acid, (Munch et al.
+2015 ) did not differentiate between α-a n d γ-linolenic
+acid production in R. babjevae .α-a n d γ-linolenic acid
+have been observed in W. anomalus andB. adeninivorans
+(Olstorpe et al. 2014 ), which are both not known as ole-
+aginous yeasts. The mechan isms behind formation of α-
+andγ-linolenic acid need further investigation. In exper-
+iments with strain R. babjevae DBVPG 8058 and other
+oleaginous yeasts, we found that the ability of R. babjevae
+D B V P G8 0 5 8t of o r m γ-linolenic acid was quite unique
+for this strain (unpublished results). γ-linolenic acid is
+used as dietary food supplement and might influence in-flammatory responses (Sergeant et al. 2016 ), and thus, the
+ability of this strain to produce γ-linolenic acid is of in-
+terest for potential biotechnological applications.
+This study demonstrates that the method of furfural
+extraction developed at the Latvian State Institute of
+Wood Chemistry indeed allows coproduction of furfuraland ethanol or lipids from wheat straw. Combined produc-
+tion of furfural and ethanol has been calculated to be very
+advantageous in terms of fossil oil replacement and green-house gas emission (Raman and Gnansounou 2015 ). Out
+of 1 kg of wheat straw, apart from 110 g of furfural,
+111 g of ethanol or 33 g of lipids (when using R.
+babjevae
+) could be produced. These additional products
+can add value to the whole process, and either be used
+as biofuels or as source of valuable chemicals, for in-stance, heptadecenoic acid, α- and γ-linolenic acid and
+by these make the production of the platform chemical
+furfural, which is solely derived from renewable, lignocel-lulosic matter, economically more attractive. Utilisation of
+the remainder of the process as substrate for biogas pro-
+duction, fertiliser, or as burning material to obtain processenergy may further increase the efficiency of the process
+and reduce greenhouse gas emission and dependency on
+fossil energy (Karlsson et al. 2016 , Karlsson et al. 2017 ).Appl Microbiol BiotechnolFunding information This work was supported by The Swedish
+Research Council for Environment, Agricultural Sciences and Spatial
+Planning (Formas), project number 213-2013-80, The Swedish EnergyAuthority (Energimyndigheten) , project number 36649-1, and the
+MicroDrivE-program of the Swedi sh University of Agricultural
+Sciences. IP, MP, NV, and AR were supported by the European
+Regional Development Fund (ERDF) Grants Nos. 2014/0026/2DP/2.1.1.1.0/14/APIA/VIAA/002 and 1.1.1.1/16/A/113. IP also acknowl-edges a FEMS-grant (FEMS-RG-2014-0027.R1).
+Compliance with ethical standards
+Ethical approval This article does not contain any studies with human
+participants or animals performed by any of the authors.
+Conflict of interest The authors declare that they have no conflict of
+interest.
+Open Access This article is distributed under the terms of the Creative
+Commons Attribution 4.0 International License (http://
+creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided you give appro-priate credit to the original author(s) and the source, provide a link to the
+Creative Commons license, and indicate if changes were made.
+References
+Amaretti A, Raimondi S, Sala M, Roncaglia L, De Lucia M, Leonardi A,
+Rossi M (2010) Single cell oils of the cold-adapted oleaginous yeast
+Rhodotorula glacialis DBVPG 4785. Microb Cell Factories 9:73.
+https://doi.org/10.1186/1475-2859-9-73
+Appelqvist LÅ (1968) Rapid methods of lipid extraction and fatty acid
+methyl ester preparation for seed and leaf tissue with special remarkson preventing accumulation of lipid contaminants. Ark Kemi 28:
+551–570
+Atreya ME, Strobel KL, Clark DS (2016) Alleviating product inhibition
+in cellulase enzyme Cel7A. Biotechnol Bioeng 113:330 –338.
+https://doi.org/10.1002/bit.25809
+Beltran G, Novo M, Guillamon JM, Mas A, Rozes N (2008) Effect of
+fermentation temperature and culture media on the yeast lipid com-position and wine volatile compounds. Int J Food Microbiol 121:
+169–177. https://doi.org/10.1016/j.ijfoodmicro.2007.11.030
+Blomqvist J, Eberhard T, Schnürer J, Passoth V (2010) Fermentation charac-
+teristics of Dekkera bruxellensis strains. Appl Microbiol Biotechnol 87:
+1487–1497. https://doi.org/10.10 07/s00253-010-2619-y
+Blomqvist J, Nogue VS, Gorwa-Grauslund M, Passoth V (2012)
+Physiological requirements fo r growth and competitiveness of
+Dekkera bruxellensis under oxygen-limited or anaerobic conditions.
+Yeast 29:265 –274. https://doi.org/10.1002/yea.2904
+Blomqvist J, South E, Tiukova I, Momeni MH, Hansson H, Ståhlberg J,
+Horn SJ, Schnürer J, Passoth V (2011) Fermentation of lignocellu-
+losic hydrolysate by the alternative industrial ethanol yeast Dekkera
+bruxellensis . Lett Appl Microbiol 53:73 –78.https://doi.org/10.1111/
+j.1472-765X.2011.03067.x
+Brandenburg J, Blomqvist J, Pickova J, Bonturi N, Sandgren M, Passoth
+V (2016) Lipid production from hemicellulose with Lipomyces
+starkeyi in a pH regulated fed-batch cultivation. Yeast 33:451 –462.
+https://doi.org/10.1002/yea.3160
+Cai CM, Zhang T, Kumar R, Wyman CE (2014) Integrated furfural pro-
+duction as a renewable fuel and chemical platform fromlignocellulosic biomass. J Chem Technol Biotechnol 89:2 –10.
+https://doi.org/10.1002/jctb.4168
+Das UN (2006) Essential fatty acids: biochemistry, physiology and pa-
+thology. Biotechnol J 1:420 –439. https://doi.org/10.1002/biot.
+200600012
+Dashtban M, Gilbert A, Fatehi P (2014) A combined adsorption and
+flocculation process for producing lignocellulosic complexes from
+spent liquors of neutral sulfite s emichemical pulping process.
+Bioresour Technol 159:373 –379. https://doi.org/10.1016/j.biortech.
+2014.03.006
+Folch J, Lees M, Stanley GHS (1957) A simple method for the isolation
+and purification of total lipids from animal tissues. J Biol Chem 226:
+497–509
+Frankó B, Galbe M, Wallberg O (2015) Influence of bark on fuel ethanol
+production from steam-pretreated spruce. Biotechnol Biofuels 8:15.https://doi.org/10.1186/s13068-015-0199-x
+Fredlund E, Blank LM, Schnürer J, Sauer U, Passoth V (2004) Oxygen-
+and glucose-dependent regulation of central carbon metabolism in
+Pichia anomala . Appl Environ Microbiol 70:5905 –5911
+Gnansounou E (2010) Production and use of lignocellulosic bioethanol in
+Europe: current situation and perspectives. Bioresour Technol 101:4842–4850. https://doi.org/10.1016/j.biortech.2010.02.002
+GrandViewResearch (2015). Furfural market: new report by Grand View
+Research, Inc. http://www.grandviewre search.com/industry-
+analysis/furfural-market
+Granger LM, Perlot P, Goma G, Pareilleux A (1992) Kinetics of growth
+and fatty acid production of Rhodotorula glutinis .A p p lM i c r o b i o l
+Biotechnol 37:13 –17.https://doi.org/10.1007/bf00174195
+Jönsson LJ, Martin C (2016) Pretreatment of lignocellulose: formation of
+inhibitory by-products and strategies for minimizing their effects.
+Bioresour Technol 199:103 –112. https://doi.org/10.1016/j.biortech.
+2015.10.009
+Karlsson H, Ahlgren S, Sandgren M, Passoth V , Wallberg O, Hansson PA
+(2016) A systems analysis of biodiesel production from wheat straw
+using oleaginous yeast: process design, mass and energy balances.
+Biotechnol Biofuels 9:229. https://doi.org/10.1186/s13068-016-
+0640-9
+Karlsson H, Ahlgren S, Sandgren M, Passoth V , Wallberg O, Hansson PA
+(2017) Greenhouse gas performance of biochemical biodiesel pro-
+duction from straw: soil organic carbon changes and time-dependent
+climate impact. Biotechnol Biofuels 10:217. https://doi.org/10.
+1186/s13068-017-0907-9
+Kjeldahl J (1883) Neue Methode zur Bestimmung des Stickstoffs in
+organischen Körpern. Z Anal Chem 22:366 –382
+Knothe G (2005) Dependence of biodiesel fuel properties on the structure
+of fatty acid alkyl esters. Fuel Process Technol 86:1059 –1070.
+https://doi.org/10.1016/j.fuproc.2004.11.002
+Kürschner K, Hoffer AA (1931) A new quantivative cellulose determi-
+nation. Chemie in unserer Zeit 161:1811
+Lange JP, van der Heide E, van Buijtenen J, Price R (2012) Furfural —a
+promising platform for lignocellulosic biofuels. ChemSusChem 5:
+150–166. https://doi.org/10.1002/cssc.201100648
+Machado G, Leon S, Santos F, Lourega R, Dullius J, Mollmann ME,
+Eichler P (2016) Literature review on furfural production from lig-nocellulosic biomass. Nat Res 7:115 –129
+Munch G, Sestric R, Sparling R, Levin DB, Cicek N (2015) Lipid pro-
+duction in the under-charact erized oleaginous yeasts,
+Rhodosporidium babjevae andRhodosporidium diobovatum , from
+biodiesel-derived waste glycerol. Bioresour Technol 185:49 –55.
+https://doi.org/10.1016/j.biortech.2015.02.051
+Obolenskaya A V , Schegolev VP, Akim GL, Akim EL, Kossovich NL,
+Emeljanov IZ (1965) Practical s tudies on wood chemistry [in
+Russian]. Lesnaja Promyshlennost Moscow
+Olstorpe M, Pickova J, Kiessling A, Passoth V (2014) Strain- and
+temperature-dependent changes of fatty acid composition inAppl Microbiol BiotechnolWickerhamomyces anomalus and Blastobotrys adeninivorans .
+Biotechnol Appl Biochem 61:45 –50.https://doi.org/10.1002/bab.1130
+Özdenkçi K, De Blasio C, Muddassar HR, Melin K, Oinas P, Koskinen J,
+Sarwar G, Järvinen M (2017) A novel biorefinery integration con-cept for lignocellulosic biomass. Energy Convers Manag 149:974 –
+987. https://doi.org/10.1016/j.enconman.2017.04.034
+Passoth V , Tabassum MR, Nair HA, Olstorpe M, Tiukova I, Ståhlberg J
+(2013) Enhanced ethanol production from wheat straw by integratedstorage and pre-treatment (ISP). Enzym Microb Technol 52:105 –
+110.https://doi.org/10.1016/j.enzmictec.2012.11.003
+Pedersen M, Johansen KS, Meyer AS (2011) Low temperature lignocel-
+lulose pretreatment: effects and interactions of pretreatment pH arecritical for maximizing enzymatic monosaccharide yields from
+wheat straw. Biotechnol Biofuels 4:11. https://doi.org/10.1186/
+1754-6834-4-11
+Raman JK, Gnansounou E (2015) LCA of bioethanol and furfural pro-
+duction from vetiver. Bioresour Technol 185:202 –210. https://doi.
+org/10.1016/j.biortech.2015.02.096
+Rapoport A, Vedernikov N, Kruma I, Puke M, Borovikova D, Rozenfelde
+L, Khroustalyova G, Matyuskova N (2014) Waste-less bioethanoland other valuable substances production from hardwood. WIT
+Trans Eng Sci 88:311 –317.https://doi.org/10.2495/FEEM20130371
+Rezanka T, Kolouchova I, Sigler K (2015) Precursor directed biosynthesis of
+odd-numbered fatty acids by differen t yeasts. Folia Microbiol (Praha)
+60:457 –464.https://doi.org/10.10 07/s12223-015-0388-9
+Rossi M, Buzzini P, Cordisco L, Amaretti A, Sala M, Raimondi S,
+Ponzoni C, Pagnoni UM, Matteuzzi D (2009) Growth, lipid accu-mulation, and fatty acid composition in obligate psychrophilic, fac-ultative psychrophilic, and mesophilic yeasts. FEMS Microbiol Ecol
+69:363 –372. https://doi.org/10.1111/j.1574-6941.2009.00727.x
+Sergeant S, Rahbar E, Chilton FH (2016) Gamma-linolenic acid,
+dihommo-gamma linolenic, eicosanoids and inflammatory process-es. Eur J Pharmacol 785:77 –86.https://doi.org/10.1016/j.ejphar.
+2016.04.020
+Shen H, Gong Z, Yang X, Jin G, Bai F, Zhao ZK (2013) Kinetics of
+continuous cultivation of the oleaginous yeast Rhodosporidiumtoruloides . J Biotechnol 168:85 –89.https://doi.org/10.1016/j.
+jbiotec.2013.08.010
+Slininger PJ, Dien BS, Kurtzman CP, Moser BR, Bakota EL, Thompson
+SR, O'Bryan PJ, Cotta MA, Balan V , Jin M, Sousa Lda C, Dale BE
+(2016) Comparative lipid production by oleaginous yeasts in hydro-lyzates of lignocellulosic biomass and process strategy for high ti-ters. Biotechnol Bioeng 113:1676 –1690. https://doi.org/10.1002/bit.
+25928
+Suutari M, Rintamäki A, Laakso S (1996) The effect of temperature on
+l i p i dc l a s s e sa n dt h e i rf a t t ya c i dp r o f i l e si n Lipomyces starkeyi .JA m
+Oil Chem Soc 73:1071 –1073. https://doi.org/10.1007/bf02523419
+Tehlivets O, Scheuringer K, Kohlwein SD (2007) Fatty acid synthesis and
+elongation in yeast. Biochim Biophys Acta 1771:255 –270. https://
+doi.org/10.1016/ j.bbalip.2006.07.004
+Tiukova IA, de Barros Pita W, Sundell D, Haddad Momeni M, Horn SJ,
+Ståhlberg J, de Morais MA Jr, Passoth V (2014) Adaptation of
+Dekkera bruxellensis to lignocellulose-based substrate. Biotechnol
+Appl Biochem 61:51 –57.https://doi.org/10.1002/bab.1145
+Tronchoni J, Rozès N, Querol A, Guillamón JM (2012) Lipid composi-
+tion of wine strains of Saccharomyces kudriavzevii and
+Saccharomyces cerevisiae grown at low temperature. Int J Food
+Microbiol 155:191 –
+198. https://doi.org/10.1016/j.ijfoodmicro.
+2012.02.004
+Vedernikovs N (2011). Method and apparatus for the production of fur-
+fural and acetic acid. Patent No. 14240. Latvia. 14240
+Vedernikovs N, Kampars V , Puke M, Kruma I (2010) Changes in the
+birch wood lignocellulose composition in the pretreatment process.Sci J Riga Tech Univ-Mater Sci Appl Chem 22:68 –73
+Win DT (2005) Furfural —gold from garbage. Au J T 8:185 –190
+Yoo CG, Kuo M, Kim TH (2012) Ethanol and furfural production from
+corn stover using a hybrid fractionation process with zinc chlorideand simultaneous saccharification and fermentation (SSF). Process
+Biochem 47:319 –326
+Zakis G (2008). Koksnes kimijas pamati [basics of wood chemistry].
+Latvian State Institute of Wood Chemistry RigaAppl Microbiol Biotechnol

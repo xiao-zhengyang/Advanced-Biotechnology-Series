@@ -1,0 +1,24 @@
+﻿,Article DOI,Product,Product Concentration,Substrate,Substrate Concentration,Media,Time (h),Mode of Bioreactor Operation,Strain Name,Parent Strain,Knocked Out Genes,Overexpressed Native Genes,Heterologous Genes,Promotor,Genome Integration Y/N,Codon Optimized,Culture Volume,Culture Vessel,Nitrogen Condition,Oxygen Condition,pH,Temperature (°C),Direct Evolution Y/N,
+,---------------------------------------,-------------,-----------------------,-----------,-------------------------,---------------------------------,----------,------------------------------,-------------,---------------,-------------------,-------------------------------------,--------------------,---------------------,-----------------------,-----------------,----------------,----------------,--------------------,---------------------------,-----,------------------,-----------------------,
+,10.1016/j.biortech.2023.128580,L-malic acid,232.9 g/L,Glucose,120 g/L,Fermentation medium,144,Fed-batch,TAMC-A10,TAMC,CYB2,"PYK, CYB2",SpMae1F253A/C,"TEF1p, TDH3p",Yes,NA,3 L,3-L fermenter,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,81.8 g/L,Glucose,120 g/L,YPD,120,Shake flask,TAMC-A10,TAMC-A08,CYB2,"PYK, CYB2",SpMae1F253A/C,"TEF1p, TDH3p",Yes,NA,250 mL,Shake flask,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,73.6 g/L,Glucose,120 g/L,YPD,120,Shake flask,TAMC-A08,TAMC-A05,NA,"PYK, CYB2",SpMae1F253A,TEF1p,Yes,NA,250 mL,Shake flask,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,7.3 g/L,Glucose,120 g/L,YPD,NA,NA,TAMC-A06,TAMC-A05,NA,NA,SpMae1,TEF1p,Yes,NA,250 mL,Shake flask,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,24.0 g/L,Glucose,120 g/L,YPD,120,Shake flask,TAMC-A06,TAMC-A05,NA,NA,SpMae1,TEF1p,Yes,NA,250 mL,Shake flask,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,67.4 g/L,Glucose,120 g/L,YPD,120,Shake flask,TAMC-A07,TAMC-A05,NA,"PYK, CYB2",SpMae1F253C,TEF1p,Yes,NA,250 mL,Shake flask,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,73.6 g/L,Glucose,120 g/L,YPD,120,Shake flask,TAMC-A08,TAMC-A05,NA,"PYK, CYB2",SpMae1F253A,TEF1p,Yes,NA,250 mL,Shake flask,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,NA,NA,NA,"YPD, SD agar",NA,N/A,WT,NA,NA,NA,NA,NA,No,NA,NA,N/A,Sufficient,Sufficient,NA,NA,No,
+,10.1016/j.biortech.2023.128580,L-malic acid,38.7 - 59.3 g/L,Glucose,120 g/L,YPD,120,Shake flask,SpMae1-m4/m6/m11/m15,TAMC-A6,NA,NA,SpMae1 mutants,TEF1p,Yes,NA,250 mL,Shake flask,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,73.6 g/L,Glucose,120 g/L,Fermentation medium,144,Fed-batch,TAMC-A10,TAMC,CYB2,"PYK, CYB2",SpMae1F253A/C,"TEF1p, TDH3p",Yes,NA,3 L,3-L fermenter,Sufficient,Sufficient,2.3,30,Yes,
+,10.1016/j.biortech.2023.128580,L-malic acid,227.5 g/L,Glucose,120 g/L,Fermentation medium,144,Fed-batch,TAMC-A10,TAMC,CYB2,"PYK, CYB2",SpMae1F253A/C,"TEF1p, TDH3p",Yes,NA,3 L,3-L fermenter,Sufficient,Sufficient,6.5,30,Yes,
+**Notes:**
+"- **Promoters:** TEF1p, TDH3p are used for overexpressing native and heterologous genes."
+- **Knocked Out Genes:** CYB2 is knocked out in TAMC-A10.
+"- **Overexpressed Native Genes:** PYK, CYB2 based on strain construction."
+"- **Heterologous Genes:** SpMae1 and its mutants (e.g., SpMae1F253A, SpMae1F253C)."
+- **Genome Integration:** All genetic modifications are integrated into the genome.
+- **Codon Optimized:** Not specified (`NA`).
+- **Culture Vessels:** Shake flasks and 3-L fermenters are used.
+- **Nitrogen Condition:** Sufficient in all cases.
+- **Oxygen Condition:** Sufficient aeration in shake flasks and fermenters; some anaerobic conditions in specific assays.
+- **Direct Evolution:** Yes for all engineered strains derived from TAMC.

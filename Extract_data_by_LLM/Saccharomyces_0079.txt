@@ -1,0 +1,860 @@
+International Journal of Food Microbiology 347 (2021) 109169
+Available online 17 March 2021
+0168-1605/© 2021 Elsevier B.V. All rights reserved.Use of non-Saccharomyces yeasts in cider fermentation: Importance of the 
+nutrients addition to obtain an efficient fermentation 
+Anne Gschaedler, Laura E. I~niguez-Mu ~noz, Nilda Y. Flores-Flores, Manuel Kirchmayr, 
+Melchor Arellano-Plaza* 
+Biotecnología Industrial, Centro de Investigaci ˘on y Asistencia en Tecnología y Dise~no del Estado de Jalisco A.C., Camino Arenero 1227, Col. El Bajío del Arenal, C.P. 
+45019 Zapopan, Jalisco, Mexico   
+ARTICLE INFO  
+Keywords: 
+Cider 
+Non-Saccharomyces 
+Micronutrients 
+Volatile compounds ABSTRACT  
+The isolation of autochthonous yeast species presents a good strategy to select new microorganisms for devel -
+oping an adequate inoculum to carry out fermentations and generate representative products of the cider pro-
+duction zone. However, non-Saccharomyces yeasts have been considered to have low capacity to carry out a 
+complete fermentation as Saccharomyces cerevisiae . In this work, five autochthonous yeasts from a cider 
+fermentation process were isolated and identified as Saccharomyces cerevisiae , Kluyveromyces marxianus , Pichia 
+membranaefaciens , P. kluyveri and Zygosaccharomyces rouxii . A series of fermentations were developed at labo-
+ratory level, using each species individually and it was observed that only S. cerevisiae was able to finish the 
+process. K. marxianus consumed less than 50% of the sugars; P. kluyveri and Z. rouxii consumed less than 70% and 
+P. membranaefaciens consumed more than 90% but the yield (ethanol produced for sugar consumed (YP/S)) was 
+0.39. Nevertheless, the addition of magnesium, zinc and nitrogen increased the fermentative capacity of almost 
+all species: K. marxianus , Z. rouxii and P. kluyveri , showed an increase in ethanol production when nutrients were 
+added, obtaining more than 80 g/L of ethanol, and showing that those nutrients are necessary to complete the 
+fermentation. This work describes the potential use of different non-Saccharomyces species to carry out 
+fermentation of apple juice and highlights the importance of certain nutrients to enable an efficient alcoholic 
+fermentation and the generation of desirable volatile compounds for cider production.   
+1.Introduction 
+Traditional cider is defined as the product of a spontaneous 
+fermentation of apple juice. This process involves an alcoholic fermen -
+tation and a malolactic fermentation accomplished by the sequential 
+action of different autochthonous yeasts and bacteria, both from the 
+fruit and from the factory equipment where they are processed (Cab-
+ranes et al., 1990 ; Due~nas et al., 1994 ; Salih et al., 1988 ). The apple juice 
+contains proteins, fat and carbohydrates, where sugars are the largest 
+components of soluble solids of apples. The main types of sugars are 
+fructose, glucose and sucrose. Apple juice shows an average total con-
+tent of reducing sugars of 120 g/L (Braga et al., 2013 ; Thacker and 
+Schug, 2020 ). 
+The chemical composition of cider is established through three 
+fermentative stages, which occur in parallel and sequentially: the 
+oxidative (mainly non-Saccharomyces yeasts), the alcoholic (mainly Saccharomyces spp.) and the malolactic (lactic acid bacteria, LAB) 
+fermentation (Dierings et al., 2013 ). As in the case of grape wines, it is 
+known that some non-Saccharomyces yeasts can contribute noticeably to 
+cider quality by forming certain metabolites in higher concentration 
+(Ciani et al., 2010 ; Jolly et al., 2014 ; Varela, 2016 ). 
+Various volatile compounds of different classes have been found in 
+ciders; some of these are derived from the fruit (Dixon and Hewett, 
+2001 ) but most of them are formed during oxidative and alcoholic 
+fermentation as secondary metabolites. The volatile compounds pro-
+duced during fermentation belong to alcohols, esters, aldehydes, organic 
+acids, etc., and mainly define the cider aroma (Eleut ˘erio dos Santos 
+et al., 2015 ). 
+Yeasts are the main responsible for alcoholic fermentation and 
+therefore confer the characteristic flavor to the beverages (Beech and 
+Davenport, 1970 ; Cabranes et al., 1997 ; Su˘arez Valles et al., 2005 ). 
+There are few available studies about microbial population dynamics in 
+*Corresponding author at: Centro de Investigaci ˘on y Asistencia en Tecnología y Dise~no del Estado de Jalisco, A. C. Camino Arenero 1227, Col. El Bajío del Arenal, 
+C.P. 45019 Zapopan, Jalisco, Mexico. 
+E-mail address: marellano@ciatej.mx (M. Arellano-Plaza).  
+Contents lists available at ScienceDirect 
+International Journal of Food Microbiology 
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow �o�to~1m{y2w {mk�o2tuq{{nyt m~{!
+https://doi.org/10.1016/j.ijfoodmicro.2021.109169 
+Received 22 October 2020; Received in revised form 10 March 2021; Accepted 11 March 2021   International Journal of Food Microbiology 347 (2021) 109169
+2spontaneous cider fermentations, however, it is mentioned that the 
+composition of yeasts populations can vary according to climatic con-
+ditions, apple varieties, geographical location and manufacturing tech-
+nology used (Cabranes et al., 1990 ; Del Campo et al., 2003 ; Su˘arez Valles 
+et al., 2007 ). In general, at the beginning of the fermentation, native 
+non-Saccharomyces yeasts with a low fermentation capacity predomi -
+nate (Coton et al., 2006 ; Morrissey et al., 2004 ; Su˘arez Valles et al., 
+2007 ). Yeasts with a greater tolerance to ethanol, such as those of the 
+genus Saccharomyces complete the fermentation. 
+In Irish cider, many different indigenous yeast species have been 
+identified, such as Saccharomyces cerevisiae , Hanseniaspora uvarum , 
+Brettanomyces bruxellensis , B. anomalus , Debaromyces polymorphus , Pichia 
+fermentans , P. guillermondii , P. anomala (Wickerhamomyces anomalus ), 
+and others (Morrissey et al., 2004 ). Meanwhile, in French cider the 
+predominant yeasts corresponded to Saccharomyces bayanus , 
+S. cerevisiae , Lachancea cidri, Dekkera anomala (W. anomalus ), Candida 
+sake, C. tropicalis and K. marxianus (Coton et al., 2006 ). 
+Liu et al. (2016) evaluated the impact of co-fermentation with 
+S. cerevisiae and Williopsis saturnus on the volatile profile of cider, which 
+resulted in a more complex volatile profile, potentially influencing the 
+aromatic characteristics of cider. Wei et al. (2019, 2020) evaluated 
+different non-Saccharomyces species for apple juice fermentation (in 
+pure or co-fermentations), with interesting results mainly in the volatile 
+profile. 
+In previous studies on wine and beer (Montanari et al., 2009 ; Pal-
+ukurty et al., 2008 ; Walker, 2004 ; Zhao and Bai, 2012 ), it has been 
+determined that cations, such as magnesium, manganese, zinc and 
+others, are necessary to optimize yeasts performance during alcoholic 
+fermentation. These compounds acted as cofactors in several metabolic 
+pathways such as glucose uptake, regulation of the cellular cycle and 
+others. One of the most important cations that influence the cellular 
+development of yeasts is zinc, because it acts as a cofactor in several 
+metabolic pathways and acts by activating the kinases. Finally, mag-
+nesium is considered another essential cofactor for a good development 
+of glycolysis. These cations are usually found in sufficient concentrations 
+in the apple juice; however, it is possible that their addition to the must 
+increases conversion rate of sugars into ethanol. 
+The observation that non-Saccharomyces populations do not persist 
+until the end of the fermentations can be explained by two main reasons: 
+the low ethanol resistance and/or, depletion of nutrients essential for 
+their development. The aims of the present work were to isolate, identify 
+and preserve the yeasts present in spontaneous cider fermentations and 
+to characterize their ability to carry out alone the alcoholic fermentation 
+of apple juice in absence or with the addition of magnesium, zinc and 
+nitrogen, at specific concentrations and to evaluate its impact on ethanol 
+production and volatile compounds generation. Despite the growing 
+interest in this drink, this study is the first to determine the role of 
+nutrient addition in the fermentation of apple juice with non-Saccha -
+romyces yeasts. 
+2.Materials and methods 
+2.1. Obtention of apple juice from the cider processes 
+Apple juice was obtained from apples called “rayada criolla ” from 
+the Hidalgo mountains, perhaps derived from red delicious variety 
+(D˘avila-Gauna, 2007 ; Fern˘andez et al., 2010 ). A clarified apple juice was 
+obtained after different processes (wash, extraction, filtration) from an 
+artisanal cider factory in the state of Hidalgo, Mexico, before fermen -
+tation. The juice was collected, sterile filtered at 0.22 μm and frozen at 
+ 20 •C until use. 
+2.2. Isolation of wild yeasts 
+Several samples of apple juice were collected from different 
+fermentation tanks at the beginning of the fermentation prior to commercial yeast addition. Pre-sterilized glass jars were used for taking 
+the sample in each tank. For the isolation of autochthonous yeasts a 
+series of cultures were made by ten-fold serial dilutions using WL 
+Nutrient chloramphenicol agar medium (Fluka). The inoculated petri 
+dishes were incubated at room temperature (29 •C–31 •C) and the 
+morphological differences were best observed in the WL medium after 
+48 h of incubation. Between 1 and 10 colonies for each morphology were 
+isolated and subjected to PCR-RFLP. YPD agar medium (yeast extract, 
+peptone, dextrose and agar) was used to maintain and growth the iso-
+lated yeast. 
+2.3. Preservation of autochthonous yeasts from cider fermentation 
+The isolated yeasts were transferred to YPD broth for the develop -
+ment of biomass and once in exponential phase were harvested and 
+preserved in 50% glycerol at  80 •C. 
+2.4. Yeasts identification 
+Biomass from each isolated colony was directly subjected to PCR 
+reactions Ten colonies of each yeast morphology were harvested and 
+suspended in a PCR reaction mixture. For amplification of the ITS-5.8S 
+rRNA region, the primers ITS1 (5∕-TCC GTA GGT AA CCT GCG-3∕) and 
+ITS4 (5∕-TCC TCC GCT TAT TGA TAT GC-3∕) were used. PCR conditions 
+described by Esteve-Zarzoso et al. (1999) were followed and the enzy-
+matic digestions were carried out using restriction enzymes HhaI, HaeIII 
+and HinfI. Restriction fragments were analyzed by electrophoresis in 3% 
+(w/v) agarose gels (Invitrogen, Carlsbad, CA, USA) conducted at 100 V 
+for 1 h in TAE 1×buffer (Sigma –Aldrich). The gels were stained with 
+ethidium bromide (Sigma –Aldrich, Steinheim, Germany), visualized 
+under UV light using a GelDoc XR system (Bio-Rad, Hercules, CA, USA), 
+the size of the fragments was estimated by comparison with TrackIt 100 
+bp DNA ladder (Invitrogen), and analyzed using the Quantity One 
+software (Bio-Rad). 
+After grouping the isolates based on the RFLP patterns, a represen -
+tative of each group was selected for further analysis. 
+The identity of the yeasts was confirmed by amplifying and 
+sequencing the variable domain D1/D2 of the large (26S) ribosomal 
+RNA subunit (Kurtzman and Robnett, 1998 ). The PCR products were 
+sequenced by Macrogen USA Inc. (Rockville, MD, USA). The consensus 
+sequences were obtained with CLC Main Workbench 5.5 and were 
+aligned in GenBank using the BLASTn algorithm. 
+2.5. Cider fermentation using isolated yeasts independently 
+The isolated yeasts were grown independently in YPD broth at 30 •C 
+under shaking at 250 rpm, at the end of the exponential growth the 
+yeasts were centrifuged and washed twice with sterile 0.9% NaCl solu-
+tion and subsequently inoculated at a final concentration of 1.0 ×107 
+cells/mL in the apple juice adjusted to 16•Bx. 
+The fermentation was carried out using 950 mL of apple juice at 
+20 •C (±2 •C) and 100 rpm. During the fermentation, samples were 
+taken every 24 h to evaluate cell growth, sugar consumption, concen -
+tration of organic acids, and the production of ethanol and major vola-
+tile compounds such as higher alcohols, methanol, esters and aldehydes. 
+All fermentations were performed in triplicate. 
+2.6. Factorial design for nutrients during cider fermentation 
+Nutritional requirements for cider production were evaluated in 
+batch fermentations for each yeast species and were performed in 950 
+mL of apple juice an initial sugar concentration of 160 g/L at pH 4.5. A 
+full factorial experiment design 23 with a center point was carried out. 
+The three factors were the nutrients: zinc (10 to 20 mg/L as zinc sulfate), 
+magnesium (100 to 400 mg/L as magnesium sulfate) and nitrogen (1 to 
+3 g/L as ammonium phosphate) and the response variables were the A. Gschaedler et al.                                                                                                                                                                                                                             International Journal of Food Microbiology 347 (2021) 109169
+3concentrations of ethanol, organic acids and volatile compounds 
+(Table 1). 
+Additionally, a complete nutrient mixture (experiment M) was used 
+as a control for the yeasts (Tibayrenc et al., 2010 ; S˘anchez et al., 2013 ) 
+which composition was (g/L): KH2PO4, 3.0; (NH 4)2SO4, 3.0; Na2H-
+PO4⋅12H 2O, 3.0; glutamate, 1.0; glucose, 20.0; MgSO 4⋅7H2O, 0.5; 
+ZnSO 4⋅7H2O, 0.04; MnSO 4⋅H2O, 0.0038; CoCl 2⋅6H2O, 0.0005; 
+CuSO 4⋅5H2O, 0.0009; Na2MoSO 4⋅2H2O, 0.00006; CaCl 2⋅2H2O, 0.023; 
+(NH 4) 2Fe(SO 4)2⋅6H2O, 0.023; H3BO3, 0.003; pantothenic acid, 0.005; 
+nicotinic acid, 0.005; inositol, 0.125; thiamine, 0.005; pyridoxine, 
+0.005; p-aminobenzoic acid, 0.001; and biotin, 0.000012. The fermen -
+tations started by inoculating 1.0 ×107 cells/mL and incubating the 
+culture at 20 •C and 100 rpm. Samples were taken every 12 h for a 120 h. 
+All the experiments were performed in triplicate for statistical 
+evaluation. 
+2.7. Analytical determinations 
+2.7.1. Biomass measurements 
+Yeast populations were monitored during all fermentations using a 
+Neubauer counting chamber and biomass was determined at the 
+beginning and at the end of the fermentation by measuring cell dry 
+weight (DW). 
+2.7.2. Ethanol and volatile compounds quantification 
+The ethanol and volatile compounds concentrations were deter -
+mined using a gas chromatograph (HP 7890-B, USA) with a flame 
+ionization detector (FID) at 250 •C, coupled with a head-space system 
+(HP 7694E, USA). The separation column was a poliethilenglycol HP 
+innowax (60 m ×0.32 mm ×0.25 μm). The oven conditions were: 55 •C 
+for 5 min, increasing 5 •C/min up to 160 •C, then, an increment of 25 •C/ 
+min until a final temperature of 220 •C was attained and sustained for 8 
+min (Alcazar-Valle et al., 2019 ). 
+The 2 mL sample was placed in a 20 mL vial for analysis in a head-
+space system. The vial, loop and transfer line temperatures were 80 •C, 
+110 •C and 115 •C respectively. In addition, the time set to reach the vial 
+equilibrium was 5 min, the pressurization time was 0.2 min, the loop fill, 
+equilibrium times were set at 0.2 and 0.5 min respectively, and the in-
+jection time was 1 min. The quantification of volatile compounds was 
+performed using commercial standards (Sigma Aldrich) as: iso-
+butyraldehyde, ethyl acetate, methanol, 1-propanol, 1-butanol, amyl 
+alcohols, isobutanol, ethyl valerate, ethyl lactate, ethyl caprylate, ethyl 
+caproate, 2-furfuraldehyde, and 2-phenyl ethanol. Quantification was 
+performed according to the external standard method. 
+2.7.3. Sugars and organic acids quantification 
+The sugars consumed and organic acids produced were determined 
+by HPLC using an aminex HPX-87C column 300 mm ×7.8 mm biorad. 
+The supernatant was first filtered using Teflon filters at 0.45 mm. The injection volume was 20 μL, the mobile phase was deionized water, the 
+flow rate was 0.5 mL/min, and a refractive index was used as a detector. 
+2.7.4. Zinc and magnesium quantification 
+The zinc and magnesium in the apple juice were determined using 
+inductively coupled plasma-atomic emission spectrometry following the 
+methodology of EPA 6010B (ICP). Magnesium and zinc were analyzed 
+using a VARIAN 240FS Flame Atomic Absorption Spectrometer (air/ 
+acetylene) equipped with an automatic sample dispensing system SPIS- 
+20. The absorbance of Mg2ions was determined at a wavelength of 
+202.6 nm and Zn2at 213.9 nm. 
+2.7.5. Yeast assimilable nitrogen (YAN) quantification 
+YAN was quantified with the Ammonia Assay Kit (Rapid) (Wicklow, 
+Ireland) following the manufacturer ’s instructions. 
+2.7.6. Statistical analysis 
+The effect of the nutrients was analyzed using ANOVA, with the 
+Statgraphics Centurion XV software. Differences in ethanol, organic 
+acids and volatile compounds concentrations were assessed by analysis 
+of variance (Tukey ’s test). Differences were considered significant if the 
+P-values obtained were below 0.05. A heatmap of volatile compounds 
+was used to reduce the dimensionality of the data and to show the better 
+differentiation between yeasts and nutritional compounds. 
+3.Results and discussion 
+3.1. Identification and use of autochthonous cider yeasts 
+In order to isolate the autochthonous yeasts present in the apple 
+juice, sampling was carried out at the beginning of the spontaneous 
+fermentation, since non-Saccharomyces yeasts predominate at this 
+moment in wine and cider (Varela, 2016 ; Pando-Bedri ~nana et al., 2010 ). 
+A series of cultures were made by ten-fold serial dilutions in WL 
+chloramphenicol medium. The yeasts were best differentiated based on 
+their colony morphology observed in the WL medium and subsequently 
+up to 10 colonies were taken randomly to group and identify the isolates 
+based on RFLP patterns. The dominant wild yeast was Saccharomyces 
+cerevisiae (ScCid1), but also Kluyveromyces marxianus (KmCid1), Pichia 
+kluyveri (PkCid1), Pichia membranaefaciens (PmCid1) and Zygosacchar -
+omyces rouxii (ZrCid1) were identified (Table 2). A representative isolate 
+of each yeast species was considered for the next experiments. Only 
+S. cerevisiae has been used for the cider production at industrial level, but 
+the non-Saccharomyces have not been thoroughly studied, moreover 
+Z. rouxii is considered as spoilage yeasts in apple juice (Wang et al., 
+2016 ). P. kluyveri has been evaluated in co-culture with Torulaspora 
+delbrueckii , achieving a complete alcoholic fermentation with more 
+complex aromas (Lu et al., 2017 ). Also, there is a patent to produce cider 
+using P. kluyveri , because it produces higher levels of hexyl acetate and 
+other volatile compounds, however, the ethanol production was less 
+than 0.2% v/v, producing a cider with low ethanol level. In addition, 
+when P. kluyveri was used in co-culture with T. delbrueckii and 
+K. thermotolerans , a cider with high hexyl acetate was produced (Saerens 
+and Swiegers, 2015 ). Wei et al. (2019) used different non-Saccharomyces 
+to ferment different fruit juices. One of the best results was a Fuji apple 
+juice fermentation with a species of P. kluyveri (pure culture), mainly 
+due to the interesting volatile profile obtained, particularly with tropical 
+fruit aroma notes. However, the initial concentration of sugars from this 
+fermentation is relatively low and consumption is not completed at the 
+end of the fermentation. In another study, Wei et al. (2020) analyzed the 
+chemical composition and sensorial properties of ciders fermented with 
+different non-Saccharomyces yeasts in pure and mixed fermentations. 
+The yeasts tested were P. kluyveri , Hanseniaspora vineae , H. uvarum and 
+T. quercuum . As in the previous work, the volatile profiles obtained were 
+interesting and varied greatly depending on the yeast species and their 
+combinations, but in many cases, the ethanol concentration produced Table 1 
+Factorial design 23 for nutrients during cider fermentation. Center point (exp 9), 
+a fermentation without adding nutrients as control (C) and a fermentation with 
+nutrients as a positive control (M, mixture of vitamins, nutrients, and glutamic 
+acid) were used.  
+Experiments Zn (mg/L) Mg (mg/L) N (g/L) 
+1  10  100  1.000 
+2  10  100  3.000 
+3  10  400  1.000 
+4  10  400  3.000 
+5  20  100  1.000 
+6  20  100  3.000 
+7  20  400  1.000 
+8  20  400  3.000 
+9  15  250  2.000 
+Control (C)  0  0  0.000 
+Control (M)  40  500  3.000  A. Gschaedler et al.                                                                                                                                                                                                                             International Journal of Food Microbiology 347 (2021) 109169
+4was low. These works demonstrate that these yeast species can be used 
+for the cider production. Nevertheless, it is important evaluate if these 
+yeasts could be used as an inoculum for cider production, considering 
+the volatile compounds and ethanol concentrations obtained and which 
+nutrients and their concentrations are necessary to ensure the obtention 
+of a cider with a suitable profile. 
+3.2. Lab-scale cider fermentations with isolated yeasts 
+In order to determine the fermentative capacities of the selected 
+yeast species isolated from the cider production process, we carried out 
+individual fermentations using independently each yeast species. The 
+fermentation results are shown in Fig. 1 and the kinetic parameters are shown in Table 3. In the case of S. cerevisiae the sugars were consumed 
+almost completely in 175 h, while at 200 h the maximum concentration 
+of ethanol was observed (88 g/L). In the case of K. marxianus , P. kluyveri 
+and Z. rouxii , after 300 h, not all the sugars present in the apple juice 
+were assimilated, also the ethanol production was lower (29 g/L; 48 g/L 
+and 48 g/L, respectively). P. membranaefaciens required more than 100 h 
+to start sugar consumption and initiate cell growth. These yeast species 
+may not be able to consume or utilize nutrients directly, or it is even 
+possible that the initial concentration of sugars caused an inhibition in 
+the yeast cells. However, 90% of sugars were consumed after 300 h of 
+fermentation producing 57 g/L of ethanol, but the ethanol yield was 
+only 0.39. It is necessary to increase the ethanol production to produce a 
+beverage considered cider (F3.5% Vol. Alc.). Furthermore, the amount Table 2 
+Yeast grouped and identified by PCR-RFLP and 28S sequencing. AP: Amplification product, bp: base pairs.  
+Yeast identified AP (bp) Restriction fragments Similarity (%) Accession number 
+HhaI HaeIII HinfI 
+Saccharomyces cerevisiae  690 454 427 230 402 326 270 230 465 133  100.00 NG_042623.1 
+Kluyveromyces marxianus  784 298 196 171 90 644 85 256 190 118 87  99.82 NG_042627.1 
+Pichia membranaefaciens  371 68 36 27 210 104 46 161 103 53  99.66 NG_042444.1 
+Pichia kluyveri  465 168 108 86 316 95 257 207  99.66 NG_055122.1 
+Zygosaccharomyces rouxii  700 154 85 64 275,104 243 145 48  100.00 NG_055018.1  
+Fig. 1.Fermentation behavior of autochthonous yeasts isolated from apple juice.  A. Gschaedler et al.                                                                                                                                                                                                                             International Journal of Food Microbiology 347 (2021) 109169
+5of some nutrients in the apple juice may not have been enough or be 
+easily consumed by the non-Saccharomyces yeasts and so they could not 
+finish the fermentation. Nutrients as nitrogen, zinc and magnesium, 
+have been identified as essential for the yeasts (García et al., 2016 ; Prior 
+et al., 2019 ; Varela, 2016 ; Walker and Walker, 2018 ). In addition, there 
+are many reports that mention the low ethanol tolerance of non- Saccharomyces yeasts, which limits their application at industrial level 
+(Fu et al., 2019 ; Gschaedler, 2017 ; Li et al., 2018 ; Mateo and Maicas, 
+2016 ). 
+Interestingly, the cell growth of non-Saccharomyces yeast species was 
+not impaired by the fermentation medium, reaching populations higher 
+than 6.5 ×107 cells/mL, however, cell growth did not seem to be the Table 3 
+Kinetic parameters during cider fermentation using the yeast strain isolated.  
+Kinetic parameter S. cerevisiae K. marxianus P. membranaefaciens Z. rouxii P. kluyveri 
+μ max (/h)  0.157a  0.021c  0.051b  0.045b  0.012c 
+rS (g/Lh)   1.42a   0.09c   0.61bc   0.74b   0.54c 
+rP (g/Lh)  0.79a  0.34c  0.39bc  0.49b  0.35c 
+Maximum population (1.0 ×106 cells/mL)  162b  219a  166b  245a  118c 
+Ethanol (g/L)  88.14a  29.11d  57.75b  48.05c  48.18c 
+Residual sugars (g/L)  2.96d  92.60a  15.30c  57.01b  68.44b 
+Data are presented as mean. Different superscripted letters (a, b, c, d) indicate significant difference from each other in all combinations (Tukey ’s test, p D0.05). 
+Fig. 2.Ethanol production for the yeasts isolated from apple juice during cider production adding nitrogen, magnesium an zinc using a statistical design 23 with 
+center point (Table 1), a negative control fermentation (C, using only apple juice), and (M, adding vitamins, amino acids and other nutrients required for yeasts). SC, 
+Saccharomyces cerevisiae ; KM, Kluyveromyces marxianus ; PM, Pichia membranaefaciens ; ZR, Zygosaccharomyces rouxii ; PK, Pichia kluyveri. The number mean the 
+experiment in the factorial design. The *, **, *** and **** mark a statistical difference between experiments in the same yeast. A. Gschaedler et al.                                                                                                                                                                                                                             International Journal of Food Microbiology 347 (2021) 109169
+6main factor to assure a complete fermentation. Hence, it was necessary 
+to add nutrients in order to accomplish total sugar consumption, high 
+ethanol production and generation of desired volatile compounds 
+(Amaya-Delgado et al., 2013 ; Mendoza et al., 2009 ). 
+Saccharomyces cerevisiae showed the highest specific growth rate 
+(μmax), indicating an easy adaptation to the apple juice and adequate 
+quantities and diversity of nutrients to achieve the fermentation. The 
+sugar consumption rate (rS) and ethanol production rate (rP) were low in 
+K. marxianus , and P. kluyveri , but as mentioned, these species required 
+long adaptation phases (Table 3). Some works reported the influence of 
+non-Saccharomyces yeasts during mixed fermentation with S. cerevisiae 
+(Dierings et al., 2013 ), and mentioned that ethanol toxicity and nutri-
+ents competition are the main situation for the low growth and 
+fermentation ability of non-Saccharomyces yeasts (Wei et al., 2020 ). 
+However, in the present work, fermentations were carried out by using 
+non-Saccharomyces yeast species as unique yeast (without S. cerevisiae ) 
+observing that non-Saccharomyces yeasts were not able to finish the 
+fermentation alone. That means, not only the ethanol and nutrients 
+competition decrease the ethanol production by non-Saccharomyces but 
+also probably more nutrients or different fermentation conditions are 
+needed to finish the fermentation. 
+3.3. Nutrients evaluation for lab-scale cider fermentation 
+For many non-Saccharomyces yeasts, isolated from different 
+fermentative processes, it has been stated that they do not show high 
+fermentation capacities and are not able to carry out fermentations at 
+industrial level, probably due to certain nutrient limitations. First, the 
+apple juice used for the fermentations was evaluated for its mineral 
+composition, containing 42.23 mg/L of magnesium and 0.28 mg/L of 
+zinc. Also, yeast assimilable nitrogen was quantified as 73.12 mg/L. 
+These results showed similar concentrations to other apple juices 
+mentioned in other studies (Tarko et al., 2020 ; Boudreau et al., 2017 ). 
+Nitrogen, magnesium and zinc, also vitamins and other essential 
+nutrients, were evaluated using a factorial design to determine their 
+effect on the fermentation capabilities of the yeasts. In Fig. 2, the final 
+ethanol concentrations achieved in each fermentation are shown. 
+S. cerevisiae produced almost the same amount of ethanol independently 
+of the nutrients added. K. marxianus , Z. rouxii and P. kluyveri , showed an 
+increase of ethanol production when nutrients were added, even at the 
+lowest concentrations tested. In the experiments M, where vitamins and 
+other nutrients reported as necessary for the yeasts growth (S˘anchez 
+et al., 2013 ; Tibayrenc et al., 2010 ) were added, no yeast did show a 
+higher ethanol production indicating that they were not essential. The 
+concentration of each nutrient (Zn, Mg and N) influences each yeast 
+species in a different way. K. marxianus increased the ethanol production 
+in all the experiments almost at the same level, without any statistical 
+difference. In Fig. 2, ethanol production was not increased at higher 
+concentrations of nitrogen in P. membranaefaciens (PM 2), observing 
+non-statistical difference compared to the control (PM C). To obtain the 
+maximum ethanol production it was necessary to add 1 g/L of nitrogen, 
+400 mg/L of magnesium and 20 mg/L of zinc (PM 7). P. kluyveri required 
+the middle concentration of each compound to increase the ethanol 
+concentration (N, 2 g/L; Mg, 250 mg/L and Zn, 15 mg/L; PK 9). Finally, 
+Z. rouxii showed different effects, but at higher levels of nutrients (ZR8) 
+and in the middle point produced the highest ethanol concentration 
+(ZR9) exhibited that the compounds addition was essential to guarantee 
+its fermentation performance. Yeasts are exposed during fermentation to 
+different stresses, such as osmotic stress, ethanol stress, and even 
+nutrient limitations, causing changes in physiological characteristics 
+and fermentation performance (Roca-Mesa et al., 2020 ; Walker and 
+Basso, 2019 ). Non-Saccharomyces yeasts have been considered during a 
+long time as spoilage yeasts, but in the last years that definition has been 
+reconsidered because most of them possess unique enzymes which 
+potentially give rise to desired sensorial characteristics in wine (Jolly 
+et al., 2006 ). Also, low ethanol production by non-Saccharomyces yeasts is considered to be related to its toxicity (Jolly et al., 2014 ). The results 
+obtained in this work show that the yeast species were the main factor 
+impacting on ethanol production, probably due to the difference be-
+tween their regulatory pathways for the assimilation of different nutri-
+ents. Fermentations performed without their addition implied that non- 
+Saccharomyces yeasts only partially assimilated sugars and produced low 
+ethanol levels. It is well known that adequate levels of a nitrogen source, 
+such as ammonium ions, in the fermentation musts enhance efficient 
+growth of yeast cells and desirable fermentation performance (Lei et al., 
+2012 ). The nitrogen source present in apple juice are amino acids, 
+however, their concentration is not enough for most yeasts (Blateyron 
+and Sablayrolles, 2001 ; Liu et al., 2016 ; Prior et al., 2019 ). 
+Zinc has been proven to be an essential ion for the activity of the 
+enzyme alcohol dehydrogenase (ADH) (Magonet et al., 1992 ), because it 
+participates in the conversion of acetaldehyde into ethanol during 
+fermentation, stimulates the activity of pyruvate decarboxylase in 
+S. cerevisiae and participates in the Zn/Mg superoxide dismutase activ-
+ity. Low zinc concentrations (D1 mg/L) during fermentation may cause 
+slow and incomplete fermentations (Jacobsen et al., 1982 ). But there is 
+no correlation between zinc concentration and cell growth, therefore, 
+zinc increases the specific fermentation rate of each cell (Bromberg 
+et al., 1997 ). 
+Magnesium is another ionic cofactor necessary for many enzymes 
+during the glycolysis and other important metabolic pathways (Brom -
+berg et al., 1997 ; Walker et al., 1996 ). Magnesium supplementation of 
+the apple juice increased the ethanol production in all non-Saccharo -
+myces yeasts fermentations. The experiment 9 was the center point 
+adding 250 mg/L of magnesium, which was enough to achieve almost 
+80 g/L of ethanol. 
+3.4. Volatile compounds production 
+One of the reasons for using non-Saccharomyces yeasts is that they 
+generally produce higher concentrations and/or diversity of volatile 
+compounds. Using a factorial design, the main volatile compounds were 
+evaluated at the end of the fermentation. The results obtained are shown 
+in Fig. 3 and are represented in a heat map where the white color 
+correspond to a low-level production (Min) and black to higher con-
+centrations (Max), both low and high level are mentioned in the Fig. 3 as 
+a column. Fifteen compounds, including different esters, higher alcohols 
+and aldehydes, were evaluated. With S. cerevisiae only nine volatile 
+compounds were produced in high concentrations, whereas isoamyl 
+acetate, 2-phenyl acetate and medium-chain esters were not detected. 
+P. membranaefaciens was the only yeast that produced all volatile com-
+pounds evaluated, but some of them in low concentrations. However, 
+the detection threshold of the esters is high, that means that low con-
+centrations may have a huge impact on the sensorial characteristics of a 
+beverage. The addition of Mg, N and Zn changed the volatile compound 
+profiles produced in all yeast species; this determines the need to know 
+the adequate concentrations of nutrients during fermentation for the 
+production of alcoholic beverages (Prior et al., 2019 ; Tarko et al., 2020 ). 
+Z. rouxii , produced the highest level of ethyl acetate, almost 1 g/L, and 
+P. kluyveri and K. marxianus produced 6 and 4 times more than 
+S. cerevisiae , showing the importance of the non-Saccharomyces yeasts 
+for the ethyl esters production in alcoholic beverages (Canonico et al., 
+2019 ). The control experiments (C, Fig. 3), without the addition of any 
+nutrient, showed the lowest volatile compound concentrations for 
+S. cerevisiae , P. membranaefaciens , Z. rouxii and P. kluyveri . On the con-
+trary, K. marxianus was the only yeast that produced more volatile 
+compound in this condition. These results allow the establishment of 
+conditions that favor or disfavor the growth and fermentation of certain 
+species and orient the production of certain volatile compounds that 
+would contribute to obtain differentiated products, with different 
+organoleptic profiles. 
+The nitrogen added to the apple juice did not increase the production 
+of higher alcohols, esters and aldehydes (Fig. 3, experiments 2, 4, 6 and A. Gschaedler et al.                                                                                                                                                                                                                             International Journal of Food Microbiology 347 (2021) 109169
+7
+Compound SC1 SC2 SC3 SC4 SC5 SC6 SC7 SC8 SC9 SCC SCM Min Max
+Acetaldehyde 15.21 38.29 mg/L
+Isobu/g415raldehyde 0.32 1.34 mg/L
+Ethylacetate 11.23 102.59 mg/L
+Ethanol 79.09 89.45 g/L
+1-propanol 13.77 32.97 mg/L
+Isobutanol 9.91 9.62 mg/L
+Isoamylacetate N.D. N.D. mg/L
+Butanol 3.08 3.32 mg/L
+Isoamylalcohol 106.31 150.88 mg/L
+Ethylhexanoate N.D. N.D. mg/L
+Ethyloctanoate N.D. N.D. mg/L
+Ethyldecanoate N.D. N.D. mg/L
+Furfurylalcohol 7.10 13.35 mg/L
+Ethyldodecanoate N.D.N.D. mg/L
+2-Phenyl-acetate N.D. N.D. mg/LCompound KM1 KM2 KM3 KM4 KM5 KM6 KM7 KM8 KM9 KMC KMM Min Max
+Acetaldehyde 14.26 50.79 mg/L
+Isobu/g415raldehyde N.D. 3.15 mg/L
+Ethylacetate 56.75 446.59 mg/L
+Ethanol 28.35 79.10 g/L
+1-propanol 13.21 30.31 mg/L
+Isobutanol 23.02 85.58 mg/L
+Isoamylacetate N.D. 1.09 mg/L
+Buthanol N.D. 7.55 mg/L
+Isoamylalcohol 56.25 190.85 mg/L
+Ethylhexanoate N.D. N.D. mg/L
+Ethyloctanoate N.D. 0.02 mg/L
+Ethyldecanoate N.D. N.D. mg/L
+Furfurylalcohol 7.93 26.73 mg/L
+Ethyldodecanoate 0.04 0.31 mg/L
+2-Phenyl-acetate N.D. 0.16 mg/L
+Compound PM1 PM2 PM3 PM4 PM5 PM6 PM7 PM8 PM9 PMC PMM Min Max
+Acetaldehyde 10.73 43.54 mg/L
+Isobu/g415raldehyde 0.59 1.21 mg/L
+Ethylacetate 25.15 141.32 mg/L
+Ethanol 55.92 78.07 g/L
+1-propanol 6.12 115.17 mg/L
+Isobutanol 10.81 20.51 mg/L
+Isoamylacetate N.D. 1.19 mg/L
+Butanol N.D. 1.25 mg/L
+Isoamylalcohol 34.34 91.37 mg/L
+Ethylhexanoate N.D. 0.89 mg/L
+Ethyloctanoate 0.07 1.22 mg/L
+Ethyldecanoate N.D. 4.49 mg/L
+Furfurylalcohol 4.51 16.10 mg/L
+Ethyldodecanoate N.D. 0.64 mg/L
+2-Phenyl-acetate N.D. 0.18 mg/LCompound ZR1 ZR2 ZR3 ZR4 ZR5 ZR6 ZR7 ZR8 ZR9 ZRC ZRM Min Max
+Acetaldehyde 24.32 177.69 mg/L
+Isobu/g415raldehyde N.D. 2.95 mg/L
+Ethylacetate 52.70 973.58 mg/L
+Ethanol 45.73 89.61 g/L
+1-propanol 15.15 321.04 mg/L
+Isobutanol 19.56 239.64 mg/L
+Isoamylacetate N.D. 0.36 mg/L
+Butanol 0.09 9.82 mg/L
+Isoamylalcohol 49.48 385.09 mg/L
+Ethylhexanoate N.D. N.D. mg/L
+Ethyloctanoate 0.04 0.21 mg/L
+Ethyldecanoate N.D. N.D. mg/L
+Furfurylalcohol 6.58 37.53 mg/L
+Ethyldodecanoate N.D. 0.05 mg/L
+2-Phenyl-acetate N.D. 0.06 mg/L
+Compound PK1 PK2 PK3 PK4 PK5 PK6 PK7 PK8 PK9 PKC PKM Min Max
+Acetaldehyde 9.49 198.91 mg/L
+Isobu/g415raldehyde 1.22 5.65 mg/L
+Ethyl acetate 376.56 683.25 mg/L
+Ethanol 48.32 89.15 g/L
+1-propanol 7.95 174.72 mg/L
+Isobutanol 12.25 88.89 mg/L
+Isoamylacetate N.D. 5.01 mg/L
+Buthanol N.D. 8.79 mg/L
+Isoamylalcohol 9.95 163.66 mg/L
+Ethyl hexanoate N.D. N.D. mg/L
+Ethyl octanoate N.D. 0.12 mg/L
+Ethyl decanoate N.D. N.D. mg/L
+Furfurylalcohol 4.43 48.25 mg/L
+Ethyldodecanoate 0.03 0.99 mg/L
+2-Phenyl-acetate N.D. 0.72 mg/L
+Fig. 3.Heat-map of the volatile compounds production for the yeasts isolated from cider process, the white color means the lowest concentration and black the highest concentration. The number are the experimental 
+design and the letter C mean as control experiment without addition of any nutrient, the letter C mean as positive control adding vitamins and other oligo nutrients necessary for a good yeast growth. A. Gschaedler et al.                                                                                                                                                                                                                             International Journal of Food Microbiology 347 (2021) 109169
+88), which shows that these yeasts did not require high nitrogen con-
+centrations. In experiment 1, with the lowest levels of nutrients added 
+(N, 1 g/L; Mg, 200 mg/L and Zn 10 mg/L), P. membranaefaciens (PM 1) 
+showed the highest production of volatile compounds such as iso-
+butyraldehyde, isobutanol, isoamyl acetate, butanol, ethyl hexanoate 
+and ethyl octanoate. Z. rouxii (ZR 1) produced also higher concentra -
+tions of isobutyraldehyde, isobutanol, isoamyl acetate, isoamyl alcohol 
+and furfuryl alcohol. It is well known that yeasts adapt to the conditions 
+of the culture medium collectively, increasing the production of volatile 
+compounds such as aromatic alcohols and esters, this process is known 
+as quorum-sensing (Zupan et al., 2013 ). However, the mechanisms of 
+action and how communication occurs between the different organisms 
+present are still not well understood. Probably low nutrients concen -
+trations promote the volatile compound production as a quorum-sensing 
+signal and guarantees the conservation of the species (Brex˘o and De 
+Souza Sant ’Ana, 2018 ). However, in the experiment 1 with low nutrients 
+concentrations, ethanol was not produced at a high level. P. kluyveri 
+produced high level of volatile compounds in PK 9, which has the middle 
+point of the nutrients (N, 2 g/L; Mg, 250 mg/L and Zn, 15 mg/L) and 
+when compared to the control experiment (Fig. 3, Experiment C), the 
+lowest concentration was obtained. For some yeasts used in this work, 
+an addition of adequate concentrations of nutrients was necessary, in 
+order to assure their fermentation performance and a balance between 
+nitrogen, zinc and magnesium was fundamental for each yeast species 
+tested. On the other hand, in experiments M (where a mixture of vita-
+mins, trace elements and glutamic acid was added) no improvement in 
+fermentation was observed. These results show that non-Saccharomyces 
+yeast species do not need this type of compounds to improve their 
+fermentation capabilities. 
+The nutrients important for volatile compounds production have 
+been investigated before, however, most of the works have been con-
+ducted using S. cerevisiae as a yeast model, and the results suggest clear 
+differences between yeast species due to their nutrient requirements 
+(Walker and Walker, 2018 ). It is known that nitrogen limitation, 
+strongly promotes the aromatic alcohols production in Torulaspora del-
+brueckii , Metschnikowia pulcherrima and Starmerella bacillaris , while low 
+glucose concentrations have the opposite effect (Gonz ˘alez et al., 2018 ). 
+In this work, all non-Saccharomyces increased higher alcohols produc -
+tion after nitrogen addition, except K. marxianus , which produced them 
+in higher concentration when no nutrients were added. 
+Magnesium and zinc are two important nutrients for yeast fermen -
+tation in general; however, they have not been studied in the case of 
+cider fermentations with non-Saccharomyces yeasts. Guti˘errez et al. 
+(2018) , produced cider, wine and beer using ninety-nine non-Saccha -
+romyces yeast strains, and glucose worth (mix of nutrients), grapes juice 
+and apple juice were used on the fermentations, but without the addition 
+of any nutritional compound. However, the results showed few differ -
+ences in volatile compounds production between glucose worth and 
+juices. The most important factor was the yeast strain, even if nitrogen is 
+added as amino acids at 1.5 g/L, magnesium 100 mg/L and zinc 0.4 mg/ 
+L using glucose worth, grapes juice and apple juice. Similar results were 
+obtained in our work, because the yeast species isolated from the cider 
+production process was the most important factor for volatile com-
+pounds production. The highest volatile concentration was not obtained 
+at high magnesium concentrations, neither at high zinc concentration; 
+most of the non-Saccharomyces yeasts employed in this study produced 
+more volatile compounds at mid-level concentration (center point), but 
+it is still necessary to evaluate the sensory profile. 
+4.Conclusion 
+In conclusion, the addition of nitrogen, magnesium and zinc depends 
+on the yeast species and has a direct impact on the fermentation per-
+formance. This work highlighted the importance of knowing and con-
+trolling the nutrients concentration to guarantee not only the complete 
+development of the fermentation and avoid problems such as sluggish or stuck fermentations, but also the presence of volatile compounds in the 
+desired concentrations. Likewise, it was shown that it is possible to use 
+non-Saccharomyces yeasts as unique yeast in fermentation, achieving the 
+desired levels of ethanol as long as adequate concentrations of nitrogen, 
+magnesium and zinc are added. Finally, the nutritional needs of non- 
+Saccharomyces yeasts are greater than S. cerevisiae , so it is necessary to 
+know the basic requirements of each yeast which will be employed in 
+cider production. Besides, it is necessary to scale-up the process to 
+produce cider at industrial level and to conduct sensory evaluations in 
+order to select an autochthonous non-Saccharomyces yeast for the pro-
+duction of a high-quality cider. 
+Funding 
+None. 
+Ethics approval 
+The authors declare having carried out the work under professional 
+ethics. 
+Consent to participate 
+The authors are under consent to participate with this manuscript. 
+Consent for publication 
+The authors agree to submit the work for publication. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+References 
+Alcazar-Valle, M., Gschaedler, A., Gutierrez-Pulido, H., Arana-Sanchez, A., Arellano- 
+Plaza, M., 2019. Fermentative capabilities of native yeast strains grown on juices 
+from different Agave species used for tequila and mezcal production. Braz. J. 
+Microbiol. 50, 379–388. https://doi.org/10.1007/s42770-019-00049-7 . 
+Amaya-Delgado, L., Herrera-L ˘opez, E.J., Arrizon, J., Arellano-Plaza, M., Gschaedler, A., 
+2013. Performance evaluation of Pichia kluyveri , Kluyveromyces marxianus and 
+Saccharomyces cerevisiae in industrial tequila fermentation. World J. Microbiol. 
+Biotechnol. 29, 875–881. https://doi.org/10.1007/s11274-012-1242-8 . 
+Beech, F.W., Davenport, R.R., 1970. The role of yeasts in cider-making. In: Rose, A.H., 
+Harrison, J.S. (Eds.), The Yeasts, Yeast Technology, vol. 3. Academic Press, London, 
+pp. 73–146. 
+Blateyron, L., Sablayrolles, J.M., 2001. Stuck and slow fermentations in enology: 
+statistical study of causes and effectiveness of combined additions of oxygen and 
+diammonium phosphate. J. Biosci. Bioeng. 91, 184–189. https://doi.org/10.1016/ 
+S1389-1723(01)80063-3 . 
+Boudreau IV, T.F., Peck, G.M., O’Keefe, S.F., Stewart, A.C., 2017. The interactive effect of 
+fungicide residues and yeast assimilable nitrogen on fermentation kinetics and 
+hydrogen sulfide production during cider fermentation. J. Sci. Food Agric. 97, 
+693–704. https://doi.org/10.1002/jsfa.8096 . 
+Braga, C.M., Ferreira Zielinski, A.A., da Silva, K.M., de Souza, F.K.F., Pietrowski, G.D.A. 
+M., Couto, M., Nogueira, A., 2013. Classification of juices and fermented beverages 
+made from unripe, ripe and senescent apples based on the aromatic profile using 
+chemometrics. Food Chem. 141, 967–974. https://doi.org/10.1016/j. 
+foodchem.2013.04.007 . 
+Brex˘o, R.P., De Souza Sant ’Ana, A., 2018. Microbial interactions during sugar cane must 
+fermentation for bioethanol production: does quorum sensing play a role? Crit. Rev. 
+Biotechnol. 38, 231–244. https://doi.org/10.1080/07388551.2017.1332570 . 
+Bromberg, S.K., Bower, P.A., Duncombe, G.R., Fehring, J., Gerber, L., Lau, V.K., Tata, M., 
+1997. Requirements for zinc, manganese, calcium, and magnesium in wort. J. Am. 
+Soc. Brew. Chem. 55, 123–128. https://doi.org/10.1094/ASBCJ-55-0123 . 
+Cabranes, C., Moreno, J., Mangas, J.J., 1990. Dynamics of yeast populations during cider 
+fermentation in the Asturian region of Spain. Appl. Environ. Microbiol. 56, 
+3881 –3884. https://aem.asm.org/content/aem/56/12/3881.full.pdf . 
+Cabranes, C., Mangas, J.J., Blanco, D., 1997. Selection and biochemical characterisation 
+of Saccharomyces cerevisiae and Kloeckera apiculata strains isolated from Spanish 
+cider. J. Inst. Brew. 103, 165–169. https://doi.org/10.1002/j.2050-0416.1997. 
+tb00945.x . A. Gschaedler et al.                                                                                                                                                                                                                             International Journal of Food Microbiology 347 (2021) 109169
+9Canonico, L., Solomon, M., Comitini, F., Ciani, M., Varela, C., 2019. Volatile profile of 
+reduced alcohol wines fermented with selected non-Saccharomyces yeasts under 
+different aeration conditions. Food Microbiol. 84, 103247. https://doi.org/10.1016/ 
+j.fm.2019.103247 . 
+Ciani, M., Comitini, F., Mannazzu, I., Domizio, P., 2010. Controlled mixed culture 
+fermentation: a new perspective on the use of non-Saccharomyces yeasts in 
+winemaking. FEMS Yeast Res. 10, 123–133. https://doi.org/10.1111/j.1567- 
+1364.2009.00579.x . 
+Coton, E., Coton, M., Levert, D., Casaregola, S., Sohier, D., 2006. Yeast ecology in French 
+cider and black olive natural fermentations. Int. J. Food Microbiol. 108, 130–135. 
+https://doi.org/10.1016/j.ijfoodmicro.2005.10.016 . 
+D˘avila-Gauna, J., 2007. Sistema de producci ˘on y comercializaci ˘on de manzano. Regi˘on: 
+Sierra de Santiago, Nuevo Le˘on. Sagarpa. Corporaci ˘on para el desarrollo 
+agropecuario del estado Nuevo Le˘on, Monterrey, Nuevo Le˘on, 47 pp.  
+Del Campo, G., Santos, J.I., Berregi, I., Velasco, S., Ibarburu, I., Due~nas, M.T., 
+Irastorza, A., 2003. Ciders produced by two types of presses and fermented in 
+stainless steel and wooden vats. J. Inst. Brew. 109, 342–348. https://doi.org/ 
+10.1002/j.2050-0416.2003.tb00608.x . 
+Dierings, L.R., Braga, C.M., Silva, K.M.D., Wosiacki, G., Nogueira, A., 2013. Population 
+dynamics of mixed cultures of yeast and lactic acid bacteria in cider conditions. Braz. 
+Arch. Biol. Technol. 56, 837–847. https://doi.org/10.1590/S1516- 
+89132013000500016 . 
+Dixon, J., Hewett, E.W., 2001. Temperature of hypoxic treatment alters volatile 
+composition of juice from ‘Fuji ’ and ‘Royal Gala ’ apples. Postharv. Biol. Tec. 22, 
+71–83. https://doi.org/10.1016/S0925-5214(00)00159-9 . 
+Due~nas, M., Irastorza, A., Fernandez, K., Bilbao, A., Huerta, A., 1994. Microbial 
+populations and malolactic fermentation of apple cider using traditional and 
+modified methods. J. Food Sci. 59, 1060 –1064. https://doi.org/10.1111/j.1365- 
+2621.1994.tb08190.x . 
+Eleut ˘erio dos Santos, C.M., Pietrowski, G.D.A.M., Braga, C.M., Rossi, M.J., Ninow, J., 
+Machado dos Santos, T.P., Nogueira, A., 2015. Apple aminoacid profile and yeast 
+strains in the formation of fusel alcohols and esters in cider production. J. Food Sci. 
+80, C1170 –C1177. https://doi.org/10.1111/1750-3841.12879 . 
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F., Querol, A., 1999. Identification of yeasts by 
+RFLP analysis of the 5.85 rRNA gene and the two ribosomal internal transcribed 
+spacers. Int. J. Syst. Bact. 49, 329–337. https://doi.org/10.1099/00207713-49-1- 
+329. 
+Fern˘andez, M.M.R., Parra, Q.R.A., P˘erez, G.S., Vera, M.J.M., Zacatenco, G.G., 2010. 
+Variedades de manzana recomendadas para las serranías de Hidalgo y Quer ˘etaro. 
+INIFAP, 36 pp.  
+Fu, X., Li, P., Zhang, L., Li, S., 2019. Understanding the stress responses of Kluyveromyces 
+marxianus after an arrest during high-temperature ethanol fermentation based on 
+integration of RNA-Seq and metabolite data. Appl. Microbiol. Biotechnol. 103, 
+2715 –2729. https://doi.org/10.1007/s00253-019-09637-x . 
+García, M., Esteve-Zarzoso, B., Arroyo, T., 2016. Non-Saccharomyces yeasts: 
+biotechnological role for wine production. Grape and wine biotechnology. 
+IntechOpen. 11, 249–271. https://doi.org/10.5772/64957 . 
+Gonz ˘alez, B., V˘azquez, J., Morcillo-Parra, M.˘A., Mas, A., Torija, M.J., Beltran, G., 2018. 
+The production of aromatic alcohols in non-Saccharomyces wine yeast is modulated 
+by nutrient availability. Food Microbiol. 74, 64–74. https://doi.org/10.1016/j. 
+fm.2018.03.003 . 
+Gschaedler, A., 2017. Contribution of non-conventional yeasts in alcoholic beverages. 
+Curr. Opin. Food Sci. 13, 73–77. https://doi.org/10.1016/j.cofs.2017.02.004 . 
+Guti˘errez, A., Boekhout, T., Gojkovic, Z., Katz, M., 2018. Evaluation of non- 
+Saccharomyces yeasts in the fermentation of wine, beer and cider for the 
+development of new beverages. J. Inst. Brew. 124, 389–402. https://doi.org/ 
+10.1002/jib.512 . 
+Jacobsen, T., Hagk, T., Lie, S., 1982. A fermentation assay for wort element availability. 
+J. Inst. Brew. 88, 387–389. 
+Jolly, N.P., Augustyn, O.P.H., Pretorius, I.S., 2006. The role and use of non- 
+Saccharomyces yeasts in wine production. S. Afr. J. Enol. Vitic. 27, 15–39. https:// 
+doi.org/10.21548/27-1-1475 . 
+Jolly, N.P., Varela, C., Pretorius, I.S., 2014. Not your ordinary yeast: non-Saccharomyces 
+yeasts in wine production uncovered. FEMS Yeast Res. 14, 215–237. https://doi.org/ 
+10.1111/1567-1364.12111 . 
+Kurtzman, C.P., Robnett, C.J., 1998. Identification and phylogeny of ascomycetous 
+yeasts from analysis of nuclear large subunit (26S) ribosomal DNA partial sequences. 
+Antonie van Leeuwenhoek 73 (4), 331–371. 
+Lei, H., Zhao, H., Yu, Z., Zhao, M., 2012. Effects of wort gravity and nitrogen level on 
+fermentation performance of brewer ’s yeast and the formation of flavor volatiles. 
+Appl. Biochem. Biotechnol. 166, 1562 –1574. https://doi.org/10.1007/s12010-012- 
+9560-8 . 
+Li, P., Fu, X., Li, S., Zhang, L., 2018. Engineering TATA-binding protein Spt15 to improve 
+ethanol tolerance and production in Kluyveromyces marxianus . Biotechnol. Biofuels. 
+11, 207. https://doi.org/10.1186/s13068-018-1206-9 . 
+Liu, S.Q., Aung, M.T., Lee, P.R., Yu, B., 2016. Yeast and volatile evolution in cider co- 
+fermentation with Saccharomyces cerevisiae and Williopsis saturnus . Ann. Microbiol. 
+66, 307–315. https://doi.org/10.1007/s13213-015-1110-5 . 
+Lu, Y., Voon, M.K.W., Chua, J.Y., Huang, D., Lee, P.R., Liu, S.Q., 2017. The effects of co- 
+and sequential inoculation of Torulaspora delbrueckii and Pichia kluyveri on chemical 
+compositions of durian wine. Appl. Microbiol. Biotechnol. 101, 7853 –7863. https:// 
+doi.org/10.1007/s00253-017-8527-7 . 
+Magonet, E., Hayen, P., Delforge, D., Delaive, E., Remacle, J., 1992. Importance of the 
+structural zinc atom for the stability of yeast alcohol dehydrogenase. Biochem. J. 
+287, 361–365. https://doi.org/10.1042/bj2870361 . Mateo, J., Maicas, S., 2016. Application of non-Saccharomyces yeasts to wine-making 
+process. Fermentation. 2, 14. https://doi.org/10.3390/fermentation2030014 . 
+Mendoza, L.M., de Nadra, M.C.M., Bru, E., Farías, M.E., 2009. Influence of wine-related 
+physicochemical factors on the growth and metabolism of non-Saccharomyces and 
+Saccharomyces yeasts in mixed culture. J. Ind. Microbiol. Biotechnol. 36, 229–237. 
+https://doi.org/10.1007/s10295-008-0489-4 . 
+Montanari, L., Mayer, H., Marconi, O., Fantozzi, P., 2009. Minerals in beer. In: Beer in 
+Health and Disease Prevention. Academic Press, pp. 359–365. https://doi.org/ 
+10.1016/B978-0-12-373891-2.00034-1 . 
+Morrissey, W.F., Davenport, B., Querol, A., Dobson, A.D.W., 2004. The role of indigenous 
+yeasts in traditional Irish cider fermentations. J. Appl. Microbiol. 97, 647–655. 
+https://doi.org/10.1111/j.1365-2672.2004.02354.x . 
+Palukurty, M.A., Telgana, N.K., Bora, H.S.R., Mulampaka, S.N., 2008. Screening and 
+optimization of metal ions to enhance ethanol production using statistical 
+experimental designs. Afr. J. Microbiol. Res. 2, 87–94. https://doi.org/10.5897/ 
+AJMR.9000638 . 
+Pando-Bedri ~nana, R., Querol-Simon, A., Su˘arez-Valles, B., 2010. Genetic and phenotypic 
+diversity of autochthonous cider yeasts in a cellar from Asturias. Food Microbiol. 27, 
+503–550. https://doi.org/10.1016/j.fm.2009.11.018 . 
+Prior, K.J., Bauer, F.F., Divol, B., 2019. The utilization of nitrogenous compounds by 
+commercial non-Saccharomyces yeasts associated with wine. Food Microbiol. 79, 
+75–84. https://doi.org/10.1016/j.fm.2018.12.002 . 
+Roca-Mesa, H., Sendra, S., Mas, A., Beltran, G., Torija, M.J., 2020. Nitrogen preferences 
+during alcoholic fermentation of different non-Saccharomyces yeasts of oenological 
+interest. Microorganisms. 8, 157. https://doi.org/10.3390/ 
+microorganisms8020157 . 
+Saerens S., Swiegers J. H., 2015. Production of cider with Pichia kluyveri yeast. Patent 
+WO2015117978A1. 
+Salih, A.G., Drilleau, J.F., Cavin, F.F., Divies, C., Bourgeois, C.M., 1988. A survey of 
+microbiological aspects of cider making. J. Inst. Brew. 94, 5–8. https://doi.org/ 
+10.1002/j.2050-0416.1988.tb04545.x . 
+S˘anchez, A., Hernandez, J., Gschaedler, A., Femat, R., Cervantes, J., Amaya, L., 
+Arrizon, J., Arellano, M., Herrera, E., 2013. An˘alisis de la sensibilidad param ˘etrica 
+en Xanthophyllomyces dendrorhous en cultivo por lote y lote alimentado. In: Congreso 
+Nacional de Control Autom ˘atico 2013, Ensenada, Baja California, M˘exico, Octubre 
+16–18, 4, pp. 189–194. http://amca.mx/memorias/amca2013/papers/0045.pdf . 
+Su˘arez Valles, B., Bedri ~nana, R.P., Tascon, N.F., Garcia, A.G., Madrera, R.R., 2005. 
+Analytical differentiation of cider inoculated with yeast (Saccharomyces cerevisiae ) 
+isolated from Asturian (Spain) apple juice. LWT-Food Sci. Technol. 38, 455–461. 
+https://doi.org/10.1016/j.lwt.2004.07.008 . 
+Su˘arez Valles, B., Pando Bedri ~nana, R., Fern˘andez, Tasc˘on N., Querol Sim˘on, A., 
+Rodríguez Madrera, R., 2007. Yeast species associated with the spontaneous 
+fermentation of cider. Food Microbiol. 24, 25–31. https://doi.org/10.1016/j. 
+fm.2006.04.001 . 
+Tarko, T., Januszek, M., Pater, A., Sroka, P., Duda-Chodak, A., 2020. The quality of ciders 
+depends on the must supplementatin with mineral salts. Molecules. 25, 3640. 
+https://doi.org/10.3390/molecules25163640 . 
+Thacker, J.B., Schug, K.A., 2020. Quantitative determination of fructose, glucose, and 
+sucrose in hard ciders and apple juice by LC–MS/MS. Sep. Sci. Plus. 3, 286–293. 
+https://doi.org/10.1002/sscp.202000033 . 
+Tibayrenc, P., Preziosi-Belloy, L., Roger, J.M., Ghommidh, C., 2010. Assessing yeast 
+viability from cell-size measurements? J. Biotechnol. 149, 74–80. https://doi.org/ 
+10.1016/j.jbiotec.2010.06.019 . 
+Varela, C., 2016. The impact of non-Saccharomyces yeasts in the production of alcoholic 
+beverages. Appl. Microbiol. Biotechnol. 100, 9861 –9874. https://doi.org/10.1007/ 
+s00253-016-7941-6 . 
+Walker, G.M., 2004. Metals in yeast fermentation processes. Adv. App. Microbiol. 54, 
+197–230. https://doi.org/10.1016/bs.aambs.2018.05.003 . 
+Walker, G.M., Basso, T.O., 2019. Mitigating stress in industrial yeasts. Fungal Biol. 124, 
+387–397. https://doi.org/10.1016/j.funbio.2019.10.010 . 
+Walker, G.M., Walker, R.S., 2018. Enhancing yeast alcoholic fermentations. In: Gadd, G., 
+Sariaslani, S. (Eds.), Advances in Applied Microbiology, Vol. 105. Elsevier, 
+Amsterdam, pp. 87–129. https://doi.org/10.1016/bs.aambs.2018.05.003 . 
+Walker, G.M., Birch, R.M., Chandrasena, G., Maynard, A.I., 1996. Magnesium, calcium, 
+and fermentative metabolism in industrial yeasts. J. Am. Soc. Brew. Chem. 54, 
+13–18. https://doi.org/10.1094/ASBCJ-54-0013 . 
+Wang, H., Hu, Z., Long, F., Guo, C., Yuan, Y., Yue, T., 2016. Early detection of 
+Zygosaccharomyces rouxii —spawned spoilage in apple juice by electronic nose 
+combined with chemometrics. Int. J. Food Microbiol. 217, 68–78. https://doi.org/ 
+10.1016/j.ijfoodmicro.2015.10.010 . 
+Wei, J., Zhang, Y., Yuan, Y., Dai, L., Yue, T., 2019. Characteristic fruit wine production 
+via reciprocal selection of juice and non-Saccharomyces species. Food Microbiol. 79, 
+66–74. https://doi.org/10.1016/j.fm.2018.11.008 . 
+Wei, J., Zhang, Y., Wang, Y., Ju, H., Niu, C., Song, Z., Yuan, Y., Yue, T., 2020. Assessment 
+of chemical composition and sensorial properties of ciders fermented with different 
+non-Saccharomyces yeasts in pure and mixed fermentations. Int. J. Food Microbiol. 
+318, 108471. https://doi.org/10.1016/j.ijfoodmicro.2019.108471 . 
+Zhao, X.Q., Bai, F.W., 2012. Zinc and yeast stress tolerance: micronutrient plays a big 
+role. J. Biotechnol. 158, 176–183. https://doi.org/10.1016/j.jbiotec.2011.06.038 . 
+Zupan, J., Avbelj, M., Butinar, B., Kosel, J., ¯Sergan, M., Raspor, P., 2013. Monitoring of 
+quorum-sensing molecules during minifermentation studies in wine yeast. J. Agric. 
+Food Chem. 61, 2496 –2505. https://doi.org/10.1021/jf3051363 . A. Gschaedler et al.                                                                                                                                                                                                                             

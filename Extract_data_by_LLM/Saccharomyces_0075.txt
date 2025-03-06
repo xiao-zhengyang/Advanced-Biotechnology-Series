@@ -1,0 +1,789 @@
+Continuous co-production of ethanol and xylitol from rice straw
+hydrolysate in a membrane bioreactor
+Omid Zahed1,2&Gholamreza Salehi Jouzani1&Saeed Abbasalizadeh1&
+Faramarz Khodaiyan2&Meisam Tabatabaei1,3
+Received: 5 February 2015 /Accepted: 18 August 2015
+#Institute of Microbiology, Academy of Sciences of the Czech Republic, v.v.i. 2015
+Abstract The present study was set to develop a robust and
+economic biorefinery process for continuous co-production of
+ethanol and xylitol from rice straw in a membrane bioreactor.
+Acid pretreatment, enzymatic hydrolysis, detoxification, yeast
+strains selection, single and co-culture batch fermentation, and
+finally continuous co-fermentation were optimized. The com-
+bination of diluted acid pretreatment (3.5 %) and enzymaticconversion (1:10 enzyme (63 floating-point unit (FPU)/mL)/
+biomass ratio) resulted in the maximum sugar yield (81 %
+conversion). By concentrating the hydrolysates, sugars levelincreased by threefold while that of furfural reduced by 50 %
+(0.56 to 0.28 g/L). Combined application of active carbon and
+resin led to complete removal of furfural, hydroxyl methylfurfural, and acetic acid. The strains Saccharomyces
+cerevisiae NCIM 3090 with 66.4 g/L ethanol production and
+Candida tropicalis NCIM 3119 with 9.9 g/L xylitol produc-
+tion were selected. The maximum concentrations of ethanol
+and xylitol in the single cultures were recorded at 31.5 g/L
+(0.42 g/g yield) and 26.5 g/L (0.58 g/g yield), respectively. Inthe batch co-culture system, the ethanol and xylitol produc-
+tions were 33.4 g/L (0.44 g/g yield) and 25.1 g/L (0.55 g/g
+yield), respectively. The maximum ethanol and xylitol volu-metric productivity values in the batch co-culture system were65 and 58 % after 25 and 60 h, but were improved in thecontinuous co-culture mode and reached 80 % (55 g/L) and68 % (31 g/L) at the dilution rate of 0.03 L per hour, respec-
+tively. Hence, the continuous co-production strategy devel-
+oped in this study could be recommended for producing
+value-added products from this hugely generated lignocellu-
+losic waste.
+Introduction
+Rice straw is known as one of the major and also abundantlignocellulosic wastes with annual production of about 731
+million tons distributed in Africa, Asia, Europe, and
+America (Balat 2011; Cheng and Timilsina 2011). The annual
+production of rice straw in Iran alone is about 6 million tons
+per year out of which more than 50 % remains unprocessed
+and is subjected to open burning in rice fields. During the lastdecades, the biorefinery of such lignocelluloses materials for
+production of high-value products and bioenergy has gained a
+great deal of attention. More specifically, lignocellulosic bio-mass could be converted into energy, biochemicals, and
+bioproducts with higher economic values such as bioethanol,
+methanol, hydrogen, xylitol, organic acids, organic solvents,yeasts, amino acids, animal feed, etc (Ma et al. 2009 ;R i n a l d i
+and Schüth 2009 ; Binod et al. 2010; Cherubini 2010;
+Cherubini and Ulgiati 2010; Edama et al. 2014; Pothiraj
+et al. 2015 ; Salehi Jouzani and Taherzadeh 2015 ). However,
+a robust and efficient bioprocess development is requiredsince these heterogeneous materials show very high resistance
+to chemical and biological hydrolysis (Kumar et al. 2009 ;
+Galbe and Zacchi 2012 ).
+Among various products, production of bioethanol and xy-
+litol from lignocellulosic biomass has comparatively attracted
+more attention (Horiuchi et al. 2010 ; Franceschin et al. 2011;
+*Gholamreza Salehi Jouzani
+gsalehi@abrii.ac.ir
+1Microbial Biotechnology and Biosafety Department, AgriculturalBiotechnology Research Institute of Iran (ABRII), SPII Campus,Mahdasht Road, Karaj P.O. Box: 31535-1897, Iran
+2Department of Food Science, Engineering and Technology, Facultyof Agricultural Engineering and Technology, University of Tehran,Karaj, Iran
+3Biofuel Research Team (BRTeam), Karaj, IranFolia Microbiol
+DOI 10.1007/s12223-015-0420-0
+Ali et al. 2012 ). Bioethanol is known as the most important
+liquid biofuel blended with gasoline and is also used as a
+valuable raw material for production of other valuablechemicals (McMillan 1997 ; Kim and Dale 2004 ; Haghighi
+Mood et al. 2013a ,b). Xylitol is a natural five-carbon sugar
+alcohol which has sucrose-like sweetness and is used as low-calorie sweetener in food industry for production of different
+food products such as gum, chocolate, and baking products. In
+addition, due to its low absorption in digestive tracts, xylitolhas a great market in the pharmaceutical industry in particular
+for diabetic patients (Emodi 1978 ; Granström et al. 2007 ;d e
+Jong et al. 2012 ). The price of xylitol (3.4 –3.9 USD per kg) in
+market is much higher than that of ethanol ( ∼1U S Dp e rk g )
+(Zha et al. 2013 ).
+One of the most important obstacles of bioethanol produc-
+tion from lignocellulosic materials is high cost and low effi-ciency of the process. This is caused by the complexity and
+high cost of pretreatment, hydrolysis, fermentation, and dehy-dration process. Lignocellulose material such as rice straw
+contain three kinds of polymers namely cellulose, hemicellu-
+loses, and lignin which are made of pentose sugars like xyloseand arabinose and hexose sugars like glucose, mannose, and
+galactose (Haghighi Mood et al. 2013a ,b). Hence, two groups
+of C6 and C5 simple sugars are produced during the hydroly-sis process of lignocellulosic materials. Most microorganisms
+are only capable of C6 sugars fermentation, and in spite of thehigh concentration of C5 sugars (such as xylose) in the hydro-
+lysates, a small numbers of microorganisms are able to fer-
+ment these sugars (Hendriks and Zeeman 2009; Morales-
+Rodriguez et al. 2011; Heredia-Olea et al. 2015). Pichia ,
+Debaryomyces ,a n dCandida are microorganisms capable of
+converting xylose to xylitol, and other microorganisms likeSaccharomyces can efficiently produce ethanol from glucose
+(da Cunha-Pereira et al. 2011; Huang et al. 2011;M a r t í n e z
+et al. 2012 ). Recently, biorefinery technologies have been tak-
+en into account as one of the hopeful strategies to reduce the
+cost of process via production of different valuable by-
+products from lignocellulosic biomass beside bioethanol.Co-culture of different microorganisms with capabilities of
+C6 and C5 fermentation and uniform growth is among such
+technologies (e.g., Chen 2011;S u r i y a c h a ie ta l .2013 ; Wang
+et al. 2014 ). Combined production of ethanol and xylitol has
+been regarded as a potential and promising approach in orderto improve the economic viability of biomass conversion(Huang et al. 2011; Prakash et al. 2011; Zha et al. 2013 ). In
+addition, membrane bioreactors (MBRs), using cross-flowmicro-filters or ultra-filter hollow fiber modules with cellrecycling, have been recently used for continuously removal
+of fermentation products (Rado čaj and Diosady 2014).
+Development of continuous co-culture systems, i.e., continu-
+ous substrate feeding and continuous ethanol and xylitol re-
+moval, in order to reduce products ’inhib
+itory effect could
+improve the ethanol and xylitol volumetric productivity.MBRs could increase cell concentrations in the bioreactorextensively, while also reduce product inhibition during the
+biological process. Subsequently, these bioreactors increaseproduct concentration and productivity and simplify the sep-
+aration of product and/or cells. Various MBRs have been stud-
+ied over the last years, where the membrane is either sub-merged inside the liquid to be filtered or placed in an external
+loop outside the bioreactor (Ylitervo et al. 2013 ). Recent stud-
+ies have proven the great potential of MBRs for improving the
+robustness of the lingo-ethanol production (Dereli et al. 2014 ;
+Rado čaj and Diosady 2014 ; Ylitervo et al. 2013 ,2014 ).
+Therefore, the aim of the present study was to develop a robustbioprocess for the first time for continuous co-production of
+ethanol and xylitol from rice straw hydrolysate in an MBR
+sustaining all the abovementioned attributes.
+Materials and methods
+Materials
+Rice straw was obtained from rice farms located in the north-
+ern regions of Iran (Rasht). The rice straw composition was
+determined according to the method previously described byLiu et al. ( 2009 ). The chemical composition of the rice straw
+used in this study included 34.5 % hemicelluloses, 46 % cel-lulose, 16.2 % lignin, and 3.3 % ash. Rice straw commonlycontains about 40 % glucan, 15.0 % xylan, 1 % galactan, and
+3 % arabinan, ( w/w) (Sharma et al. 2015 ; Sluiter et al. 2008 ).
+Cellulase enzyme (C2730), glucose, xylose, xylitol, furfural,
+5-hydroxyl methyl furfural (HMF), activated carbon, and an-
+ionic exchange resin were purchased from Sigma-Aldrich
+(Poole, Dorset, UK).
+Rice straw cleaning and drying
+Rice straw was cut into pieces 1 –2 cm in length and thorough-
+ly washed with tap water until the effluent became clear and
+colorless. Then, biomass was dried at 55 °C for 24 h in an
+oven. The temperature treatment (55 °C for 24 h) was selected
+due to its high drying efficiency and in order to prevent mi-crobial growth after drying (Colom et al. 2003 ; Sewalt et al.
+1997 ; Yin et al. 2001 ; Iwamoto et al. 2005 ). The moisture
+content of dried straw was about 12 –14 % w/w,e n s u r i n gt h e
+prevention of any microbial contaminations. Finally, the rice
+straw was ground to particles of 5 to 7 mm and kept at room
+temperature (Fig. 1).
+Preparation of rice straw hemicelluloses hydrolysate
+Pretreatment of rice straw and preparation of rice straw hemi-
+celluloses hydrolysate were conducted by using different di-
+lute concentrations of sulfuric acid (2, 3.5, and 5 %) at 100 °CFolia Microbiolfor 30 min to hydrolyze hemicellulose and to remove lignin
+(Fig. 1). After hydrolysis, the solid residues were separated by
+centrifugation at 8500 rpm for 15 min. The solid phaseremained after acidic hydrolysis was washed several timeswith fresh water and was dried at 60 °C for 24 h to reach a
+humidity level of approximately 5 %. After drying, it was
+ground to particles of 250 –425μm( 3 5 –65 mesh) to increase
+enzymatic hydrolysis efficacy. The liquid phase was concen-
+trated threefold by evaporation under vacuum at 70 °C to
+achieve 45 g/L xylose concentrations. Each treatment wasrepeated three times.
+Detoxification of hemicelluloses hydrolysate
+To detoxify the hemicellulose hydrolysate, the pH of the con-
+centrated hydrolysate was increased to 7 using CaO followed
+by filtration to remove solid maters, and the pH of the solution
+was then re-adjusted to 5.5 using sulfuric acid. The obtained
+solution was kept at 4 °C for 24 h and was then centrifuged to
+remove precipitates. Subsequently, the concentrated hydroly-sate was incubated with 3 % activated carbon for 60 min in a
+1000-mL container (30 °C and 100 rpm). Then, the liquid
+phase was separated using filtration and analyzed for totalsugars. In addition, to complete the removal process of inhib-
+itors like acetic acid, ion exchange resins were used (Fig. 1).
+To optimize the efficiency of the resins for detoxification and
+inhibitors reduction, a cylinder column (inner diameter of
+5 cm and length of 60 cm) was filled with the resins, the
+filtrate obtained from the activated carbon adsorption stepwas passed through the column using a vacuum pump at dif-
+ferent rates (5, 10, 15, and 20mL/min), and then the final
+concentration of acetic acid was measured by HPLC. Theresults showed that the best rate was 10 mL/min, so this rate
+was used in the experiments (data not shown). Finally, the
+detoxified hydrolysate was separated using filtration, andanalyzed for total sugars and their loss during inhibitor remov-al process.
+Enzymatic hydrolysis of cellulosic residueEnzymatic hydrolysis of the rice straw cellulosic residue was
+performed using a commercial cellulase enzyme (C2730,Sigma, St. Louis, MO, USA). The solid phase remained after
+acid hydrolysis was hydrolyzed using a cellulase enzyme so-
+lution in citrate buffer (pH=5) with an activity of 63 floating-point unit (FPU)/mL in 1:10 enzyme/biomass ratio (5 mL
+enzyme/50 g biomass and 950 mL citrate buffer) (Fig. 1).
+Briefly, the solid residues were mixed with the enzyme solu-
+tion at 1:10 ratio and the resulting suspension was agitated
+(100 rpm) at 45 °C and for 72 h. The solution obtained from
+this procedure was kept at −20 °C until the fermentation pro-
+cess. Cellulase activity of the enzyme solution was measured
+according to the method described by Biely et al. ( 1985 )) as
+FPU.
+Screening of different yeast strains for ethanol and xylitol
+fermentation
+SixSaccharomyces cerevisiae strains, including NCIM 3125,
+NCIM 3283, NCIM 3090, NCIM 3300, NCIM 3494, and
+NCIM 3570, were screened for bioethanol production. One
+Candida tropicalis strain (NCIM 3119) and four Candida
+guilliermondii strains, including NCIM 3125, NCIM 3126,
+NCIM 3127, and NCIM 3399, were also screened for xylitolproduction. All the strains were maintained at −80 °C in cul-
+ture aliquots containing 20 % sterile glycerol and revived at
+30 °C before starting the experiments using a medium com-
+posed of yeast extract, 3 g/L; malt extract, 3 g/L; peptone, 5 g/L; and glucose, 70 g/L (for Candida strains,
+D-xylose, 10 g/L)
+(Sanchez et al. 2008 ). To screen the strains with high poten-
+tials for ethanol and xylitol production, the S. cerevisiae and
+Fig. 1 The schematic diagram for the process used in the present study for continuous co-production of bioethanol and xylitol from rice strawFolia MicrobiolCandida strains were cultured on 140 g/L glucose and 20 g/L
+xylose (as carbon source), respectively. Other components of
+the media were yeast extract (10 g/L), rice bran extract(20 % V/V), diammonium sulfate (5 g/L), and calcium chlo-
+ride (0.1 g/L). The strains were incubated at 30 °C and
+200 rpm for 4 days.
+Optimization of nitrogen source and oxygen concentration
+for co-production of ethanol and xylitol
+To optimize nitrogen source for co-culture of the selected
+strains of Saccharomyces andCandida , four organic nitrogen
+source, including malt extract, yeast extract, bacto-tryptone,
+and casein, and four mineral nitrogen source, including am-
+monium chloride, ammonium nitrate, ammonium sulfate, andammonium molybdate (6 g/L), were used. Other components
+of the medium were as follow: glucose (50 g/L), xylose (40 g/
+L), and calcium chloride (0.1 g/L). The selected strains wereincubated at 30 °C and 200 rpm for 5 days. Then, the concen-
+tration of the nitrogen sources used was optimized.
+To determine the optimum concentration of oxygen for
+co-culture of the selected strains of Saccharomyces and
+Candida at batch fermentor level, four different concen-
+trations, i.e. 5, 10, 20, and 30 %, were considered. The
+components of the medium were as follows: glucose
+(80 g/L), xylose (40 g/L), yeast extract (10 g/L), and
+diammonium sulfate (5 g/L). The selected strains were
+also added to 1.5 L of the autoclaved medium (121 °C,
+15 min) at the same concentration, and the experiments
+were conducted in a 2-L stirred tank bioreactor (BioFlo310, New Brunswick, USA). The bioreactor culture con-
+ditions were controlled automatically at 300 rpm agita-
+tion, 30
+/C14C, pH 5, and air flow rate of 0.5 vvm. During
+the fermentation process, the pH of culture media wascontrolled by NaOH (3 mol/L) and HCL (3 mol/L) for72 h. In addition, all processing parameters were moni-
+tored and recorded by the Biocommand Bioprocessing
+Software (New Brunswick, USA).
+Batch fermentation of rice straw hydrolysates
+for production of ethanol and xylitol
+(single and co-culture)
+To evaluate the efficiency of single and co-culture of the se-
+lected strains for ethanol and xylitol productions, 60 mL of the
+media containing the selected strains (single or co-culture)
+was added to 1.5 L of the autoclaved medium, containingthe concentrated and detoxified hydrolysate of rice straw
+(75 g/L glucose and 40 g/L xylose), yeast extract (10 g/L),
+and diammonium sulfate (5 g/L) and transferred to a 2-Lstirred tank bioreactor (BioFlo 310, New Brunswick, USA).
+The bioreactor culture conditions and pH were controlled as
+previously mentioned. To enhance the ethanol and xylitolproduction, during the first and second 20 h, oxygen concen-
+tration was adjusted at 5 and 10 %, respectively. In addition,
+all processing parameters were monitored and recorded aspreviously mentioned.
+Optimization of dilution rate for continuous co-production
+of ethanol and xylitol
+To optimize the dilution rate in the continuous fermentation of
+the selected yeast strains in order to enhance co-production of
+ethanol and xylitol, the selected strains were added to 3 L of
+the autoclaved medium, containing the concentrated and de-toxified hydrolysate of rice straw (75 g/L glucose and 40 g/L
+xylose), yeast extract (10 g/L), and diammonium sulfate (5 g/
+L), and the mixture was then transferred to a 5-L stirred tankbioreactor (BioFlo 310, New Brunswick, USA). Three dilu-
+tion rates including 0.03, 0.06, and 0.09 L per hour were used
+using a peristaltic pump. Fermentation was performed at30 °C, pH 5, and 300 rpm. The pH was controlled using
+3 mol/L NaOH and 3 mol/L HCL.
+Continuous fermentation of rice straw hydrolysates
+for co-production of ethanol and xylitol
+Continuous fermentation for co-production of ethanol and xy-
+litol was performed by coupling a cross-flow microfiltration
+unit (pore size, 0.45 μm, 0.1 m
+2surface area, Sartorius,
+Germany) with a 5-L stirred tank bioreactor (BioFlo 310,
+New Brunswick, USA). Both strains were added to 3 L of
+the autoclaved containing the concentrated and detoxified hy-drolysate of rice straw (75 g/L glucose and 40 g/L xylose),
+yeast extract (10 g/L), and diammonium sulfate (5 g/L), and
+the mixture was then transferred to the bioreactor.Fermentation was performed at 30 °C, pH 5, and 300 rpm.
+The pH was controlled using 3 mol/L NaOH and 3 mol/L
+HCL solutions. The dilution rate was set to 0.03 L/h, and the
+media was aseptically recirculated by peristaltic pumps.
+Continuous cultivation was started when approximately allglucose and xylose contents in the media were consumed
+(70 h after starting fermentation).
+Biochemical analysis
+The concentration of glucose, xylose, ethanol, and xylitol in
+all experiments was analyzed by a HPLC (Knauer, Germany)
+equipped with a RIK-2301 refractive index detector and a
+Eurokat H polymeric column (Knauer, Germany), at 60 °C.Samples were eluted using H
+2SO4(0.01 N) as the mobile
+phase at a flow rate of 1 mL/min, and sample peaks wereidentified using the refractive index detector. For determiningfurfural and HMF contents, samples were first eluted with
+acetonitrile: water (1:8) and 1 % acetic acid and HPLC mea-
+surements were performed at a 0.8 mL/min flow rate using aFolia MicrobiolHewlett-Packard RP18 column, at 25 °C and a UV –vis detec-
+tor (SPD-10A UV –vis). All the chemicals were HPLC grade.
+Kinetics of cell growth
+Cell growth was monitored during fermentations by online
+measuring of culture turbidity using a turbidity transmitter
+equipped with a fiber optic sensor (Trb8300, Mettler-Toledo,
+Switzerland), and the data obtained were correlated with cell
+dry mass through a calibration curve.
+Statistical analysis
+All the results presented herein are the mean (mean±standard
+error) of three replicates. Analysis of variance, mean compar-
+ison, and treatment groups ’score were obtained using the SAS
+software (SAS Institute, Cary, NC, version 9.1 for personal
+computer) and the Duncan Multiple test at P≤0.05.
+Results and discussion
+The results obtained on pretreatment using different concen-trations of sulfuric acid are presented in Table 1.A ss h o w n ,
+increasing the concentration of sulfuric acid caused a signifi-cant increase in the glucose and inhibitor contents, whereas itdid not significantly affect the xylose content (Table 1). For
+instance, when the concentration of sulfuric acid was in-creased from 2 to 3.5 %, the glucose content critically andsignificantly increased, whereas the inhibitors contents did
+not vary significantly. By further increasing the sulfuric acid
+concentration from 3.5 to 5 %, the increases in glucose and
+xylose contents were not significant (Table 1). Hence, 3.5 %
+sulfuric acid (resulting in 2.3 and 15.05 g/L glucose and xy-
+lose production, respectively) was selected as the optimum
+concentration for the pretreatment step. Among the growth
+inhibitors, acetic acid had the highest concentration (3.9 g/L ) ,f o l l o w e db yf u r f u r a l( 0 . 5 6g / L )a n dH M F( 0 . 1 7g / L ) .
+Furfural is produced through the hydrolysis of pentose sugars
+in acidic environment. Due to the high quantity of pentosesugars obtained in acidic hydrolysis, the concentration of fur-
+fural was also higher in the hydrolysates. In general, acetic
+acid and furan components are one of the most importantinhibitors of microbial production of ethanol and xylitol from
+lignocelluloses (Wahlbom and Hahn –Hägerdal 2002 ;L ie ta l .
+2009 ;T a n ge ta l . 2011).
+The hydrolysate was concentrated under vacuum up to
+threefold to increase the xylose and glucose contents.
+Table 2tabulates the concentration of these two sugars as well
+as the inhibitors contained in the rice straw hydrolysate.
+During the concentration stage, the level of glucose and xy-
+lose increased by almost threefold (7 and 46.2 g/L, respective-ly), while that of furfural reduced by 50 % (0.28 g/L).
+Moreover, the concentrations of acetic acid and HMF in-
+creased up to 46 and 82 %, respectively, which were signifi-cantly less compared to the increase obtained for the sugars.
+The reduction of furfural concentration must have been caused
+by the volatility of furfural at high temperatures. Many studieshave shown that furfural could be almost completely removed
+from hydrolysate through concentration (Palmqvist and Hahn-
+Hägerdal 2000 ; Wahlbom and Hahn –Hägerdal 2002 ).
+Pretreatment and hydrolysis results revealed that the com-
+bination of dilute acid pretreatment (3.5 %, 100 °C, 30 min)and enzymatic conversion using 1:10 biomass/enzyme solu-
+tion (12 FPU) ratio led to the highest sugar yield (81 % con-
+version). Therefore, such combination could be suggested forefficient hydrolysis of hemicellulose and cellulose content of
+rice straw to produce fermentable sugars like glucose and
+xylose. Similar results have been also reported by other re-search groups on hydrolysis of rice straw, wheat, and corn
+lignocellulosic wastes (Saha et al. 2005 ; Hsu et al. 2010 ;
+Avci et al. 2013 ).
+To detoxify the hydrolysate, activated carbon and resins
+were used. By application of the activated carbon, the concen-
+tration of furfural and HM F reduced to 0 %, but the
+Table 1 The effect of sulfuric acid concentrations on glucose, xylose,
+and inhibitors resulted from rice straw pretreatment
+Component Sulfuric acid
+2% 3 . 5% 5%
+Glucose (g/L) 1.6±0.2b*2.5±0.2a2.6±0.3a
+Xylose (g/L) 15.1±0.5a15.05±0.4a14.9±0.4a
+Acetic acid (g/L) 3.2±0.2c3.9±0.3ab4.2±0.3a
+Furfural (g/L) 0.48±0.1b0.56±0.1ab0.62±0.1a
+HMF (g/L) 0.14±0.02b0.17±0.02ab0.22±0.03a
+Different letters mean significant difference at 95 % probability
+*Numbers show mean±standard errorTable 2 The effect of rice straw hydrolysate concentrating on increase
+of the sugars and reduction of the inhibitors
+Component Hydrolysate
+Raw Concentrate
+Glucose (g/L) 2.5±0.2b*7±0.4a
+Xylose (g/L) 15.05±0.6b46.2±1.5a
+Acetic acid (g/L) 3.9±0.5b5.7±0.6a
+Furfural (g/L) 0.56±0.05a0.28±0.03b
+HMF (g/L) 0.17±0.04b0.31±0.04a
+Different letters mean significant difference at 95 % probability
+*Numbers show mean±standard errorFolia Microbiolconcentration of acetic acid decreased down to 68 % of the
+initial value. However, when a combination of both methods,
+i.e., activated carbon and resins was used, the concentration ofacetic acid shrank to 0 % as well, while the concentrations of
+glucose (6.7 g/L) and xylose (45 g/L) were not affected sig-
+nificantly (Table 3).
+The screening results for S. cerevisiae strains concerning
+their ethanol production showed that they had significantlydifferent potentials for ethanol production ranging from 51.2to 66.4 g/L. The maximum ethanol production was achieved
+by the strain NCIM 3090 with 66.4 g/L ethanol and 0.47 g/L
+per hour (Yp/s) ethanol production efficiency (Table 4). The
+Candida strains also showed significantly different potential
+for xylitol production (7.1 –9.9 g/L), and the maximum xylitol
+production was achieved by the strain C. tropicalis NCIM
+3119 with 9.9 g/L xylitol and 0.49 g/L per hour (Yp/s) xylitol
+production efficiency (Table 5). To determine the suitable type
+of nitrogen source for co-production of ethanol and xylitol,
+both yeast strains were co-cultured on different media contain-
+ing one of the eight different organic or mineral nitrogen
+sources. The results confirmed that different nitrogen sourcespossessed significantly different biorefinery efficiency, and
+the maximum ethanol (24.41 g/L), xylitol (22.7 g/L), and bio-
+mass (13.24 g/L) production was achieved when yeast extract
+was used as the sole nitrogen source. The optimum concen-
+tration of the yeast extract resulting in the maximum ethanol,xylitol, and biomass production was also obtained at 15 g/L
+yeast extract. Similar results were also obtained when 10 g/L
+yeast extract in combination with 5 g/L diammonium sulfatewas used (data was not shown). Hence and from the econom-
+ical point of view, 10 g/L yeast extract and 5 g/L diammonium
+sulfate were used for the next experiments.
+Both C. tropicalis andS. cerevisiae shift between oxidative
+and oxydo-reductive or reductive modes depending on differ-ent levels of O
+2available for their metabolism. This, i.e., ox-
+ygen level, could play an important role in the respiratory
+chain and the requirements for NADH or NADPH co-factors
+and thus could impact the carbon distribution among biomass,ethanol, and xylitol production pathways. As a result, in thepresent study, optimization of oxygen concentration (5 –30 %)
+for co-production of ethanol and xylitol was also performed
+during the co-culture of both strains. The maximum ethanol
+production of 38 g/L was achieved when the dissolved oxygenlevel was set at 5 %, whereas the maximum xylitol production
+of 21.6 g/L was achieved when the dissolved oxygen level
+was set at 10 %. The oxygen concentrations of 5 and 10 %were selected as the best oxygen levels for co-production of
+xylitol and ethanol by co-culture of the studied yeasts. To
+achieve this, at the first stage of the fermentation in whichglucose was consumed, the concentration of oxygen was ad-
+justed at 5 %, then 10 % was used for the stage in which
+xylose was generated by C. tropicalis .
+In the next experiments, the production of ethanol and xy-
+litol was compared in separate cultures (single and co-culture)using the two selected strains (Table 6). Firstly, the selected
+strains were separately cultured in detoxified and concentrated
+rice straw hydrolysate containing 75 g/L glucose and 45 g/L
+xylose in the batch fermentor as previously detailed. In theother experiment, both strains were co-cultured in the hydro-
+lysate under similar conditions. Figures 2,3,a n d 4present the
+kinetics of growth, ethanol, and xylitol rates in the separate
+and co-culture conditions. In the single culture of
+S. cerevisiae , the lag phase of growth continued until theTable 4 Screening of the S. cerevisiae strains for ethanol production
+S. cerevisiae
+strainsConcentration ofproduced ethanol (g/L)Efficiency of ethanolproduction (g/L per hour)
+NCIM 3125 64±2
+ab*0.45±0.06ab
+NCIM 3283 59.8±1.6c0.42±0.06ab
+NCIM 3090 66.4±2.3a0.47±0.06a
+NCIM 3300 55.7±1.4de0.39±0.05b
+NCIM 3494 56.1±1.4d0.4±0.06b
+NCIM 3570 51.2±1.2f0.36±0.05bc
+Different letters mean significant difference at 95 % probability
+*Numbers show mean±standard error
+Table 3 The effects of active carbon and resin on detoxification of the
+acidic pretreated and concentrated raw straw hydrolysate
+Simple sugars
+and inhibitorsControl Active
+carbonActive carbonand resin
+Glucose (g/L) 7±0.4
+a*6.9±0.3a6.7±0.3ab
+Xylose (g/L) 46.2±1.5a45.1±1.2ab45±1.2ab
+Acetic acid (g/L) 5.7±0.6a3.9±0.2b0.2±0.05c
+Furfural (g/L) 0.28±0.03a0b0b
+HMF (g/L) 0.31±0.04a0b0b
+Different letters mean significant difference at 95 % probability
+*Numbers show mean±standard errorTable 5 Screening of the Candida strains for xylitol production on the
+medium containing 20 g/L xylose
+Candida strains Concentration of
+produced
+xylitol (g/L)Efficiency of xylitol
+production
+(g/L per hour)
+C. tropicalis NCIM 3119 9.9±0.7a*0.49±0.04a
+C. guilliermondii NCIM 3125 7.9±0.6b0.39±0.03b
+C. guilliermondii NCIM 3126 9±0.6ab0.45±0.04ab
+C. guilliermondii NCIM 3127 7.1±0.5bc0.35±0.03bc
+C. guilliermondii NCIM 3399 8.9±0.6ab0.44±0.04ab
+Different letters mean significant difference at 95 % probability
+*Numbers show mean±standard errorFolia Microbiolfourth hour, while the logarithmic phase continued until the
+20th hour. Maximum concentration of ethanol was obtained at
+the 18th hour of growth, and by this time, all the glucosecontent contained in the medium (75 g/L) was consumed by
+S. cerevisiae. The maximum concentration of ethanol
+achieved under single culture condition was as much as31.5 g/L with a yield of 0.42 g/g and volumetric
+productivity of 1.65 g/L per hour. These values were
+significantly higher than those of the study conducted Yadavet al. ( 2011) in which they reported an ethanol yield of 0.3 g/g
+with a volumetric productivity of 0.2 g/L per hour usingS. cerevisiae (OVB 11) and rice straw hydrolysate.
+Moreover, in the single culture of C. tropicalis , the lag
+phase continued till the fifth hour, and after that, the log phasestarted and continued until the 40th hour. The production ofxylitol was not significant until the eighth hour, but sharply
+increased afterwards, and reached its maximum concentration
+at around the 50th hour (Fig. 3). By this time, all the xylose
+content contained in the medium (45 g/L) was consumed by
+C. tropicalis . The maximum xylitol concentration achieved
+was 26.5 g/L, and the yield and volumetric productivity values
+were at 0.58 and 0.53 g/L per hour, respectively (Fig. 3).
+The growth rates using batch co-culture of C. tropicalis and
+S. cerevisiae were significantly different from those obtained
+in the single cultures (Fig. 4, Table 6). The total microbial
+biomass production was significantly more in the co-culturesystem (19.9 g/L) than in the single cultures (about 11.8 –
+11.95 g/L). At the beginning of the fermentation process underthe co-culture condition, only slight xylose consumption andxylitol production were observed and both yeasts preferred to
+consume glucose and produce ethanol (Fig. 4). This is as-
+cribed to the fact that microorganisms in culture media gener-
+ally consume hexoses more easily and rapidly than pentoses.
+Therefore, as shown in Fig. 4, during the first 18 h of growth,
+C. tropicalis used xylose at a low rate and produced a small
+quantity of xylitol while it mainly consumed glucose and pro-duced ethanol but right after that and when the glucose source
+was used up, it switched to the consumption of xylose andcontinued till the pentose concentration reached zero at around
+60 h. Hence, this delay in consumption of xylose can be at-
+tributed to this point that C. tropicalis preferred to use glucose
+at first, and then by consumption of glucose, the yeast started
+to uptake xylose.
+Moreover, the consumption of xylose by C. tropicalis was
+kinetically slower than the rate on glucose due to the lessaffinity and/or NADH or NADPH requirements to transform
+xylose into xylulose, which is often the limiting step. As it isobserved in Fig. 4, the majority of the microbial biomass was
+generated through the consumption of glucose during the firsthours which subsequently resulted in ethanol production byboth yeasts, whereas xylitol production was due to the biocon-
+version of xylose only done by C. tropicalis . The observedTable 6 Kinetic parameters for production of ethanol and xylitol from rice straw hydrolysate by separate culture and co-culture in the batch fermentor
+Microorganism Ethanol Xylitol
+Yp/s (g/g) Qp (g/L per hour) Biomass (g/L) Yp/s (g/g) Qp (g/L per hour) Biomass (g/L)
+S. cerevisiae 0.42±0.04*a1.65±0.1b11.95±0.6b––
+C. tropicalis –– – 0.58±0.06a0.53±0.05a11.8±0.7b
+Co-culture 0.44±0.05a2.08±0.2a19.9±0.8a0.55±0.05a0.41±0.04b19.9±0.9a
+Different letters mean significant difference at 95 % probability
+*Numbers show mean±standard error
+102030405060708090Concentration (g/L)
+0
+0 51 0 15
+Fermentation Time (h)20Glucose
+ethanol
+Biomass
+25 30
+Fig. 2 Kinetics of substrate consumption and ethanol and biomass
+production of S. cerevisiae cultivated in enzymatic rice straw
+hydrolysate (75 g/L glucose, 40 g/L xylose, 10 g/L yeast extract, 5 g/L
+diammonium sulfate; temperature 30 °C, initial pH=5, agitation 300 rpm)051015202530354045Concentration (g/L)
+Fermentation Time (h)xylose
+xylitol
+Biomass
+0 5 10 15 20 25 30 35 40 45 50 55
+Fig. 3 Kinetics of xylose consumption and xylitol and biomass
+production by the selected C. tropicalis strain cultured in the rice straw
+hydrolysate (75 g/L glucose, 40 g/L xylose, 10 g/L yeast extract, 5 g/L
+diammonium sulfate; temperature 30 °C, initial pH=5, agitation 300 rpm)Folia Microbiolincrease in yield in the co-culture system could be explained
+by the fact that both S. cerevisiae andC. tropicalis could
+simultaneously consume glucose, and depending on the oxy-
+gen consumption, the carbon flux could be preferentially di-
+rected to growth and/or to ethanol production.
+In the co-culture experiments conducted herein, the maxi-
+mum concentration of ethanol of 33.4 g/L was obtained at16 h of growth, but the maximum concentration of xylitol
+w a so b s e r v e da f t e r6 0ho fg r o w t h( 2 5 . 1g / L )( F i g . 4).
+Comparison of the results of ethanol and xylitol yields and
+volumetric productivity in the single and co-cultures showed
+that in the co-culture system, ethanol yield increased from0.42 to 0.44 g/g whereas xylitol yield decreased from 0.58
+to 0.55 g/g, but these variations were not significantly differ-
+ent compared to the values obtained in the single cultures(Table 6). This confirmed that the co-culture of both yeasts
+resulted in the same ethanol and xylitol quantities as the singlecultures, and there was no inhibitory effect on the yield of bothproducts. The maximum ethanol and xylitol volumetric pro-
+ductivity in the batch co-culture system was 65 and 58 % after
+16 and 60 h, respectively, but after that, their production ratesreduced. However, the volumetric productivity of ethanol sig-
+nificantly increased in the co-culture system, whereas that ofxylitol decreased (Table 6). These results could be indicative
+of synergistic effects of simultaneous cultivation of both
+yeasts on ethanol production and the inhibitory effects on
+xylitol production. There are different reports on the produc-
+tion of ethanol in co-culture such as that of Yadav et al. ( 2011)
+in which they used co-culture of S. cerevisiae andP . stipitis in
+rice hydrolysate but achieved comparatively lower concentra-tion of ethanol (12 g/L) and ethanol yield (0.4 g/g) than thevalues obtained in this study. However, their findings were in
+agreement with those of this study that the co-culture condi-
+tion compared to separate cultures resulted in higher ethanolconcentration, yield, and volumetric productivity. In the con-
+trary, Latif and Rajoka ( 2001 )) reported lower concentration
+of ethanol (21 g/L) with ethanol yield of 0.19 g/g and volu-metric productivity of 0.22 g /L per hour in co-culture of
+S. cerevisiae andC. tropicalis in corn cob hydrolysate in com-
+parison with their single cultures. Their findings were alsoconfirmed by those of another study in which higher concen-
+tration of xylitol was obtained using C. tropicalis single cul-
+ture in corn cob hydrolysate with xylitol production of 21 g/L,
+yield of 0.45 g/g, and volumetric productivity of 0.22 g/L per
+hour while co-culture of both S. cerevisiae andC. tropicalis
+Table 7 Dilution rate optimization for continuous co-production of
+ethanol and xylitol
+Parameters Dilution rate
+0.03 0.06 0.09
+Biomass (g/L) 20.1±1.5*a19.8±1.5a19.6±1.3a
+Ethanol (g/L) 37.8±2.3a34.2±2.1ab30.3±2.1b
+Xylitol (g/L) 24.2±1.7a22.7±1.6ab19.9±1.4b
+Glucose (g/L) 0c3.4±0.4b5.6±0.5a
+Xylose (g/L) 0c4.2±0.4b7.5±0.6a
+Different letters mean significant difference at 95 % probability
+*Numbers show mean±standard error01020304050607080
+0 1 02 03 04 05 06 0Concentration (g/L)
+Fermentation Time (h)glucose
+xylose
+xylitol
+ethanol
+Biomass
+Fig. 4 Kinetics of substrate consumption and ethanol, xylitol, and
+biomass production by co-culture of C. tropicalis and S. cerevisiae
+cultivated in rice straw hydrolysate (75 g/L glucose, 40 g/L xylose,
+10 g/L yeast extract, 5 g/L diammonium sulfate; temperature 30 °C,
+initial pH=5, agitation 300 rpm)01020304050607080
+0 2 04 06 08 0 1 0 0 1 2 0 1 4 0Concentration (g/L)
+Fermentation Time (h)Glucose
+Ethanol
+Xylose
+Xylitol
+Biomass
+Fig. 5 Kinetics of substrate consumption and ethanol, xylitol, and
+biomass production by continuous co-culture of C. tropicalis and
+S. cerevisiae cultivated in rice straw hydrolysates (75 g/L glucose, 40 g/
+L xylose, 10 g/L yeast extract, 5 g/L diammonium sulfate; temperature
+30 °C, initial pH=5, agitation 300 rpm, dilution rate: 0.03 L per hour)
+00.10.20.30.40.50.60.70.80.9
+Single Culture Batch Co-culture Continious Co-cultureYield (g/g)Ethanol
+Xylitolbbbbaa
+Fig. 6 Comparison of ethanol and xylitol production by S. cerevisiae and
+C. tropicalis from rice straw hydrolysates in the batch single and co-
+cultures and continuous co-culture systemsFolia Microbiolresulted in lower xylitol production of 20 g/L, yield of 0.44 g/
+g, and volumetric productivity of 0.21 g/L per hour. Sanchez
+et al. ( 2008 )a l s ou s e dm i x t u r e so f D-glucose and D-xylose and
+could produce a total amount of 0.56 g/g ethanol and xylitol
+byC. tropicalis NBRC 0618 which was less than the total
+ethanol and xylitol yield achieved in the present study. As
+mentioned earlier, the advantage of co-culture fermentation
+is that by using this method, hexoses and pentose sugars
+could be simultaneously converted to ethanol and xylitol.Recently, Zha et al. ( 2013 ) attempted to consolidate both ca-
+pabilities by cloning of CDT-1(encoding a cellodextrin trans-
+porter), gh1-1(encoding an intracellular β-glucosidase), and
+XYL1 (encoding a xylose reductase that converts xylose into
+xylitol) into S. cerevisiae and could achieve a balanced co-
+fermentation of cellobiose (0.165 g/L per hour) and xylose(0.162 g/L per hour) at similar rates to co-produce ethanol
+(0.36 g/g) and xylitol (1.00 g/g).
+In the present study, three different dilution rates (0.03,
+0.06, and 0.09 L per hour) were also evaluated for continuousfermentation. It was shown that the maximum ethanol (37.8 g/
+L), xylitol (24.2 g/L), and biomass (20.1 g/L) production wasobserved when the dilution rate of 0.03 L per hour was used.
+At this dilution rate, all glucose and xylose contents were
+continuously used by the strains, whereas in the other dilata-
+tion rates, the production efficiency was less, and glucose and
+xylose were partially accumulated without consumption dur-ing the process (Table 7). The results of the continuous co-
+culture fermentation of the selected yeasts in the 5-L stirredtank bioreactor coupled to a cross-flow microfiltration unit at30 °C, pH 5, 300 rpm, and dilution rate of 0.03 L per hour
+showed that ethanol and xylitol could be steadily co-produced
+using the membrane bioreactor up to 150 h of fermentation(Fig. 5). The medium used in this experiment contained con-
+centrated and detoxified hydrolysate of rice straw (75 g/Lglucose and 40 g/L xylose), yeast extract (10 g/L), anddiammonium sulfate (5 g/L), and oxygen concentration was
+set at 5 –10 % in the order described earlier.
+More specifically, ethanol and xylitol production rates were
+constantly and greatly improved in the continuous culturemode up to 150 h and reached as high as 80 and 68 % for
+ethanol and xylitol, respectively. In addition, no metabolicshift and membrane fouling was observed after 150 h of cul-
+tivation. In other words, the concentrations of ethanol and
+xylitol reached 55 g/L (yield of 0.70 g/g) and 31 g/L (yieldof 0.78 g/g) at the 150th hour, respectively, which were sig-
+nificantly higher than those obtained in the batch single and
+co-culture systems (Fig. 6).
+Numerous studies have previously emphasized on the ad-
+vantages of continuous production of ethanol and thereforestrived to produce ethanol from different biomass by usingdifferent continuous fermen tation systems, such as cell
+recycling or/and in situ ethanol removal (e.g., Zhang et al.2005 ;C h e ne ta l . 2012 ; Ntihuga et al. 2012 ), modeling or/and optimizing different fermentation parameters (e.g.,
+Amillastre et al. 2012 ; Khongsay et al. 2012 ; Sharma and
+Rangaiah 2012 ), and using different fermentor designs and
+fermentation techniques (e.g., Ding et al. 2011 ; Kundiyana
+et al. 2011;M o o ne ta l . 2012 ). Our results also proved the
+great advantage of continuous co-production of ethanol and
+xylitol from rice straw feedstock over batch single production.
+The application of continuous co-culture systems would re-
+duce the overall production costs, as different types of valu-able materials could be produced simultaneously such as eth-
+anol and xylitol in the present study, and moreover, higher
+products concentrations could be achieved in comparison withbatch single cultures.
+Conclusion
+A biorefinery process, including pretreatment, enzymatic hy-drolysis, detoxification, yeast strains, and continuous fermen-tation, was used for co-production of ethanol and xylitol from
+rice straw. The continuous co-culture of the yeasts on rice
+straw hydrolysate could significantly increase the ethanoland xylitol yields compared to the single batch cultures.
+More detailed studies and also development of new technolo-
+gies may open a new road for economic co-production ofvalue-added products from this hugely generated lignocellu-
+losic waste (rice straw).
+Acknowledgments This project was financially supported by Agricul-
+tural Biotechnology Research Institute of Iran (Grant Number: 2-05-05-
+9009). We would like to thank all our colleagues in the Microbial Bio-
+technology and Biosafety Department of ABRII for their kind supportand assistance during the course of this investigation.
+Conflicts of interest The authors declare that they have no competing
+interests.
+References
+Ali SS, Khan M, Fagan B, Mullins E, Doohan FM (2012) Exploiting the
+inter-strain divergence of Fusarium oxysporum for microbial
+bioprocessing of lignocellulose to bioethanol. AMB Express, 15:
+2(1):16. doi: 10.1186/2191-0855-2-16
+Amillastre E, Aceves-Lara CA, Uribelarrea JL, Alfenore S, Guillouet SE
+(2012) Dynamic model of temperature impact on cell viability and
+major product formation during fed-batch and continuous ethanolic
+fermentation in Saccharomyces cerevisiae . Bioresour Technol 117:
+242–250
+Avci A, Saha BC, Kennedy GJ, Cotta MA (2013) Dilute sulfuric acid
+pretreatment of corn stover for enzymatic hydrolysis and efficientethanol production by recombinant Escherichia coli FBR5 without
+detoxification. Bioresour Technol 142:312 –319
+Balat M (2011) Production of bioethanol from lignocellulosic materials
+via the biochemical pathway: a review. Energ Convers Manage 52:858–875Folia MicrobiolBiely P, Mislovi čová D, Toman R (1985) Soluble chromogenic substrates
+for the assay of endo-1,4- β-xylanases and endo-1,4- β-glucanases.
+Anal Biochem 144:142 –146
+Binod P, Sindhu R, Singhania RR, Vikram S, Devi L, Nagalakshmi S,
+Kurien N, Sukumaran RK, Pandey A (2010) Bioethanol production
+from rice straw: an overview. Bioresour Technol 101:4767 –4774
+Chen Y (2011) Development and application of co-culture for ethanol
+production by co-fermentation of glucose and xylose: a systematicreview. J Ind Microbiol Biotechnol 38(5):581 –597
+Chen C, Tang X, Xiao Z, Zhou Y , Jiang Y , Fu S (2012) Ethanol fermen-
+tation kinetics in a continuous and closed-circulating fermentationsystem with a pervaporation membrane bioreactor. BioresourTechnol 114:707 –710
+Cheng JJ, Timilsina GR (2011) Status and barriers of advanced biofuel
+technologies: a review. Renew Energ 36:3541 –3549
+Cherubini F (2010) The biorefinery concept: using biomass instead of oil
+for producing energy and chemicals. Energ Convers Manage 51:1412–1421
+Cherubini F, Ulgiati S (2010) Crop residues as raw materials for
+biorefinery systems —a LCA case study. Appl Energy 87:47 –57
+Colom X, Carrasco F, Pages P, Canavate J (2003) Effects of different
+treatments on the interface of HDPE/lignocellulosic fiber compos-ites. Composites Sci Technol 63(2):161 –169
+da Cunha-Pereira F, Hickert LR, Sehnem NT, de Souza-Cruz PB, Rosa
+CA, Ayub MAZ (2011) Conversion of sugars present in rice hullhydrolysates into ethanol by BSpathaspora arborariae ^,
+BSaccharomyces cerevisiae ^, and their co-fermentations. Bioresour
+Technol 102:4218 –4225
+de Jong EA, Higson A, Walsh P, Wellisch M (2012) Product develop-
+ments in the bio-based chemicals arena. Biofuels Bioprod Bioref 6:606–624
+Dereli RK, van der Zee FP, Heffernan B, Grelot A, van Lier JB (2014)
+Effect of sludge retention time on the biological performance ofanaerobic membrane bioreactors treating corn-to-ethanol thin
+stillage with high lipid content. Water Res 49:453 –464
+Ding WW, Wu YT, Tang XY, Yuan L, Xiao ZY (2011) Continuous
+ethanol fermentation in a closed-circulating system using animmobilized cell coupled with PDMS membrane pervaporation. J
+Chem Technol Biotechnol 86:82 –87
+Edama NA, Sulaiman A, Rahim SNA (2014) Enzymatic saccharification
+of Tapioca processing wastes into biosugars through immobilizationtechnology (Mini Review). Biofuel Res J 1(1):2 –6
+Emodi A (1978) Xylitol: its properties and food applications. Food
+Technol 32:28 –32
+Franceschin G, Sudiro M, Ingram T, Smirnova I, Brunner G, Bertucco A
+(2011) Conversion of rye straw into fuel and xylitol: a technical andeconomical assessment based on experimental data. Chem Eng ResDes 89:631 –640
+Galbe M, Zacchi G (2012) Pretreatment: the key to efficient utilization of
+lignocellulosic materials. Biomass Bioenerg 46:70 –78
+Granström TB, Izumori K, Leisola M (2007) A rare sugar xylitol. Part II:
+biotechnological production and future applications of xylitol. ApplMicrobiol Biotechnol 74:273 –276
+Haghighi Mood S, Golfeshan AH, Tabatabaei M, Abbasalizadeh S,
+Ardjmand M, Salehi Jouzani G (2013a) Comparison of different
+ionic liquids pretreatment for corn stover enzymatic saccharifica-t
+ion. Prep Biochem Biotech. doi: 10.1080/10826068.2013.833112
+Haghighi Mood S, Golfeshan AH, Tabatabaei M, Salehi Jouzani G,
+Najafi GH, Gholami M, Ardjmand M (2013b) Lignocellulosic bio-mass to bioethanol, a comprehensive review with a focus on pre-
+treatment. Renew Sust Energ Rev 27:77 –93
+Hendriks ATWM, Zeeman G (2009) Pretreatment to enhance the digest-
+ibility of lignocellulosic biomass. Bioresour Technol 100:10 –18
+Heredia-Olea E, Pérez-Carrillo E, Serna-Saldívar SO (2015) Effect of
+extrusion conditions and hydrolysis with fiber-degrading enzymeson the production of C5 and C6 sugars from brewers ’spent grain for
+bioethanol production. Biofuel Res J 2(1):203 –208
+Horiuchi J, Tada K, Kanno T (2010) Biorefinery for bioethanol, lactic
+acid, xylitol and astaxanthin production from corn cobs. J Biotech150:171
+Hsu TC, Guo GL, Chen WH, Hwang WS (2010) Effect of dilute acid
+pretreatment of rice straw on structural properties and enzymatic
+hydrolysis. Bioresour Technol 101:4907 –4913
+Huang CF, Jiang YF, Guo GL, Hwang WS (2011) Development of a
+yeast strain for xylitol production without hydrolysate detoxificationas part of the integration of co-product generation within the ligno-cellulosic ethanol process. Bioresour Technol 102:3322 –3329
+Iwamoto S, Nakagaito AN, Yano H, Nogi M (2005) Optically transparent
+composites reinforced with plant fiber-based nanofibers. Appl
+Physics A 81(6):1109 –1112
+Khongsay N, Laopaiboon L, Jaisil P, Laopaiboon P (2012) Optimization
+of agitation and aeration for very high gravity ethanol fermentation
+from sweet sorghum juice by Saccharomyces cerevisiae using an
+orthogonal array. Design Energies 5:561 –576
+Kim S, Dale BE (2004) Global potential bioethanol production from
+wasted crops and crop residues. Biomass Bioenerg 26:361 –375
+Kumar P, Barrett DM, Delwiche MJ, Stroeve P (2009) Methods for pre-
+treatment of lignocellulosic biomass for efficient hydrolysis andbiofuel production. Ind Eng Chem Res 48:3713 –3729
+Kundiyana DK, Huhnke LR, Wilkins RM (2011) Effect of nutrient lim-
+itation and two-stage continuous fermentor design on productivities
+during BClostridium ragsdalei ^syngas fermentation. Bioresour
+Technol 102:6058 –6064
+Latif F, Rajoka MI (2001) Production of ethanol and xylitol from corn
+cobs by yeasts. Bioresour Technol 77(1):57 –63
+Li Q, Allen S, Ghosh S, Gorsich S (2009) Yeast genes identified in HMF
+tolerance screen suggest link to other lignocellulosic derived inhib-
+itors including furfural and vanillin. The 31st Symposium onBiotechnology for Fuels and Chemicals (May 3-6, 2009)
+Liu L, Sun J, Cai C, Wang S, Pei H, Zhang J (2009) Corn stover pretreat-
+ment by inorganic salts and its effects on hemicellulose and cellulosedegradation. Bioresour Technol 100:5865 –5871
+Ma H, Liu WW, Chen X, Wu YJ, Yu ZL (2009) Enhanced enzymatic
+saccharification of rice straw by microwave pretreatment. Bioresour
+Technol 100:1279 –1284
+Martínez ML, Sánchez S, Bravo V (2012) Production of xylitol and
+ethanol by BHansenula polymorpha ^from hydrolysates of sunflow-
+er stalks with phosphoric acid. Ind Crop Prod 40:160 –166
+McMillan JD (1997) Bioethanol production: status and prospects. Renew
+Energ 10:295 –302
+Moon SK, Kim WS, Choi GW (2012) Simultaneous saccharification and
+continuous fermentation of sludge-containing mash for bioethanol
+production by Saccharomyces cerevisiae CHFY0321. J Biotechnol
+157:584 –589
+Morales-Rodriguez R, Gernaey KV , Meyer AS, Sin G (2011) A mathe-
+matical model for simultaneous saccharification and co-
+fermentation (SSCF) of C6 and C5 sugars. Chin J Chem Eng
+19(2):185 –19
+ 1
+Ntihuga JN, Senn T, Gschwind P, Kohlus R (2012) Efficiency of Blenke
+cascade system for continuous bio-ethanol fermentation. Bioresour
+Technol 123:221 –229
+Palmqvist E, Hahn-Hägerdal B (2000) Fermentation of lignocellulosic
+hydrolysates. II: inhibitors and mechanisms of inhibition.Bioresour Technol 74:25 –33
+Pothiraj C, Arun A, Eyini M (2015) Simultaneous saccharification and
+fermentation of cassava waste for ethanol production. Biofuel Res J
+2(1):196 –202
+Prakash G, Varma AJ, Prabhune A, Shouche Y , Rao M (2011) Microbial
+production of xylitol from D-xylose and sugarcane bagasse hemi-
+cellulose using newly isolated thermotolerant yeast Debaryomyces
+hansenii . Bioresour Technol 102:3304 –3308Folia MicrobiolRado čaj O, Diosady LL (2014) Continuous ethanol fermentation in im-
+mersed, cross-flow microfiltration membrane bioreactor with cell
+retention. J Basic Appl Sci 10:543 –553
+Rinaldi R, Schüth F (2009) Acid hydrolysis of cellulose as the entry point
+into biorefinery schemes. Chem Sus Chem 2:1096 –1107
+Saha BC, Iten LB, Cotta MA, WuYV (2005) Dilute acid pretreatment,
+enzymatic saccharification and fermentation of wheat straw to eth-anol. Process Biochem 40:3693 –3700
+Salehi Jouzani G, Taherzadeh MJ (2015) Advances in consolidated
+bioprocessing systems for bioethanol and butanol production frombiomass: a comprehensive review. Biofuel Res J 2(1):152 –195
+Sanchez S, Bravo V, Garc ıa JF, Cruz N, Cuevas M (2008) Fermentation of
+D-glucose and D-xylose mixtures by Candida tropicalis NBRC 0618
+for xylitol production. World J Microbiol Biotechnol 24:709– 716
+Sewalt VJH, Glasser WG, Beauchemin KA (1997) Lignin impact on fiber
+degradation. 3. Reversal of inhibition of enzymatic hydrolysis bychemical modification of lignin and by additives. J Agri Food Chem
+45(5):1823 –1828
+Sharma S, Rangaiah GP (2012) Modeling and optimization of a fermen-
+tation process integrated with cell recycling and pervaporation for
+multiple objectives. Ind Eng Chem Res 51:5542 –5551
+Sharma S, Kumar R, Gaur R, Agrawal R, Gupta RP, Tuli DK, Das B (2015)
+Pilot scale study on steam explosion and mass balance for highersugar recovery from rice straw. Bioresour Technol 175:350 –357
+Sluiter A, Hames B, Ruiz R, Scarlata C, Sluiter J, Templeton D, Crocker
+D (2008) Determination of structural carbohydrates and lignin inbiomass. Technical Report NREL. TP-510-42618
+Suriyachai N, Weerasaia K, Laosiripojana N, Champreda V , Unrean P
+(2013) Optimized simultaneous saccharification and co-fermentation
+of rice straw for ethanol production by Saccharomyces cerevisiae and
+Scheffersomyces stipitis co-culture using design of experiments.
+Bioresour Technol 142:171 –178Tang Y , Zhao D, Cristhian C, Jiang J (2011) Simultaneous saccharifica-
+tion and cofermentation of lignocellulosic residues from commercial
+furfural production and corn kernels using different nutrient media.Biotech Biofuel 4:1 –10
+Wahlbom CF, Hahn –Hägerdal B (2002) Furfural, 5-hydroxymethyl fur-
+fural, and acetoin act as external electron acceptors during anaerobicfermentation of xylose in recombinant Saccharomyces cerevisiae .
+Biotech Bioeng 78:172 –178
+Wang L, Wang JG, Littlewood J, Cheng HB (2014) Co-production of
+biorefinery products from kraft paper sludge and agricultural resi-dues: opportunities and challenges. Green Chem 16(3):1527 –1533
+Yadav KS, Naseeruddin S, Prashanthi GS, Sateesh L, Rao LV (2011)
+Bioethanol fermentation of concentrated Rice straw hydrolysate
+using co culture of Saccharomyces cerevisiae andPichia stipitis .
+Bioresour Technol 102(11):6473 –6478
+Yin P, Yu Q, Lin Z, Kaewsarn P (2001) Biosorption and desorption of
+cadmium (II) by biomass of Laminaria japonica . Environ Technol
+22(5):509 –514
+Ylitervo P, Akinbomi J, Taherzadeh MJ (2013) Membrane bioreactors ’
+potential for ethanol and biogas production: a review. Environ
+Technol 34(13-14):1711 –1723
+Ylitervo P, Franzén CJ, Taherzadeh MJ (2014) Continuous ethanol pro-
+duction with a membrane bioreactor at high acetic acid concentra-
+tions. Membranes 4(3):372 –38
+ 7
+Zha J, Li BZ, Shen MH, Hu ML, Song H, Yuan YJ (2013) Optimization
+of CDT-1 and XYL1 expression for balanced co-production of eth-anol and xylitol from cellobiose and xylose by engineeredSaccharomyces cerevisiae . PLoS ONE 8(7), e68317. doi: 10.1371/
+journal.pone.0068317
+Zhang J, Liu HJ, Liu DH (2005) Effect of different types of gas in gas
+stripping ethanol fermentation (GSEF). Chin J Process Eng 5:349– 352Folia Microbiol

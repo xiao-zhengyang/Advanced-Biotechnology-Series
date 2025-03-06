@@ -1,0 +1,787 @@
+FERMENTATION, CELL CULTURE AND BIOENGINEERING
+Selection of an autochthonous Saccharomyces strain starter
+for alcoholic fermentation of Sherry base wines
+Marı ´a Jesu ´s Rodrı ´guez-Palero •Jesu´s Fierro-Risco •
+Antonio C. Codo ´n •Tahı´a Benı ´tez •
+Manuel J. Valca ´rcel
+Received: 25 November 2012 / Accepted: 22 February 2013
+/C211Society for Industrial Microbiology and Biotechnology 2013
+Abstract Several indigenous Saccharomyces strains from
+musts were isolated in the Jerez de la Frontera region, at the
+end of spontaneous fermentation, in order to select the most
+suitable autochthonous yeast starter, during the 2007 vin-
+tage. Five strains were chosen for their oenological abilities
+and fermentative kinetics to elaborate a Sherry base wine.
+The selected autochthonous strains were characterized by
+molecular methods: electrophoretic karyotype and random
+ampliﬁed polymorphic DNA-polymerase chain reaction
+(RAPD-PCR) and by physiological parameters: fermentative
+power, ethanol production, sugar consumption, acidity and
+volatile compound production, sensory quality, killer phe-
+notype, desiccation, and sulphur dioxide tolerance. Labora-
+tory- and pilot-scale fermentations were conducted with
+those autochthonous strains. One of them, named J4, was
+ﬁnally selected over all others for industrial fermentations.
+The J4 strain, which possesses exceptional fermentative
+properties and oenological qualities, prevails in industrial
+fermentations, and becomes the principal biological agent
+responsible for winemaking. Sherry base wine, industrially
+manufactured by means of the J4 strain, was analyzed,yielding, together with its sensory qualities, ﬁnal average
+values of 0.9 g/l sugar content, 13.4 % (v/v) ethanol content
+and 0.26 g/l volatile acidity content; apart from a high
+acetaldehyde production, responsible for the distinctive
+aroma of ‘ ‘Fino’ ’. This base wine was selected for ‘‘Fino’ ’
+Sherry elaboration and so it was fortiﬁed; it is at present
+being subjected to biological aging by the so-called ‘‘ﬂor’ ’
+yeasts. The ‘ ‘ﬂor’’ velum formed so far is very high quality.
+To the best of our knowledge, this is the ﬁrst study covering
+from laboratory to industrial scale of characterization and
+selection of autochthonous starter intended for alcoholic
+fermentation in Sherry base wines. Since the 2010 vintage,
+the indigenous J4 strain is employed to industrially manu-
+facture a homogeneous, exceptional Sherry base wine for
+‘‘Fino’ ’ Sherry production.
+Keywords Sherry base wine /C1Volatile acidity /C1
+Acetaldehyde /C1Indigenous starter /C1Alcoholic fermentation
+Introduction
+‘‘Fino’’ wine is a fortiﬁed Sherry white wine manufactured in
+the Jerez de la Frontera region (Ca ´diz), southwestern Spain.
+Grapes, which are collected in September, used to be hand-
+picked, but mechanical harvesting methods are increasingly
+being employed now. The special production (supervised by
+the ‘‘Consejo Regulador de las Denominaciones de Origen
+Jerez-Xe ´re`s-Sherry, Manzanilla-Sanlu ´car de Barrameda y
+Vinagre de Jerez’’, http://www.sherry.org/ ) of such out-
+standing wine consists essentially of two different stages,
+each one conducted by means of two fully different micro-
+organism populations. First, grape juice is fermented mainly
+by autochthonous fermentative yeasts to produce a low
+acidity white base wine. After fermentation, base wine is
+M. J. Rodrı ´guez-Palero /C1J. Fierro-Risco /C1
+A. C. Codo ´n/C1T. Benı ´tez
+Departamento de Gene ´tica, Facultad de Biologı ´a, Universidad de
+Sevilla, Apartado 1095, 41080 Sevilla, Spain
+Present Address:
+M. J. Rodrı ´guez-Palero ( &)
+Centro Andaluz de Biologı ´a del Desarrollo (CABD),
+Universidad Pablo de Olavide, Carretera de Utrera Km 1,
+41013 Sevilla, Spain
+e-mail: mjrodpal@upo.es
+M. J. Valca ´rcel
+Beam Global Espan ˜a S.L., c/San Ildefonso n /C1763,
+11403 Jerez de la Frontera, Ca ´diz, Spain
+123J Ind Microbiol Biotechnol
+DOI 10.1007/s10295-013-1251-0subjected to sensory classiﬁcation by a panel of experts.
+According to such classiﬁcation, the ﬁnest base wines are
+selected for ‘‘Fino’’ wine production and so are fortiﬁed to
+15.5 % (v/v) ethanol content, intended to undergo biologicalaging under indigenous ‘‘ﬂor’’ yeasts. The desirable Sherry
+base wine for ‘‘Fino’’ production is not only typically pale
+and low in volatile acidity content, but fruity and dry (under1 g/l ﬁnal sugar content) with over 11–12.5 % (v/v) ethanol
+content. Biological aging developed (for at least 3 years)
+under the oxidative metabolism of a population of ‘‘ﬂor’’
+yeasts forming a ‘‘ﬂor’’ velum, a bioﬁlm on the air–liquid
+interface of the wine. The ﬁnal ‘‘Fino’’ wine is a straw-yellow, low-acidity dry wine (equal or under 0.25 g/l vola-
+tile acidity, equal or under 3.5 g/l total acidity) and high
+acetaldehyde content (up to 700–800 mg/l) possessingalmond and yeast (‘‘ﬂor’’) ﬂavor [ 1,5,38].
+The knowledge and literature on ‘ ‘ﬂor’’ yeasts is increasing.
+Many different yeast populations have been identiﬁed [ 7,11,
+15,22] and dynamics and successive ‘ ‘ﬂor’’ yeast populations
+during biological aging have been described too [ 16,18,23,
+27]. Velum formation by ﬁlmogenic ‘‘ﬂor’ ’ yeasts and its
+metabolism at physiological and molecular level have been
+studied by various authors [ 2,4,14,19,25,26,45]. Addi-
+tionally, biological aging conducted by selected ‘‘ﬂor’’ yeasthas been published [ 28,31]. Despite the wide knowledge on
+‘‘ﬂor’’ yeast, the yeasts responsible for alcoholic fermentation
+in Sherry wine have not yet deserved a great deal of attention,and the literature gaps in this area are signiﬁcant, for there are
+still very few studies [ 16].
+The traditional Sherry winemaking method includes
+spontaneous fermentation that produces distinguished
+wines, but this practice involves certain well-known risks
+such as irreproducible or undesirable ﬂavors and aromas,uncompleted sugar depletion, slow or stuck fermentations,
+etc. The inoculation of selected strains, such as commercial
+active dry yeast, has been a widespread winemaking practiceover the last few decades as a means to conduct fermentation
+[34,42]. Consequently, commercial active dry yeast is being
+used in some wineries at the Jerez de la Frontera region.Furthermore, there is a certain degree of controversy over
+this matter, since the use of commercial yeasts may diminish
+complexity and typicity. In addition, an indigenous starteradjusts to the ecological and technological features of a
+region all the more easily [ 21] preserving the wine’s typicity
+[20,35,43]. So, today, the goal is to select a suitable
+indigenous yeast capable of performing alcoholic fermen-
+tation [ 8,12,17,33]. However, the literature about
+autochthonous fermentative strain selection, and/or itscharacterization, to obtain base wine that may be used in the
+Sherry system is almost non-existent. The goal of this study
+has been the isolation of such strains.
+Autochthonous fermentative yeast starters, which are
+able to maintain typicity in Sherry wine, and can adjust tooenological practices and characteristics in this wine-
+making area, were isolated during the 2007 vintage. In the
+2008–2010 vintages, pilot-scale and industrial-scale fer-
+mentations were carried out with some of those yeasts. Onestrain (named J4) was eventually chosen over the rest to
+routinely conduct alcoholic fermentations at a local winery
+within the ﬁrst stage in ‘‘Fino’’ production. The isolation,selection, and characterization of yeast strains, covering
+from laboratory to industrial conditions, are described in
+this study.
+Materials and methods
+Laboratory and industrial mediaLaboratory-, pilot-, and industrial-scale fermentations were
+performed in industrial musts from 2007 to 2010 vintagesobtained from the Palomino ‘‘Fino’’ grape variety in the
+Jerez de la Frontera region. Those musts were kindly
+provided by Beam Global Espan ˜a S. L. winery, and typi-
+cally contained 80–100 mg/l total added sulphur dioxide,
+Baume ´grade ( 8Be´) from [10.5 to \14 and pH adjusted to
+3.2–3.4. One 8Be´equals 17 g/l fermentable sugar.
+Laboratory media YPD and YPD agar (1 % yeast
+extract, 2 % glucose, 2 % peptone and 2 % agar) were
+used for propagation and maintenance of yeast.
+Yeast strains
+Reference strains for fermentation assays were: C1 (IFI
+1693) wine yeast strain from the ‘‘Instituto de Fermenta-
+ciones Industriales’’ collection (Madrid, Spain) and C2(Fermol /C210super16) commercial active dried yeast from
+AEB Group (Brescia, Italy). Sensitive killer (non-producer)
+laboratory strain 47G, K1 toxin producer killer strain 1101and K2 toxin producer killer strain 1384 were kindly pro-
+vided by Dr. R. Esteban (University of Salamanca, Spain).
+Isolation and selection of yeasts from spontaneous
+industrial fermentations
+Two spontaneous fermentations were carried out in 30,000-l
+stainless-steel vats, each containing 25,000 l of must, at a
+Jerez de la Frontera cellar during the 2007 vintage. Fer-mentation processes were checked by four daily temperature
+and sugar content ( 8Be´) measurements. 8Be´was determined
+by means of a density meter according to the Ofﬁce Inter-national de la Vigne et du Vin procedure (OIV) [ 30]. At the
+end of fermentations (typically 8Be´reached 0 value), 50-ml
+samples were taken in sterile bottles from the middle zone ineach fermenter. Samples were transported on ice to the
+laboratory for processing. One hundred SaccharomycesJ Ind Microbiol Biotechnol
+123colonies, 50 from each fermenter, were randomly selected
+for study following procedures described [ 3].
+At a ﬁrst stage, yeasts were screened for the ability to
+ferment vigorously Palomino ‘‘Fino’’ grape musts at hightemperature (30 /C176C) in sterile small-scale fermentations
+(10 ml in duplicate). At a second phase, volatile acidity
+was measured at the end of those small-scale fermenta-tions, production of ﬁnal volatile acidity showing a
+Gaussian distribution (mean value was 0.71 g/l and mode
+value was 0.42 g/l; standard deviation was 0.25, n=100).
+The ﬁve strains that produced less volatile acidity and were
+also able to exhaust sugar content at 30 /C176C were then
+named J1, J2, J3, J4, and J5, and were chosen for further
+characterization.
+Electrophoretic karyotype
+The basic procedure followed for chromosomal DNA
+preparation was that of Codo ´n et al. [ 10]. The system used
+was a CHEF-DRII /C210gel electrophoresis apparatus from
+Bio-Rad Laboratories (Hercules, CA, USA). Electropho-resis was carried out at 14 /C176C and 200 V for 16 h with a
+70 s switching time and then for 12 h with 120 s switching
+time.
+Random ampliﬁed polymorphic DNA-polymerase
+chain reaction (RAPD-PCR)
+DNA extractions were performed with the help of Master-
+Pure
+TMYeast DNA Puriﬁcation Kit (Epicentre Biotech-
+nologies, Madison, WI, USA) following the manufacturers’
+instructions. RAPD proﬁles were generated using decamer
+primers from ‘‘Operon Technologies Primer Kit’’. Thenucleotide sequences of primers used were the following:
+OPA-1, 5
+0-CAGGCCCTTC-30; OPA-10, 50-GTGATCGC
+AG-30. Ampliﬁcations were carried out in a TC-512 ther-
+mocycler (Techne Inc., Burlington, USA) with Illustra
+puReTaq Ready-To-Go PCR Beads (GE Healthcare, Hert-
+fordshire, UK). Condition reactions were as described inFernandez-Espinar et al. [ 41]. RAPD-PCR proﬁles were
+analyzed by agarose gel (1 %) electrophoresis; image was
+captured under UV light in UVP Imaging System.
+Killer assays
+Production, sensitivity, and/or resistance to killer toxins K1
+or K2 were determined on YPD (pH 4.2) blue plates as
+described [ 37].
+Microviniﬁcation assays
+Pure microviniﬁcation assays were conducted in sterile
+ﬂasks containing 800 ml of must, without shaking, at28/C176C. Pre-cultured strains were inoculated at 0.1 optical
+density, measured at 660 nm (O.D.
+660), the industrial must
+was previously sterilized by ﬁltration (0.45- lm pore-size
+membrane ﬁlters). Samples were taken daily under sterileconditions in order to monitor fermentations; reduced sugar
+content was measured as described by Somogyi [ 36] and
+modiﬁed by Nelson [ 29].
+Oenological parametersFinal sugar concentration and volatile acidity were deter-
+mined by injection ﬂux in an Autoanalyzer AIII(Bran ?Luebbe GmbH, Norderstedt, Germany) according
+to the manufacturers’ indications, and were expressed as
+g/l. Ethanol content was determined by distillation, fol-lowing the ofﬁcial OIV method (OIV) [ 30].
+Volatile compounds were determined by gas chroma-
+tography in a Hewlett-Packard (Palo Alto, CA, USA) 5890Series II chromatograph equipped with capillary injector
+(250/C176C), ﬂame ionization detector (250 /C176C), capillary
+column (CP-WAX-57CB from Agilent Technologies)(45–200 /C176C, with 3 /C176C/min ramp), and spilt injection;
+nitrogen was the carrier gas. Acetaldehyde was determined
+by gas chromatography in a Hewlett-Packard (Palo Alto,CA, USA) 5890 Series II chromatograph equipped with
+packed columns injector ﬂame ionization detector, and a
+column containing 0.5 % Carbowax 1500 on Carbopack.Temperatures of injector and detector were 175–250 /C176C,
+respectively; nitrogen was the carrier gas (30 ml/min).
+Glycerine was determined by HPLC with a Waters chro-matograph equipped with a refractive index detector, four
+15-cm Fast-Fruit-Juice column from Waters. Temperatures
+of the column and detector were 55 and 38 /C176C, respec-
+tively; mobile phase was phosphoric acid at 0.25 ml/l in
+Milli-Q quality water.
+Sensory evaluation
+Sensory evaluations were conducted according to the pro-
+cedure previously employed for other base wines, as
+described in Torrens et al. [ 42]. Fermented musts were
+sensory evaluated by ﬁve to seven wine-taster experts pertest, according to availability. Those experts were pre-
+qualiﬁed and trained and were those who usually evaluate
+stocks from the winery. Four independent tests were car-ried out. Must fermented by means of each strain was
+present in 2–4 tests. Fermented musts were presented in
+clear glass bottles, and aliquot samples were served inwine-taster glasses. Evaluations were conducted at room
+temperature. The tasters were asked to rate global sensory
+quality of samples from 1 (worst) to 6 (best) in order toevaluate acceptability and potential use of base wine
+intended for Sherry production, following the standardJ Ind Microbiol Biotechnol
+123procedure of the winery. The ﬁnal scores were normalized
+on a scale from 1 to 10.
+Sulphur dioxide (SO 2) tolerance test
+SO2content was adjusted by adding sulphating agent
+‘‘Winy’’ from Enartis (Novara, Italy), that contains SO 2in
+the potassium metabisulphite form, to the grape juice.
+Strains, pre-cultured in sterile Palomino must (without
+SO2), were inoculated at 0.01 optical density, measured at
+620 nm (O.D. 620), in sterile must containing different
+amounts of total SO 2(0, 50, 100, 125, 150, 175, 200, 250,
+300 ppm) in accordance with winery criteria. Cultures
+were aliquoted in 96-well microplates: each microplate was
+prepared in quadruplicate and was incubated for 24 h; twoof them at 27 /C176C, and the other two at 34 /C176C. O.D.
+620was
+measured from 10 to 24 h in a microplate reader (Lab-
+systems iEMS Reader MF, Ramat-Gan, Israel). Alterna-tively, tolerance tests were carried out for longer periods of
+time and greater volumes; pre-cul tured strains were inoculated
+at 0.1 (O.D.
+660) in 150 ml of must containing a total of 300 ppm
+SO2; sugar content was measured daily.
+Desiccation tolerance testA desiccation tolerance test was performed as described by
+Takagi et al. [ 40] with some modiﬁcations: Samples at
+stationary phase were taken from YPD cultures, washed in
+sterile distilled water, ﬁltered, and dried at 30 /C176C until
+constant dried weight was reached. After that, samplesfrom the dried biomass were rehydrated in sterile distilled
+water at 37 /C176C for 30 min.
+Viability was determined by a ﬂow-cytometric assay
+(BD FACSCalibur ﬂow cytometer, NJ, USA) as described
+by Boid et al. [ 6] using ﬂuorescence dye oxonol, which
+stains dead cells bright green.
+Pilot-scale viniﬁcations
+Pilot-scale viniﬁcations, during the 2008 vintage, were
+carried out in 30,000-l stainless-steel vats, each containing
+25,000 l of must. The temperature was kept below 28 /C176C.
+Alcoholic fermentation behavior was evaluated daily by
+8Be´measurement and by counting cells. For scaling-up,
+selected yeast strains were cultured at the laboratory insterile ﬂasks containing 20 l of YPD until the stationary
+phase was reached. Each culture was aliquoted in several
+sterile bottles and biomass was then collected by centri-fugation. The pellets were resuspended in sterile distilled
+water, collected, and transferred together to a sole sterile
+ﬂask; they were washed twice in sterile distilled water.Moist pellets were transported to a cellar. Those moistpellets were divided into two halves to inoculate two non-
+sterile vats containing 20 l of Palomino ‘‘Fino’’ musts.
+When must reached vigorous fermentation (after 24–48 h,
+cell density was ca. 10
+8cells/ml, and 8Be´ca. 6–7) it was
+used to inoculate bigger volumes of non-sterile must. Cell
+number was estimated by microscopy using a Bu ¨rker
+chamber. Typically, inoculum size represents 5–7 % thenext scaling-up volume. At the end of scaling-up, 5,000 l
+of must in vigorous fermentation was used to inoculate
+25,000 l of must in each vat; at this stage, prefermented
+must represented 20 % ﬁnal volume. That is, four vats
+containing 25,000 l were fermented at the winery from aninitial 20 l of YPD culture from the laboratory.
+Industrial-scale viniﬁcationsIndustrial viniﬁcations were carried out in 38,500-l stain-
+less-steel vats, each containing 30,000 l of must. Thetemperature was kept below 28 /C176C. At the end of scaling-
+up, 2,500 l of must in vigorous fermentation was used to
+inoculate 30,000 l of must; at this point, prefermented mustrepresented 8.3 % ﬁnal volume. All fermentations were
+followed by four daily temperature and sugar content ( 8Be´)
+measurements. In addition, 50-ml samples were taken fromthe middle zone in each fermenter in the course of fer-
+mentation process, and were carried to the laboratory. Cell
+number was estimated by microscopy using a Bu ¨rker
+chamber. Serial dilutions were carried out, and samples
+were plated on YPD and incubated for 3 days at 28 /C176C;
+isolated colonies were randomly selected and used to per-form RAPD-PCRs intended to test presence of J4 strain.
+Biological agingThe musts, fermented in pilot-scale viniﬁcations, in
+30,000-l stainless-steel vats as described above, were fur-ther fortiﬁed to 15.5 % (v/v) ethanol content. For each
+aging test, 249 butts from the same cellar stocks, each one
+containing 12 ‘‘arrobas’’ (one ‘‘arroba’’ equals 16.66 l)wine aging under ‘‘ﬂor’’ yeasts, were ﬁlled with 15
+‘‘arrobas’’ of the aforementioned fortiﬁed wine to be tested.
+The mixed wine was allowed to age under the ‘‘ﬂor’’ velumnaturally occurring on the wine surface. Samples from the
+middle section in each butt were taken and pooled;
+glycerine, ethanol, acetaldehyde and volatile acidity contentsin mixed wine (the most important metabolites of Sherry
+wine [ 26]) were measured as described above. The quality
+of ‘‘ﬂor’’ velum was evaluated ‘‘de visu’’ according to threeparameters, i.e., thickness (thicker as higher quality, vs.
+thinner), color (whiter as higher quality, vs. yellow brown)
+and covered area (continuous as higher quality, vs. brokenor isolated) [ 25].J Ind Microbiol Biotechnol
+123Results
+Molecular characterization and oenological parameters
+of J1, J2, J3, J4, and J5 strains
+Five Saccharomyces autochthonous strains, named J1, J2,
+J3, J4, and J5 were selected, as described in the ‘‘ Materials
+and methods ’’ section. Strains showed karyotype patterns
+characteristic of the Saccharomyces genus but different
+from each other and also different with regard to referencestrains (Fig. 1a). Some RAPD-PCR proﬁles obtained were
+identical for all tested strains (data not shown), but others
+were useful to identify them, allowing to distinguish eachsingle strain or, alternatively, a single strain from the rest
+(Fig. 1b, c).
+To evaluate fermentation behavior and characterize
+oenological parameters in selected strains, microviniﬁcations
+were performed. All candidates reached volatile acidity
+production values under wine reference C1 strain, J4 beingthe lowest producer (Table 1). All ﬁve isolated strains
+showed appropriate fermentative kinetics comparable to
+those obtained for reference C1 and C2 strains. The isolates
+displayed similar sugar content consumption slopes,reaching an ethanol grade equal to that of reference strains
+and ﬂocculating at the end of fermentation, leaving a clear
+white wine (data not shown). After fermentations werecompleted, base wines were subjected to a sensory test by a
+panel of experts from the winery in order to evaluate
+potential use intended for Sherry production. Their fresh
+and fruity character and the absence of off-ﬂavor, together
+with well-balanced acidity, all of them desirable propertiesin this base wine, were evaluated; J4 strain obtained
+the highest score (Table 1). The killer phenotype (K1 and
+K2 biotype) of selected strains was evaluated as well(Table 1).
+The ability to grow in must in the presence of increasing
+amounts of SO
+2was also tested at 27 and 34 /C176C. All strains
+exhibited similar tolerance to concentrations below
+C1 C2 J1 J2 J3 J4 J5 C1 C2 J1 J2 J3 J4 J5 M C1 C2 J1 J2 J3 J4 J5 Mab c
+M
+Fig. 1 a Chromosomal patterns of C1 and C2 reference strains, and J3, J4, J5, J1, and J2 isolated strains. bExamples of RAPD-PCR proﬁles
+from the reference and the isolated strains established for primer OPA-1 and cfor primer OPA-10. Mcorresponds to DNA marker ladder
+Table 1 Oenological parameters for J1, J2, J3, J4, J5, and reference strains under laboratory conditions
+Strain Volatile acidity
+production (g/l)aKiller K1biotypeKiller K2
+biotypeKiller-sensitive
+biotypeAverage score
+tasting
+fViability afterdesiccation (%)
+g
+J1 0.43 ±0.07 r -bR?ck-d7.09 n.d.h
+J2 0.37 ±0.08 r - R? K?e6.00 n.d.
+J3 0.29 ±0.06 r - R? K? 6.27 n.d.
+J4 0.18 ±0.02 r - R? K? 10.00 63.56 ±7.62
+J5 0.31 ±0.01 r - R? K? 8.91 57.94 ±7.50
+C1 0.69 ±0.20 r - r- k- 9.27 75.03 ±11.41
+C2 0.41 ±0.04 r - r- k- 3.73 62.32 ±20.40
+aResults are average, and standard deviation of two to ﬁve experiments
+br-indicates absence of growth in the presence of killer strain
+cR?indicates capacity of growth in the presence of killer strain
+dk-indicates inability to inhibit growth of killer sensitive strain
+eK?indicates capacity to inhibit growth of killer sensitive strain
+fArbitrary units, on a scale from 1 (worst) to 10 (best). Values are average ranging from two to four tasting tests
+gResults are average, and standard deviation of three experiments in duplicate
+hn.d. means not determinedJ Ind Microbiol Biotechnol
+123200 ppm of total SO 2(Fig. 2a). J2, J4, and J5 strains were
+more tolerant and were capable of growing in the presence
+of at least 300 ppm of total SO 2. Results were similar at the
+two temperatures tested. Considering all results and inaccordance with winery criteria, J4 and J5 strains were
+selected as the best starter candidates; supplementary
+characterization was then performed. Fermentations con-ducted with J4, J5, and C2 reference strains were them
+achieved in must at 300 ppm of total SO
+2with the addi-
+tional stress of higher temperature (34 /C176C) or lower tem-
+perature (25 /C176C) (Fig. 2b). At 25 /C176C, all strains were able
+to exhaust sugar content, albeit C2 reference strain was
+faster. At 34 /C176C, only J5 strain was able to exhaust sugar,
+whereas J4 and C2 strains had about 5 % remaining fer-
+mentable sugar.
+New microviniﬁcation assays were also conducted with
+J4 and J5 strains and for C1 and C2 reference strains. At
+the end of fermentation, these Sherry base wines werestored at 4 /C176C and, after discarding deposited sediments,
+some physicochemical parameters and volatile compoundswere determined (Table 2). Data show a representative
+example: different must batches could yield quantitative
+differences between assays, but qualitative differences
+among strains were always repetitive. Although the C1reference strain showed the highest acetaldehyde concen-
+tration, the J4 strain always rendered high acetaldehyde,
+together with lowest volatile acid ﬁnal content.
+Subsequently, desiccation tolerance tests of J4 and J5
+strains were carried out in order to try their potential use as
+active dried yeast, since J4 and J5 isolates may be usedas fermentation starters. Strains C1 and C2 were used as
+reference strains. C2 strain is routinely commercialized as
+active dried yeast. The recovery percentage of viable cellsfrom J4 and J5 strains after desiccation and rehydration
+moved in the same range as that of C2 strain (Table 1).
+Pilot-scale fermentations
+During the 2008 vintage, four pilot fermentations in
+30,000-l vats were conducted with J4 and J5 candidates as
+starter strains. Kinetics fermentation behavior was checked
+by four daily temperature and sugar content measurementsall through the scaling phases. Average sugar content
+consumption slopes for the two strains in the last scale
+C1
+C2
+J1
+J2
+J3
+J4
+J5
+00.20.40.60.81
+0 100 200 300O.D.620
+SO2content (ppm)a
+b
+50100150200250
+0 50 100 150 200 250Sugar (g/l)
+Time (h)
+Fig. 2 a Ability to grow (O.D. 620) of C1, C2 reference strains and
+J1, J2, J3, J4, and J5 isolated strains in must in the presence ofincreasing amounts (0, 100, 200, 300 ppm) of SO
+2. Assays carried out
+at 27 /C176C in 96-well microplates. Results are average, and standard
+deviations of two experiments in duplicate. bAbility to ferment
+(sugar consumption) must containing 300 ppm of SO 2at 25 /C176C
+(empty symbol )o ra t3 4 /C176C(ﬁlled symbol ) of reference strain C2
+(squares ), J4 strain ( diamonds ) and J5 strain ( triangles ). Results are
+average of two measurementsTable 2 Final parameters measured after fermentations by J4, J5,
+and reference strains in sterile musts (pure microviniﬁcations)
+ParametersaC1 C2 J4 J5
+Sugar content (g/l) 1.08 0.41 1.13 1.07
+Ethanol content (%) 12.17 12.35 12.18 12.28Glycerol (g/l) 7.01 6.35 6.46 6.68Acetaldehyde (mg/l) 60.32 35.84 43.65 28.91Volatile acidity (g/l) 0.44 0.23 0.17 0.24Total acidity (g/l) 5.43 5.43 5.07 5.48p H 3333
+Methanol (mg/l) 66.35 66.78 64.66 69.79
+Propanol (mg/l) 24.56 19.99 19.33 18.61Ethyl acetate (mg/l) 26.62 23.52 18.78 21.35I-butanol (mg/l) 54.31 45.64 33.44 33.972-Methyl-1-butanol (mg/l) 20.18 24.93 26.3 29.943-Methyl-1-butanol (mg/l) 84.15 105.89 130.19 142.53C6 (mg/l) 0.3 0.2 0.4 0.3Ethyl lactate (mg/l) 2.9 2.4 3.3 4.4Hexanol (mg/l) 1.4 1.1 1.3 1.4C8 (mg/l) 0.9 0.3 0.4 0.3C10 (mg/l) 1.3 1.4 2.4 1.7Diethyl succinate (mg/l) 0.3 0.3 0.3 0.4C12 (mg/l) 0.2 0.2 0.3 0.22-phenylethanol (mg/l) 3.1 5.5 7.4 7.5
+aDifferent batches give rise to quantitative differences in absolute
+values of parameters indicated above, but qualitative differences weremaintained. For this reason, a representative example is shownJ Ind Microbiol Biotechnol
+123phase (25,000 l) is represented in Fig. 3. Fermentation
+kinetics for J4 and J5 were better than that obtained for
+commercial C2 reference strain. Other interesting oeno-
+logical parameters were determined at the end of fermen-tations. Since J4 and J5 strains were previously selected
+from spontaneous fermentations, data of a spontaneous
+fermentation are shown as well (Table 3). The J4 and J5
+strains obtained similar values for oenological parameters.
+The J4 strain reached the highest alcoholic grade at the end
+of fermentation.
+Behavior under biological aging
+These Sherry base wines fermented in pilot scales during
+the 2008 vintage by J4, J5, and C2 strains were further
+fortiﬁed (15.5 % v/v ethanol content) and subjected tonormal biological aging process for Sherry wines, accord-
+ing to the ‘‘solera’’ system [ 5]. The wines were then sub-
+jected for 18 months to biological aging under the naturallydeveloped ‘‘ﬂor’’ velum. Wine samples from butts were
+taken; some oenological parameters were determined, and
+the dynamic development of ‘‘ﬂor’’ velum (types and fre-quencies) was evaluated ‘‘de visu’’ (Table 4). Three types
+of ‘‘ﬂor’’ velum qualities (A, B and C) were observed:
+continuous, white and thick ‘‘ﬂor’’ velum (type A, highestquality); continuous, white but thinner ‘‘ﬂor’’ velum (typeB, medium quality); and broken or absent ‘‘ﬂor’’ velum
+(type C, poorest quality). Type A, which is less common
+after summer, was predominant in all cases. Such seasonal
+‘‘ﬂor’’ velum behavior is common in this winegrowingarea. After 18 months, as a result of ‘‘ﬂor’’ yeast metabo-
+lism, wines reduced glycerine content, volatile acidity
+content and ethanol content, as expected. In addition,acetaldehyde content, responsible for the distinctive aroma
+of ‘‘Fino’’, increased (Table 4). All those parameters
+indicate correct ‘‘ﬂor’’ velum formation (in spite of J4
+and J5 strains being k2) and excellent organoleptic char-
+acteristics under biological aging in these Sherry basewines.
+Industrial-scale viniﬁcationsAs a result, during the 2009–2010 vintages, strain J4 was
+selected to perform industrial viniﬁcations in cellar withvats of similar capacity to those of pilot-scale viniﬁcations,
+but increasing considerably vat number. In 2009, the best-
+quality non-sterile musts were fermented with J4 candidatestrain and with C2 reference strain. A total of 350,000 l of
+wine was produced with the C2 strain, and 950,000 l with
+the J4 strain. Analytical parameters measured at the end offermentation are summarized in Table 5. Those Sherry
+base wines were further tested by a panel of testers from
+the winery. Wines elaborated with J4 were better evaluatedby testers than those obtained with commercial C2 strain.
+As a result, since 2010 vintage, the J4 strain was selected to
+routinely ferment the best-quality musts at the cellar.Analytical parameters measured at the end of fermentation
+in 2010 vintage are summarized in Table 5, as well. The
+base wines obtained were excellent and rather similar tothose from 2009 vintage.
+Prevalence of J4 strain under industrial fermentationTo prove the prevalence of inoculated J4 strain under
+industrial conditions, samples from industrial fermentation,conducted with J4 strain as starter, were taken and
+compared with spontaneous, non-inoculated fermentation.246810
+0 2 04 06 08 0 1 0 0º Bé
+Time (h)
+Fig. 3 Sugar consumption ( 8Be´) in pilot-scale fermentations. Results
+are average, and standard deviations of four fermentations conductedby J4 strain ( ﬁlled circles ) and four fermentations conducted by J5
+strain ( empty circles ), compared with one representative fermentation
+conducted by C2 reference strain ( triangles )
+Table 3 Final parameters for J4, J5, and reference strains measured at the end of non-sterile pilot-scale fermentations
+Strain Ethanol content (%) Volatile acidity (g/l) Sugars content (g/l) pH Total acidity (g/l)
+J4 13.26 ±0.15 0.29 ±0.01 0.28 ±0.06 3.15 ±0.01 5.68 ±0.07
+J5 12.81 ±0.04 0.30 ±0.01 0.28 ±0.04 3.16 ±0.01 5.69 ±0.04
+Sa12.79 0.32 0.45 3.18 5.47
+C2 12.96 0.31 2.54 3.22 7.36
+aS indicates spontaneous fermentation
+J4 and J5 results are average, and standard deviation of four pilot fermentations in duplicateS and C2 are representative fermentationsJ Ind Microbiol Biotechnol
+123Alcoholic fermentation behavior was evaluated daily by
+8Be´measurement. The presence of J4 inoculated strain was
+evaluated from samples taken all through the fermentation
+process. For this purpose, RAPD-PCRs analyses withOPA-10 primer were carried out; DNA was extracted from
+50 colonies randomly selected from each sample (Table 6).
+J4 was the predominant strain during vigorous fermentationin the inoculated vat. Some physicochemical parameters
+and volatile compounds were also determined at the end
+of fermentations (Table 6). Data show a representative
+example: different must batches could render quantitativedifferences among fermentations, carried out spontaneously
+or by the different strains, but qualitative differences were
+repetitive. Similar values for mainly oenological parameters
+were reached. In addition, acetaldehyde content in theinoculated vats reached a considerable high value.
+From data obtained and in accordance with results, J4
+strain seems to be the best candidate to conduct alcoholicfermentations and produce Sherry base wine; it was chosen
+by the wine company to produce base Sherry white wine
+for the elaboration of commercial Sherry wine since 2010
+vintage.Table 4 Dynamic development and metabolism of the ‘‘ﬂor’’ velum naturally occurring on Sherry wines, previously fermented by either C2, J4,
+or J5 strains, fortiﬁed and subjected to biological aging for up to 18 months
+Percentage of butts Total production ( ?) or consumption ( -) after
+18 months of agingc
+FermentingstrainFlor
+velum
+type
+aTime of aging (months)
+April
+2009
+(t=1)September
+2009
+(t=6)January
+2010
+(t=10)May
+2010
+(t=14)September
+2010
+(t=18)Ethanol
+(%)Volatile
+acidity
+(g/l)Glycerine
+(g/l)Acetaldehyde
+(mg/l)
+J4bA7 37 1 8 5 8 5 6 8 -1.3 -0.09 -1.8 ?48
+B1 51 8 1 2 1 1 1 7C1 21 1 3 4 1 5
+J5
+bA7 26 7 8 1 8 3 6 9 -1.4 -0.10 -1.8 ?40
+B2 22 4 1 1 8 2 1C69 8 9 1 0
+C2
+bA8 36 9 8 8 8 3 5 9 -1.2 -0.13 -1.9 ?47
+B 16 22 5 12 21C19 7 5 2 0
+aA highest, B medium, C poorest quality
+bTotal number of butts: 249
+cData show averages
+Table 5 Features of musts before fermentation and oenological parameters of wine obtained after non-sterile industrial scale fermentation
+carried out by either C2 or J4
+Density
+(/C176Be´)Total acidity
+(g/l)pH Ethanol
+content (%)Volatile
+acidity (g/l)Sugars
+content (g/l)pH Total
+acidity (g/l)SO2
+(ppm)
+Strain Musta(Vintage 2009) Base wine
+C2 12.5 3.1 3.7 12.8 0.26 0.7 3.2 5.1 59
+12.6 3.4 3.9 12.9 0.27 1.1 3.2 5.1 64
+12.7 3.8 4.0 13.1 0.29 1.2 3.2 5.2 69
+J4 12.4 2.7 3.7 12.8 0.23 0.1 3.1 4.9 59
+13.0 3.4 3.9 13.4 0.26 0.9 3.2 5.4 6213.5 3.5 4.1 13.9 0.31 2.2 3.3 5.9 68
+Strain Must
+a(Vintage 2010) Base wine
+J4 11.2 2.9 3.6 11.4 0.18 0.4 3.1 4.8 48
+11.9 3.5 4.0 12.5 0.24 1.0 3.2 5.3 6812.8 3.8 4.2 13.0 0.34 2.7 3.3 6.1 79
+Data show minimum, average, and maximum values
+aData before fermentation and pH and SO 2adjustmentJ Ind Microbiol Biotechnol
+123Discussion
+In the last few decades, the tendency to apply commercial
+active dried yeasts in non-Sherry producing wineries hasbecome widespread [ 17,42,44]. In addition, in recent
+times, the efforts are directed to select an appropriate
+indigenous yeast to perform alcoholic fermentation. Someexploratory studies in other different fortiﬁed wines are
+emerging [ 35], but to the best of our knowledge, none of
+those studies have been carried out in Sherry-producingcellars, although some Sherry-producing companies are
+investigating the use of selected strains of S. cerevisiae to
+conduct alcoholic fermentation. In ‘‘Fino’’ production, palefermented and low acidity musts exhibit the best qualities.
+The mechanical harvest method applied over the last
+few decades partially favors the development of non-Saccharomyces yeasts that increase ﬁnal acidity content,
+hence, the need to select a yeast starter capable of toler-
+ating a fairly high concentration of sulphite, and in addition
+producing low volatile acidity ﬁnal content and highacetaldehyde.
+Five Saccharomyces strains from those isolated at the
+end of spontaneous fermentations in the Sherrywinemaking area were selected and characterized in this
+study. The selection of yeasts at the end of spontaneous
+fermentations brings about isolate local strains that present
+high fermentative power and tolerance, well adjusted to the
+speciﬁc oenological practices of a region or a particularcellar and winemaking area [ 32]. The fermentative
+behavior in laboratory conditions of the isolates was
+appropriate, comparable to those of the reference strains.The J4 strain, capable of tolerating a fairly high concen-
+tration of sulphite, showed the lowest volatile acidity
+together with high acetaldehyde content, but since labora-tory-scale experiences do not always mimic industrial
+scale, pilot and industrial fermentations were also per-
+formed. In fact, highly clariﬁed must fermentation kineticsand metabolite synthesis are strongly affected by the
+experiment scale [ 9]. Although the Sherry must intended
+for ‘‘Fino’’ production is a highly clariﬁed must, the can-didates tested behaved as expected in non-sterile pilot
+fermentations and the results were promising.
+The indigenous J4 strain was selected over the rest and
+was tested under industrial conditions; the inoculated strain
+was the most abundant yeast in the course of the vigorous
+fermentation (56–68 %), where metabolic activity is max-imal, and so it became the principal alcoholic fermentation
+agent; ﬂocculation may account for the low percentage of J4
+at the end of fermentation. At the cellar where the study wasconducted, musts can reach high temperatures (under
+30/C176C) before and during transfer to fermentation vats, thus
+allowing musts to partially ferment. For this reason, somenatural microorganisms grow, and the inoculated strain has
+to coexist with other species. The development of Saccha-
+romyces and non- Saccharomyces species at the beginning
+of fermentation could be desirable, as it provides com-
+plexity to the resulting wine [ 13,39]. However, as data
+show, the J4 strain prevailed during vigorous fermentationprocess. Inoculum size and must state, together with strain
+competence abilities, can be essential to determine which
+species are predominant. Variations in inoculum protocolcould modulate propagation of starter strains, as has been
+suggested [ 33]. In our experience, the volume of inoculum
+size was 8.3 % ﬁnal volume in industrial fermentation,allowing the J4 strain to conduct alcoholic fermentation,
+apart from coexisting with natural microbiota, thus ren-
+dering a low volatile acidity and high acetaldehyde ﬁnalcontent base wine. A similar percentage of J4 at the end of
+inoculated and spontaneous fermentations may be due to theTable 6 Detection (%) of J4 strain during fermentation process and
+ﬁnal parameters measured at the end of non-sterile industrial scale
+fermentation
+Inoculated strain
+Time (h) J4 Sa
+/C176Be´% J4 strain /C176Be´% J4 strain
+48 7.3 56 8 10
+72 4.1 68 3.9 6144 0.9 30 0.9 8192 0.9 18 0.9 16Final parameters
+b
+Ethanol content (%) 12.43 12.57Acetaldehyde (mg/l) 82.24 56.62Volatile acidity (g/l) 0.22 0.19Total acidity (g/l) 7.92 8.23pH 3.15 3.13
+Methanol (mg/l) 67.37 64.03
+Propanol (mg/l) 18.77 17.88Ethyl acetate (mg/l) 19.03 19.53I-butanol (mg/l) 43.79 60.112-Methyl-1-butanol (mg/l) 62.79 52.653-Methyl-1-butanol (mg/l) 243.41 226.07C6 (mg/l) 0.2 0.2Ethyl lactate (mg/l) 6.0 5.5Hexanol (mg/l) 1.9 1.8C8 (mg/l) 0.8 0.3C10 (mg/l) 1.5 1.5Diethyl succinate (mg/l) 0.3 0.3C12 (mg/l) 0.2 0.22-phenylethanol (mg/l) 9.0 13.7
+aS indicates spontaneous fermentation
+bDifferent batches give rise to quantitative differences in absolute
+values of parameters indicated above, but qualitative differences weremaintained. For this reason, a representative example is shownJ Ind Microbiol Biotechnol
+123fact that J4 is a resident strain of the cellar. This suggestion
+is based on two facts, namely its isolation from local
+spontaneous fermentation and its prevalence throughout
+several vintage fermentations.
+Nevertheless, the ultimate goal for a Sherry base wine
+produced by Sherry wine manufacturers is biological
+aging, which is carried out under a natural ‘‘ﬂor’’ velumformed on the wine surface by the so-called ‘‘ﬂor’’ yeasts
+[24,26]. All fermentative autochthonous yeasts tested in
+this work were tolerant to K2 toxin, and all but one were
+producers. Furthermore, viability of the J4 strain was
+11–12 % after fortifying the wine to 15.5 % ethanol priorto aging (data not shown). The Sherry base wine elaborated
+with the selected strain is further subjected to the regular
+biological aging of Sherry wines. Stocks are under bio-logical aging and results point to an excellent ‘‘ﬂor’’ velum
+formation. Therefore, the killer phenotype in the selected
+fermentative strain does not interfere either with sub-sequent indigenous ‘‘ﬂor’’ yeast development or with
+‘‘ﬂor’’ velum formation, which occurs at low temperature
+and pH, optimal for the toxin to be active, probablybecause some ‘‘ﬂor’’ yeasts are K2 resistant [ 22] or because
+the toxin may not be active at such ethanol concentrations.
+Desiccation tolerance of J4 and J5 indigenous strains has
+been tested too, and it has proved to be similar to that of
+commercial C2 strain. This fact opens the possibility to
+store and use indigenous strains as commercial driedyeasts.
+The J4 strain is currently being used routinely to ferment
+Palomino musts with a commercial purpose.
+Acknowledgments This research was supported by CICYT projects
+AGL2006-03947, TRACE PET2008_0283, and Junta de Andalucı ´a
+(PAI CVI-107 PO6-CVI-01546). There was ﬁnancial support from
+Beam Global-Jerez de la Frontera (OG-127/06, OG-185/07). The
+authors thank the cellar and laboratory staff at Beam Global Espan ˜aS .L .
+for their kind help; they also thank A. M. Rinco ´n for useful criticism.
+References
+1. Angeles Pozo-Bayon M, Victoria Moreno-Arribas M (2011)
+Sherry wines. Adv Food Nutr Res 63:17–40
+2. Aranda A, del Olmo M (2003) Response to acetaldehyde stress in
+the yeast Saccharomyces cerevisiae involves a strain-dependent
+regulation of several ALD genes and is mediated by the general
+stress response pathway. Yeast 20:747–759
+3. Barnett JA, Payne RW, Yarrow D (1990) Yeast: characteristics
+and identiﬁcation, 2nd edn. Cambridge University Press, England
+4. Barrales RR, Jime ´nez J, Ibeas JI (2008) Identiﬁcation of novel
+activation mechanisms for FLO11 regulation in Saccharomyces
+cerevisiae . Genetics 178:145–156
+5. Benı ´tez T, Rinco ´n AM, Codo ´n AC (2011) Yeasts used in bio-
+logically aged wines. In: Carrascosa AV, Munoz D, Gonza ´lez R
+(eds) Molecular wine microbiology. Elsevier, San Diego p 51–84
+6. Boyd AR, Gunasekera TS, Attﬁeld PV, Simic K, Vincent SF,
+Veal DA (2003) A ﬂow-cytometric method for determination ofyeast viability and cell number in a brewery. FEMS Yeast Res
+3:11–16
+7. Budroni M, Giordano G, Pinna G, Farris GA (2000) A genetic
+study of natural ﬂor strains of Saccharomyces cerevisiae isolated
+during biological ageing from Sardinian wines. J Appl Microbiol
+89:657–662
+8. Capece A, Romaniello R, Siesto G, Pietrafesa R, Massari C,
+Poeta C, Romano P (2010) Selection of indigenous Saccharo-
+myces cerevisiae strains for Nero d’Avola wine and evaluation of
+selected starter implantation in pilot fermentation. Int J FoodMicrobiol 144:187–192
+9. Casalta E, Aguera E, Picou C, Rodriguez-Bencomo JJ, Salmon
+JM, Sablayrolles JM (2010) A comparison of laboratory and
+pilot-scale fermentations in winemaking conditions. ApplMicrobiol Biotechnol 87:1665–1673
+10. Codo ´n AC, Benı ´tez T, Korhola M (1998) Chromosomal poly-
+morphism and adaptation to speciﬁc industrial environments of
+Saccharomyces strains . Appl Microbiol Biotechnol 49:154–163
+11. Charpentier C, Colin A, Alais A, Legras JL (2009) French Jura
+ﬂor yeasts: genotype and technological diversity. Antonie Van
+Leeuwenhoek 95:263–273
+12. Chovanova K, Krakova L, Zenisova K, Turcovska V, Brezna B,
+Kuchta T, Pangallo D (2011) Selection and identiﬁcation of
+autochthonous yeasts in Slovakian wine samples using a rapid and
+reliable three-step approach. Lett Appl Microbiol 53:231–237
+13. De Benedictis M, Bleve G, Grieco F, Tristezza M, Tufariello M,
+Grieco F (2010) An optimized procedure for the enological
+selection of non- Saccharomyces starter cultures. Antonie Van
+Leeuwenhoek 99:189–200
+14. Espinazo-Romeu M, Cantoral JM, Matallana E, Aranda A (2008)
+Btn2p is involved in ethanol tolerance and bioﬁlm formation in
+ﬂor yeast. FEMS Yeast Res 8:1127–1136
+15. Esteve-Zarzoso B, Fernandez-Espinar MT, Querol A (2004)
+Authentication and identiﬁcation of Saccharomyces cerevisiae
+‘ﬂor’ yeast races involved in sherry ageing. Antonie Van Leeu-
+wenhoek 85:151–158
+16. Esteve-Zarzoso B, Peris-Tora ´n MJ, Garcı ´a-Maiquez E, Uruburu
+F, Querol A (2001) Yeast population dynamics during the fer-
+mentation and biological aging of sherry wines. Appl Environ
+Microbiol 67:2056–2061
+17. Fleet GH (2008) Wine yeasts for the future. FEMS Yeast Res
+8:979–995
+18. Ibeas JI, Lozano I, Perdigones F, Jime ´nez J (1997) Dynamics of
+ﬂor yeast populations during the biological aging of Sherrywines. Am J Enol Vitic 48:75–79
+19. Ishigami M, Nakagawa Y, Hayakawa M, Iimura Y (2006) FLO11
+is the primary factor in ﬂor formation caused by cell surfacehydrophobicity in wild-type ﬂor yeast. Biosci Biotechnol Bio-chem 70:660–666
+20. Lopes CA, Rodriguez ME, Sangorrin M, Querol A, Caballero AC
+(2007) Patagonian wines: implantation of an indigenous strain ofSaccharomyces cerevisiae in fermentations conducted in tradi-
+tional and modern cellars. J Ind Microbiol Biotechnol 34:139–149
+21. Lopes CA, Rodrı ´guez ME, Sangorrin M, Querol A, Caballero AC
+(2007) Patagonian wines: the selection of an indigenous yeaststarter. J Ind Microbiol Biotechnol 34:539–546
+22. Martinez P, Codo ´n AC, Perez L, Benı ´tez T (1995) Physiological
+and molecular characterization of ﬂor yeasts: polymorphism ofﬂor yeast populations. Yeast 11:1399–1411
+23. Martı ´nez P, Pe ´rez L, Benı ´tez T (1997) Evolution of ﬂor yeast
+population during the biological aging of ﬁno sherry wine. Am J
+Enol Vitic 48:160–168
+24. Martı ´nez P, Pe ´rez L, Benı ´tez T (1997) Factors which affect
+velum formation by ﬂor yeast isolated from sherry wine. Syst
+Appl Microbiol 20:154–157J Ind Microbiol Biotechnol
+12325. Martı ´nez P, Pe ´rez L, Benı ´tez T (1997) Velum formation by ﬂor
+yeasts isolated from sherry wine. Am J Enol Vitic 48:55–62
+26. Martı ´nez P, Valca ´rcel MJ, Pe ´rez L, Benı ´tez T (1998) Metabolism
+ofSaccharomyces cerevisiae ﬂor yeasts during fermentation and
+biological aging of ﬁno sherry: by-products and aroma com-
+pounds. Am J Enol Vitic 49:240–250
+27. Mesa JJ, Infante JJ, Rebordinos L, Cantoral JM (1999) Charac-
+terization of yeasts involved in the aging of sherry wines. Food
+Sci Technol 32:114–120
+28. Mun ˜oz D, Peinado RA, Medina M, Moreno J (2005) Biological
+aging of sherry wines using pure cultures of two ﬂor yeast strainsunder controlled microaeration. J Agric Food Chem 53:5258–
+5264
+29. Nelson NJ (1955) Colorimetric analysis of sugars. Methods
+Enzymol 3:85–86
+30. OIV (1990) Recueil des Methodes Internationales d’Analysis des
+Vins et des Mouts. Ofﬁce Internationale Vigne Vin, Paris
+31. Peinado RA, Moreno J, Medina M, Mauricio JC (2004) Changes
+in volatile compounds and aromatic series in sherry wine with
+high gluconic acid levels subjected to aging by submerged ﬂor
+yeast cultures. Biotechnol Lett 26:757–762
+32. Pulvirenti A, Rainieri S, Boveri S, Giudici P (2009) Optimizing
+the selection process of yeast starter cultures by preselecting
+strains dominating spontaneous fermentations. Can J Microbiol
+55:326–332
+33. Rodrı ´guez ME, Infante JJ, Molina M, Domı ´nguez M, Rebordinos
+L, Cantoral JM (2010) Genomic characterization and selection of
+wine yeast to conduct industrial fermentations of a white wine
+produced in a SW Spain winery. J Appl Microbiol 108:1292–1302
+34. Romano P, Fiore C, Paraggio M, Caruso M, Capece A (2003)
+Function of yeast species and strains in wine ﬂavour. Int J FoodMicrobiol 86:169–180
+35. Settanni L, Sannino C, Francesca N, Guarcello R, Moschetti G
+(2012) Yeast ecology of vineyards within Marsala wine area
+(western Sicily) in two consecutive vintages and selection ofautochthonous Saccharomyces cerevisiae strains. J Biosci Bioeng
+114:606–614
+36. Somogyi M (1952) Note on sugar determination. J Biol Chem
+195:19–25
+37. Sua ´rez-Lepe JA (1997) Levaduras vı ´nicas: funcionalidad y uso en
+bodegas. Ediciones Mundi-Prensa, Madrid
+38. Sua ´rez-Lepe JA, I ´n˜igo Leal B (2004) Microbiologı ´a enolo ´gica.
+Fundamentos de viniﬁcacio ´n, 3rd edn. Ediciones Mundi-Prensa,
+Madrid
+39. Suzzi G, Schirone M, Sergi M, Marianella RM, Fasoli G, Aguzzi
+I, Tofalo R (2012) Multistarter from organic viticulture for redwine Montepulciano d’Abruzzo production. Front Microbiol
+3:135
+40. Takagi H, Sakai K, Morida K, Nakamori S (2000) Proline
+accumulation by mutation or disruption of the proline oxidasegene improves resistance to freezing and desiccation stresses in
+Saccharomyces cerevisiae . FEMS Microbiol Lett 184:103–108
+41. Teresa Ferna ´ndez-Espinar M, Barrio E, Querol A (2003) Analysis
+of the genetic variability in the species of the Saccharomyces
+sensu stricto complex. Yeast 20:1213–1226
+42. Torrens J, Urpi P, Riu-Aumatell M, Vichi S, Lo ´pez-Tamames E,
+Buxaderas S (2008) Different commercial yeast strains affectingthe volatile and sensory proﬁle of cava base wine. Int J Food
+Microbiol 124:48–57
+43. Tristezza M, Vetrano C, Bleve G, Grieco F, Tufariello M, Quarta
+A, Mita G, Spano G, Grieco F (2012) Autochthonous fermenta-tion starters for the industrial production of Negroamaro wines.
+J Ind Microbiol Biotechnol 39:81–92
+44. Xufre A, Albergaria H, Girio F, Spencer-Martins I (2010) Use of
+interdelta polymorphisms of Saccharomyces cerevisiae strains to
+monitor population evolution during wine fermentation. J Ind
+Microbiol Biotechnol 38:127–132
+45. Zara G, Zara S, Pinna C, Marceddu S, Budroni M (2009) FLO11
+gene length and transcriptional level affect bioﬁlm-forming
+ability of wild ﬂor strains of Saccharomyces cerevisiae . Micro-
+biology 155:3838–3846J Ind Microbiol Biotechnol
+123

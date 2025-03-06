@@ -1,0 +1,737 @@
+RESEARCH PAPER
+Bioethanol production from raw sugar beet cossettes in horizontal
+rotating tubular bioreactor
+Mladen Pavlec ˇic´1•Toncˇi Rezic ´1•Mirela Ivanc ˇic´Sˇantek1•Predrag Horvat1•
+Bozˇidar S ˇantek1
+Received: 18 April 2017 / Accepted: 27 July 2017
+/C211Springer-Verlag GmbH Germany 2017
+Abstract Fossil fuels are still major energy sources, but
+the search for renewable energy sources has been encour-
+aged. Bioethanol has been recognized as an alternative to
+fossil fuels and nowadays it represents more than 90% of
+the global biofuel production. Bioethanol production from
+raw sugar beet cossettes as a semi-solid substrate was
+studied. The study was carried out in the horizontal rotating
+tubular bioreactor (HRTB) with Saccharomyces cerevisiae
+as a microbial production strain. The impact of different
+combinations of HRTB operational parameters such as,
+rotation speed (5–15 min-1), rotation type [constant or
+interval (3–15 min h-1)] and working volume (ratio VW/
+VT=0.2–0.7) on the bioethanol production was examined.
+In this study, the highest bioprocess efﬁciency parame-
+ters ( YP1=S=0.47 g g-1,E=87.36% and Pr =0.618
+gL-1h-1) were observed at 0.20 VW/VT, interval rotation
+of 12 min h-1and rotation speed of 15 min-1. It has to be
+pointed out that bioethanol production efﬁciency in the
+HRTB was on the similar level as observed by bioethanol
+production from the raw sugar beet juice. Naturally present
+microorganisms of sugar beet could have a signiﬁcant
+impact on bioethanol production. Higher yeast inoculation
+rate could reduce contaminant activities and, consequently,
+the bioethanol production efﬁciency would be improved.
+Keywords Bioethanol /C1Raw sugar beet cossettes /C1
+Horizontal rotating tubular bioreactor (HRTB) /C1Different
+HRTB operational conditionsIntroduction
+Global fossil fuels reserves decrease as energy require-
+ments has been continuously grown. In the last two dec-
+ades, the search for renewable, sustainable and
+environmentally-friendly energy sources has been encour-
+aged around the world in order to satisfy energy demands
+and to prevent climate changes [ 1]. Bioethanol has been
+recognized worldwide as an alternative to petroleum-
+derived transport fuels and nowadays it represents more
+than 90% of the global biofuel production [ 2–5]. For the
+production of bioethanol, sugar (e.g. sugarcane or sugar
+beet) and starch (e.g. corn or wheat) containing raw
+materials as well as lignocellulosic raw materials can be
+used [ 6,7]. Non-expensive and more abundant raw mate-
+rials are desirable for industrial bioethanol production.
+Lignocellulosic raw materials are considered as an attrac-
+tive feedstock for the production of bioethanol because of
+their availability in large quantities at relatively low cost,
+thus reducing competition with food but not necessarily
+with feed [ 7–13]. Microalgae and cyanobacteria are also
+considered as a feedstock for bioethanol production [ 14].
+Degradation of lignocellulosic raw materials is compli-
+cated, energy-consuming and still an immature process
+[7,15,16]. In the future, the use of modern genetics and
+other tools will signiﬁcantly reduce the cost of producing
+sugars from lignocellulosic raw materials [ 10,17]. Cur-
+rently, the participation of raw materials in the ﬁnal bioe-
+thanol price is in the range of 40–70% [ 18]. This
+participation of raw materials in the bioethanol price can be
+reduced by the use of waste products from forestry, agri-
+culture and industry [ 10,19,20]. Furthermore, it is also
+important that the bioethanol production will be located in
+the renewable raw materials production region because of
+&Bozˇidar S ˇantek
+bsantek@pbf.hr
+1Department of Biochemical Engineering, Faculty of Food
+Technology and Biotechnology, University of Zagreb,
+Pierottijeva 6, 10000 Zagreb, Croatia
+123Bioprocess Biosyst Eng
+DOI 10.1007/s00449-017-1823-xthe reduction of costs for raw materials collection, trans-
+portation and storage [ 21,22].
+In Europe industrial production of bioethanol is still
+based on the sugar and starch containing raw materials.Due to the often surplus of sugar beet as a raw material for
+sugar production it is possible that sugar factories redirect
+this sugar beet surplus into bioethanol production [ 23].
+However, availability and transport of this raw material
+represent major cost when new cost effective production
+facilities are planned to be build up. Sugar production
+plants with current equipment are capable to utilize dif-
+ferent intermediates of sugar beet processing (e.g. rawsugar juice with 15–18% sugar or concentrated sugar syrup
+with 65–67% sugar) as well as by-products (e.g. molasses
+&50% sugar) for bioethanol production [ 24,25]. However,
+production of these intermediates involves energy
+demanding processes with main energy consuming opera-
+tions like sugar extraction from sugar beet cossettes, sugarjuice concentration by evaporation, ethanol distillation as
+well as distillers mash concentration and drying [ 26]. These
+processes signiﬁcantly affect the energy input/output ratioand therefore they have direct impact on the ecological
+sustainability of bioethanol production. The development
+of integrated bioprocesses, in which simultaneous productsynthesis and in situ product removal are combined, can
+result in more energy conserving and less expensive
+bioethanol production. So far integrated bioprocess hasbeen successfully developed for acetone-butanol-ethanol
+(ABE) fermentation [ 27]. Another possible aspect to con-
+sider, as way of reducing production costs and increasingsustainability, is to replace liquid broth with semi-solid
+substrate. So far different types of substrate and microor-
+ganism in semi-solid bioethanol production were studied[28–32]. The promising idea for the reduction of bioethanol
+production cost is the use of semi-solid intermediates of
+sugar beet processing (e.g. cossettes or pulp) as a semi-solid substrate. Until now, investigation of bioethanol
+production in semi-solid bioprocesses with ensilage sugar
+beet pulp [ 33], mixed grape and sugar beet pomace [ 34]o r
+mixed mash of sugar beet roots and potato tubers [ 21] were
+performed. For efﬁcient and sustainable bioethanol pro-
+duction different types of bioreactors have to be usedbecause of renewable feedstock’s diversity. Tubular
+bioreactors are one possibility due to the fact that mixing is
+more uniform in these bioreactors compared to the stirredtank bioreactors. Area-to-volume ratio is signiﬁcantly
+higher in tubular bioreactors resulting in more efﬁcient
+mass and heat transfer. This is important for bioprocesseswith semi-solid or solid substrates, photoreactions (maxi-
+mum exposure to light) and shear sensitive organisms. Due
+to the plug ﬂow conditions the gradients of concentrationsalong the bioreactor are formed that is advantageous in the
+case of inhibition and/or repression kinetics. In these cases,high conversion efﬁciency and productivity can be simul-
+taneously achieved. However, the major drawback of
+tubular bioreactors is relatively low oxygen supply capac-
+ity [ 35]. Currently, computational ﬂuid dynamic (CFD)
+model is developing for description of simultaneous
+extraction and fermentation process in the sugar beet cos-
+settes [ 36].
+In this research, the possibility of using untreated raw
+sugar beet cossettes as a semi-solid substrate for bioethanol
+production in the new developed type of horizontal rotating
+tubular bioreactor (HRTB) was studied. Furthermore, the
+optimal operational conditions of HRTB (i.e. the rotationspeed and the manner of bioreactor rotation as well as
+bioreactor working volume) for semi-solid bioethanol
+production were examined.
+Materials and methods
+Bioethanol production in a horizontal rotatingtubular bioreactor
+In this research, bioethanol production from raw sugar beet
+cossettes (as a semi-solid substrate) in the HRTB wasstudied. The HRTB is constructed as 0.6 m long and
+0.25 m wide stainless steel tube with total volume of 30 L.
+The interior of HRTB contains two paddles (0.04 m heightand 0.6 m length) ﬁxed on the bioreactor wall in order to
+improve mixing and homogenization of bioreactor content.
+The bioreactor was placed on the bearings that enablerotation of the whole bioreactor. Furthermore, bioreactor is
+additionally equipped with a regulation system that enables
+continuous or interval rotation with different rotation/stagnation times. In this research, yeast Saccharomyces
+cerevisiae (yeast strain isolated from sugar factory; Culture
+collection of the Faculty of Food Technology andBiotechnology University of Zagreb; YSLZ-01) was used
+as a microbial production strain. The inoculum for HRTB
+inoculation was prepared in Erlenmeyer ﬂasks (ratiomedium/total volume =0.4) on the raw sugar beet juice
+containing approximately 150 g L
+-1of sugar with the
+addition of 1 g L-1of NH 4H2PO4(as an additional source
+of phosphate and nitrogen) in order to support yeast growth
+and its physiological activity. The ﬂasks were cultivated on
+a rotary shaker (rotation speed of 100 min-1) for 18 h at
+28/C176C.
+The study of bioethanol production in the HRTB was
+also characterized by NH 4H2PO4addition (1 g kg-1of raw
+sugar beet cossettes). Prior to the addition of raw sugar beet
+cossettes and yeast inoculation, the bioreactor was steril-
+ized at 121 /C176C (2 bars) for 20 min. In this study, bioethanol
+production was examined by three different sets of HRTB
+operational conditions. In the ﬁrst set of experimentsBioprocess Biosyst Eng
+123bioethanol production was examined by continuous biore-
+actor rotation during bioprocess where speed varied from 5
+to 15 min-1. The second set of experiments was charac-
+terized by using interval bioreactor rotation where biore-actor rotated minimum 3 and maximum 15 min per hour.
+Bioreactor rotation speed was also varied in the range of
+5–15 min
+-1. In ﬁrst two sets of experiments, HRTB was
+ﬁlled with 5 kg of unsterile raw sugar beet cossettes and
+inoculated with 1 L of yeast suspension (16.67% v/w raw
+sugar beet cossetets). In the third part of this research, the
+effect of different working volume [ratio between the
+working ( Vw) and total ( VT) bioreactor volume] of HRTB
+on the bioethanol production was examined. In these
+experiments, the mass of raw sugar beet cossettes in the
+HRTB was changed in the range of 5–17.5 kg. The quan-tity of yeast suspension for these experiments was also
+enlarged so that initial inoculation rate was 16.67% v/w of
+raw sugar beet cossettes. The study of bioethanol produc-tion in the HRTB was performed at room temperature
+without pH value correction. The bioethanol production in
+the HRTB was monitored by sampling the liquid and thesolid part (sugar beet cossettes) of the broth. After that,
+sugar beet cossettes were pressed by the hand juice press to
+obtain liquid samples for analytical purposes. The durationof bioethanol production in the HRTB by all combinations
+of operational parameters was determined by the ethanol
+concentration that has to reach approximately constantlevel in the period of at least 48 h. All experiments in the
+HRTB were at least repeated one time and the standard
+deviation of all measurements was in the range of experi-mental error (below 4.8%).
+Analytical methods and bioprocess efﬁciency
+parameters
+The yeast cell number (CFU mL
+-1) in the liquid phase of
+the broth was determined after cultivation on the diluted
+sugar beet juice (approximately 30 g L-1sugars) medium
+with 20 g L-1agar and 1.0 g L-1NH 4H2PO4in Petri
+dishes at 28 /C176C for 48 h. During bioethanol production in
+the HTRB dry mass of sugar beet cossettes was monitored
+by gravimetrical method. Liquid samples of both sampletypes (liquid part of broth and liquid obtained by pressing
+sugar beet cossettes) were centrifuged for 15 min at
+4500 min
+-1(3629 9g). Sediments obtained after centrifu-
+gation of the liquid part of the broth were used for deter-
+mination of dry biomass concentration by gravimetrical
+method. The samples were dried at 105 /C176C until constant
+mass was obtained. Supernatants were used for substrate
+(glucose, fructose and sucrose) and metabolic products
+(ethanol, glycerol, acetate and lactate) determination byhigh performance liquid chromatography with Supelco-
+gel
+TMC-610H column (Shimadzu CLASS-VP LC-10A VP,Shimadzu, Kyoto, Japan). Mobile phase was phosphoric
+acid solution (0.02 mol L-1) in demineralized water
+(conductivity \1lSc m-1) and its ﬂow rate was
+0.5 mL min-1. Before chromatographic analysis the pre-
+pared supernatant solution was ﬁltered through a nylon
+ﬁlter (0.22 lm) and subsequently degassed in ultrasonic
+bath for 20 min. Bioprocess efﬁciency parameters weredetermined by standard procedures. For estimation of these
+parameters data from liquid and solid part of broth were
+used and average values of these parameters are presented
+in Tables 1,2and3. Bioethanol yield was determined by
+following equation:
+Y
+P1¼P/C0P0; ð1Þ
+where PandP0are ethanol concentration at the end and the
+beginning of bioprocess, respectively.
+Bioethanol conversion coefﬁcient ( YP1=S) was calculated
+by the following equation:
+YP1=S¼YP1=ðS0/C0SÞ¼YP1=DS¼DmP;T=DmS;T; ð2Þ
+where DS=S0-S;S0andSare substrate concentration at
+the beginning and the end of bioprocess, respectively.
+Furthermore, DmP,Tis the total mass of the ethanol
+obtained in the HRTB, and DmS,Tis the total mass of
+consumed substrate in the HRTB.
+Bioprocess efﬁciency ( E) was estimated as a ratio
+between experimental ( YP1=S) and theoretical conversion
+coefﬁcient ( YP1=S)T:
+E¼YP1=S=ðYP1=SÞT; ð3Þ
+where ( YP1=S)T=0.538 g g-1is theoretical (stoichiomet-
+ric) conversion coefﬁcient of sucrose into ethanol.
+Bioprocess productivity (Pr) was determined by the
+following equation:
+Pr¼YP1=t¼DmP;T=ðVWtÞ; ð4Þ
+where tis cultivation time and Vwis working volume of the
+bioreactor.
+Results and discussion
+During this research bioethanol production from raw sugarbeet cossetets in the new type of HRTB was studied bydifferent bioreactor operational conditions. In our prelim-
+inary research, the minimal inoculum quantity (16.67%
+v/w raw sugar beet cossettes) that is required for successfulbioethanol production with yeast S. cerevisiae in the HRTB
+was deﬁned. Further increase of inoculum quantity in the
+HRTB was not related to the signiﬁcant increase of bioe-thanol production efﬁciency (data not shown). From
+another point of view, the increase of inoculum quantity
+was also related to the increase of free water content in theBioprocess Biosyst Eng
+123broth, which consequently has an impact on the energy
+demand for ethanol separation by distillation. Therefore, inthis research all experiments were performed by inocula-
+tion rate of 16.67% v/w of raw sugar beet cossettes
+that is related to the initial yeast concentration over10
+7CFU mL-1in the liquid part of the broth. In order to
+obtain an accurate view of bioethanol production under
+these conditions, it was necessary to take samples from the
+liquid as well as from the solid part (raw sugar beet cos-
+settes) of the broth in the HRTB. In this research, someoscillations of monitored bioprocess parameters were
+observed as a consequence of analytical errors and
+heterogeneity of semi-solid substrate in the HRTB. Due tothe fact that non-sterile raw sugar beet cossettes were used
+for bioethanol production, presence of acetate and lactatewas also detected in the broth as a consequence of the
+activity of naturally present heterofermentative lactic acidbacteria (mostly Leuconostoc species especially Leu-
+conostoc mesenteroides ) of the sugar beet [ 37]. During this
+investigation HRTB rotation speed was changed in therange of 5–15 min
+-1. At higher HRTB rotation speeds
+([15 min-1; data not shown) acetic acid concentration was
+considerably increased due to the higher activity of natu-
+rally present heterofermentative lactic acid bacteria
+(HFLAB) in these conditions. This phenomenon can beexplained as a consequence of HFLAB metabolism shift
+from lactate and ethanol to the acetate production due to
+the pyruvate dehydrogenase activity that is directly relatedto the oxygen supply in the broth [ 38–41]. Although lactate
+concentration was monitored in the liquid as well as in theTable 1 Comparison of bioethanol production efﬁciency parameters by continuous HRTB rotation during bioprocess
+Rotation speed (min-1) t(h) DS(g L-1) YP1(g L-1) YP1=S(g g-1) YP2=S(g g-1) YP3=S(g g-1) E(%) Pr (g L-1h-1)
+5 161 145.95 39.84 0.27 0.09 0.05 50.20 0.247
+10 167 155.36 31.03 0.19 0.07 0.04 35.30 0.18515 189 139.13 37.00 0.26 0.09 0.05 49.30 0.196
+Table 2 Comparison of bioethanol production efﬁciency parameters by different interval HRTB rotations and 0.2 VT/VWratio
+Interval rotation t(h) DS(g L-1) YP1(g L-1) YP1=S(g g-1) YP2=S(g g-1) YP3=S(g g-1) E(%) Pr (g L-1h-1)
+3 min h-1, 5 min-173.00 170.58 60.78 0.36 0.04 0.007 66.90 0.832
+6 min h-1, 5 min-174.50 115.54 50.78 0.44 0.09 0.030 81.80 0.682
+9 min h-1, 5 min-175.00 131.41 45.99 0.35 0.05 0.006 65.00 0.613
+12 min h-1, 5 min-174.50 134.38 57.29 0.43 0.06 0.020 79.90 0.769
+15 min h-1, 5 min-176.50 148.67 38.05 0.26 0.08 0.050 48.30 0.497
+3 min h-1, 10 min-1118.00 162.82 65.14 0.40 0.07 0.040 74.30 0.552
+6 min h-1, 10 min-197.50 153.74 34.79 0.23 0.07 0.040 42.70 0.357
+9 min h-1, 10 min-171.00 164.19 57.63 0.35 0.03 0.001 65.00 0.812
+12 min h-1, 10 min-177.50 202.37 51.57 0.25 0.05 0.020 46.50 0.665
+15 min h-1, 10 min-192.50 164.80 53.95 0.33 0.07 0.040 60.70 0.583
+3 min h-1, 15 min-160.50 163.35 56.50 0.35 0.03 0.030 64.30 0.934
+6 min h-1, 15 min-1144.00 150.30 47.14 0.31 0.08 0.050 57.60 0.327
+9 min h-1, 15 min-186.00 164.90 52.10 0.32 0.06 0.020 58.70 0.606
+12 min h-1, 15 min-190.00 117.28 55.64 0.47 0.07 0.020 87.36 0.618
+15 min h-1, 15 min-1113.50 168.56 37.68 0.22 0.07 0.040 40.90 0.332
+Table 3 Comparison of bioethanol production efﬁciency parameters by different VT/VWratios and constant interval HRTB rotation (12 min h-1
+and 15 min-1)
+VW/VTratio t (h) DS(g L-1) YP1(g L-1) YP1=S(g g-1) YP2=S(g g-1) YP3=S(g g-1) E(%) Pr (g L-1h-1)
+0.2 91.50 119.48 55.83 0.47 0.06 0.020 87.36 0.610
+0.4 87.50 108.82 48.97 0.45 0.09 0.030 83.64 0.5600.5 107.00 88.53 33.42 0.38 0.12 0.050 70.63 0.3120.6 89.00 132.28 48.80 0.37 0.08 0.025 68.77 0.5480.7 97.50 145.89 53.85 0.37 0.08 0.025 68.77 0.552Bioprocess Biosyst Eng
+123solid part of the broth during the entire research, its pres-
+ence was detected only in negligible concentrations (below
+0.15 g L-1). This effect additionally conﬁrmed the impact
+of oxygen on the physiological activity of HFLAB. Fur-thermore, lactate as a non-fermentable substrate can be also
+easily aerobically consumed by yeast cells [ 42]. Glucose,
+fructose and sucrose concentrations were determined sep-arately, but in all ﬁgures and tables their values were
+summarized and presented as a substrate concentration.
+Total dry biomass in the liquid part of the broth in the
+HRTB (Figs. 3,6) was also monitored, but due to the
+presence of the debris of sugar beet cossettes in the liquidsamples, signiﬁcant oscillations of total dry biomass were
+observed. Direct determination of biomass concentration
+during semi-solid (or solid) bioprocesses is very difﬁcultdue to the impossibility of separating the microorganisms
+from the substrate (especially by ﬁlamentous fungi).
+Therefore, indirect methods for biomass determinationwere developed that include physical (e.g. scanning elec-
+tron microscopy, epiﬂuorescence microscopy, ﬂow
+cytometry, efﬂuent gas composition or light reﬂectance),chemical and biochemical [quantiﬁcation of cell-speciﬁc
+components (e.g. ergosterol, glucosamine, chitin, nucleic
+acids or proteins) or other cell parameters’ determination(e.g. intracellular water and total carbon content, enzymatic
+or immunological activity or ATP levels, etc.) methods
+[43–45]. However, all these methods have their own
+advantages and disadvantages that have to be considered in
+the selection procedure of method for biomass determina-
+tion during semi-solid (or solid) bioprocesses. In our case,yeast cell number was determined by Thoma-chamber
+counting and CFU determination. On the basis of obtained
+results, it was observed that signiﬁcantly higher cellnumber oscillations were detected by Thoma-chamber
+counting as compared to the CFU determination. There-
+fore, it was decided that CFU determination will be used asan indicator of yeast growth although it has its own dis-
+advantages (e.g. time consuming and accuracy level).
+Furthermore, the accuracy of this method was additionallylowered due to the fact that in some samples the presence
+of HFLAB was also observed (up to 10
+5CFU mL-1; data
+not shown) because of the use of non-sterile raw sugar beetcossettes.
+Bioethanol production in the HRTB by continuous
+bioreactor rotation
+In the ﬁrst set of experiments, bioethanol production from
+raw sugar beet cossettes in the HRTB was studied by
+continuous bioreactor rotation (5–15 min
+-1) during bio-
+process. For example, experimental data obtained duringbioethanol production at continuous bioreactor rotation
+speed of 5 min
+-1are presented in Figs. 1,2and3.A si tcan be seen in Figs. 1and2, the difference between the
+concentration of fermentable sugars in the liquid and solid
+parts of the broth was insigniﬁcant, although a higher
+concentration of sugars was detected in the sugar beetcossettes. Diffusion of sugars is the limiting process, but
+once the sugar diffuses into the liquid part of the broth, it is
+easily and very quickly used by the microorganisms pre-sent. Microorganisms present in the HRTB utilize carbon
+source for their growth and products’ synthesis. Ethanol
+and glycerol are detected as main yeast metabolism prod-ucts. However, metabolic products of naturally occurring
+HFLAB on the sugar beet are acetic acid and lactic acid
+[37,41]. At the beginning of the bioprocess, small amounts
+of ethanol and glycerol were also detected as a conse-
+quence of their entry in the HRTB by inoculation. In the
+ﬁrst part of fermentation (till the 17th hour), the pH valueof the broth declined from 6.45 to 4.35 and remained
+almost unchanged till the end of the bioprocess (Fig. 3). In
+the ﬁrst 40 h, the increase of total biomass concentrationwas observed. After that period, it declined and stayed
+almost unchanged due to accumulation of ethanol and
+acetic acid and their inhibitory effect on the yeast cells.During the entire bioprocess, lactic acid was not detected.
+On the basis of previous results, it is clear that naturally
+occurring contaminants have inﬂuence on the bioprocessperformance efﬁciency [ 46]. Dry mass of sugar beet cos-
+settes declined from 23.0 to 13.5% and it corresponds well
+with the utilized total sugar concentration during thebioprocess (Fig. 2). The bioethanol yield was Y
+P1=
+39.84 g L-1. The conversion coefﬁcient was YP1=S=
+0.27 g g-1which is 50.20% of the theoretical value. Bio-
+process productivity achieved in this experiment was
+Pr=0.247 g L-1h-1. Similar observations concerning
+substrate utilization and products’ synthesis were observedby other two experiments conducted at higher bioreactor
+Fig. 1 Changes of substrate ( SL,ﬁlled circle ), ethanol ( P1,ﬁlled
+triangle ), glycerol ( P2,open triangle ) and acetic acid ( P3,open
+square ) concentrations in the liquid part of the broth during
+bioethanol production in the HRTB at continuous bioreactor rotationof 5 min
+-1(VW/VT=0.2)Bioprocess Biosyst Eng
+123rotation speeds (10 and 15 min-1). As it can be seen in
+Table 1, lower total bioethanol concentration and yield as
+well as the bioprocess productivity was observed in these
+experiments ( YP1=31.03 g L-1,YP1=S=0.19 g g-1,P r=
+0.185 g L-1h-1at 10 min-1and YP1=37.00 g L-1,
+YP1=S=0.26 g g-1,P r=0.196 g L-1h-1at 15 min-1).
+The increase of bioreactor rotation speed has signiﬁcant
+impact on the bioprocess dynamics where higher rotations
+were related to the better oxygen transfer rate and lessfavourable conditions for bioethanol production in the
+HRTB [ 38–41].
+Bioethanol production in the HRTB by interval
+bioreactor rotation
+On the basis of previous experimental results the new
+experimental setup was established. In this experimentalsetup, the inﬂuence of interval HRTB rotation(3–15 min h
+-1) and different HRTB rotation speeds
+(5–15 min-1) on the bioethanol production was studied. At
+the beginning of this research, it was shown that interval
+rotation (3 min h-1at rotation speed of 5 min-1) has a
+positive impact on bioethanol production. In these condi-
+tions, bioprocess efﬁciency parameters were considerably
+increased as compared to the previous experimental setup(Table 1). Bioethanol yield was Y
+P1=60.78 g L-1,
+YP1=S=0.36 g g-1, bioprocess efﬁciency E=66.90% and
+productivity Pr =0.832 g L-1h-1, respectively (Table 2).
+The positive impact on the bioprocess performance had
+also relatively low acetic acid concentration (1.19 g L-1)
+detected in these conditions. In further experiments,bioreactor rotation period in the rotation/stagnation ratio
+was increased. At interval rotation of 6 min h
+-1and rota-
+tion of 5 min-1higher YP1=S=0.44 g g-1and
+E=81.80%, but lower YP1=S=50.78 g L-1and
+Pr=0.682 g L-1h-1were observed compared to the
+experimental setup of 3 min h-1and 5 min-1. Bioethanol
+production efﬁciency was also declined at interval rotation
+of 9 min h-1and 5 min-1. Further increase of interval
+rotation at 12 min h-1shows positive impact on the
+bioethanol production, but lower bioprocess efﬁciency
+parameters (except YP1=SandE) were observed compared
+to the interval rotation of 3 min h-1at rotation speed of
+5 min-1. However, at interval rotation of 15 min h-1
+considerable reduction of bioprocess efﬁciency parameters
+was detected as a consequence of intensive broth mixing
+that is related to the increased oxygen supply. In theseconditions, HFLAB activity was increased and conse-
+quently higher acetate concentration (7.43 g L
+-1) was
+detected what has negative impact on bioethanol produc-tion [ 38–41] (Table 2). In Table 2, products of yeast and
+HFLAB metabolism are presented as conversion coefﬁ-
+cients [ethanol ( Y
+P1=S), glycerol ( YP2=S) and acetate ( YP3=S)].
+Lactate conversion coefﬁcient is not presented due to the
+negligible lactate concentrations (below 0.15 g L-1).
+In further research, bioreactor rotation speed was
+increased at 10 min-1by the same rotation/stagnation time
+ratios (interval rotation). Bioethanol production at
+3 min h-1and 10 min-1shows similar trends of biopro-
+cess parameters changes as observed in previous experi-
+mental setup (rotation speed of 5 min-1). Therefore,
+similar values of bioethanol efﬁciency parameters werealso observed ( Y
+P1=65.14 g L-1,YP1=S=0.40 g g-1,
+E=74.30% and Pr =0.552 g L-1h-1). However, further
+increase of interval rotation (rotation/stagnation time ratio)
+did not result in improvement of bioethanol production.
+This observation is conﬁrmed by the lower or similar levels
+of bioethanol production efﬁciency. The exception is theexperiment at interval rotation of 9 min h
+-1where bio-
+process was ﬁnished in only 71 h and consequently higher
+Fig. 2 Changes of substrate ( SC,ﬁlled circle ), ethanol ( P1,ﬁlled
+triangle ), glycerol ( P2,open triangle ), acetic acid ( P3,open square )
+concentrations in the solid part of the broth and cossettes dry mass
+(DM, open circle ) during bioethanol production in the HRTB at
+continuous bioreactor rotation of 5 min-1(VW/VT=0.2)
+Fig. 3 Changes of total biomass concentration ( X,open triangle ),
+yeast cell number (log N,ﬁlled square ) and pH value ( open square )i n
+the liquid part of the broth during bioethanol production in the HRTB
+at continuous bioreactor rotation of 5 min-1(VW/VT=0.2)Bioprocess Biosyst Eng
+123bioprocess productivity was obtained (Pr =0.812 g L-1h-1).
+In the next part of this investigation bioethanol produc-
+tion was studied by the same interval rotations, but
+increased HRTB rotation speed (15 min-1). First experi-
+ment was done at interval rotation of 3 min h-1. The
+bioprocess ended in only 60.5 h which resulted in the
+highest bioprocess productivity (Pr =0,934 g L-1h-1)
+recorded in all experiments performed in the HRTB. Other
+bioprocess efﬁciency parameters were YP1=S=56.50
+gL-1,YP1=S=0.35 g g-1and E=64.30%. Increase of
+interval rotation at 6 min h-1resulted in higher acetic acid
+concentrations what indicates that favorable conditions for
+HFLAB activity were established. In this experiment, ﬁnalacetic acid concentration in the liquid part of broth was
+7.52 g L
+-1. Due to this phenomenon less substrate was
+converted into ethanol and consequently reduction of bio-process efﬁciency was observed ( Y
+P1=47.14 g L-1,
+YP1=S=0.31 g g-1,E=57.6%, and Pr =0.327 g L-1h-1).
+Slightly higher bioethanol concentration (52.10 g L-1) and
+considerable reduction of bioprocess time (only 86 h)
+resulted in higher values of bioprocess efﬁciency parame-
+ters at interval rotation of 9 min h-1(15 min-1) compared
+to the bioprocess conducted at interval rotation of
+6 min h-1(15 min-1). Bioprocess productivity rose up to
+0.606 g L-1h-1, but only slightly increase of
+YP1=S=0.32 g g-1and E=58.70% was observed. In
+these conditions, lower acetic acid concentration
+(3.30 g L-1) was also detected. Bioethanol production at
+interval rotation of 12 min h-1(15 min-1) lasted for 90 h,
+but even lower acetic acid concentration was detected
+(2.11 g L-1) compared to the bioethanol production at
+6 min h-1(15 min-1). Therefore, bioethanol production
+efﬁciency was enlarged ( YP1=55.64 g L-1,YP1=S=
+0.47 g g-1,E=88.10% and Pr =0.618 g L-1h-1).
+Changes of bioprocess parameters during this experimentare presented in Figs. 4,5and6.
+As it can be seen in Figs. 4and5, higher total sugars
+concentration was observed in the liquid (140 g L
+-1)t h a ni n
+the solid (122 g L-1) part of broth. This observation shows
+that mixing conditions (rotation speed and duration of interval
+rotation) and physiological characteristics of sugar beet cos-settes (closely related to the sugar beet storage conditions)
+have signiﬁcant impact on sugars release from the sugar beet
+cossettes [ 33]. Changes of bioethanol, glycerol and acetate
+concentrations are in agreement with substrate consumption.
+Concentrations of all three fermentation products were on the
+similar levels in the liquid and solid part of broth. Changes inthe dry mass of cossettes (Fig. 5) correspond well with
+changes in substrate concentration, which indicate that
+released sugars (glucose, fructose and sucrose) were imme-diately used in the fermentation process. In ﬁrst 20 h of bio-
+process, pH value of liquid part of broth (Fig. 6) was reducedfrom 6.01 to 4.59 due to the acetic acid synthesis by HFLAB.
+As it can be seen in Fig. 6, increase of dry biomass was reg-
+istered in the ﬁrst 20 h of bioprocess and after that consider-able oscillations of this parameter were observed. As
+mentioned earlier, this phenomenon is a consequence of the
+presence of cossettes debris in samples as well as the hetero-geneity of cultivation broth. However, yeast cell number (log
+N) shows more stable trend during the bioprocess which
+indicates that it could be used as an indicator of yeast growth.It has to be pointed out that HFLAB was also detected during
+microbiological analysis (up to 10
+5CFU mL-1), which
+reduces reliability and accuracy of this determination. Bioe-thanol production was also studied at interval rotation of
+15 min h
+-1(15 min-1). In these conditions, increased con-
+centrations of glycerol (13.85 g L-1) and acetic acid
+Fig. 4 Changes of substrate ( SL,ﬁlled circle ), ethanol ( P1,ﬁlled
+triangle ), glycerol ( P2,open triangle ) and acetic acid ( P3,open
+square ) concentrations in the liquid part of the broth during
+bioethanol production in the HRTB by interval rotation of 12 min h-1
+and rotation speed of 15 min-1(VW/VT=0.2)
+Fig. 5 Changes of substrate ( SC,ﬁlled circle ), ethanol ( P1,ﬁlled
+triangle ), glycerol ( P2,open triangle ), acetic acid ( P3,open square )
+concentrations in the solid part of the broth and cossettes dry mass
+(DM, open circle ) during bioethanol production in the HRTB by
+interval rotation of 12 min h-1and rotation speed of 15 min-1(VW/
+VT=0.2)Bioprocess Biosyst Eng
+123(6.74 g L-1) were observed as a consequence of intensive
+broth mixing. In enlarged oxygen supply and substrate con-centration conditions, higher glycerol and acetate synthesis
+rates were present and therefore higher concentrations of both
+products were detected [ 38–41,47–49]. On the basis of results
+present in Table 2, it can be concluded that the optimal con-
+ditions for bioethanol production on the raw sugar beet cos-
+settes in the HRTB are interval rotation of 12 min h
+-1and
+rotation speed of 15 min-1. This statement is based on
+the fact that the highest substrate conversion into ethanol
+(YP1=S=0.47 g g-1) and bioprocess efﬁciency ( E=
+87.36%) were obtained with relatively low acetate
+(2.11 g L-1) and glycerol (8.21 g L-1) concentration.
+Because of the fact that the economic feasibility of bioethanolproduction is based on the carbon source accessibility and
+price [ 19,22] these operational parameters of HRTB were
+selected as optimal for bioethanol production. Furthermore,other two bioprocess efﬁciency parameters ( Y
+P1and Pr) were
+also at acceptable levels for successful conduction of bioe-thanol production. Obtained bioprocess efﬁciency parametersare also in the range with bioethanol production from the raw
+sugar beet juice [ 24].
+Bioethanol production in the HRTB by different
+V
+W/VTratio
+In the last part of this research, the impact of ratio between
+working ( VW) and total ( VT) volume of HRTB on the
+bioethanol production was studied. However, it should bepointed out that oscillations in analytical results were
+observed due to the non-homogenous substrate in the
+HRTB. Furthermore, it was expected that the reduction ofthe HRTB free space would be related to reduced oxygen
+supply possibility for natural contaminants of raw sugar
+beet cossettes what could additionally support bioethanolproduction by yeast. In this investigation, bioethanol pro-
+duction was performed in the HRTB by using 5–17.5 kg of
+raw sugar beet cossettes (0.2–0.7 V
+W/VT) by interval
+rotation of 12 min h-1and rotation speed of 15 min-1.I n
+all experiments yeast inoculation rate was 16.67% v/w of
+raw sugar beet cossettes. On the basis of obtained results it
+can be generally pointed out that increase of HRTBworking volume was related to the reduction of bioethanol
+production efﬁciency (Table 3).
+In experiment with 0.4 V
+W/VTslightly lower bioethanol
+production efﬁciency was observed compared to the experi-
+ment with 0.2 VW/VT. In this experiment, bioprocess efﬁciency
+parameters have following values: YP1=48.97 g L-1,
+YP1=S=0.45 g g-1,E=83.64% and Pr =0.560 g L-1h-1.
+In experiment with 0.5 VW/VTraw sugar beet cossettes con-
+tained increased concentratio no fH F L A Ba n dt h e r e f o r ea c e t i c
+acid concentration raised up very quickly (ﬁrst 22 h) at
+4.43 g L-1and consequently pH value was lowered at 3.78. In
+these conditions, yeast activity was considerably slowed down
+and therefore bioethanol production efﬁciency was reduced
+(Table 3). This observation is the most obvious by the pro-
+longation of bioprocess time that affects bioprocess produc-
+tivity (Pr =0.312 g L-1h-1). In this experiment relatively
+high glycerol concentration (10.62 g L-1) was also observed
+as a consequence of nonadequate bioethanol production con-
+ditions [ 47–49]. In experiment with 0.6 VW/VTlower acetic
+acid concentration was detected (3.31 g L-1) and therefore
+bioethanol production efﬁciency parameters were increased:
+YP1=48.8 g L-1,YP1=S=0 . 3 7gg-1,E=68.77% and
+Pr=0.548 g L-1h-1. This observation shows that HFLAB
+were present at lower concentr ation compared to the previous
+experiment, but these conditions were also not favorable for
+bioethanol production. In experiment with 0.7 VW/VTacetic
+acid concentration was not considerably increased duringbioprocess although its ﬁnal concentration was 3.65 g L
+-1.
+Therefore, bioprocess efﬁcien cy parameters have following
+values: YP1=53.85 g L-1,YP1=S=0.37 g g-1,E=
+68.77% and Pr =0.552 g L-1h-1. On the basis of results
+presented in Table 3it is obvious that studied combinations of
+HRTB operational parameters could create conditions forefﬁcient bioethanol production at V
+W/VTratio up to 0.4.
+However, it is also important to point out that further opti-
+mization of HRTB operational parameters have to be per-formed in order to increase the efﬁciency of bioethanol
+production at V
+W/VTratio higher than 0.5.
+Conclusions
+On the basis of these results it is clear that that bioreactor
+operational conditions (rotation speed, type of rotation and
+VW/VTratio) have signiﬁcant impact on the efﬁciency of
+Fig. 6 Changes of total biomass concentration ( X,open triangle ),
+yeast cell number (log N,ﬁlled square ) and pH value ( open square )i n
+the liquid part of the broth during bioethanol production in the HRTB
+by interval rotation of 12 min h-1and rotation speed of 15 min-1
+(VW/VT=0.2)Bioprocess Biosyst Eng
+123bioethanol production. Furthermore, ﬁne tuning of HRTB
+operational conditions has to be performed at VW/VTratio
+higher than 0.5 in order to obtain higher bioethanol pro-
+duction efﬁciency. Naturally present microorganisms(mostly HFLAB) of sugar beet could have signiﬁcant
+impact on the bioethanol production in the HRTB. Higher
+yeast inoculation rate could reduce the HFLAB activity andconsequently the bioethanol production efﬁciency will be
+improved.
+Acknowledgements The research was ﬁnancially supported by
+Croatian Science Foundation under the project ‘‘Sustainable produc-tion of bioethanol and biochemicals from agricultural waste ligno-celullosic raw materials (No. 9158)’’.
+Compliance with ethical standardsConﬂict of interest The authors declare that they have no conﬂict of
+interest.
+References
+1. EC of European Parliament and of the Council (2009) Directive
+2009/28/of 23 April 2009 on the promotion of the use of energyfrom renewable sources. Ofﬁcial Journal of the European Union
+L 140/64, 5.6
+2. Demirbas A (2011) Production of fuels from crops. In: Speight
+JG (ed) The biofuels handbook. RSC Publishing, Cambridge,pp 201–227
+3. Ramroop Singh N (2011) Biofuels. In: Speight JG (ed) The
+biofuels handbook. RSC Publishing, Cambridge, pp 160–198
+4. Kang Q, Appels L, Tan T, Dewil R (2014) Bioethanol from
+lignocellulosic biomass: current ﬁndings determine research pri-
+orities. Sci World J. doi: 10.1155/2014/298153
+5. Ca ˆmara MM, Soares RM, Feital T, Naomi P, Oki S, Thevelein
+JM, Amaral M, Pinto JC (2017) On-line identiﬁcation of fer-
+mentation processes for ethanol production. Bioprocess Biosyst
+Eng. doi: 10.1007/s00449-017-1762-61
+6. Murthy GS, Johnston DB, Rausch KD, Tumbleson ME, Singh V
+(2011) Starch hydrolysis modeling: application to fuel ethanol
+production. Bioprocess Biosyst Eng 34:879–890
+7. Ca ´rdona CA, Sanchez O ´J (2007) Fuel ethanol production: process
+design trends and integration opportunities. Bioresour Technol
+98:2415–2457
+8. Brethauer S, Wyman CE (2010) Review: continuous hydrolysis
+and fermentation for cellulosic ethanol production. BioresourTechnol 101:4862–4874
+9. Naik SN, Goud VV, Rout PK, Dalai AK (2010) Production of
+ﬁrst and second generation biofuels: a comprehensive review.Renew Sustain Energy Rev 14:578–597
+10. Bhatia L, Johri S, Ahmad R (2012) An economic and ecological
+perspective of ethanol production from renewable agro waste: a
+review. AMB Express 2:65
+11. Goshima T, Tsuji M, Inoue H, Yano S, Hoshino T, Matsushika A
+(2013) Bioethanol production from lignocellulosic biomass by a
+novel Kluyveromyces marxianus strain. Biosci Biotechnol Bio-
+chem 77:1505–1510
+12. Srivastava N, Rawat R, Oberoi HS, Ramteke PW (2015) A
+review on fuel ethanol production from lignocellulosic biomass.
+Int J Green Energy 12:949–96013. Kossatz HL, Rose SH, Viljoen-Bloom M, van Zyl WH (2017)
+Production of ethanol from steam exploded triticale straw in a
+simultaneous sacchariﬁcation and fermentation process. ProcessBiochem 53:10–16
+14. de Farias Silva CE, Bertucco A (2016) Bioethanol from
+microalgae and cyanobacteria: a review and technological out-look. Process Biochem 51:1833–1842
+15. Olofsson K, Bertilsson M, Lide ´n G (2008) A short review on
+SSF—an interesting process option for ethanol production from
+lignocellulosic feedstocks. Biotechnol Biofuels 1:7
+16. Baeyens J, Kang Q, Appels L, Dewil R, Lv Y, Tan T (2015)
+Challenges and opportunities in improving the production of bio-
+ethanol. Prog Energy Combust Sci 47:60–88
+17. Cardona CA, Quintero JA, Paz IC (2010) Production of bioe-
+thanol from sugarcane bagasse: status and perspectives. BioresourTechnol 101:4754–4766
+18. Quintero JA, Montoya MI, Sanchez OJ, Giraldo OH, Cardona CA
+(2008) Fuel ethanol production from sugar cane and corn: compar-ative analysis for Colombian case. Process Biochem 34:115–119
+19. Alvira P, Toma ´s-Pejo ´E, Ballesteros M, Negro MJ (2010) Pre-
+treatment technologies for an efﬁcient bioethanol productionprocess based on enzymatic hydrolysis: a review. BioresourTechnol 101:4851–4861
+20. Haq F, Ali H, Shuaib M, Badshah M, Hassan SW, Munis MFH,
+Chaudhary HJ (2016) Recent progress in bioethanol productionfrom lignocellulosic materials: a review. Int J Green Energy13:1413–1441
+21. Yun M-S, Park J, Arakene M, Shiroma R, Ike M, Tamiya S,
+Takahashi H, Tokuyasu K (2011) An improved CARV processfor bioethanol production from a mixture of sugar beet mash and
+potato mash. Biosci Biotechnol Biochem 75:62–64
+22. Gupta A, Varma JP (2015) Sustainable bio-ethanol production
+from agro-residues: a review. Renew Sustain Energy Rev41:550–567
+23. van Thuijl E, Deurwaarder EP (2006) European biofuels policies
+in retrospect. Energy Research Centre of the Netherlands (ECN),Petten
+24. Dodic ´S, Popov S, Dodic ´J, Rankovic ´J, Zavargo Z, Jevtic ´
+Mucˇibabic ´R (2009) Bioethanol production from thick juice as
+intermediate of sugar beet processing. Biomass Bioenergy33:822–827
+25. Razmovski R, Vuc ˇurovic ´V (2011) Ethanol production from sugar
+beet molasses by S. cerevisiae entrapped in an alginate-maize stem
+ground tissue matrix. Enzyme Microb Technol 48:378–385
+26. Sˇ
+antek B, Gwehenberger G, Ivanc ˇic´Sˇantek M, Narodoslawsky
+M, Horvat P (2010) Evaluation of energy demand and the sus-
+tainability of different bioethanol production processes fromsugar beet. Resour Conserv Recycl 54:872–877
+27. Bankar Sandip B, Survasea Shrikan A, Singhal Rekha S, Gran-
+stro¨ma T (2012) Continuous two stage acetone-butanol-ethanol
+fermentation with integrated solvent removal using Clostridium
+acetobutylicum B 5313. Bioresour Technol 106:110–116
+28. Ibrahim Nasser A, Phuong Lan Tran N, Lien Huong H, Suryadi I,
+Yi-Hsu J (2013) Bioethanol production from pretreated Me-
+laleuca leucadendron shedding bark—simultaneous sacchariﬁ-
+cation and fermentation at high solid loading. Bioresour Technol
+136:213–221
+29. Chi-Yang Y, Bo-Hong J, Kow-Jen D (2013) Production of
+bioethanol from carrot pomace using the thermotolerant yeastKluyveromyces marxianus . Energies 6:1794–1801
+30. Pinar K, Indre VR, Melek O ¨, Irini A (2012) Alkaline peroxide
+pretreatment of rapeseed straw for enhancing bioethanol pro-duction by same vessel sacchariﬁcation and co-fermentation.Bioresour Technol 104:349–357Bioprocess Biosyst Eng
+12331. Ichiro K, Yoshiyuki H, Sadatoshi M (2012) Integrated deligniﬁ-
+cation and simultaneous sacchariﬁcation and fermentation of hard
+wood by a white-rot fungus, Phlebia sp. MG-60. Bioresour
+Technol 126:137–141
+32. Parameswaran B, Raveendran S, Reeta Rani S, Surender V,
+Lalitha D, Satya N, Noble K, Rajeev KS, Ashok P (2010)Bioethanol production from rice straw: an overview. BioresourTechnol 101:4767–4774
+33. Zheng Y, Yu C, Shen Cheng Y, Lee C, Simmons WC, Dooley
+MT, Zhang R, Jenkins BM, van der Gheynst JS (2012) Inte-grating sugar beet pulp storage, hydrolysis and fermentation forfuel ethanol production. Appl Energy 93:168–175
+34. Rodr ıguez LA, Toro ME, Vazquez F, Correa-Daneri ML, Gouiric
+SC, Vallejo MD (2010) Bioethanol production from grape andsugar beet pomaces by solid-state fermentation. Int J HydrogEnergy 35:5914–5917
+35. Sˇantek B, Ivanc ˇic´M, Horvat P, Novak S, Maric ´V (2006) Hor-
+izontal tubular bioreactors in biotechnology. Chem Biochem EngQ 20:389–399
+36. Novak M, Trontel A, Slavica A, Horvat P, S ˇantek B (2017)
+Computational ﬂuid dynamic (CFD) modeling of simultaneousextraction and fermentation process in a single sugar beet cos-sette. EuroBiotech J 1:19–27
+37. Campbell LG, Storage Klotz KC (2006) In: Draycott AP (ed)
+Sugar beet. Blackwell Publishing, Oxford, pp 387–408
+38. Richter H, Vlad D, Unden G (2001) Signiﬁcance of pantothenate
+for glucose fermentation by Oenococcus oeni and for suppression
+of the erythritol and acetate production. Arch Microbiol
+175:26–31
+39. Richter H, Hamann I, Unden G (2003) Use of the mannitol
+pathway in fructose fermentation of Oenococcus oeni due to
+limiting redox regeneration capacity of the ethanol pathway. ArchMicrobiol 179:227–233
+40. Richter H, De Graaf AA, Hamann I, Unden G (2003) Signiﬁcance
+of phosphoglucose isomerase for the shift between heterolacticand mannitol fermentation of fructose by Oenococcus oeni . Arch
+Microbiol 180:465–470
+41. Wagner N, Hon Tran Q, Richter H, Selzer PM, Unden G (2005)
+Pyruvate fermentation by Oenococcus oeni and Leuconostoc
+mesenteroides and role of pyruvate dehydrogenase in anaerobic
+fermentation. Appl Environ Microbiol 71:4966–4971
+42. Dejean L, Beauvoit B, Guerin B, Rigoulet M (2000) Growth of
+the yeast Saccharomyces cerevisiae on a non-fermentable sub-
+strate: control of energetic yield by the amount of mitochondria.
+Biochim Biophys Acta 1457:45–56
+43. Terebiznik MR, Pilosof AMR (1999) Biomass estimation in solid
+state fermentation by modeling dry matter weight loss. Biotech-
+nol Tech 13:215–219
+44. Bhargav S, Panda BP, Ali M, Javed S (2008) Solid-state fer-
+mentation: an overview. Chem Biochem Eng Q 22:49–70
+45. Steudler S, Bo ¨hmer U, Weber J, Bley T (2014) Biomass mea-
+surement by ﬂow cytometry during solid-state fermentation of
+basidiomycetes. Cytom Part A. doi: 10.1002/cyto.a.22592 (tech-
+nical note)
+46. Shell DJ, Dowe N, Ibsen KN, Riley CJ, Ruth MF, Lumpkin RE
+(2007) Contaminant occurrence, identiﬁcation and control in apilot-scale corn ﬁber to ethanol conversion process. BioresourTechnol 98:2942
+47. van Dijken JP, Scheffers WA (1986) Redox balances in the
+metabolism of sugars by yeasts. FEMS Microbiol Rev32:199–224
+48. Weusthuis RA, Visser W, Pronk JT, Scheffers WA, van Dijken
+JP (1994) Effects of oxygen limitation on sugar metabolism in
+yeasts: a continuous-culture study of the Kluyver effect. Micro-biology 140:703–715
+49. Weinhandl K, Winkler M, Glieder A, Camattari A (2014) Carbon
+source dependent promoters in yeasts. Microb Cell Fact 13:5Bioprocess Biosyst Eng
+123
