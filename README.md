@@ -24,7 +24,7 @@ Ollama’s default LLM contexts (e.g., 2k tokens) truncate long texts. Create a 
    ```  
 2. Add the following line to `settings.txt`:  
    ```  
-   PARAMETER num_ctx 4096  
+   PARAMETER num_ctx 8192  
    ```  
 
 #### Step 2: Initialize GraphRAG and Prompt Tuning  
