@@ -2,16 +2,31 @@
 ## Network for Knowledge Organization (NEKO): a universal knowledge mining workflow
 ![image](https://github.com/user-attachments/assets/9fe8f676-cb6f-4b2e-a525-fbebbc648b2f)
 
+#### install all needed packages for your code
+   ``` 
+   pip install biopython pandas openpyxl requests numpy networkx pyvis ipython
+   ```  
+#### install ollama
+https://ollama.com/
+
+#### Download LLM from ollama that fits your hardware
+Recommended: Qwen3-8b
+
+#### Use of OpenAI API
+You need to follow OpenAI's instruction to setup your API key.
+
+#### Run the notebook provided for NEKO
+
+---
+
 ## Use LLM for bioprocess data extraction
 ![image](https://github.com/user-attachments/assets/d20f4552-baf0-4e3d-a55c-f7d379364821)
 
-
+---
 
 ## GraphRAG  
 
 **GraphRAG** is an advanced framework to enhance LLMs in generating domain-specific outputs. It integrates three query modes—global, local, and DRIFT search—for comprehensive question-answering through natural language input. Below are steps to use LLM and GraphRAG for studying β-carotene production in *Yarrowia lipolytica*.  
-
----
 
 ### Steps  
 
