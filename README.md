@@ -10,7 +10,7 @@
 https://ollama.com/
 
 #### Download LLM from ollama that fits your hardware
-Recommended: Qwen3-8b
+Recommended: Qwen3-8b for personal computer
 
 #### Use of OpenAI API
 You need to follow OpenAI's instruction to setup your API key.
